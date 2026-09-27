@@ -6,15 +6,15 @@ Automatic remote backend for the Crystal VRChat Avatar Browser.
 
 Startup catalog:
 
-`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog.txt`
+`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.11.0/catalog.txt`
 
 Creator/fallback shards:
 
-`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog-shards/`
+`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.11.0/catalog-shards/`
 
 Direct avatar-name search:
 
-`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/search2/`
+`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.11.0/search2/`
 
 ## Current automatic providers
 
@@ -63,15 +63,15 @@ In **Crystal GUIs -> Configure Remote Catalog**, set:
 
 Catalog URL:
 
-`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog.txt`
+`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.11.0/catalog.txt`
 
 Creator/Fallback Shards:
 
-`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog-shards/`
+`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.11.0/catalog-shards/`
 
 Avatar Name Search:
 
-`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/search2/`
+`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.11.0/search2/`
 
 Then enable **Prefer remote** and **Load when world starts**.
 
