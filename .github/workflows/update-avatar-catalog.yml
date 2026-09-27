@@ -8,27 +8,31 @@ on:
       - "RemoteCatalog/update_catalog.py"
       - ".github/workflows/update-avatar-catalog.yml"
   schedule:
-    - cron: "17 * * * *"
+    - cron: "17 */2 * * *"
 
 permissions:
   contents: write
+
+concurrency:
+  group: crystal-avatar-catalog
+  cancel-in-progress: false
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
       - name: Update catalog
         env:
-          CRYSTAL_MAX_PAGES: "2"
-          CRYSTAL_SEEDS_PER_RUN: "64"
-          CRYSTAL_DELAY_SECONDS: "0.6"
+          CRYSTAL_MAX_PAGES: "1"
+          CRYSTAL_SEEDS_PER_RUN: "16"
+          CRYSTAL_DELAY_SECONDS: "1.2"
           CRYSTAL_ENABLE_AVTRDB: "1"
           CRYSTAL_ENABLE_AVTRICU: "1"
           CRYSTAL_VRCNDB_KEY: ${{ secrets.CRYSTAL_VRCNDB_KEY }}
