@@ -4,15 +4,15 @@ Configure the world with three URLs.
 
 ## Catalog URL
 
-`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog.txt`
+`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.11.0/catalog.txt`
 
 ## Creator / fallback shards
 
-`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog-shards/`
+`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.11.0/catalog-shards/`
 
 ## Avatar name search
 
-`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/search2/`
+`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.11.0/search2/`
 
 In Unity open:
 
