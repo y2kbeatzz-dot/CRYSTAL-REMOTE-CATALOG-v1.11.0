@@ -20,7 +20,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 35
+    timeout-minutes: 30
 
     steps:
       - uses: actions/checkout@v5
@@ -34,7 +34,7 @@ jobs:
       - name: Update current avatar providers
         env:
           CRYSTAL_MAX_ROWS: "350000"
-          CRYSTAL_SEEDS_PER_RUN: "32"
+          CRYSTAL_SEEDS_PER_RUN: "24"
           CRYSTAL_RESULTS_PER_QUERY: "750"
           CRYSTAL_DELAY_SECONDS: "0.8"
           CRYSTAL_HOT_ROWS: "12000"
