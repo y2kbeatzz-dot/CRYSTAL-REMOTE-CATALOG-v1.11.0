@@ -1,70 +1,39 @@
-# Crystal v1.9.5 remote catalog setup
+# Crystal v1.11 remote search setup
 
-The automatic backend uses the current VRCX-compatible provider set:
+Configure the world with three URLs.
 
-- AvtrDB v3
-- avtr.zip
-- VRCDB
-- PAW
-- NSVR
-- VRCWB
-- optional VRCNDb
-
-## Configure the world once
-
-Catalog URL:
+## Catalog URL
 
 `https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog.txt`
 
-Full Search Shards:
+## Creator / fallback shards
 
 `https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog-shards/`
 
-In Unity:
+## Avatar name search
 
-`Crystal GUIs -> Configure Remote Catalog`
-
-Enable:
-
-- Prefer remote
-- Load when world starts
-- Full remote sharded search
-
-Then apply it to the open Avatar Browser and upload the world.
-
-## Automatic updates
-
-GitHub Actions runs every 2 hours.
-
-The updater processes 24 discovery prefixes each run and stores its resume point in:
-
-`docs/catalog-state.json`
-
-If providers are rate-limited or fail repeatedly, they are isolated for that run. If every provider fails for a prefix, that prefix is kept for the next run instead of being skipped.
-
-## Search
-
-Crystal v1.9.2 searches remote name/creator shards from:
-
-`docs/catalog-shards/`
-
-The SEARCH ALL button and VRChat keyboard Done/Enter both go through the same delayed Udon search event so TMP input has time to commit the typed text.
-
-
-## Local Unity crawler
+`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/search2/`
 
 In Unity open:
 
-`Crystal GUIs -> Build / Update Broad Catalog`
+`Crystal GUIs -> Configure Remote Catalog`
 
-Leave:
+Paste all three URLs and apply them to the open Avatar Browser.
 
-`Run continuously until complete`
+## Search behavior
 
-enabled if you want one click to continue from the current saved seed through the whole seed list.
+For Everything / Avatar mode, Crystal takes the first two alphanumeric characters of the typed name.
 
-Use:
+Examples:
 
-`STOP AFTER CURRENT SEED`
+- `Shark` -> `sh`
+- `Crystal` -> `cr`
+- `Juice` -> `ju`
 
-to stop safely without losing the resume position.
+The world downloads the corresponding `search2/<prefix>.txt` provider-result shard, then filters it using the complete text typed by the player.
+
+Creator mode continues to use the accumulated creator/fallback shard system.
+
+## Automatic updates
+
+GitHub Actions continues the two-character prefix crawl every two hours. Every completed prefix is published immediately into `docs/search2/`.
