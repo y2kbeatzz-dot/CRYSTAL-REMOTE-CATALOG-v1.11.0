@@ -52,4 +52,9 @@ jobs:
             exit 0
           fi
           git commit -m "Update current avatar catalog"
-          git push
+
+          # The repository may receive README/setup commits while this
+          # crawler is running. Rebase generated catalog changes onto the
+          # newest main branch instead of failing with "fetch first".
+          git pull --rebase origin main
+          git push origin main
