@@ -1,0 +1,17 @@
+CRYSTAL REMOTE CATALOG v1.8
+
+Repo:
+https://github.com/y2kbeatzz-dot/CRYSTAL-REMOTE-CATALOG-v1.8
+
+1. Enable GitHub Pages from main /docs.
+2. GitHub Actions will run .github/workflows/update-avatar-catalog.yml automatically.
+3. Your remote URL is:
+   https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog.txt
+4. In Unity once:
+   Crystal GUIs -> Configure Remote Catalog
+5. Paste that URL and APPLY TO OPEN AVATAR BROWSERS.
+6. Upload your VRChat world.
+
+After that, catalog updates happen outside Unity.
+
+The browser loads bundled data first and remote data second, so it still works if the remote host is unavailable.
