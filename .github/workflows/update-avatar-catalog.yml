@@ -8,7 +8,7 @@ on:
       - "RemoteCatalog/update_catalog.py"
       - ".github/workflows/update-avatar-catalog.yml"
   schedule:
-    - cron: "23 */6 * * *"
+    - cron: "17 */2 * * *"
 
 permissions:
   contents: write
@@ -20,7 +20,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 55
+    timeout-minutes: 35
 
     steps:
       - uses: actions/checkout@v5
@@ -31,24 +31,25 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Build current Prismic catalog and shards
+      - name: Update current avatar providers
         env:
-          CRYSTAL_ENABLE_PRISMIC: "1"
+          CRYSTAL_MAX_ROWS: "350000"
+          CRYSTAL_SEEDS_PER_RUN: "32"
+          CRYSTAL_RESULTS_PER_QUERY: "750"
+          CRYSTAL_DELAY_SECONDS: "0.8"
           CRYSTAL_HOT_ROWS: "12000"
-          CRYSTAL_ENABLE_AVTRDB: "0"
-          CRYSTAL_ENABLE_AVTRICU: "0"
-          CRYSTAL_VRCNDB_KEY: ${{ secrets.CRYSTAL_VRCNDB_KEY }}
-          CRYSTAL_VRCX_ID: ${{ secrets.CRYSTAL_VRCX_ID }}
+          CRYSTAL_VRCNDB_KEY: \${{ secrets.CRYSTAL_VRCNDB_KEY }}
+          CRYSTAL_VRCX_ID: \${{ secrets.CRYSTAL_VRCX_ID }}
         run: python RemoteCatalog/update_catalog.py
 
       - name: Commit catalog changes
         run: |
           git config user.name "crystal-catalog-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add docs/catalog.txt docs/catalog-state.json docs/catalog-shards
+          git add docs/catalog.txt docs/catalog-master.txt docs/catalog-state.json docs/catalog-shards
           if git diff --cached --quiet; then
             echo "No catalog changes"
             exit 0
           fi
-          git commit -m "Update Prismic avatar catalog"
+          git commit -m "Update current avatar catalog"
           git push
