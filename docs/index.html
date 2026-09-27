@@ -3,17 +3,32 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Crystal Avatar Catalog v1.9.5</title>
+  <title>Crystal Avatar Catalog v1.11.0</title>
   <style>
-    body{font-family:system-ui;background:#101014;color:#eee;max-width:820px;margin:60px auto;padding:0 20px}
+    body{font-family:system-ui;background:#101014;color:#eee;max-width:900px;margin:60px auto;padding:0 20px;line-height:1.55}
     a{color:#e26aa1} code{background:#1a1a21;padding:2px 6px;border-radius:6px}
+    .card{background:#17171d;border:1px solid #2b2b34;border-radius:14px;padding:18px;margin:16px 0}
   </style>
 </head>
 <body>
-  <h1>Crystal Avatar Catalog v1.9.5</h1>
-  <p>Automatic remote catalog backend for the Crystal VRChat Avatar Browser.</p>
-  <p><a href="catalog.txt">Open startup catalog</a></p>
-  <p><a href="catalog-shards/index.txt">Open full-search shard index</a></p>
-  <p>Automatic sources: AvtrDB v3, avtr.zip, VRCDB, PAW, NSVR, VRCWB, plus optional authorized VRCNDb.</p>
-<p>Unity v1.9.5 adds a one-click continuous local crawler that resumes through the full discovery seed list.</p></body>
+  <h1>Crystal Avatar Catalog v1.11.0</h1>
+  <p>Remote catalog backend for the Crystal VRChat Avatar Browser.</p>
+
+  <div class="card">
+    <h2>Live files</h2>
+    <p><a href="catalog.txt">Startup catalog</a></p>
+    <p><a href="catalog-shards/index.txt">Creator / fallback shard index</a></p>
+    <p><a href="search2/">Avatar name search shards</a></p>
+    <p><a href="catalog-state.json">Crawler state</a></p>
+  </div>
+
+  <div class="card">
+    <h2>Unity URLs</h2>
+    <p><code>https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.11.0/catalog.txt</code></p>
+    <p><code>https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.11.0/catalog-shards/</code></p>
+    <p><code>https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.11.0/search2/</code></p>
+  </div>
+
+  <p>Automatic sources include AvtrDB v3, VRCDB, PAW and other configured VRCX-compatible providers, plus optional authorized VRCNDb access.</p>
+</body>
 </html>
