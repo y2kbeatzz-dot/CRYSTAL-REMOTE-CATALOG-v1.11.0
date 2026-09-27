@@ -31,6 +31,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+import uuid
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -41,7 +42,7 @@ STATE = DOCS / "catalog-state.json"
 SHARDS = DOCS / "catalog-shards"
 SEARCH2 = DOCS / "search2"
 
-UA = "CrystalVRChatCatalogUpdater/1.11.1"
+UA = "CrystalVRChatCatalogUpdater/1.12.2"
 
 MAX_ROWS = int(os.getenv("CRYSTAL_MAX_ROWS", "350000"))
 SEEDS_PER_RUN = int(os.getenv("CRYSTAL_SEEDS_PER_RUN", "32"))
@@ -50,7 +51,38 @@ DELAY = float(os.getenv("CRYSTAL_DELAY_SECONDS", "0.8"))
 HOT_ROWS = int(os.getenv("CRYSTAL_HOT_ROWS", "12000"))
 
 VRCN_KEY = os.getenv("CRYSTAL_VRCNDB_KEY", "").strip()
-VRCX_ID = os.getenv("CRYSTAL_VRCX_ID", "").strip()
+VRCX_ID_FILE = DOCS / "catalog-client-id.txt"
+
+
+def get_vrcx_id():
+    configured = os.getenv("CRYSTAL_VRCX_ID", "").strip()
+
+    if configured:
+        return configured
+
+    if VRCX_ID_FILE.exists():
+        value = VRCX_ID_FILE.read_text(
+            encoding="utf-8"
+        ).strip()
+
+        if value:
+            return value
+
+    # VRCX itself uses a persistent random UUID for VRCX-ID.
+    # This is a client identifier, not an authentication secret.
+    value = str(uuid.uuid4())
+
+    DOCS.mkdir(parents=True, exist_ok=True)
+
+    VRCX_ID_FILE.write_text(
+        value + "\n",
+        encoding="utf-8",
+    )
+
+    return value
+
+
+VRCX_ID = get_vrcx_id()
 
 AVTR_ID = re.compile(r"^avtr_[0-9a-fA-F-]{36}$")
 SHARD_KEYS = list("abcdefghijklmnopqrstuvwxyz0123456789") + ["_"]
