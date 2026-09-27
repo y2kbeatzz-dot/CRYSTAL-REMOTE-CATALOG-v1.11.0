@@ -1,64 +1,26 @@
-# Automatic remote catalog setup
+# Crystal v1.9 automatic catalog
 
-This lets your uploaded VRChat world receive newer avatar catalog data without reopening Unity.
+The automatic backend now uses Prismic's current public bulk avatar databases as its primary source.
 
-## 1. Put this pack in a GitHub repository
+Configure the world with:
 
-The included GitHub Actions workflow runs the crawler automatically every 6 hours.
+Catalog URL:
+`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog.txt`
 
-The crawler writes:
+Full Search Shards:
+`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog-shards/`
 
-`docs/catalog.txt`
+The small catalog.txt is used for startup/fallback browsing.
 
-The workflow commits updates back to the repository.
+When a player searches an avatar or creator name, Crystal downloads only the relevant full-search shard instead of trying to download the entire multi-million-avatar database at once.
 
-## 2. Enable GitHub Pages
+The workflow rebuilds from Prismic every 6 hours.
 
-In the GitHub repository:
+Prismic provides:
+- main/PC avatar metadata;
+- Quest/Android compatibility database;
+- iOS compatibility database.
 
-Settings -> Pages
+AvtrDB v3 support is implemented using the current VRCX-format endpoint but stays optional because provider anti-abuse requirements can change.
 
-Choose:
-
-- Deploy from a branch
-- Branch: `main`
-- Folder: `/docs`
-
-Your catalog URL will look like:
-
-`https://USERNAME.github.io/REPOSITORY/catalog.txt`
-
-## 3. Optional VRCNDb
-
-Do not copy VRCNext's private build secret.
-
-Only add this repository secret if the VRCNDb operator has given you an authorized key:
-
-`CRYSTAL_VRCNDB_KEY`
-
-Without it, the updater simply uses AvtrDB / Avtr.icu.
-
-## 4. Configure the VRChat browser once
-
-In Unity:
-
-`Crystal GUIs -> Configure Remote Catalog`
-
-Paste the GitHub Pages `catalog.txt` URL.
-
-Recommended:
-
-- Prefer remote: ON
-- Load when world starts: ON
-- Refresh while instance is open: optional
-- Refresh interval: 1800 seconds or higher
-
-Press:
-
-`APPLY TO OPEN AVATAR BROWSERS`
-
-Upload the world once.
-
-After that, GitHub Actions can update `catalog.txt` without a Unity/world rebuild.
-
-The world still contains its bundled `AvatarDatabase.txt` fallback in case the remote catalog cannot be downloaded.
+VRCNDb remains optional and requires an authorized key from its operator.
