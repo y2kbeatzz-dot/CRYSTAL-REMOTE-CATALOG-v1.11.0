@@ -1,4 +1,4 @@
-# Crystal v1.9.2 remote catalog setup
+# Crystal v1.9.5 remote catalog setup
 
 The automatic backend uses the current VRCX-compatible provider set:
 
@@ -49,3 +49,22 @@ Crystal v1.9.2 searches remote name/creator shards from:
 `docs/catalog-shards/`
 
 The SEARCH ALL button and VRChat keyboard Done/Enter both go through the same delayed Udon search event so TMP input has time to commit the typed text.
+
+
+## Local Unity crawler
+
+In Unity open:
+
+`Crystal GUIs -> Build / Update Broad Catalog`
+
+Leave:
+
+`Run continuously until complete`
+
+enabled if you want one click to continue from the current saved seed through the whole seed list.
+
+Use:
+
+`STOP AFTER CURRENT SEED`
+
+to stop safely without losing the resume position.
