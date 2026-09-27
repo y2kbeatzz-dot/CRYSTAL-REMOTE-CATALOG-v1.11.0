@@ -8,7 +8,7 @@ Automatic remote catalog backend for the Crystal VRChat Avatar Browser.
 
 ## How it updates
 
-GitHub Actions runs `.github/workflows/update-avatar-catalog.yml` every 6 hours. The updater crawls supported public avatar indexes, merges exact `avtr_` IDs, and writes `docs/catalog.txt`.
+GitHub Actions runs `.github/workflows/update-avatar-catalog.yml` every 2 hours. The updater crawls supported public avatar indexes, merges exact `avtr_` IDs, and writes `docs/catalog.txt`.
 
 ## VRChat world setup
 
@@ -23,3 +23,12 @@ The world still keeps its bundled local catalog as a fallback if the remote cata
 ## VRCNDb
 
 VRCNDb remains optional. Do not copy VRCNext's private build secret. Only configure the `CRYSTAL_VRCNDB_KEY` Actions secret if the VRCNDb operator gives you an authorized key.
+
+
+## Rate-limit handling
+
+The updater now backs off on HTTP 429 responses and stops using a provider for the rest of that run after a 403/429 instead of hammering it.
+
+If every enabled provider is blocked for a discovery seed, the crawler keeps that seed as its resume position instead of skipping ahead and leaving holes in the alphabet.
+
+Runs are serialized with GitHub Actions concurrency, and the crawler uses smaller batches to reduce provider load.
