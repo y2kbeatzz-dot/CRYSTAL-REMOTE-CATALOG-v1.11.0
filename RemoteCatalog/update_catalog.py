@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Crystal Avatar Catalog updater v1.9.2
+Crystal Avatar Catalog updater v1.11.0
 
 Automatic providers:
   AvtrDB v3
@@ -39,8 +39,9 @@ MASTER = DOCS / "catalog-master.txt"
 HOT = DOCS / "catalog.txt"
 STATE = DOCS / "catalog-state.json"
 SHARDS = DOCS / "catalog-shards"
+SEARCH2 = DOCS / "search2"
 
-UA = "CrystalVRChatCatalogUpdater/1.9.2"
+UA = "CrystalVRChatCatalogUpdater/1.11.0"
 
 MAX_ROWS = int(os.getenv("CRYSTAL_MAX_ROWS", "350000"))
 SEEDS_PER_RUN = int(os.getenv("CRYSTAL_SEEDS_PER_RUN", "32"))
@@ -290,6 +291,45 @@ def row_line(row):
     ])
 
 
+def search2_path(seed):
+    return SEARCH2 / f"{seed}.txt"
+
+
+def write_search2(seed, rows):
+    SEARCH2.mkdir(parents=True, exist_ok=True)
+
+    unique = {}
+
+    for row in rows:
+        if not row:
+            continue
+
+        aid = clean(row.get("id"))
+
+        if AVTR_ID.match(aid):
+            unique[aid] = row
+
+    ordered = sorted(
+        unique.values(),
+        key=lambda row: (
+            clean(row.get("name")).casefold(),
+            clean(row.get("id")),
+        ),
+    )
+
+    lines = [
+        "# Crystal direct avatar-name search shard",
+        "# Avatar Name|Creator Name|Creator ID|Avatar ID|Source|Platform|Image",
+    ]
+
+    lines.extend(row_line(row) for row in ordered)
+
+    search2_path(seed).write_text(
+        "\n".join(lines) + "\n",
+        encoding="utf-8",
+    )
+
+
 def parse_row(line):
     parts = line.rstrip("\n").split("|")
 
@@ -482,6 +522,7 @@ def shard_key(value):
 
 def write_outputs(rows, state):
     DOCS.mkdir(parents=True, exist_ok=True)
+    SEARCH2.mkdir(parents=True, exist_ok=True)
 
     ordered = sorted(
         rows.values(),
@@ -616,6 +657,7 @@ def main():
         print("seed", seed)
 
         any_provider_responded = False
+        direct_rows = []
 
         for label, url in PROVIDERS:
             if label in blocked:
@@ -655,8 +697,11 @@ def main():
             for item in items:
                 row = normalize_result(item, label)
 
-                if row and merge_row(rows, row):
-                    added += 1
+                if row:
+                    direct_rows.append(row)
+
+                    if merge_row(rows, row):
+                        added += 1
 
             time.sleep(DELAY)
 
@@ -668,8 +713,11 @@ def main():
                 for item in items:
                     row = normalize_result(item, "VRCNDb")
 
-                    if row and merge_row(rows, row):
-                        added += 1
+                    if row:
+                        direct_rows.append(row)
+
+                        if merge_row(rows, row):
+                            added += 1
 
             except ProviderBlocked as exc:
                 print("VRCNDb blocked for this run:", exc)
@@ -686,6 +734,20 @@ def main():
             )
             break
 
+        # Save this two-character prefix immediately so the VRChat world
+        # can pull direct avatar-name search results from search2/<seed>.txt.
+        write_search2(
+            seed,
+            direct_rows
+        )
+
+        print(
+            "search2",
+            seed,
+            "rows",
+            len(direct_rows),
+        )
+
         index = (index + 1) % len(seeds)
         processed += 1
 
@@ -694,7 +756,7 @@ def main():
             break
 
     state = {
-        "version": "1.9.2",
+        "version": "1.11.0",
         "index": index,
         "total": len(seeds),
         "last_seed": seeds[index - 1] if processed else seeds[index],
