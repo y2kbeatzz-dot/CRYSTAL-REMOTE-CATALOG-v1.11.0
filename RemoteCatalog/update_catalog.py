@@ -40,7 +40,7 @@ HOT = DOCS / "catalog.txt"
 STATE = DOCS / "catalog-state.json"
 SHARDS = DOCS / "catalog-shards"
 
-UA = "CrystalVRChatCatalogUpdater/1.9.1"
+UA = "CrystalVRChatCatalogUpdater/1.9.2"
 
 MAX_ROWS = int(os.getenv("CRYSTAL_MAX_ROWS", "350000"))
 SEEDS_PER_RUN = int(os.getenv("CRYSTAL_SEEDS_PER_RUN", "32"))
@@ -600,6 +600,7 @@ def main():
     index = int(state.get("index", 0)) % len(seeds)
 
     blocked = set()
+    failure_counts = {}
     added = 0
     processed = 0
 
@@ -630,7 +631,23 @@ def main():
                 continue
 
             except Exception as exc:
-                print(label, "failed:", exc)
+                failure_counts[label] = failure_counts.get(label, 0) + 1
+                print(
+                    label,
+                    "failed:",
+                    exc,
+                    "(failure",
+                    failure_counts[label],
+                    ")"
+                )
+
+                if failure_counts[label] >= 2:
+                    print(
+                        label,
+                        "disabled for the rest of this run after repeated failures."
+                    )
+                    blocked.add(label)
+
                 continue
 
             print(label, "items", len(items))
@@ -677,7 +694,7 @@ def main():
             break
 
     state = {
-        "version": "1.9.1",
+        "version": "1.9.2",
         "index": index,
         "total": len(seeds),
         "last_seed": seeds[index - 1] if processed else seeds[index],
