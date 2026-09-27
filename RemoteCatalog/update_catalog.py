@@ -33,7 +33,7 @@ DELAY = float(os.getenv("CRYSTAL_DELAY_SECONDS", "0.8"))
 USE_DB = os.getenv("CRYSTAL_ENABLE_AVTRDB", "1") != "0"
 USE_ICU = os.getenv("CRYSTAL_ENABLE_AVTRICU", "1") != "0"
 VRCN_KEY = os.getenv("CRYSTAL_VRCNDB_KEY", "").strip()
-UA = "CrystalVRChatCatalogUpdater/1.8.0"
+UA = "CrystalVRChatCatalogUpdater/1.8.2"
 
 AVTR_ID = re.compile(r"^avtr_[0-9a-fA-F-]{36}$")
 
@@ -109,6 +109,92 @@ def vrcn(seed, page, limit=100):
         return obj.get("results", [])
     return []
 
+
+def platform_from_avatar(a):
+    values = []
+
+    for key in (
+        "platforms",
+        "platform",
+        "supportedPlatforms",
+        "supported_platforms",
+        "platformCodes",
+        "platform_codes",
+    ):
+        if key in a and a.get(key) is not None:
+            values.append(a.get(key))
+
+    if a.get("hasPc") or a.get("has_pc") or a.get("pc"):
+        values.append("pc")
+    if a.get("hasAndroid") or a.get("has_android") or a.get("android"):
+        values.append("android")
+    if a.get("hasIos") or a.get("has_ios") or a.get("ios"):
+        values.append("ios")
+
+    for key in ("unityPackages", "unity_packages", "packages", "builds"):
+        obj = a.get(key)
+        if isinstance(obj, list):
+            for item in obj:
+                if isinstance(item, dict):
+                    for k in ("platform", "platforms", "supportedPlatforms"):
+                        if item.get(k) is not None:
+                            values.append(item.get(k))
+
+    flattened = []
+
+    def add_value(v):
+        if isinstance(v, str):
+            flattened.extend(re.split(r"[\\s,;+|/]+", v.lower()))
+        elif isinstance(v, list):
+            for x in v:
+                add_value(x)
+        elif isinstance(v, dict):
+            for k, enabled in v.items():
+                if enabled:
+                    add_value(k)
+
+    for v in values:
+        add_value(v)
+
+    tokens = set(x for x in flattened if x)
+
+    pc = bool(tokens & {
+        "w", "pc", "windows", "standalonewindows",
+        "standalone_windows", "win"
+    })
+    android = bool(tokens & {
+        "a", "android", "quest", "standaloneandroid",
+        "standalone_android"
+    })
+    ios = bool(tokens & {"i", "ios"})
+
+    if pc and android:
+        return "PC+Android"
+    if pc:
+        return "PC"
+    if android:
+        return "Android"
+    if ios:
+        return "iOS"
+    return "Unknown"
+
+def merge_platform(a, b):
+    vals = {clean(a), clean(b)} - {"", "Unknown"}
+
+    pc = any("PC" in v or "Windows" in v for v in vals)
+    android = any("Android" in v or "Quest" in v for v in vals)
+    ios = any("iOS" in v for v in vals)
+
+    if pc and android:
+        return "PC+Android"
+    if pc:
+        return "PC"
+    if android:
+        return "Android"
+    if ios:
+        return "iOS"
+    return "Unknown"
+
 def normalize_avtrdb(a):
     author = a.get("author") or {}
     return {
@@ -117,6 +203,7 @@ def normalize_avtrdb(a):
         "creator": author.get("name") or a.get("authorName") or "",
         "creator_id": author.get("id") or a.get("authorId") or "",
         "source": "AvtrDB",
+        "platform": platform_from_avatar(a),
     }
 
 def normalize_icu(a):
@@ -126,6 +213,7 @@ def normalize_icu(a):
         "creator": a.get("authorName") or "",
         "creator_id": a.get("authorId") or "",
         "source": "Avtr.icu",
+        "platform": platform_from_avatar(a),
     }
 
 def normalize_vrcn(a):
@@ -135,6 +223,7 @@ def normalize_vrcn(a):
         "creator": a.get("author_name") or "",
         "creator_id": a.get("author_id") or "",
         "source": "VRCNDb",
+        "platform": platform_from_avatar(a),
     }
 
 def merge_row(rows, row):
@@ -153,6 +242,7 @@ def merge_row(rows, row):
             "creator": clean(row.get("creator")) or "Unknown Creator",
             "creator_id": clean(row.get("creator_id")),
             "source": clean(row.get("source")),
+            "platform": clean(row.get("platform")) or "Unknown",
         }
         return True
 
@@ -170,6 +260,10 @@ def merge_row(rows, row):
     if source:
         sources.add(source)
     cur["source"] = "+".join(sorted(sources))
+    cur["platform"] = merge_platform(
+        cur.get("platform", "Unknown"),
+        row.get("platform", "Unknown"),
+    )
     return False
 
 def load_rows():
@@ -189,6 +283,7 @@ def load_rows():
             "creator_id": p[2],
             "id": p[3],
             "source": p[4],
+            "platform": p[5] if len(p) >= 6 else "Unknown",
         })
     return rows
 
@@ -196,7 +291,7 @@ def save(rows):
     OUT.parent.mkdir(parents=True, exist_ok=True)
     lines = [
         "# Crystal remote avatar catalog",
-        "# Avatar Name|Creator Name|Creator ID|Avatar ID|Source",
+        "# Avatar Name|Creator Name|Creator ID|Avatar ID|Source|Platform",
     ]
     ordered = sorted(
         rows.values(),
@@ -209,6 +304,7 @@ def save(rows):
             clean(r["creator_id"]),
             clean(r["id"]),
             clean(r["source"]),
+            clean(r.get("platform", "Unknown")),
         ]))
     OUT.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
