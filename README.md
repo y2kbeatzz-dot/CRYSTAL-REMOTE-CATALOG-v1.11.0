@@ -98,3 +98,26 @@ it generates a UUID once and stores it in `docs/catalog-client-id.txt` so the
 identifier remains stable between scheduled runs.
 
 This ID is only a client identifier; it is not a VRChat account credential.
+
+
+## Unity v1.12.7 architecture
+
+Direct AvtrDB calls from Unity are disabled.
+
+Reason:
+- legacy v2 VRCX requests can return HTTP 403 from Unity;
+- v3 VRCX requests can return HTTP 520 from Unity;
+- the GitHub updater is a better place to aggregate remote providers.
+
+Unity/world behavior:
+- local Unity crawling continues with working local providers;
+- AvtrDB is labeled `REMOTE BACKEND ONLY`;
+- the in-world source chip is `AvtrDB*`;
+- `AvtrDB*` means the row came from the remote backend.
+
+Remote files:
+- `https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.11.0/catalog.txt`
+- `https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.11.0/catalog-shards/`
+- `https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.11.0/search2/`
+
+The backend may still ingest AvtrDB whenever the scheduled updater can reach it.
