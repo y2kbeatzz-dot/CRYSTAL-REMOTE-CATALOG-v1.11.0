@@ -3,7 +3,7 @@ name: Update Avatar Catalog
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "17 * * * *"
 
 permissions:
   contents: write
@@ -21,9 +21,9 @@ jobs:
 
       - name: Update catalog
         env:
-          CRYSTAL_MAX_PAGES: "3"
-          CRYSTAL_SEEDS_PER_RUN: "8"
-          CRYSTAL_DELAY_SECONDS: "1.0"
+          CRYSTAL_MAX_PAGES: "2"
+          CRYSTAL_SEEDS_PER_RUN: "64"
+          CRYSTAL_DELAY_SECONDS: "0.6"
           CRYSTAL_ENABLE_AVTRDB: "1"
           CRYSTAL_ENABLE_AVTRICU: "1"
           CRYSTAL_VRCNDB_KEY: ${{ secrets.CRYSTAL_VRCNDB_KEY }}
