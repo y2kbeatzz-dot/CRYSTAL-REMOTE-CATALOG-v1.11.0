@@ -1,4 +1,16 @@
 {
-  "index": 129,
-  "total": 782
+  "version": "1.9.2",
+  "index": 24,
+  "total": 787,
+  "last_seed": "ax",
+  "rows": 21678,
+  "added_this_run": 21628,
+  "processed_this_run": 24,
+  "blocked_providers": [
+    "AvtrDB",
+    "NSVR",
+    "VRCWB",
+    "avtr.zip"
+  ],
+  "updated_unix": 1790514107
 }
