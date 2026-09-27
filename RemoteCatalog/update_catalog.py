@@ -22,6 +22,7 @@ import hashlib
 import secrets
 import urllib.parse
 import urllib.request
+import urllib.error
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -33,17 +34,48 @@ DELAY = float(os.getenv("CRYSTAL_DELAY_SECONDS", "0.8"))
 USE_DB = os.getenv("CRYSTAL_ENABLE_AVTRDB", "1") != "0"
 USE_ICU = os.getenv("CRYSTAL_ENABLE_AVTRICU", "1") != "0"
 VRCN_KEY = os.getenv("CRYSTAL_VRCNDB_KEY", "").strip()
-UA = "CrystalVRChatCatalogUpdater/1.8.2"
+UA = "CrystalVRChatCatalogUpdater/1.8.3"
 
 AVTR_ID = re.compile(r"^avtr_[0-9a-fA-F-]{36}$")
+
+class ProviderRateLimited(Exception):
+    pass
+
+class ProviderForbidden(Exception):
+    pass
 
 def clean(value):
     return str(value or "").replace("|", " ").replace("\n", " ").replace("\r", " ").strip()
 
 def request_json(url, headers=None, timeout=25):
-    req = urllib.request.Request(url, headers=headers or {})
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        return json.loads(r.read().decode("utf-8", "replace"))
+    headers = headers or {}
+    delays = [0, 8, 20]
+
+    for attempt, delay in enumerate(delays):
+        if delay:
+            time.sleep(delay)
+
+        req = urllib.request.Request(url, headers=headers)
+
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return json.loads(r.read().decode("utf-8", "replace"))
+
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                if attempt < len(delays) - 1:
+                    continue
+                raise ProviderRateLimited("HTTP 429 Too Many Requests")
+
+            if e.code == 403:
+                raise ProviderForbidden("HTTP 403 Forbidden")
+
+            if 500 <= e.code < 600 and attempt < len(delays) - 1:
+                continue
+
+            raise
+
+    raise RuntimeError("request failed after retries")
 
 def avtrdb(seed, page, limit=100):
     q = urllib.parse.urlencode({
@@ -336,10 +368,12 @@ def main():
     seeds = build_seeds()
     idx = load_state(len(seeds))
 
-    # Do a small rotating batch every scheduled run.
+    # Process a rotating batch every scheduled run; provider blocks stop the run cleanly.
     batch = int(os.getenv("CRYSTAL_SEEDS_PER_RUN", "8"))
 
     print(f"Starting with {len(rows)} avatars; seed {idx+1}/{len(seeds)}")
+
+    blocked_for_run = set()
 
     for _ in range(batch):
         seed = seeds[idx]
@@ -353,10 +387,30 @@ def main():
         if VRCN_KEY:
             providers.append(("VRCNDb", vrcn, normalize_vrcn))
 
+        seed_had_response = False
+
         for provider_name, func, mapper in providers:
+            if provider_name in blocked_for_run:
+                continue
+
+            provider_responded = False
+
             for page in range(MAX_PAGES):
                 try:
                     items = func(seed, page)
+                    provider_responded = True
+                    seed_had_response = True
+
+                except ProviderRateLimited as e:
+                    print(provider_name, "rate limited:", e, "- stopping this provider for this run")
+                    blocked_for_run.add(provider_name)
+                    break
+
+                except ProviderForbidden as e:
+                    print(provider_name, "forbidden:", e, "- stopping this provider for this run")
+                    blocked_for_run.add(provider_name)
+                    break
+
                 except Exception as e:
                     print(provider_name, "failed:", e)
                     break
@@ -370,9 +424,16 @@ def main():
                 print(provider_name, "page", page + 1, "items", len(items))
                 time.sleep(DELAY)
 
-        idx = (idx + 1) % len(seeds)
+        if seed_had_response:
+            idx = (idx + 1) % len(seeds)
+        else:
+            print("No provider completed this seed; keeping", seed, "for the next run.")
+
         save(rows)
         save_state(idx, len(seeds))
+
+        if not seed_had_response:
+            break
 
     print("saved", len(rows), "unique avatars to", OUT)
 
