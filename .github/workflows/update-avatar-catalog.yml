@@ -46,7 +46,7 @@ jobs:
         run: |
           git config user.name "crystal-catalog-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add docs/catalog.txt docs/catalog-master.txt docs/catalog-state.json docs/catalog-shards
+          git add docs/catalog.txt docs/catalog-master.txt docs/catalog-state.json docs/catalog-shards docs/search2
           if git diff --cached --quiet; then
             echo "No catalog changes"
             exit 0
