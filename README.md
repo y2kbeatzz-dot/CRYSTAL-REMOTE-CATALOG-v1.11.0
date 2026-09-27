@@ -1,20 +1,18 @@
-# Crystal Remote Avatar Catalog v1.9.1
+# Crystal Remote Avatar Catalog v1.9.2
 
-Automatic remote catalog backend for the Crystal VRChat Avatar Browser.
+Automatic remote backend for the Crystal VRChat Avatar Browser.
 
 ## Live URLs
 
-Startup/fallback catalog:
+Catalog:
 
-\`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog.txt\`
+`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog.txt`
 
 Full search shards:
 
-\`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog-shards/\`
+`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog-shards/`
 
-## Current provider set
-
-The automatic updater uses currently documented VRCX-compatible providers:
+## Current automatic providers
 
 - AvtrDB v3
 - avtr.zip
@@ -22,19 +20,49 @@ The automatic updater uses currently documented VRCX-compatible providers:
 - PAW
 - NSVR
 - VRCWB
+- optional VRCNDb when an authorized key is configured
 
-VRCNDb is optional and requires an authorized key.
+The retired Prismic PAS download URLs are not used automatically.
 
-The old Prismic PAS URLs returned HTTP 404 during live verification, so the automatic backend no longer depends on them.
+## What the updater does
 
-## Coverage
+The scheduled workflow:
 
-The crawler walks two-letter prefixes and saves its resume position. If every provider fails for one prefix, that prefix is kept for the next run rather than silently skipped.
+- resumes its discovery prefix instead of restarting;
+- merges avatars by exact `avtr_` ID;
+- stores avatar name, creator, source, platform and image URL when supplied;
+- creates `docs/catalog-master.txt`;
+- creates a smaller startup `docs/catalog.txt`;
+- rebuilds `docs/catalog-shards/*.txt` for in-world full search;
+- isolates providers that return 403/429 or repeatedly fail;
+- preserves the current seed when every provider fails, instead of skipping alphabet ranges.
 
-## Search shards
+The workflow currently processes 24 discovery prefixes every 2 hours.
 
-After every successful update the accumulated catalog is rebuilt into first-character search shards so the VRChat world can search a much larger remote set without downloading the whole master file at once.
+## Unity / VRChat setup
 
-## Schedule
+In Unity use:
 
-GitHub Actions refreshes the provider catalog every two hours.
+`Crystal GUIs -> Configure Remote Catalog`
+
+Set:
+
+Catalog URL:
+
+`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog.txt`
+
+Full Search Shards:
+
+`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog-shards/`
+
+Then enable **Prefer remote** and **Load when world starts**.
+
+Crystal v1.9.2 uses the delayed `SearchPressed -> CommitSearchPressed` flow for the SEARCH ALL button and VRChat keyboard submit.
+
+## Optional secrets
+
+`CRYSTAL_VRCNDB_KEY` — only use an authorized key supplied by the VRCNDb operator.
+
+`CRYSTAL_VRCX_ID` — optional VRCX-style provider header if you have a valid value to use.
+
+Do not copy private keys from other projects.
