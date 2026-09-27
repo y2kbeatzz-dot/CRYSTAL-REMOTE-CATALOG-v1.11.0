@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Crystal Avatar Catalog updater v1.9.1
+Crystal Avatar Catalog updater v1.9.2
 
 Automatic providers:
   AvtrDB v3
