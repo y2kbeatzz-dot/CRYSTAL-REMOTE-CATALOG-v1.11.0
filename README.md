@@ -1,16 +1,20 @@
-# Crystal Remote Avatar Catalog v1.9.5
+# Crystal Remote Avatar Catalog v1.11.0
 
 Automatic remote backend for the Crystal VRChat Avatar Browser.
 
 ## Live URLs
 
-Catalog:
+Startup catalog:
 
 `https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog.txt`
 
-Full search shards:
+Creator/fallback shards:
 
 `https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog-shards/`
+
+Direct avatar-name search:
+
+`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/search2/`
 
 ## Current automatic providers
 
@@ -20,70 +24,59 @@ Full search shards:
 - PAW
 - NSVR
 - VRCWB
-- optional VRCNDb when an authorized key is configured
+- optional VRCNDb with an authorized key
 
-The retired Prismic PAS download URLs are not used automatically.
+## Direct name search
 
-## What the updater does
+The automatic crawler still walks the two-character discovery space:
 
-The scheduled workflow:
+`aa -> ab -> ac -> ... -> zz`
 
-- resumes its discovery prefix instead of restarting;
-- merges avatars by exact `avtr_` ID;
-- stores avatar name, creator, source, platform and image URL when supplied;
-- creates `docs/catalog-master.txt`;
-- creates a smaller startup `docs/catalog.txt`;
-- rebuilds `docs/catalog-shards/*.txt` for in-world full search;
-- isolates providers that return 403/429 or repeatedly fail;
-- preserves the current seed when every provider fails, instead of skipping alphabet ranges.
+but v1.11 writes each completed prefix immediately to:
 
-The workflow currently processes 24 discovery prefixes every 2 hours.
+`docs/search2/<prefix>.txt`
 
-## Unity / VRChat setup
+Examples:
 
-In Unity use:
+- `Shark` -> `search2/sh.txt`
+- `Crystal` -> `search2/cr.txt`
+- `Juice` -> `search2/ju.txt`
 
-`Crystal GUIs -> Configure Remote Catalog`
+The VRChat world downloads the corresponding remote prefix shard when the player searches an avatar name, then filters that shard using the full text typed.
 
-Set:
+This means avatar-name search is no longer limited to the small startup catalog already loaded in the world.
+
+## Other outputs
+
+The updater also maintains:
+
+- `docs/catalog-master.txt`
+- `docs/catalog.txt`
+- `docs/catalog-shards/*.txt`
+- `docs/catalog-state.json`
+
+The state file preserves the current discovery prefix. Providers that rate-limit or repeatedly fail are isolated for that run.
+
+## Unity setup
+
+In **Crystal GUIs -> Configure Remote Catalog**, set:
 
 Catalog URL:
 
 `https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog.txt`
 
-Full Search Shards:
+Creator/Fallback Shards:
 
 `https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog-shards/`
 
+Avatar Name Search:
+
+`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/search2/`
+
 Then enable **Prefer remote** and **Load when world starts**.
 
-Crystal v1.9.2 uses the delayed `SearchPressed -> CommitSearchPressed` flow for the SEARCH ALL button and VRChat keyboard submit.
+Crystal v1.11 uses the SEARCH button / VRChat keyboard submit to pull the matching two-character remote avatar-name shard.
 
-## Optional secrets
+## Limits
 
-`CRYSTAL_VRCNDB_KEY` — only use an authorized key supplied by the VRCNDb operator.
-
-`CRYSTAL_VRCX_ID` — optional VRCX-style provider header if you have a valid value to use.
-
-Do not copy private keys from other projects.
-
-
-## Unity local crawler v1.9.5
-
-The Unity-side Broad Catalog crawler now supports a true one-click continuous pass.
-
-With **Run continuously until complete** enabled, it no longer stops at the old `Seeds this run` batch limit. It continues from the saved resume point through the remaining discovery seeds.
-
-For example, a run that previously stopped at:
-
-`Seed 40 / 713: bn`
-
-can now continue automatically with:
-
-`bo -> bp -> ... -> zz`
-
-until the complete seed list finishes.
-
-The crawler still saves after every seed and includes **STOP AFTER CURRENT SEED** so the resume position is preserved safely.
-
-v1.9.5 also corrects the continuous-loop state declarations and the loop condition from the first v1.9.4 attempt.
+The system can only return avatars known to at least one configured public metadata provider. It cannot guarantee private, deleted, never-indexed, or otherwise unavailable avatars.
