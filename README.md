@@ -1,34 +1,45 @@
-# Crystal Remote Avatar Catalog v1.8
+# Crystal Remote Avatar Catalog v1.9
 
 Automatic remote catalog backend for the Crystal VRChat Avatar Browser.
 
-## Live catalog URL
+## Live URLs
+
+Startup/fallback catalog:
 
 `https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog.txt`
 
-## How it updates
+Full search shards:
 
-GitHub Actions runs `.github/workflows/update-avatar-catalog.yml` every 2 hours. The updater crawls supported public avatar indexes, merges exact `avtr_` IDs, and writes `docs/catalog.txt`.
+`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog-shards/`
 
-## VRChat world setup
+## Primary source
 
-In Unity open `Crystal GUIs -> Configure Remote Catalog` and use:
+The automatic updater now uses Prismic's current public PAS database files as the bulk source:
 
-`https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.8/catalog.txt`
+- main/PC metadata
+- Quest/Android compatibility
+- iOS compatibility
 
-Enable **Prefer remote** and **Load when world starts**.
+The old alphabet crawler is no longer the main discovery system. The bulk database is processed directly.
 
-The world still keeps its bundled local catalog as a fallback if the remote catalog cannot be downloaded.
+## Search shards
 
-## VRCNDb
+The full Prismic dataset is split into small first-character shards so a VRChat world does not need to download one massive multi-million-row text file.
 
-VRCNDb remains optional. Do not copy VRCNext's private build secret. Only configure the `CRYSTAL_VRCNDB_KEY` Actions secret if the VRCNDb operator gives you an authorized key.
+Avatar-name and creator-name initials both feed the shards, so the in-world browser can search by either.
 
+## Optional providers
 
-## Rate-limit handling
+AvtrDB v3 support uses the current VRCX provider endpoint:
 
-The updater now backs off on HTTP 429 responses and stops using a provider for the rest of that run after a 403/429 instead of hammering it.
+`https://api.avtrdb.com/v3/avatar/search/vrcx`
 
-If every enabled provider is blocked for a discovery seed, the crawler keeps that seed as its resume position instead of skipping ahead and leaving holes in the alphabet.
+It is optional because rate-limit and anti-abuse requirements can change.
 
-Runs are serialized with GitHub Actions concurrency, and the crawler uses smaller batches to reduce provider load.
+VRCNDb is optional and requires an authorized key.
+
+VRCDB is not scraped because its current public documentation does not publish a supported external API contract.
+
+## Schedule
+
+GitHub Actions refreshes the Prismic-derived catalog every 6 hours.
