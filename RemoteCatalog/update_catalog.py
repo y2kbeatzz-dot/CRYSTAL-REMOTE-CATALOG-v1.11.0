@@ -198,8 +198,11 @@ def save(rows):
         "# Crystal remote avatar catalog",
         "# Avatar Name|Creator Name|Creator ID|Avatar ID|Source",
     ]
-    for aid in sorted(rows):
-        r = rows[aid]
+    ordered = sorted(
+        rows.values(),
+        key=lambda r: (clean(r.get("name")).casefold(), r.get("id", "")),
+    )
+    for r in ordered:
         lines.append("|".join([
             clean(r["name"]),
             clean(r["creator"]),
