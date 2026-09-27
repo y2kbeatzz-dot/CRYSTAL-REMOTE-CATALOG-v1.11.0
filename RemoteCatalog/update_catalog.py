@@ -1,22 +1,23 @@
 #!/usr/bin/env python3
 """
-Crystal Avatar Catalog updater v1.9
+Crystal Avatar Catalog updater v1.9.1
 
-Primary source:
-  Prismic's current public PAS database files:
-    pasavtrdb.txt      (main/PC metadata)
-    pasavtrdb_qst.txt  (Quest/Android compatibility)
-    pasavtrdb_ios.txt  (iOS compatibility)
+Automatic providers:
+  AvtrDB v3
+  avtr.zip
+  VRCDB
+  PAW
+  NSVR
+  VRCWB
 
-Supplementary sources are optional:
-  AvtrDB v3 / VRCX provider format
-  Avtr.icu
-  VRCNDb (authorized key only)
+Optional:
+  VRCNDb with an authorized key
 
 Outputs:
-  docs/catalog.txt                small "hot" fallback catalog
-  docs/catalog-shards/a.txt ...   full Prismic search shards
-  docs/catalog-shards/index.txt   shard metadata
+  docs/catalog-master.txt
+  docs/catalog.txt
+  docs/catalog-shards/*.txt
+  docs/catalog-state.json
 """
 
 import hashlib
@@ -26,43 +27,45 @@ import os
 import re
 import secrets
 import shutil
-import struct
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
-OUT = DOCS / "catalog.txt"
+MASTER = DOCS / "catalog-master.txt"
+HOT = DOCS / "catalog.txt"
 STATE = DOCS / "catalog-state.json"
 SHARDS = DOCS / "catalog-shards"
 
-UA = "CrystalVRChatCatalogUpdater/1.9.0"
+UA = "CrystalVRChatCatalogUpdater/1.9.1"
+
+MAX_ROWS = int(os.getenv("CRYSTAL_MAX_ROWS", "350000"))
+SEEDS_PER_RUN = int(os.getenv("CRYSTAL_SEEDS_PER_RUN", "32"))
+RESULTS_PER_QUERY = int(os.getenv("CRYSTAL_RESULTS_PER_QUERY", "750"))
+DELAY = float(os.getenv("CRYSTAL_DELAY_SECONDS", "0.8"))
 HOT_ROWS = int(os.getenv("CRYSTAL_HOT_ROWS", "12000"))
-USE_PRISMIC = os.getenv("CRYSTAL_ENABLE_PRISMIC", "1") != "0"
-USE_AVTRDB = os.getenv("CRYSTAL_ENABLE_AVTRDB", "0") != "0"
-USE_ICU = os.getenv("CRYSTAL_ENABLE_AVTRICU", "0") != "0"
+
 VRCN_KEY = os.getenv("CRYSTAL_VRCNDB_KEY", "").strip()
-
-PRISMIC_PRIMARY = [
-    "https://gist.githubusercontent.com/Mwr247/a80c1f9060fc4fd46a8f00d589c47c5a/raw/pasavtrdb.txt",
-    "https://gist.githubusercontent.com/Mwr247/a80c1f9060fc4fd46a8f00d589c47c5a/raw/pasavtrdb_qst.txt",
-    "https://gist.githubusercontent.com/Mwr247/a80c1f9060fc4fd46a8f00d589c47c5a/raw/pasavtrdb_ios.txt",
-]
-PRISMIC_BACKUP = [
-    "https://prismic.net/vrc/pasavtrdb.txt",
-    "https://prismic.net/vrc/pasavtrdb_qst.txt",
-    "https://prismic.net/vrc/pasavtrdb_ios.txt",
-]
-
-STATIC_BYTES = bytes([
-    208, 29, 107, 36, 251, 69, 122, 14,
-    67, 204, 171, 246, 106, 38, 183, 224
-])
+VRCX_ID = os.getenv("CRYSTAL_VRCX_ID", "").strip()
 
 AVTR_ID = re.compile(r"^avtr_[0-9a-fA-F-]{36}$")
 SHARD_KEYS = list("abcdefghijklmnopqrstuvwxyz0123456789") + ["_"]
+
+PROVIDERS = [
+    ("AvtrDB", "https://api.avtrdb.com/v3/avatar/search/vrcx"),
+    ("avtr.zip", "https://vrcx.avtr.zip"),
+    ("VRCDB", "https://vrcx.vrcdb.com/avatars/Avatar/VRCX"),
+    ("PAW", "https://paw-api.amelia.fun/vrcx_search"),
+    ("NSVR", "https://avtr.nekosunevr.co.uk/vrcx_search"),
+    ("VRCWB", "https://avatar.worldbalancer.com/vrcx_search.php"),
+]
+
+
+class ProviderBlocked(Exception):
+    pass
 
 
 def clean(value):
@@ -75,205 +78,204 @@ def clean(value):
     )
 
 
-def request_bytes(url, timeout=90):
-    req = urllib.request.Request(
-        url,
-        headers={"User-Agent": UA, "Accept": "*/*"},
-    )
-    with urllib.request.urlopen(req, timeout=timeout) as response:
-        return response.read()
-
-
 def request_json(url, headers=None, timeout=30):
-    req = urllib.request.Request(
-        url,
-        headers=headers or {"User-Agent": UA, "Accept": "application/json"},
-    )
-    with urllib.request.urlopen(req, timeout=timeout) as response:
-        return json.loads(response.read().decode("utf-8", "replace"))
+    headers = dict(headers or {})
+    headers.setdefault("User-Agent", UA)
+    headers.setdefault("Accept", "application/json")
+    headers.setdefault("Referer", "https://vrcx.app")
 
+    if VRCX_ID:
+        headers.setdefault("VRCX-ID", VRCX_ID)
 
-def download_with_fallback(index):
-    errors = []
-    for url in (PRISMIC_PRIMARY[index], PRISMIC_BACKUP[index]):
+    delays = (0, 5, 15)
+
+    for attempt, wait in enumerate(delays):
+        if wait:
+            time.sleep(wait)
+
+        req = urllib.request.Request(url, headers=headers)
+
         try:
-            print("Downloading", url)
-            return request_bytes(url)
-        except Exception as exc:
-            errors.append(f"{url}: {exc}")
-    raise RuntimeError("Prismic download failed: " + " | ".join(errors))
+            with urllib.request.urlopen(req, timeout=timeout) as response:
+                raw = response.read().decode("utf-8", "replace")
+                return json.loads(raw)
+
+        except urllib.error.HTTPError as exc:
+            if exc.code == 429:
+                if attempt < len(delays) - 1:
+                    continue
+                raise ProviderBlocked("HTTP 429")
+
+            if exc.code == 403:
+                raise ProviderBlocked("HTTP 403")
+
+            if 500 <= exc.code < 600 and attempt < len(delays) - 1:
+                continue
+
+            raise
 
 
-class Reader:
-    def __init__(self, data):
-        self.data = data
-        self.pos = 0
+def normalize_platform(obj):
+    values = []
 
-    def remaining(self):
-        return len(self.data) - self.pos
+    for key in (
+        "platform",
+        "platforms",
+        "supportedPlatforms",
+        "supported_platforms",
+        "platformCodes",
+        "platform_codes",
+    ):
+        if obj.get(key) is not None:
+            values.append(obj.get(key))
 
-    def read(self, count):
-        end = self.pos + count
-        if end > len(self.data):
-            raise ValueError("read beyond end of PAS data")
-        out = self.data[self.pos:end]
-        self.pos = end
-        return out
+    for key in ("unityPackages", "unity_packages", "packages", "builds"):
+        value = obj.get(key)
 
-    def byte(self):
-        return self.read(1)[0]
+        if isinstance(value, list):
+            for item in value:
+                if not isinstance(item, dict):
+                    continue
 
-    def int24(self):
-        b = self.read(3)
-        return (b[0] << 16) | (b[1] << 8) | b[2]
+                for pkey in (
+                    "platform",
+                    "platforms",
+                    "supportedPlatforms",
+                    "supported_platforms",
+                ):
+                    if item.get(pkey) is not None:
+                        values.append(item.get(pkey))
 
-    def int32_array(self, count):
-        raw = self.read(count * 4)
-        return struct.unpack("<" + ("i" * count), raw)
+    tokens = []
+
+    def unpack(value):
+        if isinstance(value, str):
+            tokens.extend(
+                x for x in re.split(r"[\s,;+|/]+", value.lower())
+                if x
+            )
+        elif isinstance(value, list):
+            for item in value:
+                unpack(item)
+        elif isinstance(value, dict):
+            for key, enabled in value.items():
+                if enabled:
+                    unpack(key)
+
+    for value in values:
+        unpack(value)
+
+    t = set(tokens)
+
+    pc = bool(t & {
+        "w", "pc", "windows", "standalonewindows",
+        "standalone_windows", "win"
+    })
+    android = bool(t & {
+        "a", "android", "quest", "standaloneandroid",
+        "standalone_android"
+    })
+    ios = bool(t & {"i", "ios"})
+
+    if pc and android and ios:
+        return "PC+Android+iOS"
+    if pc and android:
+        return "PC+Android"
+    if pc and ios:
+        return "PC+iOS"
+    if android and ios:
+        return "Android+iOS"
+    if pc:
+        return "PC"
+    if android:
+        return "Android"
+    if ios:
+        return "iOS"
+    return "Unknown"
 
 
-def decode_avatar_id(block, iv):
-    crypt = bytearray(block)
+def merge_platform(a, b):
+    joined = (clean(a) + "+" + clean(b)).lower()
 
-    for i in range(len(crypt) - 1, -1, -1):
-        prev = len(crypt) - 1 if i == 0 else i - 1
-        crypt[i] = crypt[i] ^ crypt[prev] ^ iv[i]
+    pc = "pc" in joined or "windows" in joined
+    android = "android" in joined or "quest" in joined
+    ios = "ios" in joined
 
-    for i, value in enumerate(crypt):
-        crypt[i] = ((value >> 4) | ((value << 4) & 0xFF)) & 0xFF
+    if pc and android and ios:
+        return "PC+Android+iOS"
+    if pc and android:
+        return "PC+Android"
+    if pc and ios:
+        return "PC+iOS"
+    if android and ios:
+        return "Android+iOS"
+    if pc:
+        return "PC"
+    if android:
+        return "Android"
+    if ios:
+        return "iOS"
+    return "Unknown"
 
-    hex_string = "".join(f"{b:02x}" for b in reversed(crypt))
 
-    return (
-        "avtr_"
-        + hex_string[0:8] + "-"
-        + hex_string[8:12] + "-"
-        + hex_string[12:16] + "-"
-        + hex_string[16:20] + "-"
-        + hex_string[20:32]
+def normalize_result(obj, source):
+    if not isinstance(obj, dict):
+        return None
+
+    avatar_id = (
+        obj.get("id")
+        or obj.get("Id")
+        or obj.get("avatarId")
+        or obj.get("avatar_id")
+        or obj.get("vrc_id")
+        or ""
     )
 
+    name = (
+        obj.get("name")
+        or obj.get("Name")
+        or obj.get("avatarName")
+        or ""
+    )
 
-def dynamic_key(random_bytes):
-    return bytes(a ^ b for a, b in zip(random_bytes, STATIC_BYTES))
+    author_name = (
+        obj.get("authorName")
+        or obj.get("AuthorName")
+        or obj.get("author_name")
+        or obj.get("creatorName")
+        or ""
+    )
 
+    author_id = (
+        obj.get("authorId")
+        or obj.get("AuthorId")
+        or obj.get("author_id")
+        or obj.get("creatorId")
+        or ""
+    )
 
-def parse_aux_database(data):
-    r = Reader(data)
+    image = (
+        obj.get("thumbnailImageUrl")
+        or obj.get("imageUrl")
+        or obj.get("image_url")
+        or ""
+    )
 
-    if r.read(3) != b"PAS":
-        raise ValueError("PAS header not found")
+    avatar_id = clean(avatar_id)
+    name = clean(name)
 
-    r.read(2 + 3 + 3 + 2)
-    file_avatars = r.int24()
-    r.read(3 + 1)
-
-    key = dynamic_key(r.read(16))
-    avatar_ids = r.read(file_avatars * 16)
-
-    ids = set()
-
-    for i in range(file_avatars):
-        ids.add(decode_avatar_id(
-            avatar_ids[i * 16:(i + 1) * 16],
-            key
-        ))
-
-    return ids
-
-
-def parse_main_database(data, quest_ids, ios_ids):
-    r = Reader(data)
-
-    if r.read(3) != b"PAS":
-        raise ValueError("PAS header not found")
-
-    r.read(2)
-    avatar_count = r.int24()
-    author_count = r.int24()
-
-    date_arr = r.read(2)
-    date_num = (((date_arr[0] << 8) + date_arr[1]) >> 3)
-    year = (date_num >> 9) + 16
-    month = (date_num >> 5) & 15
-    day = date_num & 31
-    last_update = f"20{year:02d}-{month:02d}-{day:02d}"
-
-    file_avatars = r.int24()
-    r.int24()
-    r.byte()
-
-    key = dynamic_key(r.read(16))
-    avatar_id_bytes = r.read(file_avatars * 16)
-
-    r.int32_array(file_avatars)
-    author_ids = r.int32_array(file_avatars)
-
-    strings = r.read(r.remaining()).decode("utf-8", "replace")
-    parts = strings.split("\n", 1)
-
-    if len(parts) < 2:
-        raise ValueError("Malformed Prismic string block")
-
-    author_names = [s[::-1] for s in parts[0].split("\r")]
-    avatar_lines = parts[1].split("\r")
-
-    if len(avatar_lines) < file_avatars:
-        raise ValueError("Prismic avatar list shorter than expected")
-
-    def iterator():
-        for i in range(file_avatars):
-            avatar_id = decode_avatar_id(
-                avatar_id_bytes[i * 16:(i + 1) * 16],
-                key,
-            )
-
-            fields = avatar_lines[i].split("\t")
-            name = fields[0][::-1] if fields else ""
-
-            author_index = author_ids[i] & 524287
-            author = (
-                author_names[author_index]
-                if author_index < len(author_names)
-                else "Unknown"
-            )
-
-            android = avatar_id in quest_ids
-            ios = avatar_id in ios_ids
-
-            if android and ios:
-                platform = "PC+Android+iOS"
-            elif android:
-                platform = "PC+Android"
-            elif ios:
-                platform = "PC+iOS"
-            else:
-                platform = "PC"
-
-            yield {
-                "id": avatar_id,
-                "name": name,
-                "creator": author,
-                "creator_id": "",
-                "source": "Prismic",
-                "platform": platform,
-            }
+    if not AVTR_ID.match(avatar_id) or not name:
+        return None
 
     return {
-        "avatar_count": avatar_count,
-        "author_count": author_count,
-        "file_avatars": file_avatars,
-        "last_update": last_update,
-        "entries": iterator(),
+        "name": name,
+        "creator": clean(author_name) or "Unknown Creator",
+        "creator_id": clean(author_id),
+        "id": avatar_id,
+        "source": source,
+        "platform": normalize_platform(obj),
+        "image": clean(image),
     }
-
-
-def shard_key(value):
-    value = clean(value).lower()
-    for ch in value:
-        if "a" <= ch <= "z" or "0" <= ch <= "9":
-            return ch
-    return "_"
 
 
 def row_line(row):
@@ -284,48 +286,241 @@ def row_line(row):
         clean(row.get("id")),
         clean(row.get("source")),
         clean(row.get("platform") or "Unknown"),
+        clean(row.get("image")),
     ])
 
 
-def save_hot(rows):
+def parse_row(line):
+    parts = line.rstrip("\n").split("|")
+
+    if len(parts) < 5:
+        return None
+
+    row = {
+        "name": parts[0],
+        "creator": parts[1],
+        "creator_id": parts[2],
+        "id": parts[3],
+        "source": parts[4],
+        "platform": parts[5] if len(parts) > 5 else "Unknown",
+        "image": parts[6] if len(parts) > 6 else "",
+    }
+
+    if not AVTR_ID.match(clean(row["id"])):
+        return None
+
+    return row
+
+
+def load_master():
+    rows = {}
+
+    if MASTER.exists():
+        source = MASTER
+    elif HOT.exists():
+        source = HOT
+    else:
+        return rows
+
+    for line in source.read_text(encoding="utf-8", errors="replace").splitlines():
+        if not line or line.startswith("#"):
+            continue
+
+        row = parse_row(line)
+
+        if row:
+            rows[row["id"]] = row
+
+    return rows
+
+
+def merge_row(rows, incoming):
+    aid = incoming["id"]
+    current = rows.get(aid)
+
+    if current is None:
+        if len(rows) >= MAX_ROWS:
+            return False
+
+        rows[aid] = incoming
+        return True
+
+    if incoming.get("name"):
+        current["name"] = incoming["name"]
+
+    if incoming.get("creator") and incoming["creator"] != "Unknown Creator":
+        current["creator"] = incoming["creator"]
+
+    if incoming.get("creator_id"):
+        current["creator_id"] = incoming["creator_id"]
+
+    if incoming.get("image"):
+        current["image"] = incoming["image"]
+
+    current["platform"] = merge_platform(
+        current.get("platform", "Unknown"),
+        incoming.get("platform", "Unknown"),
+    )
+
+    sources = set(
+        x for x in clean(current.get("source")).split("+")
+        if x
+    )
+    sources.add(incoming["source"])
+    current["source"] = "+".join(sorted(sources))
+
+    return False
+
+
+def query_provider(label, base_url, seed):
+    query = urllib.parse.urlencode({
+        "search": seed,
+        "n": RESULTS_PER_QUERY,
+    })
+
+    payload = request_json(base_url + "?" + query)
+
+    if isinstance(payload, list):
+        return payload
+
+    if isinstance(payload, dict):
+        for key in ("results", "avatars", "data", "items"):
+            if isinstance(payload.get(key), list):
+                return payload[key]
+
+    return []
+
+
+def query_vrcndb(seed):
+    if not VRCN_KEY:
+        return []
+
+    query = urllib.parse.urlencode({
+        "limit": min(RESULTS_PER_QUERY, 500),
+        "page": 1,
+        "q": seed,
+    })
+
+    path_query = "/api/search.php?" + query
+    url = "https://db.vrcnext.com" + path_query
+
+    ts = str(int(time.time()))
+    nonce = secrets.token_hex(8)
+
+    canonical = "\n".join([
+        ts,
+        nonce,
+        "GET",
+        path_query,
+        UA,
+    ])
+
+    sig = hmac.new(
+        VRCN_KEY.encode(),
+        canonical.encode(),
+        hashlib.sha256,
+    ).hexdigest()
+
+    payload = request_json(
+        url,
+        headers={
+            "User-Agent": UA,
+            "Accept": "application/json",
+            "X-VRCN-Ts": ts,
+            "X-VRCN-Nonce": nonce,
+            "X-VRCN-Sig": sig,
+        },
+    )
+
+    if isinstance(payload, list):
+        return payload
+
+    if isinstance(payload, dict):
+        return payload.get("results", [])
+
+    return []
+
+
+def build_seeds():
+    seeds = [
+        a + b
+        for a in "abcdefghijklmnopqrstuvwxyz"
+        for b in "abcdefghijklmnopqrstuvwxyz"
+    ]
+    seeds += [f"{n:02d}" for n in range(100)]
+    seeds += [
+        "vr", "vrc", "avatar", "quest", "android",
+        "pc", "furry", "anime", "robot", "cat", "fox",
+    ]
+    return seeds
+
+
+def load_state(total):
+    if not STATE.exists():
+        return {"index": 0, "total": total}
+
+    try:
+        state = json.loads(STATE.read_text(encoding="utf-8"))
+    except Exception:
+        return {"index": 0, "total": total}
+
+    if state.get("total") != total:
+        return {"index": 0, "total": total}
+
+    return state
+
+
+def shard_key(value):
+    value = clean(value).lower()
+
+    for ch in value:
+        if "a" <= ch <= "z" or "0" <= ch <= "9":
+            return ch
+
+    return "_"
+
+
+def write_outputs(rows, state):
     DOCS.mkdir(parents=True, exist_ok=True)
 
-    unique = {}
-    for row in rows:
-        aid = clean(row.get("id"))
-        if AVTR_ID.match(aid):
-            unique[aid] = row
-
     ordered = sorted(
-        unique.values(),
-        key=lambda r: (
-            clean(r.get("name")).casefold(),
-            clean(r.get("id")),
+        rows.values(),
+        key=lambda row: (
+            clean(row.get("name")).casefold(),
+            clean(row.get("id")),
         ),
     )
 
-    lines = [
-        "# Crystal remote avatar hot catalog",
-        "# Avatar Name|Creator Name|Creator ID|Avatar ID|Source|Platform",
+    master_lines = [
+        "# Crystal avatar master catalog",
+        "# Avatar Name|Creator Name|Creator ID|Avatar ID|Source|Platform|Image",
     ]
-    lines.extend(row_line(row) for row in ordered)
+    master_lines.extend(row_line(row) for row in ordered)
 
-    OUT.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    MASTER.write_text(
+        "\n".join(master_lines) + "\n",
+        encoding="utf-8",
+    )
 
+    if len(ordered) <= HOT_ROWS:
+        hot = ordered
+    else:
+        step = len(ordered) / float(HOT_ROWS)
+        hot = [
+            ordered[min(len(ordered) - 1, int(i * step))]
+            for i in range(HOT_ROWS)
+        ]
 
-def rebuild_prismic():
-    main = download_with_fallback(0)
-    quest = download_with_fallback(1)
-    ios = download_with_fallback(2)
+    hot_lines = [
+        "# Crystal remote avatar hot catalog",
+        "# Avatar Name|Creator Name|Creator ID|Avatar ID|Source|Platform|Image",
+    ]
+    hot_lines.extend(row_line(row) for row in hot)
 
-    print("Parsing Quest/Android IDs...")
-    quest_ids = parse_aux_database(quest)
-
-    print("Parsing iOS IDs...")
-    ios_ids = parse_aux_database(ios)
-
-    print("Parsing main Prismic database...")
-    parsed = parse_main_database(main, quest_ids, ios_ids)
+    HOT.write_text(
+        "\n".join(hot_lines) + "\n",
+        encoding="utf-8",
+    )
 
     temp = DOCS / "catalog-shards.tmp"
 
@@ -336,63 +531,51 @@ def rebuild_prismic():
 
     handles = {}
 
-    def handle_for(key):
+    def fh(key):
         if key not in handles:
-            p = temp / f"{key}.txt"
-            fh = p.open("w", encoding="utf-8", newline="\n")
-            fh.write("# Crystal full avatar search shard\n")
-            fh.write("# Avatar Name|Creator Name|Creator ID|Avatar ID|Source|Platform\n")
-            handles[key] = fh
+            handle = (temp / f"{key}.txt").open(
+                "w",
+                encoding="utf-8",
+                newline="\n",
+            )
+            handle.write("# Crystal full search shard\n")
+            handle.write(
+                "# Avatar Name|Creator Name|Creator ID|Avatar ID|Source|Platform|Image\n"
+            )
+            handles[key] = handle
+
         return handles[key]
 
-    hot = []
-    total = parsed["file_avatars"]
-    stride = max(1, total // max(1, HOT_ROWS))
-    written = 0
-
-    for index, row in enumerate(parsed["entries"]):
-        aid = clean(row["id"])
-
-        if not AVTR_ID.match(aid) or not clean(row["name"]):
-            continue
-
+    for row in ordered:
         keys = {
-            shard_key(row["name"]),
-            shard_key(row["creator"]),
+            shard_key(row.get("name")),
+            shard_key(row.get("creator")),
         }
 
         line = row_line(row) + "\n"
 
         for key in keys:
-            handle_for(key).write(line)
+            fh(key).write(line)
 
-        if len(hot) < HOT_ROWS and index % stride == 0:
-            hot.append(row)
-
-        written += 1
-
-        if written % 100000 == 0:
-            print("Prismic rows processed:", written)
-
-    for fh in handles.values():
-        fh.close()
+    for handle in handles.values():
+        handle.close()
 
     for key in SHARD_KEYS:
-        p = temp / f"{key}.txt"
-        if not p.exists():
-            p.write_text(
-                "# Crystal full avatar search shard\n"
-                "# Avatar Name|Creator Name|Creator ID|Avatar ID|Source|Platform\n",
+        path = temp / f"{key}.txt"
+
+        if not path.exists():
+            path.write_text(
+                "# Crystal full search shard\n"
+                "# Avatar Name|Creator Name|Creator ID|Avatar ID|Source|Platform|Image\n",
                 encoding="utf-8",
             )
 
     (temp / "index.txt").write_text(
         "\n".join([
-            "# Crystal search shard index",
-            "source=Prismic",
-            f"avatars={written}",
-            f"authors={parsed['author_count']}",
-            f"prismic_last_update={parsed['last_update']}",
+            "# Crystal catalog shard index",
+            f"rows={len(ordered)}",
+            f"seed_index={state['index']}",
+            f"seed_total={state['total']}",
             "keys=" + ",".join(SHARD_KEYS),
             "",
         ]),
@@ -403,100 +586,118 @@ def rebuild_prismic():
         shutil.rmtree(SHARDS)
 
     temp.rename(SHARDS)
-    save_hot(hot)
 
-    print("Prismic complete:", written, "avatars; hot catalog:", len(hot))
-
-
-def avtrdb_v3(seed, limit=500):
-    query = urllib.parse.urlencode({"search": seed, "n": limit})
-    headers = {
-        "User-Agent": UA,
-        "Accept": "application/json",
-        "Referer": "https://vrcx.app",
-    }
-    crystal_id = os.getenv("CRYSTAL_VRCX_ID", "").strip()
-    if crystal_id:
-        headers["VRCX-ID"] = crystal_id
-    return request_json(
-        "https://api.avtrdb.com/v3/avatar/search/vrcx?" + query,
-        headers,
-    )
-
-
-def avtricu(seed, limit=100):
-    query = urllib.parse.urlencode({
-        "search": seed,
-        "limit": limit,
-        "offset": 0,
-    })
-    return request_json(
-        "https://avtr.icu/search?" + query,
-        {
-            "User-Agent": UA,
-            "Accept": "application/json",
-            "Referer": "https://avtr.icu/",
-        },
-    )
-
-
-def vrcndb(seed, limit=100):
-    if not VRCN_KEY:
-        return []
-
-    query = urllib.parse.urlencode({"limit": limit, "page": 1, "q": seed})
-    path_query = "/api/search.php?" + query
-    url = "https://db.vrcnext.com" + path_query
-
-    ts = str(int(time.time()))
-    nonce = secrets.token_hex(8)
-    canonical = "\n".join([ts, nonce, "GET", path_query, UA])
-    sig = hmac.new(
-        VRCN_KEY.encode(),
-        canonical.encode(),
-        hashlib.sha256,
-    ).hexdigest()
-
-    return request_json(
-        url,
-        {
-            "User-Agent": UA,
-            "Accept": "application/json",
-            "X-VRCN-Ts": ts,
-            "X-VRCN-Nonce": nonce,
-            "X-VRCN-Sig": sig,
-        },
+    STATE.write_text(
+        json.dumps(state, indent=2),
+        encoding="utf-8",
     )
 
 
 def main():
-    DOCS.mkdir(parents=True, exist_ok=True)
+    rows = load_master()
+    seeds = build_seeds()
+    state = load_state(len(seeds))
+    index = int(state.get("index", 0)) % len(seeds)
 
-    if USE_PRISMIC:
-        rebuild_prismic()
-    else:
-        print("Prismic disabled; existing catalog left unchanged.")
+    blocked = set()
+    added = 0
+    processed = 0
 
     print(
-        "Optional providers:",
-        "AvtrDBv3=" + str(USE_AVTRDB),
-        "Avtr.icu=" + str(USE_ICU),
-        "VRCNDb=" + str(bool(VRCN_KEY)),
+        "Starting rows:",
+        len(rows),
+        "seed:",
+        f"{index + 1}/{len(seeds)}",
     )
 
-    STATE.write_text(
-        json.dumps({
-            "version": "1.9.0",
-            "updated_unix": int(time.time()),
-            "prismic": USE_PRISMIC,
-            "avtrdb_v3": USE_AVTRDB,
-            "avtr_icu": USE_ICU,
-            "vrcndb": bool(VRCN_KEY),
-        }, indent=2),
-        encoding="utf-8",
-    )
+    for _ in range(SEEDS_PER_RUN):
+        seed = seeds[index]
+        print("seed", seed)
 
-    print("Catalog update complete.")
+        any_provider_responded = False
+
+        for label, url in PROVIDERS:
+            if label in blocked:
+                continue
+
+            try:
+                items = query_provider(label, url, seed)
+                any_provider_responded = True
+
+            except ProviderBlocked as exc:
+                print(label, "blocked for this run:", exc)
+                blocked.add(label)
+                continue
+
+            except Exception as exc:
+                print(label, "failed:", exc)
+                continue
+
+            print(label, "items", len(items))
+
+            for item in items:
+                row = normalize_result(item, label)
+
+                if row and merge_row(rows, row):
+                    added += 1
+
+            time.sleep(DELAY)
+
+        if VRCN_KEY and "VRCNDb" not in blocked:
+            try:
+                items = query_vrcndb(seed)
+                any_provider_responded = True
+
+                for item in items:
+                    row = normalize_result(item, "VRCNDb")
+
+                    if row and merge_row(rows, row):
+                        added += 1
+
+            except ProviderBlocked as exc:
+                print("VRCNDb blocked for this run:", exc)
+                blocked.add("VRCNDb")
+
+            except Exception as exc:
+                print("VRCNDb failed:", exc)
+
+        if not any_provider_responded:
+            print(
+                "No provider completed seed",
+                seed,
+                "- keeping it as the resume point."
+            )
+            break
+
+        index = (index + 1) % len(seeds)
+        processed += 1
+
+        if len(rows) >= MAX_ROWS:
+            print("Catalog row cap reached:", MAX_ROWS)
+            break
+
+    state = {
+        "version": "1.9.1",
+        "index": index,
+        "total": len(seeds),
+        "last_seed": seeds[index - 1] if processed else seeds[index],
+        "rows": len(rows),
+        "added_this_run": added,
+        "processed_this_run": processed,
+        "blocked_providers": sorted(blocked),
+        "updated_unix": int(time.time()),
+    }
+
+    write_outputs(rows, state)
+
+    print(
+        "Done. rows=",
+        len(rows),
+        "added=",
+        added,
+        "next seed=",
+        f"{index + 1}/{len(seeds)}",
+    )
 
 
 if __name__ == "__main__":
