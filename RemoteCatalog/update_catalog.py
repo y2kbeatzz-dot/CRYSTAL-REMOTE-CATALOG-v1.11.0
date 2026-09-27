@@ -41,7 +41,7 @@ STATE = DOCS / "catalog-state.json"
 SHARDS = DOCS / "catalog-shards"
 SEARCH2 = DOCS / "search2"
 
-UA = "CrystalVRChatCatalogUpdater/1.11.0"
+UA = "CrystalVRChatCatalogUpdater/1.11.1"
 
 MAX_ROWS = int(os.getenv("CRYSTAL_MAX_ROWS", "350000"))
 SEEDS_PER_RUN = int(os.getenv("CRYSTAL_SEEDS_PER_RUN", "32"))
@@ -289,6 +289,52 @@ def row_line(row):
         clean(row.get("platform") or "Unknown"),
         clean(row.get("image")),
     ])
+
+
+def ensure_search2_placeholders():
+    SEARCH2.mkdir(parents=True, exist_ok=True)
+
+    chars = "abcdefghijklmnopqrstuvwxyz0123456789_"
+
+    header = (
+        "# Crystal direct avatar-name search shard\n"
+        "# Avatar Name|Creator Name|Creator ID|Avatar ID|Source|Platform|Image\n"
+    )
+
+    for a in chars:
+        for b in chars:
+            path = SEARCH2 / f"{a}{b}.txt"
+
+            if not path.exists():
+                path.write_text(
+                    header,
+                    encoding="utf-8",
+                )
+
+    index_html = """<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Crystal Avatar Search Shards</title>
+  <style>
+    body{font-family:system-ui;background:#101014;color:#eee;max-width:850px;margin:60px auto;padding:0 20px}
+    a{color:#e26aa1} code{background:#1a1a21;padding:2px 6px;border-radius:6px}
+  </style>
+</head>
+<body>
+  <h1>Crystal Avatar Search Shards</h1>
+  <p>This folder stores two-character avatar-name search shards for the Crystal VRChat Avatar Browser.</p>
+  <p>Examples: <a href="cr.txt">cr.txt</a>, <a href="sh.txt">sh.txt</a>, <a href="ju.txt">ju.txt</a>.</p>
+  <p>Some files may be empty until the automatic crawler has processed that prefix.</p>
+</body>
+</html>
+"""
+
+    (SEARCH2 / "index.html").write_text(
+        index_html,
+        encoding="utf-8",
+    )
 
 
 def search2_path(seed):
@@ -635,6 +681,8 @@ def write_outputs(rows, state):
 
 
 def main():
+    ensure_search2_placeholders()
+
     rows = load_master()
     seeds = build_seeds()
     state = load_state(len(seeds))
