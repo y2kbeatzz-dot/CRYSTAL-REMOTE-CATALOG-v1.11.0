@@ -2,6 +2,11 @@ name: Update Avatar Catalog
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "RemoteCatalog/update_catalog.py"
+      - ".github/workflows/update-avatar-catalog.yml"
   schedule:
     - cron: "23 */6 * * *"
 
