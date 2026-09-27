@@ -1,0 +1,2 @@
+# Crystal direct avatar-name search shard
+# Avatar Name|Creator Name|Creator ID|Avatar ID|Source|Platform|Image
