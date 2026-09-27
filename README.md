@@ -80,3 +80,21 @@ Crystal v1.11 uses the SEARCH button / VRChat keyboard submit to pull the matchi
 ## Limits
 
 The system can only return avatars known to at least one configured public metadata provider. It cannot guarantee private, deleted, never-indexed, or otherwise unavailable avatars.
+
+
+## Unity v1.12.2 compatibility
+
+The current Unity crawler uses the VRCX-compatible AvtrDB v3 endpoint:
+
+`https://api.avtrdb.com/v3/avatar/search/vrcx`
+
+Requests use the same public request context VRCX expects:
+
+- `Referer: https://vrcx.app`
+- `VRCX-ID: <persistent UUID>`
+
+The GitHub updater now does the same. If `CRYSTAL_VRCX_ID` is not configured,
+it generates a UUID once and stores it in `docs/catalog-client-id.txt` so the
+identifier remains stable between scheduled runs.
+
+This ID is only a client identifier; it is not a VRChat account credential.
