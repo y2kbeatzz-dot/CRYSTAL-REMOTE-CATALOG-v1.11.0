@@ -1,42 +1,7 @@
-name: Update Avatar Catalog
-
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "17 */6 * * *"
-
-permissions:
-  contents: write
-
-jobs:
-  update:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Update catalog
-        env:
-          CRYSTAL_MAX_PAGES: "3"
-          CRYSTAL_SEEDS_PER_RUN: "8"
-          CRYSTAL_DELAY_SECONDS: "1.0"
-          CRYSTAL_ENABLE_AVTRDB: "1"
-          CRYSTAL_ENABLE_AVTRICU: "1"
-          CRYSTAL_VRCNDB_KEY: ${{ secrets.CRYSTAL_VRCNDB_KEY }}
-        run: python RemoteCatalog/update_catalog.py
-
-      - name: Commit catalog changes
-        run: |
-          git config user.name "crystal-catalog-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add docs/catalog.txt docs/catalog-state.json
-          if git diff --cached --quiet; then
-            echo "No catalog changes"
-            exit 0
-          fi
-          git commit -m "Update avatar catalog"
-          git push
+# Reference copy only.
+# The active GitHub Actions workflow is:
+# .github/workflows/update-avatar-catalog.yml
+#
+# Repository: https:#github.com/y2kbeatzz-dot/CRYSTAL-REMOTE-CATALOG-v1.11.0
+#
+# Do not move this file into .github/workflows without reviewing the active workflow.
