@@ -1,2 +1,4 @@
-Crystal Avatar Browser v1.9.5
-Remote catalog backend: current VRCX-compatible provider workflow
+Crystal Remote Catalog
+version=1.11.0
+repo=https://github.com/y2kbeatzz-dot/CRYSTAL-REMOTE-CATALOG-v1.11.0
+pages=https://y2kbeatzz-dot.github.io/CRYSTAL-REMOTE-CATALOG-v1.11.0/
