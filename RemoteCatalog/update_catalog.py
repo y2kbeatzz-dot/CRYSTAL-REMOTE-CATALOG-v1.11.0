@@ -669,6 +669,30 @@ def write_outputs(rows, state):
         encoding="utf-8",
     )
 
+    (temp / "index.html").write_text(
+        """<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Crystal Creator/Fallback Shards</title>
+  <style>
+    body{font-family:system-ui;background:#101014;color:#eee;max-width:850px;margin:60px auto;padding:0 20px;line-height:1.55}
+    a{color:#e26aa1} code{background:#1a1a21;padding:2px 6px;border-radius:6px}
+  </style>
+</head>
+<body>
+  <h1>Crystal Creator / Fallback Shards</h1>
+  <p>This directory stores one-character creator/fallback shards for the Crystal VRChat Avatar Browser.</p>
+  <p>Examples: <a href="a.txt">a.txt</a>, <a href="c.txt">c.txt</a>, <a href="0.txt">0.txt</a>.</p>
+  <p>The in-world browser uses these files for creator/fallback searching.</p>
+  <p><a href="../">Back to catalog home</a></p>
+</body>
+</html>
+""",
+        encoding="utf-8",
+    )
+
     if SHARDS.exists():
         shutil.rmtree(SHARDS)
 
