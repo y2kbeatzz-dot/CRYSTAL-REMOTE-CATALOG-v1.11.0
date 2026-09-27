@@ -1,4 +1,4 @@
-# Crystal Remote Avatar Catalog v1.9.2
+# Crystal Remote Avatar Catalog v1.9.5
 
 Automatic remote backend for the Crystal VRChat Avatar Browser.
 
@@ -66,3 +66,24 @@ Crystal v1.9.2 uses the delayed `SearchPressed -> CommitSearchPressed` flow for 
 `CRYSTAL_VRCX_ID` — optional VRCX-style provider header if you have a valid value to use.
 
 Do not copy private keys from other projects.
+
+
+## Unity local crawler v1.9.5
+
+The Unity-side Broad Catalog crawler now supports a true one-click continuous pass.
+
+With **Run continuously until complete** enabled, it no longer stops at the old `Seeds this run` batch limit. It continues from the saved resume point through the remaining discovery seeds.
+
+For example, a run that previously stopped at:
+
+`Seed 40 / 713: bn`
+
+can now continue automatically with:
+
+`bo -> bp -> ... -> zz`
+
+until the complete seed list finishes.
+
+The crawler still saves after every seed and includes **STOP AFTER CURRENT SEED** so the resume position is preserved safely.
+
+v1.9.5 also corrects the continuous-loop state declarations and the loop condition from the first v1.9.4 attempt.
