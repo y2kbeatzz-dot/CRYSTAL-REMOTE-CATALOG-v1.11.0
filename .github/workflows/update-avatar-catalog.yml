@@ -38,15 +38,19 @@ jobs:
           CRYSTAL_RESULTS_PER_QUERY: "750"
           CRYSTAL_DELAY_SECONDS: "0.8"
           CRYSTAL_HOT_ROWS: "12000"
-          CRYSTAL_VRCNDB_KEY: \${{ secrets.CRYSTAL_VRCNDB_KEY }}
-          CRYSTAL_VRCX_ID: \${{ secrets.CRYSTAL_VRCX_ID }}
+          CRYSTAL_VRCNDB_KEY: ${{ secrets.CRYSTAL_VRCNDB_KEY }}
+          CRYSTAL_VRCX_ID: ${{ secrets.CRYSTAL_VRCX_ID }}
         run: python RemoteCatalog/update_catalog.py
 
       - name: Commit catalog changes
         run: |
           git config user.name "crystal-catalog-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add docs/catalog.txt docs/catalog-master.txt docs/catalog-state.json docs/catalog-client-id.txt docs/catalog-shards docs/search2
+          git add docs/catalog.txt docs/catalog-master.txt docs/catalog-state.json docs/catalog-shards docs/search2
+          # A configured VRCX ID does not create a local client-ID file.
+          if [ -f docs/catalog-client-id.txt ]; then
+            git add docs/catalog-client-id.txt
+          fi
           if git diff --cached --quiet; then
             echo "No catalog changes"
             exit 0
