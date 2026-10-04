@@ -1,8 +1,10 @@
 # Crystal full search shard
 # Avatar Name|Creator Name|Creator ID|Avatar ID|Source|Platform|Image
+9 hvost tyan|SuperMan(RUS)Ёпта 1ba6|usr_d9fb66dc-b320-4ce3-a05b-15b7e27f1ba6|avtr_32b075be-02ed-440a-81ee-5f6188094ac0|VRCDB|Unknown|
 9'Temee FT Winged|9'Temee|usr_824be9c7-b8d7-4c53-95ab-2deaf4c1cfe2|avtr_da27183d-8b59-43f3-b2c4-323a378efc6d|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_5b23feb2-add7-41d3-b316-ddce88494cf6/1/256
 9'｝m_H（ds＋rPRTy＋|Qushey|usr_d676cace-246f-4fb3-b3af-cc5deca13454|avtr_ea179d25-848e-42e4-aaaf-f80bf778ee41|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_c102d0e8-f5c5-4307-994b-12d25bdf02eb/2/256
 90's jdm|MuteSpider|usr_223bcbfe-b12b-4aa6-97ee-0b3db489a0f3|avtr_d6585f3d-c5ed-43ec-9223-283c30569e92|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d93b90fd-eee4-4d33-b0cc-1ba649c4cb36/1/256
+90hz ybot|90Hz|usr_346020bd-576d-44bd-8344-af001ae0f4cd|avtr_f9216f4b-9b6d-41c6-b9d3-3f558a155ba7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8f952c48-1481-4861-acd3-e93954a3056a/3/256
 912dmane|912Dmane|usr_c83f0842-8875-44cc-bd38-00f4059d13ba|avtr_749e0a98-9dc9-4346-8711-7e5514806fcc|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e9f01fbc-4c72-45e5-9d4a-6efd8bb699c4/1/256
 91st BX|~Mizaliy Iudex~|usr_0d820eec-1bb2-4cf5-9914-308ec42df6e1|avtr_fe8413dd-1ea7-4fc2-b74b-52c26e8338da|VRCNDb|PC+Android|
 91st BX Commando|MΛX VΣЯƧƬΛPPΣП|usr_268b3251-50f5-4c90-bbcd-2278e37be33c|avtr_da34e30d-9358-4c22-bf65-215ff06fb9f5|PAW+VRCDB+VRCNDb|PC+Android|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_09cdc5fd-a7c4-4aa8-a124-f7ea464b9ae9/1/256
@@ -39,6 +41,7 @@
 9aqy63twvr3cjxga|MyAvatarCarrier|usr_584e1292-781a-4321-854e-88707d5754f4|avtr_f6abd235-9b14-4028-9767-ba288afad813|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_efcfd30c-f899-4a0c-93fd-704f0967f5ef/10/256
 9c8xvuwmmkxdtsdq|MyAvatarCarrier|usr_584e1292-781a-4321-854e-88707d5754f4|avtr_cba2e922-774d-40bd-aad5-c5b05f331840|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e6be476b-3c7c-450a-81c9-da632f78b3db/1/256
 9gagv1|GermanSoldat|usr_7a09135b-ebaf-4071-92be-e8a81c86e571|avtr_93bd29f0-1e1f-444f-9804-742a5e588990|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d86a9bc0-14d5-45c7-8ab8-d5e986627dde/1/256
+9hvostiy|Noiseless fbb4|usr_df59bc92-8a52-49ab-b0f7-98e5ec1cfbb4|avtr_fd0dc7b8-0187-4a8d-b4f6-cfc07734faf9|VRCDB|Unknown|
 9hzjf8ztdqvyr7ejgj|Frustrated|usr_c5a8a229-b34f-497c-b8ac-9e6ac4c54cfe|avtr_0e9308c0-05ae-4b00-84cb-ffa96fc65e68|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_36473d77-57d2-453b-8f1b-c66cc0d511b9/1/256
 9hzjf8ztdqvyr7ejgj|Uniraku|usr_c10297d1-5089-426d-b216-4f803cdde3a9|avtr_8e50d667-a4db-4d0a-8ecb-a87c48b6731d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_60bea6e9-f576-465d-bd32-d48467577169/1/256
 9j09f3hosinfh93hoihnfj3|Jinrain|usr_1a1713be-d547-4376-b663-12a68ae08c67|avtr_4d98760a-8480-40ac-946e-c912adad9c13|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ec8696fa-26e3-48f4-8dc6-57cc205732cc/1/256
@@ -78,6 +81,7 @@ Da Burd V6|9tails|usr_01ca894c-811f-424c-a5aa-383531b2fadd|avtr_3694c6f3-77eb-48
 daddy ghost v3|9d85b1b36aff491b942e5d530108c6c3|usr_cb8bb3d1-77a9-4d03-8f07-b3a33b3e7f6a|avtr_5596ed88-9fe9-4ba2-8ada-19c0a25a4ce5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_65777448-227e-4639-8709-01978abf29cf/1/256
 DC Seiki - 2 Gesture|9tails|usr_01ca894c-811f-424c-a5aa-383531b2fadd|avtr_1d783973-71ec-4759-b6b1-2dc0e222ed87|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_2bce61ef-8997-4b70-ab12-872db1eadea5/1/256
 ddd|911シ|usr_594ef7db-ad9b-47bb-ad40-352f1d856319|avtr_a15e2207-9246-4000-9e85-dab8f53f9481|VRCNDb|PC+Android|
+dih|927UPLOADERRE|usr_627bcdc3-becd-4029-914c-9cc6ba00b758|avtr_24c60c3c-dd60-41cd-a7a2-67cb72fdca4b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_692209e5-e75c-421b-95ad-7f341a2c322d/1/256
 dumb ex|9 teen|usr_516fe8b2-5bf4-40bd-a49a-10fd2219e112|avtr_7bc5a6c7-65b1-4364-8a67-1f4c7d866b75|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_97253a1f-351f-46ec-9724-4022be492a6b/1/256
 eeepu|9-11͎|usr_bc81a0bf-c342-4c78-9f83-30566adf0d23|avtr_c33e29f1-fa20-4107-8027-520b2a7c9908|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_33552f44-919d-4e27-a009-9697aa6c2b76/1/256
 Eepy V3 But weird ˸3|~9Phelo9~|usr_dfba4778-80e3-4358-850f-e90ebea60385|avtr_d3c1a853-f1f0-4757-abac-93dd98d96cd5|VRCNDb|PC+Android|
@@ -114,6 +118,8 @@ Tcat FT|9'Temee|usr_824be9c7-b8d7-4c53-95ab-2deaf4c1cfe2|avtr_adb10bd6-eb1c-43c5
 umbreon ˸b|916Abyss|usr_63fffbcc-9a41-4220-941b-e5b962885991|avtr_a78f067a-24ce-4567-9d97-ee9c4e286457|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_61f9b1f0-9be8-47ae-8baf-d7584263bb81/1/256
 xingchen|98个逸的微笑|usr_38c09228-b222-4d99-9358-a90171864db9|avtr_2fc9f2f8-9e6d-46ca-a4e3-28ce76f374c1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_72b85213-716b-4e3d-8257-fc0257e49b33/1/256
 ζ-9 striker|Oboro_|usr_beed5a67-1fc5-405e-8558-4c467432776d|avtr_9889decd-9255-4605-a096-d3511ee19eaa|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ce002f80-e3b3-4a3b-8a74-efdd07b90cdf/2/256
+ᴡᴀɴᴛ ʏᴏᴜʀ ᴘᴇʀɪᴏᴅ ɢᴏɴᴇ ғᴏʀ 9 ᴍᴏɴᴛʜs? hmu|¿ ᴋʟᴏᴡɴɪᴀᴄ ?|usr_937cbf61-9b7f-4477-b475-cecfa828474c|avtr_5009d219-99a7-443b-a2ed-9669dd98f3c7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_5815826a-5338-401f-a3d7-068312f7e6e8/1/256
+∗ 9lilshug on ig|ʀᴏᴅʀɪᴄᴋ 嗑药者|usr_ca853393-0f3e-4a8c-a515-187d7026d7a7|avtr_55d9e5d0-e2a4-47b5-9329-9e9ce0f6deb0|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_e19fbf80-44a3-4d64-90c2-eeec8399ce7f/1/256
 ∗90 day runǃ|quagen！|usr_8f21ceea-6db5-47b1-8481-5218842d34cc|avtr_441124fd-12d9-4b5e-8102-6b11c5670a16|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_cfe3e2e2-7c7e-4210-b164-a93bd912f72c/1/256
 さくらぺたる（91アバター対応）sample|琴うみ【ことうみ】|usr_892d4643-8be2-4e67-9b0d-20d54ada17c8|avtr_a4bad959-f63b-401e-89e8-d15c13c21d30|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b1c3b221-e4f9-4cd3-8bd4-442c987e27ac/1/256
 シェル・マリーネ（97アバター対応）|琴うみ【ことうみ】|usr_892d4643-8be2-4e67-9b0d-20d54ada17c8|avtr_06af5962-cb5d-4280-9787-3e25e7c2c78b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4d4f5570-8c69-4881-9842-6ab22795edd5/2/256
