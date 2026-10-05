@@ -5,7 +5,7 @@
 7 am|12 fractures|usr_d123e671-8808-4f71-b706-3e794cdbf1b6|avtr_b5595c29-a441-4000-83b5-22714ef01a89|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_836392ea-a925-4d7c-9cfa-ed21c4e17497/1/256
 7 de marzo chiquita （翎樱sakura）|Hatem （ง︡'-'︠）ง|usr_129ae8c3-501f-4e71-996d-cb61b6a9f794|avtr_f6f448d7-dc8a-4ab1-8280-5383fe37adbb|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_959fd7dd-e59f-4883-8871-0d93682699ab/1/256
 7 foot 2?ǃ?|Λｑｕｏｖａ|usr_114e0aa0-66e0-4359-80a7-ac60a7bf87db|avtr_483d1b5c-583c-4422-9b5d-8bae4b9f2c1c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ccf81156-bfbb-42a1-97f8-2832d24d98bb/1/256
-7 Minutes at Weskers|AfterXShock|usr_671da9e5-74ab-4e43-bfeb-4ec99760ae64|avtr_68de7241-5ee8-497d-8986-1aa50edad4c6|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_d2dc0f0d-7933-4976-91e1-04969e52472b/2/256
+7 minutes at weskers|AfterXShock|usr_671da9e5-74ab-4e43-bfeb-4ec99760ae64|avtr_68de7241-5ee8-497d-8986-1aa50edad4c6|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d2dc0f0d-7933-4976-91e1-04969e52472b/2/256
 7'11 dreadhead yn|Asuraʼ|usr_88218696-8bf1-47db-8846-9725b94a9a5e|avtr_9956dd45-28d3-45e5-bc29-916181217b0e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ded70003-ce18-44a3-968f-ca49e3730d89/1/256
 70's bomber dalek|GraveBrain|usr_80c294dc-bcc8-4ced-a10a-32029304401d|avtr_d6c707c0-ce24-4a84-a860-c84cc496164b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_846242fd-c0c7-427e-a8a1-d056c62d7982/1/256
 70's disco grandpa|Vintage_Vinnie|usr_56f4fe49-cbd4-4e51-b390-d3ac719a217c|avtr_a47ace44-2c8e-4978-ab93-96b7611e807d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a7e864c3-6879-452a-a522-5d993ad315fd/1/256
@@ -145,6 +145,7 @@ monarch's monipher|77Monarchy|usr_152fe313-8a24-42b8-9471-e0cee97cc7a9|avtr_0091
 monarch's priestess robin|77Monarchy|usr_152fe313-8a24-42b8-9471-e0cee97cc7a9|avtr_253d1790-27fb-421e-ba0f-4d21055d6bc9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7cc7e92c-0ceb-4409-93de-d83b3dd77f68/2/256
 movie toy freddy v4|ʟɪᴠᴇʟᴏᴠᴇ_ᴅᴛʜ723|usr_12b414c9-382a-4c53-9509-a93f0d4097c5|avtr_02ed6867-dc27-446a-aa46-88bbc61dc95c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_04aff6c7-0307-4999-8081-faf3851afe1c/4/256
 mrtrapx ＆ hattman springbonnie|ʟɪᴠᴇʟᴏᴠᴇ_ᴅᴛʜ723|usr_12b414c9-382a-4c53-9509-a93f0d4097c5|avtr_7635c86a-2f3d-4c8f-ba85-b7942ea08eb0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_76128012-b689-4fd9-8215-39d667999471/3/256
+nbight|7~Zander~7|usr_75bd7d5d-79c1-490e-96ee-b36cc49d2acb|avtr_567cc6bf-6136-41e6-9c0f-a0c3ac8ac740|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c0bd9527-5b12-4014-8571-95fb3fb329fe/1/256
 new route|ᴋ7 ！|usr_8f387d09-a3a0-406e-883c-05b953c05121|avtr_03f63440-f27d-4036-9d5c-12be41f41227|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a4069fac-a6cc-4b5e-b0d3-e094db8db444/1/256
 ngk guess|7th Floor|usr_35e42fa7-5d9c-44c0-8484-1921b941d1e0|avtr_03b5453b-dc64-42c0-9c6d-11e9ba8b0005|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ed228180-1dc0-4d93-80ed-7a8446ac4ae3/1/256
 ngk rindo|7th Floor|usr_35e42fa7-5d9c-44c0-8484-1921b941d1e0|avtr_0291d5dd-782f-4441-9ebe-38e699d647a9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_72b901f7-5e12-49c1-b1c6-6b45022cb188/1/256
@@ -166,6 +167,7 @@ sonekx|79247003153|usr_5738090b-f679-4dd7-8d55-2a7dbbd10218|avtr_8fad543e-22d0-4
 spider pjs|7endinShxts|usr_67fc1cd9-936b-4875-8b32-4d066a09da97|avtr_78bf2a57-a6ce-4432-b6ab-954ddad59780|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d9e9b764-dd5c-4aa4-a2c6-79fb0dc81465/1/256
 tgweaver bonnie|ʟɪᴠᴇʟᴏᴠᴇ_ᴅᴛʜ723|usr_12b414c9-382a-4c53-9509-a93f0d4097c5|avtr_9cca1146-3136-4908-8c8c-3579f49e3094|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_48a5de97-2ca2-43a9-9d15-b8ee127bcb7d/1/256
 the cinema 4d figure|ʟɪᴠᴇʟᴏᴠᴇ_ᴅᴛʜ723|usr_12b414c9-382a-4c53-9509-a93f0d4097c5|avtr_8f9972cf-6539-4b69-ad92-5df377d2adb7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1b28fcc9-708f-4daa-91eb-3bcf96957d46/1/256
+tinpet （male）|ƁöƁ77|usr_8576b68f-9093-49eb-a974-eef01ef03986|avtr_ca75d713-762b-43d0-81c3-4ad63ddeb27e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_13b8e443-9512-47d8-9193-6f2049e2c03a/1/256
 tucker- furality aqua|7imberwolf|usr_2b203b21-6135-4b1a-9a68-677c93b9589f|avtr_2242b0d3-f2e4-46f7-991f-6579b72df110|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_5b305df0-433d-4fe8-b180-b26890867c96/1/256
 unique 1uh999 shi∗|ᴋ7 ！|usr_8f387d09-a3a0-406e-883c-05b953c05121|avtr_737bcd15-0cfb-4ec1-aed6-06b992318dd5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_96914483-e05c-4fd5-be87-634e8a229a8b/1/256
 violet-fuchsia deer rikkor|7Nerezza|usr_5948df28-d547-43dc-ab49-0b880e13ce2d|avtr_16f2b38e-b9b0-40ee-92dd-e1d4b4ac7252|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_51f881e8-0111-4202-867c-36b925f1fded/3/256
