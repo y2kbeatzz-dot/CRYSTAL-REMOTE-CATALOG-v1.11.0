@@ -1,5 +1,5 @@
 # Crystal catalog shard index
-rows=172301
-seed_index=360
+rows=178543
+seed_index=384
 seed_total=787
 keys=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,0,1,2,3,4,5,6,7,8,9,_
