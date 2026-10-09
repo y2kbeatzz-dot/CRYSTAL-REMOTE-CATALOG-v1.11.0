@@ -1,5 +1,6 @@
 # Crystal full search shard
 # Avatar Name|Creator Name|Creator ID|Avatar ID|Source|Platform|Image
+'94 mazda miata|CodyHayzett|usr_7616beb1-46a2-4851-8c52-f6bc80f2998e|avtr_480861f5-8c4f-439d-ad1f-400ffc716acf|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6f4c5111-80db-4301-9f15-4074a16f23d0/2/256
 137 imp shǃt|9r137|usr_5d4951f8-a003-4816-bcdd-f1747f64c0de|avtr_f2789435-4c0c-4030-8ab0-c27fd346fe7b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_54ccd657-b493-4a1f-8c6b-e075a24799c9/1/256
 9 6 1-kz _i o- 4 3 1|Q̵͍͐̀|usr_93b89c4f-3ba7-4d22-8241-54983c095d74|avtr_2264cfb3-971f-4372-97e8-db482568ba0d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_18affeb4-1662-4983-b3ed-426456072f8b/2/256
 9 dance music hopv8|Freyna|usr_80d7d97c-35fd-4356-b653-2eb79ee6f936|avtr_76827525-9a1a-48d5-a8e2-7f61edc5f8b7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2c15d841-305f-42e0-86d5-5106df48955a/1/256
@@ -70,6 +71,7 @@
 96th regiment krieg pysker|datbirdonatree|usr_11f9d704-51f9-4a22-817d-a797133836e6|avtr_1157ba3e-bef2-421f-9e77-385cbe6b219d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b5949da2-0eed-404c-b71e-aa82bb94d11b/3/256
 96th regiment marksman krieg|datbirdonatree|usr_11f9d704-51f9-4a22-817d-a797133836e6|avtr_a990baab-2fd1-4ffe-aa1a-2b5b96803b52|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_fd8be574-4d15-4d48-987f-98aebdf09a32/3/256
 96th regiment specialist field engineer|datbirdonatree|usr_11f9d704-51f9-4a22-817d-a797133836e6|avtr_0ef3c267-4290-44ea-b5b4-1a1a34760648|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d157c86a-c92f-478c-b3e2-a2935c57d302/2/256
+97r6yzklks7ft2hu|MyAvatarCarrier|usr_584e1292-781a-4321-854e-88707d5754f4|avtr_98629d29-7d2a-4433-aa06-bd89cef2e753|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1d14bcb6-cc5c-4c7a-8664-b34e29b691f4/4/256
 98th trooper|IceHotCoffee145|usr_e4283fa8-c8bc-4652-af86-ffe26779c76f|avtr_16eea420-1222-4431-a698-46288eeac350|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_93fef0e7-abb7-4e0b-89f2-0a1ffc0754c2/1/256
 99 nights in the forest - the owl|Zack_v1107|usr_1c15c6cb-7112-4c3f-b047-5764a5deedfc|avtr_c124ed22-a9af-4b4f-a837-632094d18037|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_87bf79d5-4be4-41a1-8331-148bd66b8649/1/256
 996th （fge）|Dαrth Vαder|usr_4ccfe0a7-7809-408c-a247-cefde295fdb2|avtr_24e0a63c-6d70-4430-a097-6eb47d29ea1e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_63d25507-f3aa-4dd9-9f57-daef6454d3bf/1/256
@@ -108,6 +110,7 @@
 9vbatterycat_v2_avaar3|MIPOPOI|usr_77179752-91a9-43cb-8ff0-c8ee0b489eb3|avtr_6627d7b7-4925-4631-83ed-985637b0abac|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_66c42b70-3aab-47a9-b970-8632a1f1e0e4/1/256
 9xj1|我真的很爱你|usr_b80f78a1-8490-4e13-a525-caa9cdb6778a|avtr_898367d5-6d26-4e86-9065-e61a32ae82d4|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c71e42b2-3569-47f6-8487-9c2e4cd08b2d/1/256
 9xvostaya|Shiro13|usr_797e8dd8-3173-4513-b2ce-f6452ee6cd57|avtr_57ecec1f-1377-4175-bb8f-5a0763e65c48|VRCDB|Unknown|
+9zq7|technoqueen113|usr_309d29e8-e369-46a3-9279-99fa1038e4af|avtr_8c95550d-0bd5-453e-a885-0100a91ad569|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_cf4510b2-0b3e-47f9-9c14-a31a6c710c41/1/256
 9․0 mk3 1st|EngulfedSpaced5|usr_8107c409-76c0-4972-a00e-4d453ac80bea|avtr_384af7a0-920b-4bb8-9223-15c877361e82|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9a8d7d7a-1379-4bbc-8797-1cfdfed98757/1/256
 9․0 mk3 4th|ODST SPACE|usr_8107c409-76c0-4972-a00e-4d453ac80bea|avtr_c9e4dc74-f4d3-475e-8ffa-031dc7480afa|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_aabbbd46-01d7-45c4-b7dd-8c6c85b7ba2f/1/256
 9⁄11 on roblox|RealRasec|usr_aced30b7-456f-497d-b7c9-64131fd7acb5|avtr_49e315c5-f283-472a-94ce-778c4bb91d47|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_bdf23b7a-3547-47b3-9e34-7f81f2b5a612/1/256

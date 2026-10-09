@@ -1,5 +1,6 @@
 # Crystal full search shard
 # Avatar Name|Creator Name|Creator ID|Avatar ID|Source|Platform|Image
+0102_sdc zhao|5upporter|usr_823e3e63-d11a-4934-aac9-f44ee70a5ed7|avtr_2dc42b66-b5c3-4e0e-af63-4e98c1c6544e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_360cd1e8-d864-4b3b-91ce-9f18145d64d2/2/256
 0104_AK Cat|5upporter|usr_823e3e63-d11a-4934-aac9-f44ee70a5ed7|avtr_372f8ffa-a776-4e5a-88b9-e9a46c07c22b|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_ab597943-6ff9-4e20-9d11-12b4a083c109/2/256
 1st honor division kaiser dorn|503951502d674f3aa5ca766c847d5bb6|usr_0992ccf8-9b5c-45c8-9f25-99385fbd8bb7|avtr_765aae31-2807-4f19-bde9-28de8592f36b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4366d9e0-4685-4fdb-acba-24eff3b4ffe3/1/256
 465341|510_|usr_36f1a9f7-b491-421c-93df-519a7d763802|avtr_02834017-24a2-4110-8dba-7e8aa576f510|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_29b1c80c-7f9b-448b-be85-c12f27ac55a6/1/256
@@ -216,11 +217,13 @@ alta bendy ｜ bendy and the ink machine˸ remastered|卄ㄚ卩乇尺55|usr_e601
 anzu|5incerism|usr_d62ca372-35fa-40df-9377-9ebbc6b6e68c|avtr_410819da-4cf8-46c3-baba-56ca7c77f56e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_70209110-e539-4eb6-82c8-d35c49915a11/1/256
 anzu - kemono|5incerism|usr_d62ca372-35fa-40df-9377-9ebbc6b6e68c|avtr_a98d0a2e-7e54-4ad5-b580-a79bcdf56bfa|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_16621c47-f26e-4ced-a058-a5b21090aca9/1/256
 armless taidum|5nafprodude|usr_9e997ea0-1cb3-4ab9-8f70-0de0eb39a21c|avtr_7c5148d0-58d0-4015-8131-96d109276d89|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_eaabfc27-8f45-4590-80d5-65ce6c935326/1/256
+azn|573114d1v4|usr_71562a82-0137-4c00-a810-401e2e736580|avtr_244d33c3-9dae-454a-ae76-ada3237fb083|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a1d39dee-ac48-4352-9b6b-ed7e209f82bd/1/256
 baron ｜ beny and the untold secrets（official avatar）|卄ㄚ卩乇尺55|usr_e6013fe0-c988-46c6-86c8-fa94b80d91f7|avtr_edd1b9e9-9974-4991-b057-384da3175e54|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8ef76168-4c3a-47c6-8779-3a08c3b17284/1/256
 beta bendy - bendy and the ink machine|卄ㄚ卩乇尺55|usr_e6013fe0-c988-46c6-86c8-fa94b80d91f7|avtr_cf904632-7f6a-4ae0-98b3-d2fbf436eac7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4922cfaa-570c-4f12-b953-cad4052fe220/1/256
 beta bendy - source filmmaker|卄ㄚ卩乇尺55|usr_e6013fe0-c988-46c6-86c8-fa94b80d91f7|avtr_16a50399-f221-493d-94a5-47cc7874ded7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1536fea3-645c-44a3-abab-85acba118241/2/256
 big top ｛fnaf sotm｝|54_king|usr_61ef3b62-aed5-4b87-9af0-e7d160315f86|avtr_9ca769b8-2276-45c9-a066-07964f2cf358|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_13f931fc-baa8-4a2c-88f2-4dc29f1641f1/1/256
 bruh likes bbc|ʙʀᴜʜ585|usr_92f9c847-866c-479f-b915-cdb0a117b64a|avtr_f58c4b38-5101-4e79-9c9a-669da5cf1503|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_fe4b57e3-dbfc-436f-bd90-99b603acb29f/1/256
+buzzlightyear|5A5O|usr_c35a117f-41c7-45f9-810d-5654739fc683|avtr_b1209537-ab79-4814-bb03-2762b3c19a51|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f8751414-da5e-490c-b604-2f17cd19daf3/1/256
 cake ~ skip4d chibi|5ILLY_RABB1T|usr_7472f7db-0385-425e-a810-d93c133c855e|avtr_b9f2b9df-3cf0-44d9-bdc2-579736d7380c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f927961f-9666-4573-b6c7-39e904612305/1/256
 cargo-carrier skibdii toilet|52-xaddoM-12|usr_033c7eff-0973-4329-82d1-4b74bc645dc0|avtr_dfc5f9c7-11e2-4005-8b22-2b57fbcf65df|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_36e913fd-fad3-4404-8261-7ebce6e646f8/2/256
 closeup mx|5UP34|usr_e17b7203-4dd0-43be-86bb-a060543ff82e|avtr_c06dd8a3-2342-4cb8-98d0-684be7e2365b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_46679c08-2828-45d2-a3a9-3db1a6177f9d/2/256
@@ -247,6 +250,7 @@ Funk Mix BF （Low Poly）|_5IVES|usr_e17b7203-4dd0-43be-86bb-a060543ff82e|avtr_
 funny meme sans （this is not a crasher）|5nafprodude|usr_9e997ea0-1cb3-4ab9-8f70-0de0eb39a21c|avtr_244c54ad-ba4f-4757-b032-d11fca425538|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f639d1e1-7cf3-4be6-b81e-91c01263058a/2/256
 fuwatty|5UP34|usr_e17b7203-4dd0-43be-86bb-a060543ff82e|avtr_1b27be98-4b26-4042-a0da-5aac62077db3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3ec30d33-9f63-43e9-ace8-5347648f0f0c/1/256
 ghost deer|50051|usr_c421ad30-9f80-47cc-ae54-8544a82de562|avtr_ae5849ab-557f-40c7-bfcf-9c2291114555|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_dd39e31f-a18b-4e5a-913c-ad4fa66c4956/2/256
+gizmo_sample|胃すみ_55|usr_0df3fcde-54db-4a7c-9fc4-e493588807c2|avtr_1e47c245-8396-4059-8a73-24111b5d47ec|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_83a7159d-cb9b-4a22-bb09-7e370ac2f8b4/2/256
 gomphotherium steinheimense|54_king|usr_61ef3b62-aed5-4b87-9af0-e7d160315f86|avtr_00718e1b-cf84-449e-be71-4d1d51265e9d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2eb6e14c-3c29-40e6-8ddb-b6f1f8644554/1/256
 goofy|5StarQ|usr_258d8e84-9f90-4861-b582-ac2406c97179|avtr_1b07165a-2e13-443a-9812-d02547bc06b6|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6eb7471d-e705-4029-a69c-3351c13b4b52/2/256
 heaf|5StarQ|usr_258d8e84-9f90-4861-b582-ac2406c97179|avtr_a106c36f-7b9c-439c-a30b-88d2a106f93b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_091228b2-b0ee-4985-9719-cad9ba30673f/1/256
@@ -257,6 +261,7 @@ inkwrite ｜ rewritten cycle|卄ㄚ卩乇尺55|usr_e6013fe0-c988-46c6-86c8-fa94b
 jensk kasrkin wepaons|5nafprodude|usr_9e997ea0-1cb3-4ab9-8f70-0de0eb39a21c|avtr_ebad781c-b7e7-4bf7-ac7a-fbaab7c699a6|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ff0e55d6-6155-4964-91d8-86d67ad35f08/2/256
 kianaq!|561329|usr_09458ef7-b8ac-44f3-981b-6f2efc7ae23a|avtr_c1f91d06-884e-4ae7-9b20-758361e889d3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_fce83291-2866-4397-906e-2777e92d92c2/1/256
 kitty|52DePieMinimo|usr_5e9f4c28-09f2-4bda-becb-09bc649fbfa8|avtr_6efee60e-43f0-49bf-8159-05acc5b4ec38|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d01acd59-f5dc-4805-9cda-48407999da93/2/256
+kizknuckles2|5h0tz|usr_0e67d5be-d2ae-4c62-8073-f53279f0c91d|avtr_ea02b71a-3e0c-4d0f-9f10-825092b51508|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_78c458ce-fffd-4064-83e2-99b630d87872/1/256
 Knuckle Meme xD|5A7xD|usr_d1b490d1-7086-4764-b5de-6f933d42163d|avtr_2e32bf98-cd3d-49c7-b236-e68181ef6612|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_29fa4c3b-940c-4070-8b6b-bccdfff62437/1/256
 Knuckles Meme xD - Updated|5A7xD|usr_d1b490d1-7086-4764-b5de-6f933d42163d|avtr_a71d7373-a009-4b9f-b726-578c8958161a|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_1631acbc-d7bb-4393-be3d-1d4a1faac7fc/1/256
 lexi|5 ᴀᴍ|usr_45db24bf-9d26-43c2-963f-287f2b1ca3a3|avtr_6108756a-d09e-45f3-904a-f4cb7cdea82e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c332ca34-80cc-4b11-8f28-0aec6f3dedb9/1/256
@@ -301,6 +306,7 @@ ShapellCustomV1_1_0|5RNK0|usr_e47cab44-c18e-4f70-b8c1-dc15e5ba586f|avtr_90dba80e
 Sio_FT|斑鳩556|usr_6654e8a8-5684-40e4-9fd5-d1ef74adb133|avtr_8a1f3165-2e90-4154-bc90-a077c219d2eb|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_a2e008da-9382-4587-8ee1-42c98ec658f6/2/256
 sir|5513|usr_60a5a58e-09bf-4143-a3a6-29627931042b|avtr_fc571592-d290-4bf6-8e52-a477657b9f6c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_977f3bad-bb19-47ae-8304-7bcc55ac8abb/1/256
 small kittyween|5 gays|usr_b6edacbb-20fd-4465-a39e-3049a301814b|avtr_fef55b09-75be-4150-9c16-fb1dc1551f3b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c441e9fe-c4c3-42f9-897e-294dc2be9fd4/1/256
+smb1 marioǃ|5UP34|usr_e17b7203-4dd0-43be-86bb-a060543ff82e|avtr_89255320-cd58-42cf-b4c0-ace6f43c5b6e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9ee5fbfa-ff8e-497c-9aeb-f94d8e8abda9/2/256
 smb3 marioǃ|5UP34|usr_e17b7203-4dd0-43be-86bb-a060543ff82e|avtr_582ffe0c-c333-4503-a6bd-6f9e04965b29|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8bdcbcd6-eefb-4522-a2db-49b1f54a2227/1/256
 snoozen|505e06b2|usr_343f9c62-96b8-4d68-a6f2-ddbc5bb661e0|avtr_0d31b5c6-e781-468d-a17e-b8cbf6a6c478|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0ca1074d-8e31-4afe-bdea-cd9c646cee1b/1/256
 starz|ღ5sᴛᴀʀ_ʟᴜᴠღ|usr_2b37bb26-8d0f-4ab1-a6fb-9db302469c03|avtr_56691b95-f718-45e0-b5d5-174361a26327|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c787b650-377a-4d9f-aa69-3acd068bd7a1/1/256
