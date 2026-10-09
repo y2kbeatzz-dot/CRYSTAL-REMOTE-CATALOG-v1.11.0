@@ -2,6 +2,7 @@
 # Avatar Name|Creator Name|Creator ID|Avatar ID|Source|Platform|Image
 1982 yellow rabbit|ʟɪᴠᴇʟᴏᴠᴇ_ᴅᴛʜ723|usr_12b414c9-382a-4c53-9509-a93f0d4097c5|avtr_746ce3b1-0887-4cff-bdc4-4186d8d1d920|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b7d586d0-995b-4bfe-9839-ae8fcb33f45a/2/256
 7|yeyο|usr_cefe0a65-934c-46c3-b9ca-301b89296d37|avtr_1cc61679-fbe1-46cf-a657-2552b647549d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3374f2a4-ecbb-4f89-9f08-ff84c8ac913c/1/256
+7 11 mydei|Slushy08|usr_5529721b-61f9-40fd-af01-fb7d3de49d0c|avtr_75a4bd8a-230d-426d-ba12-d8e128d8af03|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_13e8eeb7-7983-4857-a9d3-5961b6a36603/1/256
 7 am|12 fractures|usr_d123e671-8808-4f71-b706-3e794cdbf1b6|avtr_b5595c29-a441-4000-83b5-22714ef01a89|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_836392ea-a925-4d7c-9cfa-ed21c4e17497/1/256
 7 Days to Supply|Sly Boots|usr_836a1180-d205-435f-8614-d3aa08cc2644|avtr_10093b6e-7ada-40d9-b3bb-1cf258993cd3|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_d7f801c3-3ae6-40fd-9a8a-49cefcfe0653/2/256
 7 de marzo chiquita （翎樱sakura）|Hatem （ง︡'-'︠）ง|usr_129ae8c3-501f-4e71-996d-cb61b6a9f794|avtr_f6f448d7-dc8a-4ab1-8280-5383fe37adbb|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_959fd7dd-e59f-4883-8871-0d93682699ab/1/256
@@ -130,6 +131,7 @@ blueman|7ֺ64|usr_3a1e06e3-0397-49dd-b9ed-ad7b5685a22f|avtr_192fc001-44e9-4c61-b
 boowly|7 ̲ 7|usr_a7b3c618-1105-4bf7-ad91-e7a464be260a|avtr_fd7be28b-a1d3-4101-8cbe-75d9b44745ab|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_50432378-199e-4220-ad40-06e7b4219aed/1/256
 boxxo|ƁöƁ77|usr_8576b68f-9093-49eb-a974-eef01ef03986|avtr_9da9cf46-69fe-427f-85eb-b95004297b2c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7f7e8c8c-fc12-49a5-bd96-dee5264551ea/1/256
 Brocoli Di Gi|7GamerChannel|usr_37c16972-d2bc-4685-8324-b2523e760801|avtr_ef105da2-be4f-41f3-b197-e6e32a5e8c5c|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_3cbe4478-9e86-42fc-90a4-9b9b377038c2/1/256
+brodyquest|7coolcpend7|usr_2f33cbc2-63f2-4c0c-99ba-743f87f54ebe|avtr_359ace9f-d7cc-41f5-a534-b3be1b0ddd80|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6bf16f14-a586-4d00-94ca-94782f10aa29/1/256
 chica|777Lynx|usr_fca95024-9e78-4184-8815-6169dcabb97b|avtr_b63651dc-b034-4c2e-89c8-a55772c3b7f1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f358788e-76d3-472d-ba6f-59a2b6480591/1/256
 chrome|7ٍْ͘3ٍْ͘7|usr_4f74a63a-88e1-4d3d-abde-71fdc5aad3c2|avtr_2f6c2140-25a0-49c0-8b7b-70b4b37ff2a8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_59953533-cbd2-4f61-8785-5e7bcb43e512/1/256
 Cinema 4D Motion Camera Man|ʟɪᴠᴇʟᴏᴠᴇ_ᴅᴛʜ723|usr_12b414c9-382a-4c53-9509-a93f0d4097c5|avtr_83aa97e3-3f85-47cb-891b-b20b82ae46fc|VRCNDb|PC+Android|
@@ -157,9 +159,11 @@ HD ITP Chica The Chicken|ʟɪᴠᴇʟᴏᴠᴇ_ᴅᴛʜ723|usr_12b414c9-382a-4c5
 hd itp freddy fazbear remastered|ʟɪᴠᴇʟᴏᴠᴇ_ᴅᴛʜ723|usr_12b414c9-382a-4c53-9509-a93f0d4097c5|avtr_c6526ede-fcbe-4a15-9ad0-c98f6dd3bb4b|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_34d3548b-9473-47ef-9175-d17b08ed8ccd/1/256
 HD ITP Freddy FiveBear V3|ʟɪᴠᴇʟᴏᴠᴇ_ᴅᴛʜ723|usr_12b414c9-382a-4c53-9509-a93f0d4097c5|avtr_c7f0e100-e991-4ed2-8153-343ab6671795|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_ec85865a-1d6f-47a1-8889-9fd2fdabc9e7/3/256
 holy․bpm|7upٰٰٰ|usr_b9768b77-9680-44f6-adb9-d2aeba53bc54|avtr_162d08bf-744e-4d22-8349-939460a466a0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ead23485-25f2-4670-ac6d-e00e58c0fd73/1/256
+homebyking|̵ᴋ̵̵ʜ̵̵7̵|usr_13caedce-0be4-473d-a1bb-e2d8437f2820|avtr_4e3741ac-6a5f-4119-9383-7df06269929c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1f1319a5-1bbc-4d1b-9cc1-7299d23d06d8/1/256
 hutao anuimation|7upٰٰٰ|usr_b9768b77-9680-44f6-adb9-d2aeba53bc54|avtr_e10149fb-aaa3-4c3c-ba04-1c0c371cd89a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ab00809c-3ab8-4f8d-a362-377255c6831e/1/256
 hxllxhound|762DV|usr_4c7c9733-93b2-4057-8344-9a999fa95da1|avtr_d703d9c0-a1dc-4094-9e4e-fa1269a66745|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9907bd6e-762d-49ea-9ed8-c2a6c3f74623/1/256
 IF|73 76 75|usr_e2d29a4d-de5a-40af-b661-2ee8d304538e|avtr_50ac9f2c-f518-4706-a289-eeddfee57720|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://s3-us-west-2.amazonaws.com/vrc-uploads/images/image_1200x900_2017-12-28_23-49-51.png
+Ill Rob Yo Granny|ᴋ7 ！|usr_8f387d09-a3a0-406e-883c-05b953c05121|avtr_ff5b4279-8a99-41e0-866e-11ff0c6b9a5a|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_c26cc4b8-e04d-461e-88a7-3017c989c3c3/1/256
 ironcat mark․ii|77 Stellaris|usr_93e7ad0b-f208-4bc4-befa-9f467f91e6a8|avtr_f053c802-0d56-4cdc-a844-d939e2a9996b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4a9846ff-783e-45a0-a474-e2e175da55f2/1/256
 itp yellow rabbit fucker|ʟɪᴠᴇʟᴏᴠᴇ_ᴅᴛʜ723|usr_12b414c9-382a-4c53-9509-a93f0d4097c5|avtr_be89a2ec-8738-4daa-8059-62513e290a76|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b0d50aef-338d-4118-b795-94474da013d2/1/256
 kara dbh|77Speedster|usr_f512524c-fc17-4a55-bae7-4fe83467e3d3|avtr_3567ff4b-05ac-496f-af1f-27d33a756586|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_963aa7bd-dffe-41c0-9a72-02bfa050c099/1/256
@@ -173,6 +177,7 @@ la chromeǃ|ᴋ7 ！|usr_8f387d09-a3a0-406e-883c-05b953c05121|avtr_878bdcba-361b
 laak7ǃ|ᴋ7 ！|usr_8f387d09-a3a0-406e-883c-05b953c05121|avtr_fd8724e7-261d-4e7b-8444-eabcb60449c9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3db957b5-ae73-41fa-b97f-c37d8dd8aedf/3/256
 Lexus LS 430 AD|7Field__X|usr_a91323d0-7697-4ebb-80a6-d4133c947bb4|avtr_9d769cca-9e31-4e38-a23a-053b89aaf925|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_33c8eac6-b4c7-496e-9c5c-f85ef74b9320/1/256
 livetwin lil-la|ƁöƁ77|usr_8576b68f-9093-49eb-a974-eef01ef03986|avtr_60205842-72e3-4a97-8519-42b96f1ad01e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_deca2463-ac08-4f4d-b10a-e12f2dbcce82/1/256
+long ye|黑暗虎殿71d6|usr_6a603aef-95a5-4cd8-88d8-2d50186f4d42|avtr_f8bf4d4c-8213-4f6a-87b2-deb379738c1b|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_abd00ba2-82cb-4a0a-927e-e212787b9d6b/1/256
 luhyu|ᴋ7 ！|usr_8f387d09-a3a0-406e-883c-05b953c05121|avtr_c631bd13-b81d-4a66-ae04-d4f97523483f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_43b90dd4-47de-4167-9a2c-deb9273732bf/1/256
 lvl․35 mafia boss|̵ᴋ̵̵ʜ̵̵7̵|usr_13caedce-0be4-473d-a1bb-e2d8437f2820|avtr_4df6d374-57cb-471e-aca3-5569efe2cd0e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_daa7f826-ef31-4b22-a258-cb4b7b9cd921/1/256
 mike shitson the iii|ʟɪᴠᴇʟᴏᴠᴇ_ᴅᴛʜ723|usr_12b414c9-382a-4c53-9509-a93f0d4097c5|avtr_06af5342-ff14-40c3-bfd2-784409045da8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_031432d4-b1f0-41b2-8d13-cec9da76826d/1/256
@@ -188,6 +193,7 @@ ngk rindo|7th Floor|usr_35e42fa7-5d9c-44c0-8484-1921b941d1e0|avtr_0291d5dd-782f-
 ngk yui|7th Floor|usr_35e42fa7-5d9c-44c0-8484-1921b941d1e0|avtr_d49e8661-a237-4c0d-b29f-e852172c4748|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9d17dcc7-34ad-4c0e-be39-8f3ed1c561e8/1/256
 nightmare|ʟɪᴠᴇʟᴏᴠᴇ_ᴅᴛʜ723|usr_12b414c9-382a-4c53-9509-a93f0d4097c5|avtr_c5401762-bedb-4b41-9842-a9695f16e2a4|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9394de05-6c7a-4782-b88a-a2400933e7c9/1/256
 nightmare fredbear|ʟɪᴠᴇʟᴏᴠᴇ_ᴅᴛʜ723|usr_12b414c9-382a-4c53-9509-a93f0d4097c5|avtr_c2f80c15-7f60-4f21-bfed-bc14156fd53e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_81b52be9-4741-45af-80e3-deabcb727313/1/256
+not yo lo|ᴋ7 ！|usr_8f387d09-a3a0-406e-883c-05b953c05121|avtr_97cc0d6c-39d1-4100-b0ee-999660060a03|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_bfe0a9b6-8d48-4d40-9b17-b8591cbbf80b/1/256
 olga red|ƁöƁ77|usr_8576b68f-9093-49eb-a974-eef01ef03986|avtr_6e25bdfa-bca3-4bb5-a275-4097b2e5b61e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_02aaa026-a066-4070-99d1-a8d8a5dfe22c/1/256
 orca xxl social edition|74hc595|usr_30fbaa94-5e35-40d1-a6bf-6597cd619250|avtr_093a140d-2195-4ed2-b2a2-6742cff58fcd|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3a3a93e8-9b63-4b43-a088-7840450d570e/1/256
 owl|7491|usr_b75464be-e654-4b34-b65a-387f1412ceea|avtr_4daa7da2-b190-4913-a85a-e74327bc1eca|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3c91b73e-9066-461f-8903-78b779f858e7/1/256
@@ -207,11 +213,12 @@ sebas|ƁöƁ77|usr_8576b68f-9093-49eb-a974-eef01ef03986|avtr_5fc6e250-d2ef-492f-
 sf|Африка 7b71|usr_24bdb92d-f672-4750-a992-ea85feca7b71|avtr_35859bfa-962f-41ef-ad05-bfb5899e7531|PAW|Unknown|
 shadowborg|ƁöƁ77|usr_8576b68f-9093-49eb-a974-eef01ef03986|avtr_bbbe0cfc-6afc-4819-9a2c-8b795d74f13a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1c26017c-ae35-4bee-9761-6358db15c356/1/256
 shinano vrcft|7491|usr_b75464be-e654-4b34-b65a-387f1412ceea|avtr_48dd56a3-0718-4863-b5bd-b89e7c154019|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_355ea68c-0146-4551-b30f-3a9074ed74cc/1/256
-slime yu aht|ᴋ7 ！|usr_8f387d09-a3a0-406e-883c-05b953c05121|avtr_67d535f7-99ff-41ca-b72d-a033b0a9048d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2a89f635-0d72-42d4-aea1-8fd546ffef17/1/256
+slime yu aht|ᴋ7 ！|usr_8f387d09-a3a0-406e-883c-05b953c05121|avtr_67d535f7-99ff-41ca-b72d-a033b0a9048d|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_2a89f635-0d72-42d4-aea1-8fd546ffef17/1/256
 smakkaǃ|ᴋ7 ！|usr_8f387d09-a3a0-406e-883c-05b953c05121|avtr_462fd35a-ee22-4287-be29-f4f3467b0dd1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_fe9dfe01-6723-4ee8-9a3e-72a08e81cf3e/1/256
 sonekx|79247003153|usr_5738090b-f679-4dd7-8d55-2a7dbbd10218|avtr_8fad543e-22d0-49ad-8336-e0c8ffa9e17f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d8d74c42-b6d4-4fc2-b4e3-f2db6c27c991/1/256
 spider pjs|7endinShxts|usr_67fc1cd9-936b-4875-8b32-4d066a09da97|avtr_78bf2a57-a6ce-4432-b6ab-954ddad59780|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d9e9b764-dd5c-4aa4-a2c6-79fb0dc81465/1/256
 statue longsword|ƁöƁ77|usr_8576b68f-9093-49eb-a974-eef01ef03986|avtr_eee2bce0-91e0-465a-8cc5-ab6127497007|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_364315f6-9747-43f8-8024-cb23a51a645e/1/256
+test ya luk|ᴋ7 ！|usr_8f387d09-a3a0-406e-883c-05b953c05121|avtr_4039a134-a493-4cf7-9824-0b324fda9d20|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_093e5ba0-f1bc-4cdc-a04d-3a8df9af4293/1/256
 tetsuo|ƁöƁ77|usr_8576b68f-9093-49eb-a974-eef01ef03986|avtr_988adeb1-aac6-4db9-a310-e935c8425c50|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9d94fd8d-f4e7-43f9-b37e-e84d82461925/1/256
 tgweaver bonnie|ʟɪᴠᴇʟᴏᴠᴇ_ᴅᴛʜ723|usr_12b414c9-382a-4c53-9509-a93f0d4097c5|avtr_9cca1146-3136-4908-8c8c-3579f49e3094|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_48a5de97-2ca2-43a9-9d15-b8ee127bcb7d/1/256
 the cinema 4d figure|ʟɪᴠᴇʟᴏᴠᴇ_ᴅᴛʜ723|usr_12b414c9-382a-4c53-9509-a93f0d4097c5|avtr_8f9972cf-6539-4b69-ad92-5df377d2adb7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1b28fcc9-708f-4daa-91eb-3bcf96957d46/1/256
@@ -223,9 +230,12 @@ unique 1uh999 shi∗|ᴋ7 ！|usr_8f387d09-a3a0-406e-883c-05b953c05121|avtr_737b
 violet-fuchsia deer rikkor|7Nerezza|usr_5948df28-d547-43dc-ab49-0b880e13ce2d|avtr_16f2b38e-b9b0-40ee-92dd-e1d4b4ac7252|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_51f881e8-0111-4202-867c-36b925f1fded/3/256
 vwxyz-dragon catapult cannon|ƁöƁ77|usr_8576b68f-9093-49eb-a974-eef01ef03986|avtr_94b1fbe8-058b-4a94-a40b-885ea48556cf|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f5775180-afc5-4ce3-bede-9b3336c93ed7/1/256
 weiße kraft|723647832648|usr_a7cf3764-7e28-4b16-86c7-60443641aa1f|avtr_89aa0ba6-23b4-4e7f-ace8-9ef997ebb31d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_13dd077c-4231-4976-9d41-024eb570961a/1/256
+wer yo mom?|ᴋ7 ！|usr_8f387d09-a3a0-406e-883c-05b953c05121|avtr_35ad58e3-16cb-4345-8fde-b63afcb67e6a|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_23741319-4200-4344-aba4-8712cbefcfbe/1/256
+wht yu got goin?|ᴋ7 ！|usr_8f387d09-a3a0-406e-883c-05b953c05121|avtr_e1fb33f5-a14f-4749-a0f8-7b63490e04d5|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_7faad892-b3b2-4625-a94f-cb57d0e091b9/1/256
 wulfgang casual psp|․7f․|usr_10e6ad5e-433a-43f3-849d-b89d1ee94010|avtr_bcb8dedc-44df-4803-ab78-19d0014c9a93|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6394fefa-42ac-43ec-8e49-043c37fb015a/1/256
 yihdra arvoln|ƁöƁ77|usr_8576b68f-9093-49eb-a974-eef01ef03986|avtr_0ad51cd0-0e26-4b0d-91f1-a239533caab6|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_660ec086-32d2-461a-b4c6-e36365c3530d/1/256
 Yorky's HW Springbonnie Fix|ʟɪᴠᴇʟᴏᴠᴇ_ᴅᴛʜ723|usr_12b414c9-382a-4c53-9509-a93f0d4097c5|avtr_f55d7428-183f-42d4-a17c-cbae4e78e859|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_69a8b283-6285-4fcf-bf97-3afe87caaa77/1/256
+yu funny|ᴋ7 ！|usr_8f387d09-a3a0-406e-883c-05b953c05121|avtr_03f8daed-98b7-47dd-9170-bba13b929a1a|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_2bd6eadb-63ad-4687-b299-7ebe5ba67f35/1/256
 zg_xb_6dkeiopx9phg|-777-|usr_27b2487b-84e8-45f6-9afa-7666a52185f3|avtr_aecfd490-a578-4dc5-afa4-740510a91d7c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9c2da161-33e6-47b0-9af7-7cf35fdd5186/1/256
 ~77ǃchanceǃ77~|DøllMoonDraws|usr_6a39d630-1a96-4b45-9b9a-b6efb6f2e874|avtr_369b951f-6967-4cde-94aa-6b3abba01c95|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_41fafa61-d02d-4b84-9546-26c81f033aad/1/256
 ǃ-70s angel dust-ǃ|Zgakihiro|usr_46f2e5de-05c4-4dcd-a8b6-210b88334af4|avtr_1c21b10c-f6dc-49f1-98a9-86e1f286dd78|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bdfdc15b-3810-4adf-a613-771b7de8173f/2/256
