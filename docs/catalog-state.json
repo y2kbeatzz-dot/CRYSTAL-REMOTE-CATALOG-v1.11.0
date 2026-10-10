@@ -1,16 +1,17 @@
 {
   "version": "1.11.0",
-  "index": 696,
+  "index": 720,
   "total": 787,
-  "last_seed": "19",
-  "rows": 268135,
-  "added_this_run": 12207,
+  "last_seed": "43",
+  "rows": 276089,
+  "added_this_run": 7956,
   "processed_this_run": 24,
   "blocked_providers": [
     "AvtrDB",
     "NSVR",
+    "PAW",
     "VRCWB",
     "avtr.zip"
   ],
-  "updated_unix": 1791585880
+  "updated_unix": 1791612083
 }
