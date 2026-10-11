@@ -1,7 +1,7 @@
 # Crystal full search shard
 # Avatar Name|Creator Name|Creator ID|Avatar ID|Source|Platform|Image
 0102_sdc zhao|5upporter|usr_823e3e63-d11a-4934-aac9-f44ee70a5ed7|avtr_2dc42b66-b5c3-4e0e-af63-4e98c1c6544e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_360cd1e8-d864-4b3b-91ce-9f18145d64d2/2/256
-0104_ak cat|5upporter|usr_823e3e63-d11a-4934-aac9-f44ee70a5ed7|avtr_372f8ffa-a776-4e5a-88b9-e9a46c07c22b|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ab597943-6ff9-4e20-9d11-12b4a083c109/2/256
+0104_AK Cat|5upporter|usr_823e3e63-d11a-4934-aac9-f44ee70a5ed7|avtr_372f8ffa-a776-4e5a-88b9-e9a46c07c22b|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_ab597943-6ff9-4e20-9d11-12b4a083c109/2/256
 0105_heart skull|5upporter|usr_823e3e63-d11a-4934-aac9-f44ee70a5ed7|avtr_6f9e1762-701d-449e-aa76-76966e8edc39|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_997b3c44-7319-4d95-bee0-cacfb43d3534/2/256
 0127_roka bug|5upporter|usr_823e3e63-d11a-4934-aac9-f44ee70a5ed7|avtr_342205cc-8d12-4083-937f-c60a9073af9b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b1e4fd70-f473-45f8-9486-2d127fd9a9d1/1/256
 0128_ellis|5upporter|usr_823e3e63-d11a-4934-aac9-f44ee70a5ed7|avtr_8a264fde-4688-452d-9b30-36a73c20f464|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ae37dd3b-875c-4e73-8777-b22cb52318e6/1/256
@@ -256,7 +256,7 @@
 50․Calibers avi|Dodge_50Caliber|usr_761ab878-502d-4be3-b93c-20155d9a3050|avtr_0a9847b5-62d3-43dc-aeaa-c540d358c813|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_dec6a59c-7ac4-42a9-82f0-058ee1ef4e53/1/256
 50⁄50|ZLOQ_KOTIK|usr_dc3407bd-8e49-48a2-856d-145a76008f76|avtr_dbfeca9f-d0f6-4985-88c3-290735572afa|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_2d37b0b2-2849-4b84-86fe-7682f16eb47a/3/256
 50⁄50 black and white kip|JRSD0305|usr_8e1e6e07-b34a-4d13-b349-c684cce76d07|avtr_7d4b0a26-8f68-402f-adf6-771fb226b34d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_60be3e27-3c57-44f5-8218-5744c5fba5a5/1/256
-50⁄50‚ Peak Spectre （BO7）|GhostDotMidi|usr_eaf632cc-f5a0-4003-bce0-fbe5c47f23f4|avtr_75931e3a-63b1-4f54-b106-86fd64e5e389|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_5eceadaf-1444-4109-9e6a-526174fcc26e/2/256
+50⁄50‚ peak spectre （bo7）|GhostDotMidi|usr_eaf632cc-f5a0-4003-bce0-fbe5c47f23f4|avtr_75931e3a-63b1-4f54-b106-86fd64e5e389|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_5eceadaf-1444-4109-9e6a-526174fcc26e/2/256
 50块钱的好兄弟|maxGRIDMAN|usr_344d7ccd-51d8-4291-8f95-e3fc68cacd7e|avtr_03078f1b-2a70-4214-a1a8-8594c5d05dcd|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_38bb15e6-ab65-4769-ab6e-9091b6ad24b4/1/256
 50％|Vіolent|usr_7cc246eb-c2f2-42a4-99da-a9698915ca88|avtr_8ffb5271-80dd-4cf8-af27-98cccaa1a648|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7238da47-8224-45c1-b9a7-8525625562e5/1/256
 51|tamsco274|usr_38ccf11e-f305-46f2-ae8a-45f74e397a03|avtr_0e0b0085-0fe0-4712-ae54-0f30ca9aaab2|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_200ac958-6cfa-4664-9eae-627eb818f895/1/256
@@ -807,6 +807,7 @@ goofy|5StarQ|usr_258d8e84-9f90-4861-b582-ac2406c97179|avtr_1b07165a-2e13-443a-98
 heaf|5StarQ|usr_258d8e84-9f90-4861-b582-ac2406c97179|avtr_a106c36f-7b9c-439c-a30b-88d2a106f93b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_091228b2-b0ee-4985-9719-cad9ba30673f/1/256
 hold ya|5StarQ|usr_258d8e84-9f90-4861-b582-ac2406c97179|avtr_c643154c-9bc2-4441-bfba-6d855fd22ac8|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_f1aebed5-0cfd-448c-8162-9d90db6e703b/1/256
 horror|52DePieMinimo|usr_5e9f4c28-09f2-4bda-becb-09bc649fbfa8|avtr_34688b8e-ff0e-4beb-b83b-2aae7520b9d2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_540c0eba-3ea9-4329-b964-ccfbd58803c6/1/256
+hydra dj strider skibidi toilet|52-xaddoM-12|usr_033c7eff-0973-4329-82d1-4b74bc645dc0|avtr_68b36b2c-25f0-4636-93ce-a4bc64a4f873|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_545d85a9-68f0-4f19-8f38-ff261b5f7a16/1/256
 in-game mx|5UP34|usr_e17b7203-4dd0-43be-86bb-a060543ff82e|avtr_030b74a5-a9d9-4bab-87d4-03448810929d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2d69796e-fb9f-44dc-bc86-c66d8128b5c8/1/256
 ink demon addon - minecraft|卄ㄚ卩乇尺55|usr_e6013fe0-c988-46c6-86c8-fa94b80d91f7|avtr_1fa95b49-85ba-47ae-aceb-c6afa1ba6e43|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_850c3449-3b80-41cc-88eb-bfcad22e7320/1/256
 inkwrite ｜ rewritten cycle|卄ㄚ卩乇尺55|usr_e6013fe0-c988-46c6-86c8-fa94b80d91f7|avtr_a0073871-e203-40ac-8b97-39c75cb2b2ff|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e1f75578-9ceb-4b7c-b8e9-1fbd4612da01/1/256
