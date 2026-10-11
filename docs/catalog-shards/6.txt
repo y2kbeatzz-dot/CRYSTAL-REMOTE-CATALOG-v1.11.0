@@ -96,8 +96,8 @@
 612th basic-heavy|MisterHarper|usr_1e92fb34-3099-461c-b688-57cd3011889e|avtr_3f963fb6-9a56-45f3-bf05-3117f64cfa7f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_aafc57ed-1e8e-4d5c-a70a-55aa2bfdda66/2/256
 612th basic-tribal|MisterHarper|usr_1e92fb34-3099-461c-b688-57cd3011889e|avtr_097adce8-2e7e-44ed-9f35-51ffc15bb56d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0ebfae5a-9aca-4be5-bc97-1ce415e034f9/3/256
 612th basic-zombie|MisterHarper|usr_1e92fb34-3099-461c-b688-57cd3011889e|avtr_a247ffd3-a341-4502-a17f-2dbe78a0b72e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8d35a6d9-efc4-4c55-9a5b-801569d1a153/1/256
-612th bx|Niiloᵀᴹ|usr_46945dda-6cbe-452d-ae59-1c8e21a3dec4|avtr_27b53684-c7eb-44d8-a92e-8bcda803e785|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_38dba869-f6f5-4eb9-975c-bf36ec7a266f/1/256
-612th bx|Blecha|usr_e0aafaa6-24d0-4180-9a96-97591c7e39d4|avtr_7506786d-4467-465b-a5a3-aec16be7b9b5|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9b1b33d9-09ef-41c4-b30f-acd8b41cdd90/1/256
+612th BX|Vidaᵀᴹ|usr_46945dda-6cbe-452d-ae59-1c8e21a3dec4|avtr_27b53684-c7eb-44d8-a92e-8bcda803e785|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_38dba869-f6f5-4eb9-975c-bf36ec7a266f/1/256
+612th BX|Blecha|usr_e0aafaa6-24d0-4180-9a96-97591c7e39d4|avtr_7506786d-4467-465b-a5a3-aec16be7b9b5|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_9b1b33d9-09ef-41c4-b30f-acd8b41cdd90/1/256
 612th bx crimis|Major Beaver|usr_d3f1cdd8-0788-4d3b-8de5-0d41c3327442|avtr_d0d82260-850b-4154-8059-dfc7fe43b7ec|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e341d4be-3b33-4e15-be2a-c59281e3322a/1/256
 612th cgi arc|WidowMaker|usr_ccd8fd6e-a2a3-4ef9-bc4f-9aac71de8c2b|avtr_83f5ddca-ef8c-4e13-99b6-8bb130c75c00|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4751648e-0e3e-4bbd-addd-88670f0220d1/1/256
 612th commando|MisterHarper|usr_1e92fb34-3099-461c-b688-57cd3011889e|avtr_ca939a92-dfbd-4731-b065-f230ba15c412|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_881d584a-eb90-4121-b704-9f49a4f7e66d/1/256
@@ -527,7 +527,7 @@
 68|n̴a̴g̴i̴|usr_65c18b70-d883-4e62-82a9-227a771b1c76|avtr_d1388125-7049-47fd-9c1b-e6214c07bfa3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ebaaed70-d35d-4c9a-a300-affc84069ee7/1/256
 681542614758816754|Falls|usr_af00dbc8-0f68-4628-ba98-842fc1729168|avtr_c82ce8b7-577e-41c6-b7d4-7fa98682230b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d7b82362-0000-4667-90c8-1da3e48edde9/1/256
 681st arc trainee|TheMaskedbandt|usr_c27760a7-4e0a-4889-b69b-c6a1fabf9d70|avtr_b7b26528-7ad8-4258-b2d3-a4357fa37aa4|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c2aac559-2865-4bf3-acde-033c537be935/1/256
-681st bd unit|Rainbow Ram|usr_28c2b9ef-2666-4005-8fbd-5dc49199336d|avtr_0d08cf3b-2204-4b10-8be0-176c809d5a2b|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8c87d3f3-efec-4ae4-bc50-e9c25ccde6ce/1/256
+681st BD Unit|﹏N〄X﹏|usr_28c2b9ef-2666-4005-8fbd-5dc49199336d|avtr_0d08cf3b-2204-4b10-8be0-176c809d5a2b|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_8c87d3f3-efec-4ae4-bc50-e9c25ccde6ce/1/256
 681st cadet|Bandt_Quack|usr_c27760a7-4e0a-4889-b69b-c6a1fabf9d70|avtr_456858c9-fc81-4423-ba1a-082517fc699c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7c4baef0-4d77-4987-88ca-daf45bcd76ce/1/256
 681st heavy|TheMaskedbandt|usr_c27760a7-4e0a-4889-b69b-c6a1fabf9d70|avtr_985782f2-4c5d-4a1c-bf39-25d7ad3d6241|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f66217a9-4a2c-4d60-826b-514b981026b6/1/256
 681st heavy （ct）|Bandt_Quack|usr_c27760a7-4e0a-4889-b69b-c6a1fabf9d70|avtr_d2413f2c-7adf-47f2-a821-e211425b5500|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f7c42e61-a6cc-4714-8814-5a1c194985a3/1/256
