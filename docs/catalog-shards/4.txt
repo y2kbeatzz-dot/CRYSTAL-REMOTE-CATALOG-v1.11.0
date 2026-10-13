@@ -272,6 +272,7 @@
 41st scout trooper （assault）|KoreFuze|usr_528154dd-e111-451d-9bde-797ac7851233|avtr_a25735c0-526a-4c01-a99d-436e413045f0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_95a8a2c9-faa5-4279-b90c-4f3461bb8e9e/1/256
 41st scout trooper （sharp shooter）|KoreFuze|usr_528154dd-e111-451d-9bde-797ac7851233|avtr_591ece8f-9342-4bdf-97fc-0d356b15c512|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_5a39e148-d820-495c-97d5-a3d7e145ae9d/1/256
 41st sgt ＂terra＂|ReBeL6236|usr_76ac9585-372d-4c43-af79-6f5ce3a2a617|avtr_b891aefa-c79e-4e4a-8584-7ca5041d7ae9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ac958012-0457-4699-af97-c35871f9af15/1/256
+41st SGT-1261 ＂JJ＂|ᴜᴍɪʟ ᴠᴀᴜQᴜᴇʟɪɴ|usr_11ba0a01-a2c2-44f4-8dff-8dd848bb92d7|avtr_fffaed90-6374-4e2b-a469-71794bf490b1|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_ba9673eb-61d0-46f0-8543-87ee2bfff875/1/256
 41st shiny|butter rooks|usr_cbf5f7ed-4530-4371-98f5-2c3a45f4cfc4|avtr_27f316a7-1310-4b5b-9438-ae539ab04d36|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_fb08302b-894d-4842-9798-68acd4e82e88/1/256
 41st Shiny Quest|butter rooks|usr_cbf5f7ed-4530-4371-98f5-2c3a45f4cfc4|avtr_54a82c41-26bc-4c1b-ae9b-bd080eb5e6a3|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_eb7007f2-70a5-4118-96d7-024681e4e9c0/2/256
 41st silent|Sto1nks|usr_a07e6e6a-ac6c-4d4a-9794-e9955b9ad28b|avtr_d7d12fbb-db82-4216-b4b7-04e29f505c16|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_551803a5-e431-4b51-90a5-803b6958c90e/4/256
@@ -328,7 +329,7 @@
 420 obama|laurat|usr_4168bc5b-47ce-4ffc-ab58-024004a3f7a0|avtr_cad057e0-9669-48cf-9304-17849b7ed7f9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6f17dc5e-ea64-4434-8597-8df8014ac5d8/1/256
 420 panda|яєєfєя ραиdα|usr_16d152fd-9c84-440a-a126-2c25427ce5e9|avtr_184a0c83-7aea-4f26-b683-b8b0732ef446|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6607ac95-6dac-44fa-99e0-3e0185195993/1/256
 420 pjs|mrs. kawaii lady|usr_481f1f3f-b0d6-4404-a0f2-3bb7de8a8c10|avtr_bece3a25-749e-4d4d-a500-288543f950c5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_44b28e66-3c47-4fd9-b138-32ffaca579d2/1/256
-420 praise it|~ Trippy ~|usr_450c3e31-999d-45cf-80a8-0461b7d75ca2|avtr_ceeb4718-0320-4893-b4d4-94835a25fbe1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_df7e31ba-4468-4dea-926d-10a8ebb23f0c/2/256
+420 Praise It|~ Trippy ~|usr_450c3e31-999d-45cf-80a8-0461b7d75ca2|avtr_ceeb4718-0320-4893-b4d4-94835a25fbe1|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_df7e31ba-4468-4dea-926d-10a8ebb23f0c/2/256
 420 spartan|Os1ris|usr_6417d4e6-e504-4d95-9004-66b5707f8a03|avtr_db8ac32c-826a-44e7-9864-a1242eecfd94|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_de488940-c73a-4cc8-a3ee-dcf75bb44baf/1/256
 420 spongebob|STKDRIPPY|usr_b507c03c-63d5-4894-98e7-332b482576fd|avtr_21fbcc58-ef3f-42dd-bc09-9fc68ba77a14|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_93445d55-86db-4163-b259-546276888bf5/1/256
 420 syncx|ʂ̷ʏ̷ɳ̷ƈ̷ﾒツ|usr_a9dc51b3-984b-4428-aa57-7646dfc8acdd|avtr_82336dac-dea7-4feb-86fc-59dbc3f0bd30|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_db29a2e7-4ec1-45d3-9b7c-5d693bcc6c85/1/256
@@ -813,7 +814,7 @@
 4str0|Sp1d3r_L1ly|usr_03d7e59a-bdc9-43be-9d1c-34fee7cf2918|avtr_76b34516-86ba-4fe3-8966-70cde4e9aa91|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4a2ca1d3-84e0-43e4-959a-2813a1eacc88/1/256
 4taro kujo|Crindlpuff|usr_91fe8613-f0dd-457a-96e2-e77d2c43790e|avtr_ebde659d-fb4c-411f-86e4-e9af581828b1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7905e144-9f72-429f-bed4-2b22a02081bc/2/256
 4th aeriel expiditionary force‚ rifleman|Tips|usr_45755afc-bf85-4cde-b937-e9ecd8389ec3|avtr_53c0091a-76cd-4504-b449-0b94d8dd2bba|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e33b563b-f2b0-4dfa-9bd8-fc72d550840d/1/256
-4th anni airi in shiho's outfit|blvue|usr_0c609d54-a8c6-488c-9e51-1f88b24679a3|avtr_5cc59443-f700-46e1-9fb3-2114697ea1a9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a8b3b39f-f273-4cda-98b6-13fa2c3fc8f6/1/256
+4th Anni Airi In Shiho's outfit|blvue|usr_0c609d54-a8c6-488c-9e51-1f88b24679a3|avtr_5cc59443-f700-46e1-9fb3-2114697ea1a9|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_a8b3b39f-f273-4cda-98b6-13fa2c3fc8f6/1/256
 4th anni shiho|blvue|usr_0c609d54-a8c6-488c-9e51-1f88b24679a3|avtr_299f797e-bf85-4aac-8eac-f97400bcfada|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f443253d-4434-4b74-bfce-6a97edc7ffcc/1/256
 4th anniversary toya|xxxOR3Oxxx|usr_c978969b-1e62-4e17-ae2e-99bb0c590d7b|avtr_73be459d-4b6a-4d9b-8fad-7aaa9be63096|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_05f9878d-d2e6-46cd-bb5b-a92ba499170b/1/256
 4th Base Uniform|Just AJ|usr_8144a3e7-1e2b-438f-a5f7-9299765d585b|avtr_1abde856-6c8d-46a0-b65a-2d15cbe6eb6b|VRCNDb|PC+Android|
@@ -1073,7 +1074,7 @@ zom-slvt|୨୧ ωαιт4мє|usr_85e27355-954b-495e-917f-88cfcc9a985f|avtr_b5b1
 ∗484ñ613-blake∗|AtomKatze-1618|usr_25b642f2-6ad9-4aea-8b4b-f30cddb0b42a|avtr_68838896-6918-4927-b469-515a0ea7c249|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b6e34519-9cf7-4c1f-a91b-a6c467b8c6bc/2/256
 ∗＋․4 arms glooms∗＋․|ʚᴳᴸᵒᵒᵐˢɞ|usr_f11b3a50-3cf8-417c-baa4-eb01cfab83d6|avtr_e4ba0e1a-1f71-4c1c-aea3-a2cbcd3817b9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8f845e1e-e72a-4e8a-9a28-9448ceccfd54/1/256
 ≻ǃ 4'o clock moth dca fwuitcuppy ǃ≺|ARunningJoke|usr_3819bd56-7ce3-41cc-a6ed-a188f3b4b8a0|avtr_d0056e57-118b-4113-8b37-740790b3ba04|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_cc1bcc64-ba9a-4120-bc90-2ce460d1fcf2/1/256
-うずまきナルト （4kota⁄glock made it who else?）|ɪɴɢʟᴏᴄᴋᴡᴇᴛʀᴜsᴛ|usr_95fb9bc1-7ee4-4b9d-99a2-4997d43704a4|avtr_14f3df71-a953-40e7-9f6b-5fba302a8c6b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_842737fa-4a56-4529-b9d8-aee8ea241ade/1/256
+うずまきナルト （4KOTA⁄GLOCK MADE IT WHO ELSE?）|ɪɴɢʟᴏᴄᴋᴡᴇᴛʀᴜsᴛ|usr_95fb9bc1-7ee4-4b9d-99a2-4997d43704a4|avtr_14f3df71-a953-40e7-9f6b-5fba302a8c6b|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_842737fa-4a56-4529-b9d8-aee8ea241ade/1/256
 アングラの子4․0 sample boothid˸2313554 designer 急須kyus⁄noratama presents|KyusNekomi|usr_e66c8e6d-2999-43e5-b1c7-9f22e3e53da4|avtr_61ecabe0-c5be-40a1-b9ac-37c065ab5f93|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ff37a7bb-8b45-4eec-bd74-9d2d14bac7b5/1/256
 アングラの子4․2 sample boothid˸2313554 design 急須kyus⁄noratama presens|KyusNekomi|usr_e66c8e6d-2999-43e5-b1c7-9f22e3e53da4|avtr_91a91e3d-30df-40e4-86a0-e7f9d4304f67|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7c0514a7-e7b2-4ba3-b02c-0a177f802365/1/256
 リサフランク420 ⁄ 現代のコンピュー|Paul Itchy Ball|usr_37194df8-23ef-4dcc-be88-a5f446d78737|avtr_c42befaa-e155-472c-bc69-02d71927f82f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a81350c2-33ea-4539-8110-0b2a3a8f6e86/1/256
@@ -1082,6 +1083,7 @@ zom-slvt|୨୧ ωαιт4мє|usr_85e27355-954b-495e-917f-88cfcc9a985f|avtr_b5b1
 及ᴜϟϟу420's edit|Ȗ̬̈̑n̆̈deă̈d|usr_2ec8125a-8a7a-4c9f-8a5b-ff5deaaa6d61|avtr_0d0a0261-0c70-4206-8caa-bf6008eafd5d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_651e1b7d-858f-4f8d-bbad-62a05b515522/2/256
 撫で音4append 体験用アバター|Fuka／フカ|usr_3b390c8d-7bcf-4117-aaa5-43f9641a4d0d|avtr_8cf357ce-9ff4-48cc-80e9-9aa33b107274|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8cdc55f4-ba87-42a0-8c21-9d74ff491788/2/256
 旅枕ヨカ 4k ＃yk3d sample|KOTOBUKIYA_avt|usr_314b57c1-efee-493a-bbc8-e4e06dbea5a3|avtr_f5fee9f4-7183-485c-b7ed-ddbbc3685913|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a92e7627-b5bc-46fa-bf38-5a7cf8a2c96d/1/256
+日向ネジ （4KOTA⁄GLOCK MADE IT WHO ELSE?）|ɪɴɢʟᴏᴄᴋᴡᴇᴛʀᴜsᴛ|usr_95fb9bc1-7ee4-4b9d-99a2-4997d43704a4|avtr_e786d32e-4f72-4635-9205-2fd39f6c36bc|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_7b2907b0-c0d4-41a9-8463-8feb2e2e3ccd/1/256
 水無瀬|ワラニ4989|usr_4ac1b5ec-e74d-41c5-a730-18e65ee92ac2|avtr_e254903e-4a10-4cb8-ab5f-9ef776eab08c|VRCNDb|PC+Android|
 洛丽塔猫猫4․01|梦魇アリス|usr_e821ff6f-5516-4b26-8bc5-9a52e9103846|avtr_769f7dda-6050-4e8d-96a7-5012441c25dd|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_25003e5c-4a78-447f-b338-34da209727de/5/256
 私の人生~|4062|usr_1158889f-1f35-4285-8f3e-c4a90a3907eb|avtr_b30a4020-3418-4c1d-bdaf-fe986bab03d3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b93a7b8a-d876-4772-b6b3-3dc3ba188301/1/256
