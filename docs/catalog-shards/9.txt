@@ -294,6 +294,7 @@
 95th b1|~Bright Eyes~|usr_b766e535-54ff-43f8-921d-7385cc66f623|avtr_6c28f8a8-11fe-440d-a8b5-b2745cb24a3d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e60e073e-a38a-4109-8321-609dc5df9cb6/1/256
 95th base trooper|'Rramma'|usr_27dffea9-3edb-4e3d-8b83-f28aa9b91ec5|avtr_14087a61-1ef2-4e5a-b4d1-b053cafd39d7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6e6daa3f-0833-41e4-977b-c3ac49d07e51/1/256
 95th basic|Thdunwichhorror|usr_6872b260-2f78-4075-9914-cdcea0231020|avtr_7a503d18-944a-4b83-93ee-2739b1085a5d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/file/file_20da515f-7ca4-4dde-bb67-163e1811a7b0/1/file
+95th basic|~Bright Eyes~|usr_b766e535-54ff-43f8-921d-7385cc66f623|avtr_ba55e92d-98a5-48e0-8c6a-a35ae12c00cb|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8d0066af-f1cc-4cf9-9065-068a657b84f4/1/256
 95th BX|valrao|usr_5911a30c-7bb5-4cc0-afe9-83345a3328d1|avtr_4cbbc96c-2a83-46f3-938e-35ceb6e8c8d9|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_82463c6c-9ba1-4946-af7d-2b5a39701ff1/1/256
 95th BX|Jungle Pοcket|usr_6660430e-7e08-45b3-994d-5a87d7af46ae|avtr_62ce4f12-a1ce-4d29-aac0-473ed771e826|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_0c3f2ba0-d159-4c7c-b688-a34da1cc0fc2/1/256
 95th clone trooper|Mason3711|usr_dc4ac7e4-813d-4a86-a3ae-c8281bce4147|avtr_66d0de9d-8dc3-4f54-ac3b-e2f36913248a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4e5affe8-abd2-4e93-b73c-581a69e72c9f/1/256
@@ -576,6 +577,7 @@ globgabgalab|9Marky9|usr_92af653e-6c5c-4132-ac1c-19a697c61a34|avtr_db9dc5e4-283e
 goku ssj v4|9tails|usr_01ca894c-811f-424c-a5aa-383531b2fadd|avtr_db0ac384-cab4-48b2-a353-c17a15b16995|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e6d24587-e389-48fa-8334-f8a38ce6a264/1/256
 grussy v2|子豪98|usr_86286e23-6b05-420f-a898-33a958584c75|avtr_6f734938-4194-48af-ba1c-df8110429779|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_61520da3-e45d-4daa-b24e-9791a8bd3215/2/256
 halfdude miata 989onan|989onan|usr_213074e6-20e9-452c-8744-2d2544714b6b|avtr_e0e48ddb-8bce-4086-b522-c1734802955f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_476c146a-2f71-4ac6-8d5b-6866c016c783/1/256
+Hey guysǃ im priate bearǃ|~9Phelo9~|usr_dfba4778-80e3-4358-850f-e90ebea60385|avtr_116c04b1-dd7c-47bc-aeb9-394a2f4bde30|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_7fd0665b-2bb5-4241-92e6-7f5b41e3db39/1/256
 hit a lick|9d85b1b36aff491b942e5d530108c6c3|usr_cb8bb3d1-77a9-4d03-8f07-b3a33b3e7f6a|avtr_09e5ef68-a1ff-4751-9718-7e86ae0f0205|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c1e7c0e8-1a6b-4aa7-8438-b10038eddea7/1/256
 i still think of you|9d85b1b36aff491b942e5d530108c6c3|usr_cb8bb3d1-77a9-4d03-8f07-b3a33b3e7f6a|avtr_aba24aa5-93c2-4635-80bf-891e6629f83a|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_10208df4-3818-48a1-b49c-d72271dd7dac/1/256
 i sus ce les|~9Phelo9~|usr_dfba4778-80e3-4358-850f-e90ebea60385|avtr_6237c8e4-d150-461f-8184-bbb782439c55|VRCNDb|PC+Android|
