@@ -442,7 +442,7 @@
 55|E-V-E-R-E-S-T|usr_92126f13-aaa6-4f51-bed7-5fb251227d7e|avtr_dfb42de9-1b0f-4a04-ac78-771f895ef4bf|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4cd90ce3-f69f-4784-8d6e-f566969a72ad/1/256
 55 spoiler_nitroboosterjuly|meowies|usr_81a02d22-a50a-46e4-87a1-0e5780f8a868|avtr_962afe89-1045-457a-8a01-64eb674e4106|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3b271975-76d0-4bab-94aa-9b459aee82dd/1/256
 55 妖怪 55|Yango Kitzuna|usr_e1909313-9312-4bd8-8938-c511f7f51546|avtr_90c49414-841f-4e3d-8115-ee300aac2f27|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_388b843d-cd90-498d-bfa4-9b2af7153f89/2/256
-55-Clankcri|Koelian|usr_7193f3af-e7f0-463a-93c8-313fd1280f55|avtr_2e99ae2b-06ef-4925-9cd2-799314255aa9|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_6275668f-3a16-41c0-a25c-a5d61820a4b9/2/256
+55-clankcri|Koelian|usr_7193f3af-e7f0-463a-93c8-313fd1280f55|avtr_2e99ae2b-06ef-4925-9cd2-799314255aa9|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/file/file_6275668f-3a16-41c0-a25c-a5d61820a4b9/1/file
 5501st jet trooper ＂droidbait＂|Craiggo11|usr_2cac2b23-dc99-4ab4-993b-6641a84ea09d|avtr_2c5620a4-9949-476e-8595-2085333d840d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_978e8053-ccca-4069-85b2-3c30624aed8d/1/256
 55123|ButterTW|usr_20ec9cc3-c9ed-4e78-bf63-2856a2b6cfc9|avtr_a43c490d-ef32-47ff-84a6-f11ea7094bcd|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2ef65a85-fb34-418f-bc8e-b2160234da5d/1/256
 55123 1|ButterTW|usr_20ec9cc3-c9ed-4e78-bf63-2856a2b6cfc9|avtr_c487e689-9857-433b-9c8b-5e5224ac14da|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9d293d97-f355-400d-9409-d2dc8064d81c/1/256
