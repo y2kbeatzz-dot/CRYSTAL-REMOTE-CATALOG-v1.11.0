@@ -12852,7 +12852,7 @@ vvvvシヴィー0008|UMIUSiO_sub|usr_b4768d90-f8d4-4c7a-9625-847d02c60c8d|avtr_4
 vvvvシヴィー0009|UMIUSiO_sub|usr_b4768d90-f8d4-4c7a-9625-847d02c60c8d|avtr_f9b340e8-c74b-431d-8a05-8da136036cc6|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1ae6636a-95b5-4acb-a8f2-07be4e3fa3c7/4/256
 vvvvシヴィー0010|UMIUSiO_sub|usr_b4768d90-f8d4-4c7a-9625-847d02c60c8d|avtr_cae3d732-14a3-4cca-81dd-0448765e4465|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_40100941-ad44-41e1-adbf-ebae558b20ba/4/256
 vvvvシヴィー0011|UMIUSiO_sub|usr_b4768d90-f8d4-4c7a-9625-847d02c60c8d|avtr_0a09f84c-c1ff-4b7f-9e24-c80403251372|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ad9de605-381a-471e-a299-d677b33f357c/6/256
-vvvv（pb）v3․1|Umaka-Chan|usr_8790321d-69cb-4e28-b9b9-4117618991c2|avtr_b61aec79-d018-4f4f-b878-f1f218862267|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_77816d83-6599-4287-98c2-29a483211b31/3/256
+VVVV（PB）v3․1|Umaka-Chan|usr_8790321d-69cb-4e28-b9b9-4117618991c2|avtr_b61aec79-d018-4f4f-b878-f1f218862267|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_77816d83-6599-4287-98c2-29a483211b31/3/256
 vvvzvrd|420bardmaster|usr_3482e15d-f13e-43a9-9d0b-61cc0c5fdbc4|avtr_bc0a1ccf-fd42-412d-85b3-1ffff99fb3eb|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_90581f31-8126-4ab3-8ca7-591fc60457ba/1/256
 vvwdw|Artix_|usr_01cd4dd9-aba7-4305-8dc7-955c8c3572b4|avtr_0627fdfa-ff9b-4e76-a155-63d0963f8194|VRCDB|Unknown|https://files.vrchat.cloud/thumbnails/237003108.thumbnail-500.png
 vvzcsa|testing963|usr_54ce81b4-2bea-4b32-88af-45c2e95f6ffc|avtr_16644cfc-0355-4c1e-bee3-65f8d7f2bfb5|VRCDB|Unknown|https://files.vrchat.cloud/thumbnails/3048285974.thumbnail-500.png
