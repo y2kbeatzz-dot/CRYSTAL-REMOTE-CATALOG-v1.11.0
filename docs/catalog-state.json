@@ -1,10 +1,10 @@
 {
   "version": "1.11.0",
-  "index": 365,
+  "index": 389,
   "total": 787,
-  "last_seed": "oa",
-  "rows": 342453,
-  "added_this_run": 7837,
+  "last_seed": "oy",
+  "rows": 350000,
+  "added_this_run": 7547,
   "processed_this_run": 24,
   "blocked_providers": [
     "AvtrDB",
@@ -12,5 +12,5 @@
     "VRCWB",
     "avtr.zip"
   ],
-  "updated_unix": 1792019920
+  "updated_unix": 1792039824
 }

@@ -194,6 +194,7 @@
 501st officer|STΔTIC|usr_d1a64088-dd20-49e4-b5e0-71fe21ce3127|avtr_116a8ac4-2c3f-4778-a47c-8a6b0a91b99b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ebd2b22c-0647-4454-b5ec-147d37fd6873/1/256
 501st officer|~That One Guy~|usr_7c6ddb83-cd13-4c1b-a59c-04700b55bd6f|avtr_2999412b-12cb-464c-abe0-ef0082f04aa8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0b69bdf2-8bdf-4f43-a49e-2400d9667267/1/256
 501st officer|SavedScarab9664|usr_3db1bc71-15d8-4e94-8266-5e754743e07d|avtr_42f6e233-ffe0-47bf-896c-f40f51c9a27f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0ef7027b-e480-440b-b585-79606b7dd2d3/1/256
+501st officer|25fishman25|usr_927eacca-c311-4322-be06-9f4b7f657fc2|avtr_9a24e1a6-b4c1-4613-b666-d99d36d026a3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8ce12b9e-ae2a-4443-a2f0-77e067fcb1a7/1/256
 501st officer boi|-Skittles~|usr_75668bd0-00fb-4fea-aeb4-d25bf8677f90|avtr_39a355a0-2c5c-4297-9410-421b37cea3db|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c0cf1c48-3ad7-4b83-b5e2-fa01af7ca86e/2/256
 501st on a Stick|Craiggo11|usr_2cac2b23-dc99-4ab4-993b-6641a84ea09d|avtr_1dd89924-0226-4adb-ae76-7a0f74157d14|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_4a855b26-7014-46ed-aafb-61e116159580/3/256
 501st p1|~Mizaily Iudex~|usr_0d820eec-1bb2-4cf5-9914-308ec42df6e1|avtr_24c65227-a9ab-49cb-b67a-c1251c51f627|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_16d33b3e-90a9-4105-b7cd-4813ad089c50/1/256
@@ -242,11 +243,13 @@
 501st trooper|TRXGIGA|usr_27dffea9-3edb-4e3d-8b83-f28aa9b91ec5|avtr_2a0da06c-a9e6-47e7-b081-70d7349b6a8b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3129dbac-b841-4141-8f36-ac7144ee9b2c/1/256
 501st trooper|S-P-A|usr_a6962e70-04aa-4a48-8db6-3d963147a5a4|avtr_388bc68f-a87d-4ff2-8874-b1cc89440b9f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_27e73779-c6d7-40c2-ba78-fc067555141a/1/256
 501st trooper|cloudzarr|usr_1e3decd0-c724-43cd-8ea2-648284acf69a|avtr_3e045fd4-b531-4067-9157-3daa28995bff|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_84a4f802-5bf3-46d7-8fde-a449975aa154/1/256
+501st trooper|_Kenichi_|usr_0e6c8c48-43ed-4fa4-a84f-06b975ac463e|avtr_57433996-f87f-4aab-935a-440f924206f0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0fbd3921-5eb0-47e6-9bc9-836ae13bc666/1/256
 501st trooper|ReBeL6236|usr_76ac9585-372d-4c43-af79-6f5ce3a2a617|avtr_b728b555-a7ed-4b1c-b636-cf4eb0f27dbc|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b36bfe44-133c-48e1-ae28-ace8a8dfafce/1/256
 501st trooper|ElmerJFappington|usr_2b82dcd1-cf25-44b8-ac02-ade773db0c71|avtr_bdc3336f-8a05-4f31-9280-aed12b8a5ee7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_834a9a6d-4731-42e5-94a7-f6884db3aa09/1/256
 501st trooper|SavedScarab9664|usr_3db1bc71-15d8-4e94-8266-5e754743e07d|avtr_d0a700de-8a89-4275-b70a-ae594b124d31|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b913a74d-86b2-4864-bb2c-36a3d560403f/1/256
 501st trooper|Watashi․02|usr_de015759-17f3-4754-82f0-f1329b9121f8|avtr_df86d9aa-09f6-4790-892f-e47c858b8d1f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_87204fc6-7bf3-412c-89c7-5e0058a807ea/2/256
 501st trooper|STΔTIC|usr_d1a64088-dd20-49e4-b5e0-71fe21ce3127|avtr_f372e453-917a-42be-a24c-8b4c1e1b46fb|VRCDB|Unknown|https://api.vrchat.cloud/api/1/file/file_ea0bb1f6-bdc3-4ff0-b1d2-122345f29a18/1/file
+501st trooper og bf|LegoJarJarBinks|usr_25b7248c-6286-4ce7-b358-a714f26613c7|avtr_49501676-8812-403d-a455-1263e255c5b4|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f1771a8c-4ec0-4c9e-81db-cb504530fc6f/1/256
 501st Trooper SW|Dieds|usr_606bc68b-d7e8-43f7-a563-b4bdf58f5ef0|avtr_88e490a6-e6fc-469e-9f31-f865b6d4e66c|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_c9b0198f-3a18-413c-bb71-206298696dce/1/256
 501st trooper v2|STΔTIC|usr_d1a64088-dd20-49e4-b5e0-71fe21ce3127|avtr_7ea21f16-0fbb-49da-8b27-63d00f1c3128|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_78fc584f-25c3-43f7-b72e-352a9f3c78ff/1/256
 501st vaders fist ｜ nco only|DUDOCHNICHT|usr_cf7f4c62-acbf-4514-a823-1e6ea5518132|avtr_2589cf69-a361-4b16-a954-52e45cf923ba|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4a9055b7-32e2-40c1-9c2a-dc1254fb2c91/1/256
@@ -315,6 +318,7 @@
 51551515|DongDongKoon|usr_cb1c9fe5-5a00-4daf-bed0-6b5569e40102|avtr_853b362f-4205-43d6-b9e6-15a54ce5fafd|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ca47e4f9-9c87-4ee6-b528-3648b678e5e2/1/256
 5182000|linnyliո|usr_f6768f80-28e9-425a-bc0c-f7800aa2eb6f|avtr_c15e5b2e-7268-40f8-aba7-d6f8e871da00|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_dd36c144-3ab1-475e-b992-bcb0121e96a3/1/256
 519 splat|Generator10|usr_6ccea66f-d064-4ed8-a5a1-f41095f064c0|avtr_27ed786b-45fb-4b1b-aff0-a77e78135a58|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_30b6d56d-f2fc-43f3-8d81-e3d34f23a480/1/256
+519th arf trooper|FirewingWolf|usr_e92a347e-b632-47d7-95ae-3e7980fffd48|avtr_1d029d70-b2e1-4549-ba22-c0548d51b1c3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_db2fc448-06cf-4957-80f4-19f0c1dff27f/1/256
 51_vrc_enemy's seed_phase1|とろろ亭やまいも|usr_92ae1207-5d21-4a70-ad1f-b70f6573feb7|avtr_42dccb3b-3b4e-46b2-818e-415c985dcb81|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1274ccf2-8069-433b-9bc6-538aa2de2ed0/1/256
 51lv3r|51LV3R_2|usr_96280eee-2840-4443-bafe-ea6c4a645458|avtr_befc7a89-6d1f-4339-9143-35091bc8dd6b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6122321f-40d9-430e-8b59-d2d31d236c8c/1/256
 51mp ch4d cameraman|~-『Timeless』-~|usr_aec50153-fd28-4bac-bb7b-b11dc673e910|avtr_caca146d-cd8d-4dc7-b77f-14d8713d0666|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_73898826-6394-4b2c-a255-40b44e808880/1/256
@@ -733,6 +737,7 @@
 5HU1-CH1 （Ultimate Robot Shuichi）|Honkin|usr_2687bed1-0e5f-43f0-b5ff-c05335f864ab|avtr_c2338dc2-5ecd-4d95-8d00-cebea8a3c894|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_35175367-cfc0-4275-9afa-4a67f0ae1a8f/1/256
 5ive starquisha|5ìve|usr_5b057cf7-47bb-4637-981f-a9cbf9148b07|avtr_fa616960-5583-4aef-85c0-b3d177fedc41|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d07293d4-cc4c-4b0a-acef-0939947ae8af/1/256
 5j42nakq4swm2jqb|MyAvatarCarrier|usr_584e1292-781a-4321-854e-88707d5754f4|avtr_d8a9b2eb-857e-43e4-bdfd-08789d248a3d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_99c690ac-37a6-49c5-9b85-c2f26451a944/5/256
+5k neko maid|aPot|usr_4ff5b735-67a6-4a74-b0a1-669e5a4f8e31|avtr_5b05ae63-d8f8-4d3a-b997-98cdaa26de69|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ade7b607-3ec0-467b-92bb-fba1d44d99ad/1/256
 5K Special Avatar|JindraT|usr_caec9a53-168b-493a-97a2-a9f5bbcd8bba|avtr_264e6c4f-508f-472c-a5dd-13a521dc0a42|VRCNDb|PC|
 5Kage|Dhip|usr_4f4b68f2-f8ac-44ef-89ca-2a23e20bd0c6|avtr_d1ba1fbc-cbdc-43ab-8529-9d6ab08bd24f|VRCNDb|PC|
 5kpolysans|Archie_Tin|usr_74cc8bb4-484e-4c46-ac3f-1c145b56ab20|avtr_875bd6fe-e264-4f69-8b6a-5405be13930b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_22dd37ee-1977-4740-90ce-cde3b46036d4/1/256
@@ -795,6 +800,7 @@ anzu|5incerism|usr_d62ca372-35fa-40df-9377-9ebbc6b6e68c|avtr_410819da-4cf8-46c3-
 anzu - kemono|5incerism|usr_d62ca372-35fa-40df-9377-9ebbc6b6e68c|avtr_a98d0a2e-7e54-4ad5-b580-a79bcdf56bfa|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_16621c47-f26e-4ced-a058-a5b21090aca9/1/256
 armless taidum|5nafprodude|usr_9e997ea0-1cb3-4ab9-8f70-0de0eb39a21c|avtr_7c5148d0-58d0-4015-8131-96d109276d89|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_eaabfc27-8f45-4590-80d5-65ce6c935326/1/256
 azn|573114d1v4|usr_71562a82-0137-4c00-a810-401e2e736580|avtr_244d33c3-9dae-454a-ae76-ada3237fb083|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a1d39dee-ac48-4352-9b6b-ed7e209f82bd/1/256
+b1_battledroid_officer|5ubject|usr_87f64bc0-4f1f-41bd-a42d-c4e51934422f|avtr_54617322-9681-4934-bdee-df545cca03d4|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_888df3d1-cf56-4c35-baae-8f30e0ab3a4f/1/256
 baron ｜ beny and the untold secrets（official avatar）|卄ㄚ卩乇尺55|usr_e6013fe0-c988-46c6-86c8-fa94b80d91f7|avtr_edd1b9e9-9974-4991-b057-384da3175e54|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8ef76168-4c3a-47c6-8779-3a08c3b17284/1/256
 beta bendy - bendy and the ink machine|卄ㄚ卩乇尺55|usr_e6013fe0-c988-46c6-86c8-fa94b80d91f7|avtr_cf904632-7f6a-4ae0-98b3-d2fbf436eac7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4922cfaa-570c-4f12-b953-cad4052fe220/1/256
 beta bendy - source filmmaker|卄ㄚ卩乇尺55|usr_e6013fe0-c988-46c6-86c8-fa94b80d91f7|avtr_16a50399-f221-493d-94a5-47cc7874ded7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1536fea3-645c-44a3-abab-85acba118241/2/256
@@ -980,8 +986,6 @@ zanzibar red colobus|54_king|usr_61ef3b62-aed5-4b87-9af0-e7d160315f86|avtr_9a8f6
 ＃mint-515n4|515N4|usr_d4685307-cebf-4237-bbfd-1fb8fa14bdec|avtr_26348319-ef71-445a-92af-71d50dc0786e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bca08675-48cc-41d2-971a-71106463a05b/1/256
 ＃mint-515n4|515N4|usr_d4685307-cebf-4237-bbfd-1fb8fa14bdec|avtr_c9d981fa-beec-4225-8f25-69c461543ff8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8a0406a9-b4e4-46c8-bcca-91374f750844/1/256
 ＃）ǃ597|Kai_86|usr_760fafbd-5f48-4b60-985a-c7ee20c6d2c2|avtr_9089c99a-3568-40fd-9ca6-57b506c2e1f8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_657abdfe-60f2-4e74-a53a-596c5e1cd47d/2/256
-（outdated model） harvey｜ ronne and his world of shows|卄ㄚ卩乇尺55|usr_e6013fe0-c988-46c6-86c8-fa94b80d91f7|avtr_8f42d6ff-cd41-40b8-b4fc-b2c2c216f0e5|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d55ed843-0d2a-4b48-a383-9985ddb42874/1/256
-（outdated model） monster ronnie v2 ｜ ronne and his world of shows|卄ㄚ卩乇尺55|usr_e6013fe0-c988-46c6-86c8-fa94b80d91f7|avtr_0a17bd40-8a4d-4bbd-8c09-94c2bc9d95a6|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3de016c3-ddeb-463b-b609-e57818d74cfb/1/256
 ＠5k7⁄⁄|Gabex_FF|usr_c24781f3-d611-4b40-b5ea-89462dc2dde1|avtr_16a2b4b8-fad9-4b4b-86e9-5d47d0065862|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d70c8347-8282-4c48-ac43-9009af7666a7/1/256
 ［501st］ arc-5555 ＂fives＂|Holos_Poi|usr_aa116e55-6ed7-4771-82ef-fe0597e0cf8a|avtr_700f236a-6143-4e57-b199-e6131232699d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ca49c8d3-c901-4724-b2d1-0761187c6a67/1/256
 ［501st］ CC-1119 ＂Appo＂|Beast Vauquelin|usr_f9b55600-992d-40ad-8c7d-3664faaddeb2|avtr_2fbe3e54-ab78-4d1b-bbd5-c315a256082f|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_5eaf272b-4b8a-484a-afb3-289dcd115c3e/2/256
