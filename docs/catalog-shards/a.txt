@@ -1937,7 +1937,7 @@ acguy|EGGWARRIOR|usr_adfc1113-054d-4b35-a41f-dca5fad4f6cc|avtr_c8ca1b47-aef3-4cc
 acguy mini|Not Timmy|usr_675ed493-eefe-4875-b46b-517ed115e4c0|avtr_921e4b6c-dcb6-42f7-905e-78d2ed05e2c1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a79f18f5-9570-4c32-9874-9c8a4eafad77/1/256
 acgvr eren titan|Gіlgamesh|usr_d8c1041d-c435-4ff8-8432-6bd892e9048e|avtr_d00a69eb-e7b3-440b-aa10-5187aea0499c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4564ec0d-b274-417d-94a1-a2e0758cbd6e/1/256
 acgvr mikasa|Gіlgamesh|usr_d8c1041d-c435-4ff8-8432-6bd892e9048e|avtr_3aefeb43-263e-4dda-ac4c-467233d44ef3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_42a7b13c-e71e-476e-96cd-6a5a50020daa/1/256
-Acha_advertisement|∗そに∗|usr_bcd4afeb-7f71-4234-82c7-c0eba0af558e|avtr_5044255a-9249-4935-a083-10aa89ca8c14|VRCNDb|PC+Android|
+acha_advertisement|∗そに∗|usr_bcd4afeb-7f71-4234-82c7-c0eba0af558e|avtr_5044255a-9249-4935-a083-10aa89ca8c14|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_da749b2c-0e08-48b3-aae8-2aa988c0d731/7/256
 acher sfw|-ShadowShiro-|usr_bbddc7c1-7b60-4650-a6ac-aad16dfeca64|avtr_2afc3beb-b3e6-4b15-a866-5f980aa83250|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_61ef2684-199c-42ee-85a9-d40000c86b96/1/256
 Acheron|_scrubs|usr_950378b3-330c-45fa-9d9b-699a247475a6|avtr_2466d07a-fd9d-41bf-b102-50ceb9f14776|VRCNDb|PC+Android|
 acheron|ᴄɪᴘʜᴇʀ୭ৎ|usr_2c640587-7b0a-4abb-b47a-cca4cfb828b3|avtr_67865004-9dcb-43df-96cd-83b57f847013|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_569b811c-a366-4953-91f8-904c92acfad9/1/256

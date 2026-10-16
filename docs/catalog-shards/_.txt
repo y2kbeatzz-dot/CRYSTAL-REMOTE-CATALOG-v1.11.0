@@ -844,7 +844,7 @@ ace lowkey|ᴛᴇᴇ ༒|usr_51971cf8-1642-4ba8-8c40-a4b4c51ea932|avtr_f3403a4e-
 ace of spades|ʚᴳᴸᵒᵒᵐˢɞ|usr_f11b3a50-3cf8-417c-baa4-eb01cfab83d6|avtr_496989ce-3e88-4247-8221-d141431ec781|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8cbde5b3-31fc-4af0-8b3d-ce11ecb6247c/1/256
 ace ≺333|ʙᴇɴɴʏʙᴏʏᵀᵉᵉᴴᵉᵉ|usr_32f88ed7-6fdb-49fc-a683-661ce9327e67|avtr_be47711e-044a-40d5-b068-6f0d92f6917a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_efd53050-b04c-4f11-bd4e-35b7965ce3c5/1/256
 AceSwaps|₽ʟᴀʏᴍᴀᴋᴇʀ|usr_5477ff52-a950-4984-852c-bcccc60bd0ac|avtr_cc36cade-5afe-446f-88b0-ead0c607dad0|VRCNDb|PC|
-Acha_advertisement|∗そに∗|usr_bcd4afeb-7f71-4234-82c7-c0eba0af558e|avtr_5044255a-9249-4935-a083-10aa89ca8c14|VRCNDb|PC+Android|
+acha_advertisement|∗そに∗|usr_bcd4afeb-7f71-4234-82c7-c0eba0af558e|avtr_5044255a-9249-4935-a083-10aa89ca8c14|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_da749b2c-0e08-48b3-aae8-2aa988c0d731/7/256
 acheron|ᴄɪᴘʜᴇʀ୭ৎ|usr_2c640587-7b0a-4abb-b47a-cca4cfb828b3|avtr_67865004-9dcb-43df-96cd-83b57f847013|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_569b811c-a366-4953-91f8-904c92acfad9/1/256
 achtnacht_sample|高木恭介|usr_0f1ece82-bec3-4886-b3ed-bd1bd65cecbe|avtr_1434285c-ee2a-400c-8b0a-833241af7c2a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/file/file_9a509388-bd36-45f7-b020-422faf2918bb/1/file
 acids miwa|Ｊｕｓｔ_Ａｃｉｄ|usr_5bc50ed5-d1b3-40f4-be91-3321b7c9443a|avtr_d6fd0fe6-012b-43e1-bb3d-49cd5b1bdd07|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_12c5e178-5986-4680-a214-cca3d85b0d74/1/256
@@ -12800,8 +12800,8 @@ vket4_diva|フォークロア|usr_1c80dac2-9b86-4937-ac3c-0ea0dcab5c53|avtr_6777
 vket4_flora|フォークロア|usr_1c80dac2-9b86-4937-ac3c-0ea0dcab5c53|avtr_a969a2fc-966f-40ae-8013-70fb10c3d25d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_07b7443e-0d9a-426e-b461-68fd72575de0/2/256
 vket4_souta|つぐみ|usr_456311bb-5b37-4130-aafd-f836a5e5ef70|avtr_d01d7c1d-1a0b-4734-9728-e245b259afbb|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_74a78290-ed69-474b-927f-8fd32806765c/2/256
 vket4molinocoyaadavatar|もりのこ|usr_4dc5392e-c63f-4159-bfb4-f8d016fb7ea3|avtr_58520d01-47c3-40b4-8bc2-f62254ba6b9c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0264c24f-86d9-4d61-af45-a127dd2ab42b/1/256
-vket5_pd_alub|ワタリノ|usr_c83153af-5148-45dd-8ca1-e2cfbc24d06b|avtr_8b9fee4b-1557-4f6e-a774-f65abab9b4d4|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4ec09e33-8830-47be-b4a0-06116f07a1c0/5/256
-vket5_pd_aluc|ワタリノ|usr_c83153af-5148-45dd-8ca1-e2cfbc24d06b|avtr_7017c24d-052c-497f-8a29-88586cf802a6|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_89349a27-0346-4545-877a-b9d67af7af8b/6/256
+Vket5_PD_AluB|ワタリノ|usr_c83153af-5148-45dd-8ca1-e2cfbc24d06b|avtr_8b9fee4b-1557-4f6e-a774-f65abab9b4d4|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_4ec09e33-8830-47be-b4a0-06116f07a1c0/5/256
+Vket5_PD_AluC|ワタリノ|usr_c83153af-5148-45dd-8ca1-e2cfbc24d06b|avtr_7017c24d-052c-497f-8a29-88586cf802a6|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_89349a27-0346-4545-877a-b9d67af7af8b/6/256
 vket5_ped|れじさん|usr_c9be36c6-6683-4004-9232-2a02be58c41d|avtr_a9ae4240-f864-4b12-af18-c1cec62a2a47|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1f6a2bb6-f4ee-4ed6-ac4c-afe6eb1e64bc/2/256
 vket5_sample_testchange|アルファ・クラウディア|usr_46933e21-0f10-463a-899c-6c295a8caaed|avtr_707ba9b7-bc01-424f-8e85-1cac078f7e9c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e6837287-d583-4396-82f6-1c2bf9c97231/2/256
 vket6 riru trial version|わこー|usr_e3f071b1-a620-4cf5-b671-355219916576|avtr_ad05c94e-04d4-42d5-a7c9-9b7dac197c72|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_24c09294-a37c-49ca-aa04-bdd6db5e180a/2/256

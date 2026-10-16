@@ -359,7 +359,7 @@
 2013 hyundai equus|ZΞNON|usr_25b7c1f8-8f82-438a-a5ee-b1dd58d439ed|avtr_66902571-705b-4b47-967a-cef84b2d1325|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c29c34ee-1405-4763-93f5-7b6c181bd403/1/256
 2013 kenworth t800 8x6 ［from cross customs］|Ilya_Cross39|usr_36db55d2-e521-40e3-9852-fd6ea4b8d19b|avtr_a2c08b9b-0a31-49ae-bb37-168fa6589bfb|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d6ca1a13-2442-469e-9fe7-fd6082dc6054/1/256
 2013 nissan gt-r （gtr） r35 liberty walk body kit|2fast2kart|usr_64e71c92-3511-4e4c-a221-524e10eaae32|avtr_0a4e2555-3c2f-484e-862e-66cd021c0167|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d6cab8a8-9149-4913-a4a2-fc4295cc8265/1/256
-2013 reboot lara|STANLOONAHIHIGH|usr_af01c446-ae33-4e66-bc2c-86a551291d7d|avtr_d2f78302-c648-4f9f-963b-39f131e9c943|VRCNDb|PC+Android|
+2013 reboot lara|GFOTYBUCKS_HUGE|usr_af01c446-ae33-4e66-bc2c-86a551291d7d|avtr_d2f78302-c648-4f9f-963b-39f131e9c943|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_817e9359-555e-4d76-b619-397b66901eef/1/256
 2013 rocket bunny v2 - nissan s13 240sx ⁄ 180sx|2FAST2DRXFT|usr_64e71c92-3511-4e4c-a221-524e10eaae32|avtr_0ec99d6b-b950-4009-a68f-84f50b489286|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0f9107c1-aacf-4ac9-b4a1-5cad407fc41d/1/256
 2013 shorts mickey mouse|flinsky|usr_8d9c627c-63ec-43e4-89b0-f5d9b939c5c3|avtr_cdd2f6a4-3afc-4d1d-9fc0-9e2d2372c9e5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_46df618a-633a-4737-be19-3cffb960eca7/2/256
 2014 alfa romeo 4c|2fast2kart|usr_64e71c92-3511-4e4c-a221-524e10eaae32|avtr_700616d5-57d0-4b17-9faa-358862418e88|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_196b6971-7ab6-4af6-8259-fe45158ae7be/2/256
