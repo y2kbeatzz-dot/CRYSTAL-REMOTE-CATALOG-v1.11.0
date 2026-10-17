@@ -2565,7 +2565,7 @@ pjwan|yosshiiiiiiii|usr_2177a804-fe69-4fc0-9a91-aca92f15e8a3|avtr_348d9810-451e-
 pjwan|yosshiiiiiiii|usr_2177a804-fe69-4fc0-9a91-aca92f15e8a3|avtr_41a1aabf-136a-427a-b545-5cce4ed891e3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_65e24407-ef62-4807-b2bb-3bc3fa28f7d4/1/256
 pjwan|yosshiiiiiiii|usr_2177a804-fe69-4fc0-9a91-aca92f15e8a3|avtr_625088ee-94ca-46e1-87a6-1169418ca2dc|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4697c734-1022-438a-a86d-ad3db98269ec/1/256
 pjwanǃ|yosshiiiiiiii|usr_2177a804-fe69-4fc0-9a91-aca92f15e8a3|avtr_0e0da9f7-36ea-47fd-b7c4-be37fbb8f1a8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b7597973-8374-4d03-b17e-24512bf25dd4/1/256
-pj․waft|yosshiiiiiiii|usr_2177a804-fe69-4fc0-9a91-aca92f15e8a3|avtr_45a95ebc-a1f1-4623-b536-b844403f74d9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ff010d6d-37d5-455d-838e-d10000beafae/1/256
+PJ․WAFT|yosshiiiiiiii|usr_2177a804-fe69-4fc0-9a91-aca92f15e8a3|avtr_45a95ebc-a1f1-4623-b536-b844403f74d9|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_ff010d6d-37d5-455d-838e-d10000beafae/1/256
 plaidmiko|Yellow᠌|usr_daa09a1f-7633-4570-a7d9-a655435fac61|avtr_31c93c65-be95-46b1-85b8-bd74b192831b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_72c60b2a-e5ad-4771-854e-c6d2b3d5d207/1/256
 plaigen|YaboiZamo|usr_225bf594-4be4-40f2-a6e6-71855fce7c96|avtr_8b6d5a0f-e6d8-40f2-81b1-fc39bb4357ca|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_cd67cfd3-7d8e-4a22-b021-e3742be07181/2/256
 plankton|YellowyBastian|usr_b7acdd05-526f-4b20-b663-f09de23f224b|avtr_78fb9e96-6689-4004-934c-fc5c895c43a0|VRCDB|Unknown|https://files.vrchat.cloud/thumbnails/3258312987.thumbnail-500.png
