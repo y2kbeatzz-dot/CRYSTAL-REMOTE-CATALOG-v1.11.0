@@ -179,7 +179,7 @@
 327th cc-5052 ＂bly＂|ĐJ-VR|usr_c81f7bef-65fa-479b-855a-f253921a8ac0|avtr_2a4f9425-2aff-46d1-abb0-3ebafb4bd7bf|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3f31335c-abbe-4424-81f6-eb5cafe60356/1/256
 327th clone phase-1|jimminy|usr_aaaa6aed-6516-44d5-bd70-4aa8ed391ff0|avtr_5ff76e4a-b746-4265-b73e-c4ed3f9015cb|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_cc91e886-1d7b-4e36-b5af-f67e6758206f/1/256
 327th clone-trooper|Jim Raynor|usr_3acc66be-ea0c-4506-a6dd-fda81ad1ff2b|avtr_5f9bdad0-79f9-4db2-ac3b-ad71350c8355|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9e55333d-f8cf-4cb4-9ef4-cbd6847478b1/1/256
-327th phase-1 captain|jimminy|usr_aaaa6aed-6516-44d5-bd70-4aa8ed391ff0|avtr_bc09855a-f728-4eea-9477-795adf844ced|VRCNDb|PC+Android|
+327th phase-1 captain|jimminy|usr_aaaa6aed-6516-44d5-bd70-4aa8ed391ff0|avtr_bc09855a-f728-4eea-9477-795adf844ced|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_f7019479-c1a2-4063-bbd6-2e2ab56e4ab9/1/256
 332nd trooper|JeshLee|usr_283ee6c2-558b-40fc-96b6-a39adc13b737|avtr_e3dc2894-a4ca-4bf9-9841-3c8235b0ecb6|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e690b75e-7ca4-423e-9279-af0d9e53528f/1/256
 333|٭JAY٭|usr_60f7a984-162f-433d-9542-966d90354d11|avtr_6fb6591a-152d-43f5-a90a-3cd274d996b1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6c213006-dd7f-4b18-bcf7-8f73772c157c/1/256
 343 guilty spark|JackOfChaos|usr_33b5517a-8fb7-4dca-a5f0-44ccba6ac4d0|avtr_a0757db8-1bbf-46f5-b213-79e0825b9435|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4129e287-01c0-428c-8d72-4df7dc55c1e2/1/256

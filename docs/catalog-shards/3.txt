@@ -362,7 +362,7 @@
 327th Phase 1 CT|ARC Salvo|usr_8201b911-556b-4ba0-975b-f545b4181f8d|avtr_0801c5a3-69d5-46f9-b5c3-868c5a0ab46c|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_79cc5aa1-1395-4d6c-a6e5-ab6b069a4e30/2/256
 327th phase 2|STΔTIC|usr_d1a64088-dd20-49e4-b5e0-71fe21ce3127|avtr_86164235-0d6b-43d6-b22e-780f391c0335|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_de6d6335-69d6-4572-b33e-309b3e50a045/1/256
 327th Phase 2 Basic （Quest⁄PC）|azrial667|usr_584a3c66-b3dc-4513-b5ac-2cc632bf81fb|avtr_e3844e34-bd67-4c80-aa0b-f5af5f487bdb|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_2331f264-b92c-4be8-af2b-2ea22ca13b7e/2/256
-327th phase-1 captain|jimminy|usr_aaaa6aed-6516-44d5-bd70-4aa8ed391ff0|avtr_bc09855a-f728-4eea-9477-795adf844ced|VRCNDb|PC+Android|
+327th phase-1 captain|jimminy|usr_aaaa6aed-6516-44d5-bd70-4aa8ed391ff0|avtr_bc09855a-f728-4eea-9477-795adf844ced|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_f7019479-c1a2-4063-bbd6-2e2ab56e4ab9/1/256
 327th pilot f|ari ɞ|usr_aba58b92-a05d-4847-a08d-2feb9d860634|avtr_7c6ab326-48eb-4a68-a2c6-68732ddf24ee|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_25a572dd-d781-49f3-bf6f-19dedac0a975/1/256
 327th public dirt|Stay Unholy|usr_f08d2744-b9f4-46bc-9282-c2b829ff11cb|avtr_7e86c20e-398f-4fbd-b8ab-a3653420c09e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7e2b4afb-14d0-4011-b3c3-9a6cd18a0011/1/256
 327th rc joker|Doomgazer|usr_749c5963-fc95-4e73-993b-45f01416a250|avtr_869d6e51-ff01-4400-b578-6ada2e1af508|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9b716421-4dd9-465c-a2cc-b9cca5479fa1/1/256
