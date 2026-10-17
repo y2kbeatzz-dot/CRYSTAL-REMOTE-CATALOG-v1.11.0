@@ -831,7 +831,7 @@
 4ng3l_gxtz|Gaming4luffy|usr_024979ea-ecff-4e87-b902-67ba8733d9f6|avtr_e2030067-e533-49ad-9ed3-b4f82f9aba5c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b22c6fa8-22a8-47d9-88d1-1cc2cf0e1799/2/256
 4nori_xmas|Lakuen|usr_20c6169f-3268-4703-9e28-b1177de7d7df|avtr_cf1494a5-f7bd-406d-a834-f3ceb8daaaa6|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_57f9d9fe-3a74-49ac-b661-999fc4b0ad24/1/256
 4O AM|sᴘʀᴋᴘʟɢ|usr_a2885e31-1d1b-4192-ac37-a581674ea7ca|avtr_cd034219-6087-4b1c-9983-fccf7c261597|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_fdd8996e-dcbc-4847-bce9-b758acf577ea/1/256
-4p Cat|costxav|usr_ee441340-7fc9-4c13-8993-ab9f2108c3d0|avtr_a3302b1f-831b-4be1-8608-018de7c76b85|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_6e5ae645-f8db-4d66-9b84-84f1008508f7/1/256
+4p cat|costxav|usr_ee441340-7fc9-4c13-8993-ab9f2108c3d0|avtr_a3302b1f-831b-4be1-8608-018de7c76b85|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6e5ae645-f8db-4d66-9b84-84f1008508f7/1/256
 4p kitsune alastor|Samiel M S|usr_5f0b2854-4cd1-4567-acfc-3e415ac595c1|avtr_a16e02b5-e1f5-4123-af5e-16b05568cae3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9df931ae-2a35-45a3-aa2d-5e5b00a711a3/1/256
 4paw aqua|Voxian|usr_6357e412-e4c9-4e74-94a5-4b267f4f9f7b|avtr_8407053f-14b8-499c-b0f0-4af9ebe36a07|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b0890fcc-4a47-416e-85a9-9e9840583c91/1/256
 4paw furality ultra|Voxian|usr_6357e412-e4c9-4e74-94a5-4b267f4f9f7b|avtr_4d4a3153-24b5-4b42-9c8b-ad1d394f1e77|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_83cf6a64-8739-4b42-ae5c-3376c6dc4e3b/2/256
