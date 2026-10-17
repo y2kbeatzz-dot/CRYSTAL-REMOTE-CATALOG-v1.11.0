@@ -527,7 +527,7 @@ carrot negi-sample⁄usabesu|USABESU|usr_fd5e82aa-39d4-4bcd-bf23-9f547748f18c|av
 carrot-sample⁄usabesu|USABESU|usr_fd5e82aa-39d4-4bcd-bf23-9f547748f18c|avtr_16657ea1-616c-419c-b69d-38af2b8ab27b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bc413511-455c-40ee-ad24-7ff691b4fbec/1/256
 carti|Сuba|usr_8d6b6f22-c83c-43be-a6a3-c361819a4fdf|avtr_23863cde-fc70-4d08-a7f3-0967a54e0dae|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9851c3f4-654e-4bc7-ade8-e01ec58a76b5/1/256
 cat boy⁄girl|༒Ｇｈｏｓｔ༒-Upload|usr_7189d7d0-9809-4063-9bcc-1a0a87971d5b|avtr_60f8ad12-79f0-4ba8-915c-221cbe421dd1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_84fd7ae7-7235-4954-803d-b7fa04d93706/1/256
-cat boy⁄girl|༒Ｇｈｏｓｔ༒-Upload|usr_7189d7d0-9809-4063-9bcc-1a0a87971d5b|avtr_86d83a91-bbfb-4924-a926-d56dbaaa9996|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_05baad58-2e0f-477f-a9c9-e0fe5d7f03db/1/256
+cat boy⁄girl|༒Ｇｈｏｓｔ༒-Upload|usr_7189d7d0-9809-4063-9bcc-1a0a87971d5b|avtr_86d83a91-bbfb-4924-a926-d56dbaaa9996|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_05baad58-2e0f-477f-a9c9-e0fe5d7f03db/1/256
 cat boy⁄girl booth|༒Ｇｈｏｓｔ༒-Upload|usr_7189d7d0-9809-4063-9bcc-1a0a87971d5b|avtr_c879b058-1e7b-4323-a751-07b23aa4dcaa|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3ce4265f-f7fd-48c0-ab42-042679ae33a6/1/256
 catboy hiro|UrFavCatboy|usr_566284cd-26ef-4bdd-908a-718c946b5c06|avtr_15a6de3f-6bad-4fe4-9f9f-8590811a19a3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1b24230c-2b12-4803-b4ae-f37498a84460/1/256
 catrobot|UnholyDredgen|usr_72b50516-5b29-4218-8d21-b328697bc0f8|avtr_062bf73f-6d0f-4dc9-a10c-115ea5c61e4e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e168df02-b0b8-4af5-9626-6e0973e0727d/1/256
@@ -2167,7 +2167,7 @@ playing card king of clubs|Umihotaru うみほたる|usr_706a6bed-d4dd-4aec-b043
 playing card queen of hearts|Umihotaru うみほたる|usr_706a6bed-d4dd-4aec-b043-f3e39c72a73d|avtr_ef94b1a7-2936-4411-9fab-2c70a20aad5e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_31261fc7-d699-4cd4-821d-c44b33afe16c/1/256
 playing card seven of diamonds|Umihotaru うみほたる|usr_706a6bed-d4dd-4aec-b043-f3e39c72a73d|avtr_d8472b92-9dba-483e-b564-c044d4395f01|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_34cf7bad-cdb9-4639-8e85-564251760dc3/1/256
 playing card twelve of clubs|Umihotaru うみほたる|usr_706a6bed-d4dd-4aec-b043-f3e39c72a73d|avtr_026df308-75ac-4fee-a9d3-cec206c6c8c3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_10bfc838-a727-4ac1-a2ea-36a3281d46ea/1/256
-Playtime Chara|Undertale master11|usr_c2216625-6176-4297-8583-acfaddfef83a|avtr_3c0c6e0d-6866-429e-bccf-f8a5c3f5d825|VRCNDb|PC|
+playtime chara|Undertale master11|usr_c2216625-6176-4297-8583-acfaddfef83a|avtr_3c0c6e0d-6866-429e-bccf-f8a5c3f5d825|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_2d8608fe-0ab0-409f-adac-e3ca5dde4320/1/256
 Please Upgrade to VRC＋|Uhhnoobie|usr_38a60c18-1c23-461a-b141-94922878c60e|avtr_86919fcf-801c-4bfe-9b1c-b98470f47568|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_7c188f91-36bc-4e57-9f8a-b42ce08d108b/1/256
 plum|UntitledDuck`|usr_c226c9d1-de07-44f9-95d1-d59c6a79f252|avtr_74394b8c-e137-41e2-86b8-4684dc533b86|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b755c8ce-e450-4456-ae3d-5621de353c3c/2/256
 plush fox|u-Kotovsky|usr_bbbbad31-433e-44f8-ba08-35b590267bc9|avtr_16a386f5-a529-4348-bf2e-34bdc263e015|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_234adf1a-dc6a-4a45-baa6-e1cfdd5faa7f/2/256
