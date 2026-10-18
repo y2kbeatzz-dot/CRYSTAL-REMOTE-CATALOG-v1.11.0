@@ -1241,7 +1241,7 @@
 256dogu|syakko⁄しゃっこ|usr_19367d32-0965-44d5-87ab-4f5b4d2d5181|avtr_6bb4eddd-e14f-4bb8-92a9-87781eb6865e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_54dc321c-d3f2-4392-b4a7-7e41bc8ed117/1/256
 256eyo|LAMANDA|usr_4b333bcb-6928-402c-966b-61dd1f729fc7|avtr_bdc8deb4-3093-4c33-a749-a66cbad90b48|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bb5b1ec6-5646-4711-8eb9-1c205886d355/1/256
 256fes mayu|cubee_cb|usr_5bbef076-2b5f-4c0b-8795-723790d60d62|avtr_14a20808-b4ed-47e9-af34-a53f69502c7e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9526b13f-66ae-4c79-9128-a5c39329e500/1/256
-256fes_pp|BunyanP|usr_f5e2c8fe-db98-4cb7-bdeb-dd78c5d659d3|avtr_af3c65e9-8c82-44b9-9b39-1428cbbfa8ff|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d73491a7-723b-40f2-ab09-e84116967690/1/256
+256fes_PP|BunyanP|usr_f5e2c8fe-db98-4cb7-bdeb-dd78c5d659d3|avtr_af3c65e9-8c82-44b9-9b39-1428cbbfa8ff|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_d73491a7-723b-40f2-ab09-e84116967690/1/256
 256girldark|gechan|usr_7c9579d2-82e9-4f31-979a-9b9deab3b994|avtr_d1eed65e-e12a-442e-9334-800602707b97|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9dbd3dfa-0887-4ddf-810b-7fdd3a37a9fb/1/256
 256hedgehog|messier_n|usr_757fd138-ce87-4230-8974-e5f8b85132f0|avtr_e0386a00-68a5-4b13-a775-ee63393b0d41|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_fc8523f2-d652-4108-9fa2-1ec78916b181/1/256
 256hedgehog［quest］|yamabe_y|usr_d5f67b5e-c431-4a87-ae75-8e32478bf37f|avtr_0ab11f5b-b71d-419f-837d-75b9adf7f87c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d69f4d15-8a71-4593-b781-23e6389cccfc/1/256

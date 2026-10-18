@@ -23658,7 +23658,7 @@ fem al|Arloİ|usr_61d4833f-fed5-40e8-96a8-6a2deda6ddd6|avtr_6d934dec-2a81-4d91-b
 fem al v2|Arloİ|usr_61d4833f-fed5-40e8-96a8-6a2deda6ddd6|avtr_13746421-b59f-42fb-b8f6-41dcb8b4b560|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_240cdc1e-bb9a-413e-a668-96fea0a03ffa/1/256
 fem cell|AndersansC|usr_71d2fe40-0bd2-456c-85f0-a725469842f8|avtr_18bc2cb4-1620-4321-8ef9-3a4c687c0464|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3f1a9df0-502d-4153-a05b-370e24d9357d/2/256
 fem mercury|-∗Adeline∗-|usr_cd3f932f-7c0e-4577-bb79-90fe1df0c77e|avtr_991f6ea0-7a60-44a4-bb5b-cf1842218bf5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ce2298d4-7604-41cf-8ef9-b5050fd9ef11/1/256
-Fem Nappa|Abomination870|usr_9a247bcd-9ad3-41b0-a3da-2029929c7b66|avtr_7885f8ba-eb21-4200-8542-3f6a72e35ae0|VRCNDb|PC|
+fem nappa|Abomination870|usr_9a247bcd-9ad3-41b0-a3da-2029929c7b66|avtr_7885f8ba-eb21-4200-8542-3f6a72e35ae0|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_1316593b-c93f-464a-b2ed-bb6939974031/1/256
 fem tau （Rail gun）|AstridNullstone|usr_2d6eb392-ebc5-452b-9f1c-bf36248fdb40|avtr_edaadc8b-9380-4cf8-ad1b-3d1ad54abea3|VRCNDb|PC|
 female donut|AnimeIsLife21|usr_947f0bd0-a264-4a6b-a89d-f80a0ae47653|avtr_f100eb6f-9599-41cb-a4f6-081b86488fe1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3b365678-2eeb-475e-aff7-a9f4aa26530a/1/256
 female frenzied zealot|A Mimic|usr_5c5b7852-5b0e-4dff-b48a-0476d59d6cca|avtr_0725e14b-1ce3-4c93-bbca-0fe8ad14b303|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7a527017-3c1d-4358-816c-3cb0744fff91/1/256

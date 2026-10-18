@@ -5686,7 +5686,7 @@ Fem Monty NO TEX|༺ĘterņalWøndęr༻|usr_e262e987-ab93-4f14-8ca5-4e98483b700
 fem n|Livvylubug|usr_318e8cc3-9ff4-4923-aa9c-95f35de21c36|avtr_03061d55-0578-408a-9ac0-804e1ddfc66a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9fd0519a-be61-4313-8a42-c4d14991f029/1/256
 fem n|Hvzel|usr_42b5d037-8eec-4192-b67f-0d4e95d5d326|avtr_1042609d-527d-4548-8347-96986ab60573|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_e2dd9dfc-a15e-4037-af20-6e1c20fe0ef7/1/256
 fem n|icetro09|usr_04db4d8e-c06a-444e-9e2e-4e36c8905c92|avtr_10f454c4-3b39-4ca3-9692-505c39f5e747|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a691c8ca-6415-4305-8739-e761062bfff0/2/256
-Fem Nappa|Abomination870|usr_9a247bcd-9ad3-41b0-a3da-2029929c7b66|avtr_7885f8ba-eb21-4200-8542-3f6a72e35ae0|VRCNDb|PC|
+fem nappa|Abomination870|usr_9a247bcd-9ad3-41b0-a3da-2029929c7b66|avtr_7885f8ba-eb21-4200-8542-3f6a72e35ae0|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_1316593b-c93f-464a-b2ed-bb6939974031/1/256
 fem nardo|DJ_MEGA|usr_f123f40a-2970-4141-bd3f-f163d4081f8f|avtr_ac7cd982-df85-4b9b-b2c9-e5617d3f62bb|VRCNDb|PC|
 fem neo metal sonic|darllih|usr_10040e91-c6ea-4d5f-a6f5-dd9a97029beb|avtr_1932b65f-9970-4bda-8b1b-3046007b1817|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3ec5b46c-f8ef-4d17-9df4-a92ea5500775/1/256
 fem neo metal sonic|LizzieGolden|usr_bd13af37-d134-4842-acb1-0e392ad9b923|avtr_92681f39-01ff-4c62-8fad-2b718321ff14|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3120424a-f173-405c-a61f-e473e07c352d/1/256
