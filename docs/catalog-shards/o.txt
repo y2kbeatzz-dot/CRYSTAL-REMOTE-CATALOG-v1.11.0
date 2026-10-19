@@ -7164,7 +7164,7 @@ opbb eustass kidd|primalfrom12|usr_119dc1d1-645a-4278-9b34-c7f38b39907b|avtr_39c
 opbb kuma|primalfrom12|usr_119dc1d1-645a-4278-9b34-c7f38b39907b|avtr_b8e9c6b3-f70d-461c-95c8-a8fd324b70c6|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3aac13d1-f929-4bf1-8220-d4b38a62141b/1/256
 opbb shanks|primalfrom12|usr_119dc1d1-645a-4278-9b34-c7f38b39907b|avtr_8c89ee21-a803-42b2-a78c-9dc81aa771c6|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_5d493c0c-49ee-494a-8ce5-859078323e20/1/256
 opbb whitebeard|primalfrom12|usr_119dc1d1-645a-4278-9b34-c7f38b39907b|avtr_f0a12d47-29b9-467a-be88-96d87b1cd850|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0789bf0f-bedd-41d5-8b43-cc380c227185/1/256
-opbw （coby pt）|CLOSSICLE|usr_95197622-1e0c-405c-875d-39f8ad063744|avtr_b815f4fa-9f4d-4259-9b24-c9f34a342e36|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8213e573-8785-435c-a70a-24d95c18a4ae/1/256
+OPBW （Coby PT）|WillSmith69|usr_95197622-1e0c-405c-875d-39f8ad063744|avtr_b815f4fa-9f4d-4259-9b24-c9f34a342e36|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_8213e573-8785-435c-a70a-24d95c18a4ae/1/256
 opcms_vketサンプル|おにく／Oniku|usr_b35863ee-320b-429c-831f-716de4d6ec23|avtr_1c3a60db-6d1d-41bd-a0bb-5e02655ef4f9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_83a58a36-b25d-4de7-9f8e-739fea2847d2/3/256
 opdddsdvgv|Абдылдыргайка ebbd|usr_c68d0093-0562-470f-916c-a9f7102fcf2c|avtr_455a8063-e64f-45ac-9239-2cbfee069b5e|VRCDB|Unknown|
 opdtest|Ivylistar|usr_6a469f51-546e-4c9b-bcef-356c51a3535c|avtr_e3e20832-b3eb-40d1-8b83-5a40ae71b462|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1b34ef6b-e5f9-4ba6-814d-894aeda8c13f/1/256

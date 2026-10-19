@@ -19387,7 +19387,6 @@ psychodoomv3|__Nope__|usr_b091bf12-b3aa-42ee-9c57-2566f61516f1|avtr_e5bb0168-fb8
 psyga|Novelty VI|usr_a0c76d6c-70f8-4768-9129-76bba0ff9657|avtr_abc2f5c4-a1e9-43a7-bfe1-68fbade319d7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_97181e9e-2d81-4a06-8309-171642d73831/1/256
 PT Catlotl|Nep_Nep123|usr_03128e71-e332-4414-836c-d84af6c550a0|avtr_569bb2e7-9499-43c0-ad5a-de04dc6df50a|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_07a31b9a-dbdd-4ea0-a1be-d3edec9d606c/1/256
 PT Moon|мøønłɨŧ|usr_0d472463-0104-4258-a067-ac2f0c636cb7|avtr_6f39a7dc-7f97-471c-bf8c-cb32e7d081bb|VRCNDb|PC|
-pt-91 twardy|none|usr_2a66baa3-804d-4432-8915-a51a00c46b5f|avtr_3b065f44-a88f-4b68-89a8-572873b65fce|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_58aead5e-aa72-41c9-803c-36acc087008c/1/256
 pu|neimu|usr_58be51a3-4443-4672-a32b-dce6c34ba6ad|avtr_6978886f-0761-4262-b96b-c0f8369e307c|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_2632ce96-8751-41ea-8fea-07f584611f61/1/256
 pub inq|No clan|usr_bef428f0-d1cf-4c96-a61f-a529af13005e|avtr_ee679347-6000-41a5-9695-81e827bba193|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e7247c9d-c3f5-40af-a404-e950d43e284a/1/256
 public ariena spetznaz|none|usr_1cf309f6-15f2-4b4e-bcda-a98743f7d5b9|avtr_56fd89e6-f334-4e3a-a4d9-cfe1a7ada09b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ead2c7f6-9761-4c05-9390-128c373f82c1/3/256
