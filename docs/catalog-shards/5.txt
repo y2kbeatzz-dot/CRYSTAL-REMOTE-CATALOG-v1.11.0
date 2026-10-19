@@ -95,7 +95,7 @@
 501st assault|LorkhanVoidborn|usr_200bd095-70d4-41c1-b8e0-eb0abea51759|avtr_206cb8ed-35d6-4bbf-93cf-c4ea5ad430d2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_47be336b-f1e8-4a85-8a79-7b96e1921a9f/1/256
 501st assault|｛CT｝|usr_66188393-417c-4792-a8b9-b2cb05932bae|avtr_cf9fd5ce-67d9-4bc0-98a2-b8fbfc6cf4e7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e17878b7-4d98-4158-90ec-ccd7d88cfb28/1/256
 501st AT-AT crew|Fish CC-7567|usr_927eacca-c311-4322-be06-9f4b7f657fc2|avtr_f79dc5bf-3b23-422e-8740-fc3b7184a859|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_8039f788-cce2-474e-a395-428b5df6b0a2/2/256
-501st Avatar PVP Uniform|~Ashe Cashe~|usr_100368e3-e2f3-4357-a441-61314a7b5aab|avtr_f7685a93-fb8c-4b90-b03b-0e7775b36115|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_82654576-3dcb-401d-bef2-cef889c9272e/1/256
+501st avatar pvp uniform|~Ashe Cashe~|usr_100368e3-e2f3-4357-a441-61314a7b5aab|avtr_f7685a93-fb8c-4b90-b03b-0e7775b36115|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_82654576-3dcb-401d-bef2-cef889c9272e/1/256
 501st b1|~ZDot~|usr_da91b1eb-5cad-406a-8029-2c53ae1257af|avtr_b347eedf-a7ef-44c4-9ced-010253134271|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3d70da72-7135-4f3b-bd9c-e49f8f82ede1/1/256
 501st b1 droid|DaBluBirb|usr_ed6ddbf9-cd17-4b5a-8609-d359aba1172b|avtr_c5e9c4c6-020f-4912-8acb-127f048a89b2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2b33982e-179c-430f-8dc9-68c8b1fcb6e5/1/256
 501st barc|STΔTIC|usr_d1a64088-dd20-49e4-b5e0-71fe21ce3127|avtr_11d8423d-160b-4911-a1cf-e09916e2921a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_20c5cf35-e8e5-4567-90bb-c452f4887165/1/256
