@@ -6723,7 +6723,7 @@ jene|zarriente|usr_75d2ed40-f70d-4465-bfcf-3d59c990ebde|avtr_3b93ced9-b52f-43a0-
 Jene 01|Tsutsuroon|usr_8729b09a-f4b9-46d4-97e5-32fcb5592c7c|avtr_7e5a2446-e67e-4aa4-b28e-f0f9e9fb478d|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_98cb5058-97aa-4934-87ba-37d3d47c75e9/1/256
 Jene 03|Tsutsuroon|usr_8729b09a-f4b9-46d4-97e5-32fcb5592c7c|avtr_a38620c4-7b37-42a1-bf41-f8b93f1e3e21|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_1946c95c-8cac-41f2-ac95-45be98cb473b/2/256
 jene ps02|anisan8371|usr_18a25828-a033-4ae3-a1a4-e045388c155b|avtr_dcafafd5-8a6c-479f-90f7-2774dfd004c0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4525cff5-4ddb-4960-aa20-c81f781cab6c/1/256
-Jene PS02|Der Rote Teufel|usr_e8312a32-ee82-4ca7-856f-10327ae96021|avtr_fd116e8d-1fc9-48a0-9c10-d25390634c0b|VRCNDb|PC|
+jene ps02|Der Rote Teufel|usr_e8312a32-ee82-4ca7-856f-10327ae96021|avtr_fd116e8d-1fc9-48a0-9c10-d25390634c0b|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_ace51447-7b63-409e-a988-1326a451ceb3/1/256
 jene sp|kuuro|usr_1b33cc8d-8b30-4f18-80cc-a040eb91a71d|avtr_d4f51536-f08d-41f0-b582-ab72223e943d|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_7bd88884-98a1-4686-8645-511f7b959ab9/1/256
 jenemba|Wolfyx The Hybrid|usr_aadcd42f-9e6e-416d-8ed8-d49a2a207fe9|avtr_d4070ecb-37eb-4cef-b7f0-4c32242eaaee|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1b05cfa0-6192-4959-aa8d-4a756ef6408a/1/256
 jengo of the fetts|HenryIsMyName|usr_ba5f3157-90e4-46c4-9236-67711787ae73|avtr_c2e1a524-8476-4ca2-8981-e85336755ebf|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8bf1d69b-b7ea-4966-bfab-60dee1e21713/1/256

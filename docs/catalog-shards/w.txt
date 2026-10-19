@@ -13729,7 +13729,7 @@ ww2 german soldier robot|CrossLighter3|usr_83f72fa3-de6f-4247-b3c5-f43e9ee85a65|
 ww2 german stormtrooper|Taco Vauquelin|usr_041d270d-babb-46e2-b27c-11ccf76f865b|avtr_7927c45c-5a49-4d15-a693-f26a39f73ef1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d42f7b3e-0287-4d94-a11c-8fc9ec8cdc27/1/256
 ww2 japanese pilot|SingaporeCowboy|usr_21dfc9fc-6557-4522-9a31-5c4ac7579d30|avtr_00b49229-b41d-419c-b2f0-6d05c9e20bd4|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_52d0381a-8737-449a-af51-16eff9b4d5c2/2/256
 ww2 japanese white protogen|イアン-|usr_a49f73b7-cb18-46c1-9265-284527935f84|avtr_3ba166e0-ff24-4df3-8ea8-0b9fcb928c20|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_11607da2-abf5-4f7b-85ed-1b11aaea6045/1/256
-WW2 Man PSX|djhoo98|usr_406f2599-7869-488d-b452-477d8d10fad1|avtr_ab5edf93-7dfe-48ad-b7ab-aa3cfca19e3c|VRCNDb|PC|
+ww2 man psx|djhoo98|usr_406f2599-7869-488d-b452-477d8d10fad1|avtr_ab5edf93-7dfe-48ad-b7ab-aa3cfca19e3c|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_3cc8567b-9937-4eb6-8658-494cba280a08/1/256
 ww2 marine|~~༒KAIDEN༒~~|usr_40f8804b-f993-4711-8cf1-b963f2c571de|avtr_9a943b87-7ede-4c68-9245-91d4a1a57383|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4c86e67a-a5ae-4b08-abfd-844ef53341d1/1/256
 ww2 novabeast german|FlorianGrille|usr_c5ab7705-2ba5-49ef-b770-bc312b714294|avtr_d5aeec98-a327-4fef-9ccf-debb7667da96|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_56a94a76-5763-4128-8f96-dca6556807da/1/256
 ww2 pliot|~~༒KAIDEN༒~~|usr_40f8804b-f993-4711-8cf1-b963f2c571de|avtr_1def0984-1cec-4e0b-bf2e-acfc818bd890|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9a5b2448-e722-40e3-bf81-16a8a33c9d07/1/256
