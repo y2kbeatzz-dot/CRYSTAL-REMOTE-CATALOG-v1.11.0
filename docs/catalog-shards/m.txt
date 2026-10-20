@@ -17550,7 +17550,7 @@ mastodon maiden|BadgerEverglade|usr_6ea67920-3597-44c3-a889-d214c3acb979|avtr_02
 mastodon man|BadgerEverglade|usr_6ea67920-3597-44c3-a889-d214c3acb979|avtr_f87d6dcf-b6db-4ac1-a5ac-74ad2a9b4321|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3a4a4e56-fafc-4bb6-8b82-6d75c9f52c5c/1/256
 mastodonsaurus|Deap_Blu_Scea|usr_7abea133-5a7a-41b8-8897-5416846a5c41|avtr_55e9cfca-d3d1-47b4-98a4-92b9c7a9e57f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_649eed59-2670-4ce5-800f-1a4b296e040a/2/256
 masturch33f|EvenFarther|usr_f27c058c-6fd6-41f9-8f4e-b61e780b76f0|avtr_4ce13c2f-58c2-4b27-915c-358ab248a18d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c0849e61-3932-436f-ba0f-595a4298c0b4/1/256
-Mast˸ Romantic Maid|VanyxVR|usr_0984e1d3-b751-4967-a192-e651d2204336|avtr_9b79e7c7-7339-4ea4-8b3c-0d662f83a829|VRCNDb|PC+Android+iOS|
+mast˸ romantic maid|VanyxVR|usr_0984e1d3-b751-4967-a192-e651d2204336|avtr_9b79e7c7-7339-4ea4-8b3c-0d662f83a829|VRCDB+VRCNDb|PC+Android+iOS|https://api.vrchat.cloud/api/1/image/file_7a6f475f-85b0-4c62-820a-4e0f41fd1326/1/256
 masuhana ao - and st|Gugenka|usr_90f4067a-a70f-4099-9c7d-0d90ebd7fe62|avtr_ec98b7cc-efce-478a-b5c8-5f40f21e1889|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3fd4e6d6-4e9e-411d-8f52-81e46dd9a516/2/256
 Masuhana for Quest|-Wuxu-|usr_68a32944-b7ee-4319-8b46-86c72fcf1a23|avtr_fabfbb97-18e7-426d-bf66-71c4f6e9a437|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_8c65f085-a288-4bb0-897d-29cb7c1fd9e2/1/256
 masuka|Kazuki Pierre|usr_2e40e7a7-ba50-4355-ae8b-b4e07d55aec7|avtr_eb298436-cf70-47f0-8f95-ad8bdba1af2f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e9eb3362-28f5-4004-8c7b-6dd11cfb4e30/1/256
@@ -39158,7 +39158,7 @@ pyjama noemi|MrPikPik|usr_1d0d9f9d-b65a-4076-a445-1f173a8b49a7|avtr_dc853ab5-10d
 pyjama toru|MisterJerome|usr_1cb9690e-c5f2-4d78-8bf6-a64e8b1f29cd|avtr_74fbb515-ae91-42cc-bab2-ad7410be48b7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_183e1464-23b4-4986-aefe-8fa2f2392c17/1/256
 pyjama yoruichi|Mɪᴀᴀᴛᴀ|usr_25213f1b-159c-4d51-929e-a7a3070660ef|avtr_32c337af-317b-45a9-a9c2-3133d1f7a24b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9a68f21e-27fc-49c4-b17e-00586d2f82a4/1/256
 pyra - xenoblade chronicles 2|Marusame|usr_6e3bf012-c521-4ed3-98c8-972d3220d656|avtr_fef5848d-2957-471f-9b21-0676fcd56ff3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f261e1ad-09b1-4900-b689-ccac761aa019/1/256
-Pyra BG|MemoMii|usr_60eb6bf1-58a8-464b-83b0-ef0ca320400c|avtr_ae63fa13-8c16-48d3-9912-be04e1d21371|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_6d0c5e18-f4e5-49d0-bed6-817af8d07945/1/256
+pyra bg|MemoMii|usr_60eb6bf1-58a8-464b-83b0-ef0ca320400c|avtr_ae63fa13-8c16-48d3-9912-be04e1d21371|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6d0c5e18-f4e5-49d0-bed6-817af8d07945/1/256
 pyra165cm|Manami Shiroyama|usr_222df3bb-f1ca-44e0-94f9-1402836d463c|avtr_7aa94677-322b-4c3c-934c-1fa040361612|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_af4fc041-c554-4b35-a044-b08528aa4a47/1/256
 pyralight165cm|Manami Shiroyama|usr_222df3bb-f1ca-44e0-94f9-1402836d463c|avtr_0e084a39-a70d-4209-b016-77919b80a09c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6d533831-6703-4b1b-9af4-a0f91ac68f2d/1/256
 pyramid head mochi|M O C H I V R|usr_09f90c57-1b99-4b8b-ab82-65f9a8e005d7|avtr_0b6a3241-d206-4ceb-92b0-d5e87ecbd661|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e4bbc3ca-3441-428e-a332-beb1c32591b6/2/256
