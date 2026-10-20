@@ -435,7 +435,7 @@
 88|Big Lincoln|usr_9fca5129-2004-48db-b009-4bf95b5e2a80|avtr_3821f9dc-9b26-49e0-9f6a-e78bdfa27524|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1703d20c-6b66-4aa0-a0ff-5c6f179a4bc3/1/256
 88|Hany|usr_41b574eb-55fa-42dd-bfea-e33831b45fa0|avtr_686e3160-d090-40bd-ae20-d94c73b23afa|PAW+VRCDB|Unknown|
 88|energ11|usr_f213e24c-529f-430c-a2c9-4b6ee4ebfbf1|avtr_963e701c-fef3-4b93-9781-351e488f4bd6|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f814dfbb-1f1b-449b-b850-270a22c32b54/1/256
-88|NaifOtb|usr_a8476fde-3997-4e5a-88f7-7259409ab0a0|avtr_d481eb0a-35b8-47d6-9657-c759b29c456b|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://s3-us-west-2.amazonaws.com/vrc-uploads/images/image_1200x900_2018-01-05_20-59-38.png
+88|NaifOtb|usr_a8476fde-3997-4e5a-88f7-7259409ab0a0|avtr_d481eb0a-35b8-47d6-9657-c759b29c456b|PAW+VRCDB|Unknown|https://files.vrchat.cloud/thumbnails/466818473.thumbnail-500.png
 88|Feroni|usr_ff9bb248-29ee-4568-b815-57a3aaad3e41|avtr_ff942265-9959-477a-a6cc-8ddba26404f0|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_b084a50d-1bc9-423d-94de-62e708c736f8/1/256
 88 - shadow power units|Captain_Salazar|usr_9c94aca2-5e39-403c-9642-c246d2825ee2|avtr_3c9d95b7-1e52-4dc6-a8bd-df1d023f60ef|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7e8468e5-8fa2-4e3b-8e2b-c38b954cfa75/1/256
 8800|MrSaints|usr_2b0960db-89ce-4b4b-b077-25eff098b97c|avtr_b479e022-ccee-4ef8-b4af-859a0ec73235|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0cd24a15-b340-49c7-93ae-84948e96d138/1/256

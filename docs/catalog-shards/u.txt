@@ -2705,7 +2705,7 @@ suwako moriya - street wear|UshindoSir|usr_5d7020b8-9eb0-4d25-b167-a983f8bb813b|
 Suwako(re)|Uwna|usr_62bf67bf-0c5b-4977-938d-db2f1a345194|avtr_08defab3-4552-454a-941d-643d51edf351|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_0140a1e0-6e5f-4fb9-bce1-98fad813449a/1/256
 suzanne|UnifoxGG|usr_2c4c5239-ca74-45fd-8f67-844c9bae8bd7|avtr_0904ba46-0e5c-4d6e-b575-9d37acc195e0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_abce7120-3c15-4dc4-9dfd-8fa8bee7b902/1/256
 sv nardo|U731|usr_d3c21fd1-b7d8-4847-bf25-4b49ff25cf60|avtr_fc13cdb3-1e86-47fb-a2b1-dab69e43e982|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a8c957a4-9f6b-4501-803f-b3736eb4856b/1/256
-svh․natt․pw|сupѕ|usr_64e3280a-0db7-492f-b7a6-cfb0e2fe61fc|avtr_6917dda9-934a-4551-aa77-779ec1a1449b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_194bdad8-adef-4d09-9eb7-c8030e76bc18/1/256
+svh․natt․pw|сupѕ|usr_64e3280a-0db7-492f-b7a6-cfb0e2fe61fc|avtr_6917dda9-934a-4551-aa77-779ec1a1449b|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_194bdad8-adef-4d09-9eb7-c8030e76bc18/1/256
 swifty ahh dude|уung|usr_ed9f7b2b-f60a-4ad0-a3c5-76a66ff959c9|avtr_2e47e774-7dbd-439e-942e-fa9781330acd|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0eac32c1-7bcb-4446-91be-5cefa758aa80/1/256
 sylve|Umbporeon|usr_c5bbcfc3-446c-423a-ae46-61d877378dec|avtr_65022412-cb4e-4ed0-86f7-e3a96a14c91e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_788e3255-c551-421e-9063-78d4899f2b00/1/256
 sylveon|UtterlyNutty|usr_e948a9ae-e657-4861-9749-07806504d5fe|avtr_69dc996c-7fe0-45c6-af89-90fa9aa84a13|VRCNDb|PC|
