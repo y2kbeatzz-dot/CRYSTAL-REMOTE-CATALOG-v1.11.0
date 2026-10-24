@@ -8201,7 +8201,7 @@ qizpiz|Zombie6|usr_149e2f48-919c-4399-9f9f-041c3d7e0cea|avtr_65395107-9518-4c7e-
 qml 02․v|WCQ|usr_f18d392d-977a-4a76-9db5-73b0b064afde|avtr_487cc8f7-e338-4932-b695-a635b39f0f2f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c0e578f4-3666-4b35-998f-9f6f28db95f1/1/256
 qml 13|WCQ|usr_f18d392d-977a-4a76-9db5-73b0b064afde|avtr_7fec02e6-f18e-4012-8391-32026cc5ffca|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_03484538-30c8-4150-8de7-f7bda0255dce/1/256
 qoo_samplebgm_v1․3|haruru806|usr_3e5c4138-0cb4-4482-93a4-5e1c1f477daf|avtr_0f14b24e-068f-4914-8610-ae9e6253b07e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7da877a8-f92d-4692-9c42-0e466f19f289/2/256
-QP|Shield 盾|usr_02c4abdb-6c48-4447-8481-667952152680|avtr_7adb5049-780b-4256-a3b3-b84b7de43599|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_26f87fa2-dcb1-4729-8a17-444e4d237b58/2/256
+qp|Shield 盾|usr_02c4abdb-6c48-4447-8481-667952152680|avtr_7adb5049-780b-4256-a3b3-b84b7de43599|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_26f87fa2-dcb1-4729-8a17-444e4d237b58/2/256
 qq01|Пойечка|usr_8738ff58-9398-4297-8733-b4ded71b937b|avtr_86a3908c-6368-4ff1-bbe3-857a81746add|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_71afa046-664d-4fb4-a156-e9921b0e80fd/1/256
 qqqq|©Lucky© уБиВаШкА 13a3|usr_e1ea64d8-04f9-4093-a124-1f74ab0013a3|avtr_80eafc8a-faca-41e2-99ea-6d89578d408a|VRCDB|Unknown|
 qr|Kyler730|usr_9d5a1199-3258-4e5d-bdf4-03e98ec352f0|avtr_0b31ee36-7534-4f66-8106-a85f77f199ad|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c51de7f4-34c5-446d-8ced-763fab4d4276/1/256

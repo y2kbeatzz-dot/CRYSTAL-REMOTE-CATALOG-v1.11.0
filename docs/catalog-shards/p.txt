@@ -18897,7 +18897,7 @@ pq2 joker|MysticRam|usr_3f078b0d-40e8-48c3-b271-2ab2e9ea1985|avtr_490ea807-8cc9-
 pq2 joker|CKTheFrog|usr_da077a32-5614-4603-aa9e-5227135bc567|avtr_6716019f-36ac-4b54-b7a8-8bf6dcebbe55|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_145c02b1-f28b-45aa-b01d-031df50c2f32/1/256
 pq2 teddie （alice）|CardboardLuigi|usr_23eb3b39-40f4-4de9-9d9d-6b07fa7302cf|avtr_dbe94708-2b78-4bd5-9f6d-02de4a7122fa|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ec0fe434-626b-4582-ac20-f5fe2aaf9922/1/256
 pq5ykuu5dzbpx3px|MyAvatarCarrier|usr_584e1292-781a-4321-854e-88707d5754f4|avtr_6550ad04-094e-4dac-9e30-ae3d33741389|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_db14cd86-7719-4c4e-b3e0-2ab350ea502a/2/256
-pq;pqpqp|idann07|usr_bcb23813-1b4a-433a-92a1-945ccfa15b93|avtr_222bae64-7e1e-45f1-8ba8-d873e28c0a86|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://s3-us-west-2.amazonaws.com/vrc-uploads/images/image_1200x900_2017-12-24_17-02-21.png
+pq;pqpqp|idann07|usr_bcb23813-1b4a-433a-92a1-945ccfa15b93|avtr_222bae64-7e1e-45f1-8ba8-d873e28c0a86|PAW+VRCDB|Unknown|https://files.vrchat.cloud/thumbnails/4260073748.thumbnail-500.png
 pqa|kartak|usr_4b0000f5-996e-4dcc-8312-88251d148713|avtr_a0d4b252-d3cb-481d-92df-5388cc700484|VRCDB|Unknown|https://s3-us-west-2.amazonaws.com/vrc-managed-files/thumbnails/3795784375.thumbnail-500.png
 pqc|xX NepNep Xx|usr_2b488a4f-c7be-4167-a2d7-56e686ec65f6|avtr_ac1ef639-d42f-455c-a408-4adb44c47df6|VRCDB|Unknown|https://files.vrchat.cloud/thumbnails/4128162008.thumbnail-500.png
 pqchan|Ischafak|usr_c3323728-d779-49c3-bebc-3a4a9e03181d|avtr_0a830752-f047-40e5-b9ea-4848876bb706|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_94a690b8-03fe-4af4-8d67-713d920f6395/1/256
