@@ -10515,7 +10515,7 @@ queur_avt|_Rabbit_Z|usr_3fb77637-f907-42b0-8af9-5a603c00e034|avtr_3b59096a-1b7c-
 quewry|Ryu_VRchat|usr_fecd84e8-5b54-4237-afa5-88aaa777349f|avtr_8e74cc2f-2f37-4e76-bbca-8cf5fed04c00|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4df6c0de-3164-4ca7-9e56-3a65fe44b3ac/1/256
 quiet apple|Revs333|usr_2d3d1597-c711-409e-8ddd-11443d07b9a6|avtr_5067cf76-4d30-4831-bab5-9621c355a099|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_10e6e448-9ead-4d49-8cb5-b6696250391a/1/256
 quixs|RoseAlchemist|usr_c5e3525c-966b-4487-b9de-2995bcc45d0c|avtr_f57001db-0c1d-41ce-b465-8a736ee92e19|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_cd1466f2-cf76-4650-b846-2cb1acbd5fc7/1/256
-quqo|RINS|usr_b19d6f37-7e1e-41cf-9190-ad72b91d11a2|avtr_357a80de-a935-41d1-9d55-e8aa988ccf06|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6277b3dd-0a00-4788-9004-329a109bf961/1/256
+QUQO|RINS|usr_b19d6f37-7e1e-41cf-9190-ad72b91d11a2|avtr_357a80de-a935-41d1-9d55-e8aa988ccf06|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_6277b3dd-0a00-4788-9004-329a109bf961/1/256
 ququi-demo|へすい＠rerofumi|usr_5615e88e-e116-4960-8adf-6346dd9f1c5d|avtr_2bc5848d-b558-4579-aa2b-7ae0a60874bd|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e8339238-cc9f-4dcd-bb09-abed7a4fb351/1/256
 qwddwq|Rk0dkr|usr_6591a459-941f-4f23-98f4-1453d2b61980|avtr_df284d3e-91a4-44d0-a586-ae8b96b7a8e2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_282d23f2-ec09-4dff-b9a5-c6ef4fa1ca78/1/256
 qwdw|Reprais|usr_d206291e-9dee-4fe8-9a12-cad3ec42d337|avtr_e19561b4-8f90-457c-bfac-39e9676dfb34|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c7f972c7-c1c6-4370-a66f-5fe0fd4931b0/1/256
