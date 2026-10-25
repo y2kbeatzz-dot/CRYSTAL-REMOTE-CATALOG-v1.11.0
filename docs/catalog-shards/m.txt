@@ -14811,7 +14811,7 @@ man84|PiniiSmurf|usr_e024ec2c-ecea-483e-bf42-6128aa79fe5b|avtr_31b085d5-8471-406
 man85|PiniiSmurf|usr_e024ec2c-ecea-483e-bf42-6128aa79fe5b|avtr_edf5f898-9d1c-44c5-b51d-ee202c9694db|VRCDB|Unknown|
 man88|Lallering|usr_734ea3c8-4895-4099-96eb-492b74baffa7|avtr_e1ee7fd5-1ce2-4eca-b4f2-55a773f5c3fd|VRCDB|Unknown|
 man88|PiniiSmurf|usr_e024ec2c-ecea-483e-bf42-6128aa79fe5b|avtr_fc2d097a-4870-4a9a-bb0d-925293e23ef8|VRCDB|Unknown|
-man_at_arms|kartlava|usr_5bbebd11-10f6-4120-9d36-22b3cf3d432b|avtr_1af4539a-2a69-48cd-906f-9ecec7bd9238|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_3b5f13b8-dc31-4ce7-a7f1-ff4625818393/2/256
+man_at_arms|kartlava|usr_5bbebd11-10f6-4120-9d36-22b3cf3d432b|avtr_1af4539a-2a69-48cd-906f-9ecec7bd9238|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3b5f13b8-dc31-4ce7-a7f1-ff4625818393/1/256
 mana|なんとか|usr_e0c80acd-a7b6-4914-a661-21a97ba1462e|avtr_73d2e309-0c6e-4398-950d-d325a9b4a530|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2e1c5588-39bd-4048-904c-64437fe58d08/1/256
 mana alice1|夢の氷花姫|usr_09e7e387-ea81-4922-8239-fcd8dff5e53b|avtr_71b9ac55-c3ac-40f2-8d5a-342db8ae42d6|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4a2a82ca-e472-4212-912a-d9145cd6d769/8/256
 mana wyrm familiar|Head Inquisitor|usr_61c47d4c-ce1f-496a-b718-6d982f7faada|avtr_bba29ba1-704f-4132-99ba-d6dd9f1d1981|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d71c76af-64e9-4876-a390-67cb8e6e4f59/1/256
