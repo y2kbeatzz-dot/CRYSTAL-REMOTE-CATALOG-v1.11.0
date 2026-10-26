@@ -7393,7 +7393,7 @@ varesa ganyu|satanxoxo|usr_4336c814-fd77-4c82-9c6e-268e6f7e8ff6|avtr_afc115a9-df
 varesa （ black sweater ）|iiPhase|usr_9ec20e33-a6d1-4db9-8e43-d39e9464b051|avtr_d7224d21-7b45-43e1-9bb4-6e82d472d247|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_af9660c0-69ff-4758-b9b1-84dd2d5826b2/1/256
 varesa （genshin）|Pauln․123456|usr_64163a9c-0496-4974-876c-f37972a19f57|avtr_b640493f-702e-4c7c-a57a-c3d768771085|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a2e7e732-7eda-402a-a536-e39103932df2/23/256
 varg|MrZetudo|usr_3680d0e7-16f3-4a4a-95df-b3346a23bd7b|avtr_0661a39f-9156-4e26-bc36-3b07bcd2250b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_16faa672-872e-40d8-ada7-c87a0e1b719c/1/256
-Varg FaceTracking Test|Echo_DNG|usr_010bb243-e850-4bfe-92cb-9052cb70c596|avtr_96bd854a-2f8c-498b-9a3b-99fe11007a35|VRCNDb|PC|
+varg facetracking test|Echo_DNG|usr_010bb243-e850-4bfe-92cb-9052cb70c596|avtr_96bd854a-2f8c-498b-9a3b-99fe11007a35|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_a7d76dc1-bc8e-42c3-a523-21e85d4ccc82/1/256
 varg kipfel|星落小屿川|usr_179eaff0-7a69-42ce-a261-2f4839a13c4e|avtr_c459362e-eb8e-41e3-a08a-61e893874912|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_adab6426-30ab-4c96-b323-ec35420596b4/1/256
 vargoth|MRPrehistoric∗|usr_80979610-d2a0-4cdc-ba8e-f32f57639b76|avtr_9a4a36b0-6f19-460e-a167-a4cd01f388bc|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0c0ccf24-87b3-4a99-a5c2-e21e0817840b/1/256
 vargshroom model （funi sweden man）|OfficialGamer|usr_5974457a-f484-42d9-a777-b8a29602309a|avtr_addf252d-0f09-4b15-964e-4678805206b0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0271175e-f0cb-4a24-abb0-a00cadec2029/1/256

@@ -4865,7 +4865,7 @@ einzbern|†Gato†|usr_194cd805-5f53-4410-8ea4-701fd2ac5619|avtr_b80ebe3b-3419-
 eiofee_cozy ［private］|Vectorito|usr_22f2ef91-2d0d-4d32-9910-c6cf3f306274|avtr_445974a6-9aa1-4a77-9c0d-0a80bfabe700|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_40114f4a-20fc-4d56-87e7-1d89529a71a7/1/256
 eira|Senna60|usr_96ddfe46-2145-438e-acba-af990bfa3fe1|avtr_bcbaf40b-3aa9-46ec-a270-b7927bf5c409|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c824b3df-ab84-409d-b728-e1526f35cca4/2/256
 Eira|KallMeCB|usr_1aab4563-f326-4557-b174-7c0db135f2f4|avtr_e6c9743c-88b7-4c50-9336-9e00a08871c0|VRCNDb|PC+Android|
-Eira|༺ժαɾkվ༻|usr_59c9ca23-007a-4aa7-8012-025df09b1688|avtr_ec74f8b9-9bfc-452f-88b6-4b9e396315bd|VRCNDb|PC+Android|
+eira|༺ժαɾkվ༻|usr_59c9ca23-007a-4aa7-8012-025df09b1688|avtr_ec74f8b9-9bfc-452f-88b6-4b9e396315bd|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_6d0dd651-1cef-436b-b47a-7aedd6bfef80/1/256
 eira face tracking|DesiPooh|usr_612c989c-1ab4-4436-990a-a79fed5a40bf|avtr_2c22177a-ed08-4374-ae0b-4726f5a70323|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/file/file_50957ae7-f7fb-408e-908d-9e05b9eca07a/1/file
 eira girly|Plaaanty|usr_6eb988a0-6967-4a9d-83d7-3192ad8bdb3a|avtr_9b2f648e-18d1-43a8-956a-15d425c7fbeb|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_aaee35ab-2b7d-4466-aba7-ad373002562c/1/256
 Eira PC⁄Q|Slush Puppee|usr_0d4db325-ae62-4045-80e4-a6ebe4e0d68d|avtr_d9836dce-df65-4ec4-9e74-7c11fa7d9217|VRCNDb|PC+Android|
@@ -16555,7 +16555,7 @@ vanny's oc|Eliasgamer20|usr_864b4dd6-d86d-4b68-8f3a-6a5aa7fa23aa|avtr_c0acfc88-e
 VaporWave as Nardo|Elemental_Ace|usr_3efc12f0-116a-4d52-ae4e-1006729989fb|avtr_16c5eea7-c602-48b2-aea5-8d1f96a59f6e|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_19ea54e1-80a7-4e3c-a8e4-7b76e381bcc2/1/256
 Vaporwave PC|ElfMom|usr_aec971c5-48a2-4af9-94f5-fee9b8ea3cbd|avtr_2727d371-c48d-44a5-85fa-143f4a7d8012|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_c25afe66-e0aa-436e-8cb7-8322e817dc76/1/256
 vaquita|ElPinshiBetin|usr_843dff8b-7b8a-4eaf-bec2-b0ff49b12050|avtr_8ab139a6-b069-4b2c-8382-c72691e165b5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9982e8f6-30bc-4432-91c8-5009d35eefc4/1/256
-Varg FaceTracking Test|Echo_DNG|usr_010bb243-e850-4bfe-92cb-9052cb70c596|avtr_96bd854a-2f8c-498b-9a3b-99fe11007a35|VRCNDb|PC|
+varg facetracking test|Echo_DNG|usr_010bb243-e850-4bfe-92cb-9052cb70c596|avtr_96bd854a-2f8c-498b-9a3b-99fe11007a35|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_a7d76dc1-bc8e-42c3-a523-21e85d4ccc82/1/256
 varty|Echulon|usr_1f3e645b-4f01-4145-bf86-50f4cfb65ea2|avtr_90c8da03-0e72-4d48-8159-2cc9e9576008|VRCNDb|PC+Android|
 vas a recoltarte?|ElAsunto|usr_540c6c51-3ca1-4af5-8c79-afd18b1e71ec|avtr_af625a15-841b-43bb-9825-4e04536ef4c6|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_49964df8-f552-473a-9450-3d156a7d78d3/1/256
 vasiliev-yevtushenko ii|ez noobs|usr_458924f6-2cf7-4dd9-a21b-12df42c18f7e|avtr_d4b1a9c2-a4c5-4fae-818d-64ec83c1c853|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e58caa04-e243-40df-a27f-75b8a3975f92/1/256

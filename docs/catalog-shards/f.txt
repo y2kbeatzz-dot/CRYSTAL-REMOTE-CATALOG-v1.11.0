@@ -8497,7 +8497,7 @@ flaik fennix ft|Flaiky|usr_aa4cd6cd-151d-4950-a1e6-c0329b1e43fd|avtr_033a72c4-c9
 flain warlock set f|CoastSillysAvis|usr_5380b297-227e-4e0e-b5af-76600b4f9fe0|avtr_cffa901a-5eda-4cbc-8bb3-f45674e1f749|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a37c83b3-463d-4f07-9460-761f7761765d/1/256
 flair 2․0|TyRoNeStEr_19|usr_2b4da51f-5382-4cbb-bc2c-ec2a69fe559d|avtr_530b60c2-5ed7-472d-ba4b-af5049177de5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_dd088f7b-562e-4d6f-9bbf-4e7831954958/4/256
 flair13 personal|Wilhelm Winter~|usr_ffffee1d-3215-4917-a0d9-b22221ae6925|avtr_db1b6f7e-6a01-46e3-b173-729abab54452|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e5537b96-3591-47c0-8ee3-41ce45b2b990/2/256
-flairs avatar v2|okamiuniverse|usr_eb618608-a324-466c-b486-66f2c2f30e38|avtr_94080481-0d31-4f9a-95aa-9cd7bcf77303|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_4636425b-d92d-4bf2-bce2-56c579b2acae/2/256
+flairs avatar v2|okamiuniverse|usr_eb618608-a324-466c-b486-66f2c2f30e38|avtr_94080481-0d31-4f9a-95aa-9cd7bcf77303|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4636425b-d92d-4bf2-bce2-56c579b2acae/2/256
 flairy|Amicitia|usr_25a1e57a-eb8a-445b-be9a-a68b8ef98bbe|avtr_c75008f6-cff4-4872-b5ac-89016a139b6e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a02455c6-64e8-44cc-94c1-e679c9a8b19a/1/256
 flak 36|xxx_red_xxx|usr_2a66baa3-804d-4432-8915-a51a00c46b5f|avtr_d0dd389f-ddf5-4258-8fed-081f9eda3d32|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1af68e62-abc3-48d7-9164-00ef60beaf51/1/256
 flak 38|xxx_red_xxx|usr_2a66baa3-804d-4432-8915-a51a00c46b5f|avtr_b18d0e54-0337-4ab2-beac-a54f849fbcb1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a0be6437-e5d3-44fa-94ee-18a78430bf6a/1/256
@@ -13266,7 +13266,7 @@ frank woods （2020）|ElectricPropane|usr_508ce06d-dfe8-46e1-b5cd-ce3c1f164261|
 frank xbot|B M O|usr_5b41e761-d23f-42d7-8c48-5ec97f8c40b9|avtr_dddcfd0d-243f-4bc0-96d7-8683c56dbda3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a3c501bc-ddf1-44d0-917e-6f25ff15ecd6/1/256
 frank zappa （apostrophe'）|NoireTheWalrus2|usr_53127d83-8378-4e28-a1af-aecf3c16fd3e|avtr_b37d8ac1-5de8-47c2-972e-99b5b2815f53|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4dbb7377-f7b4-48e2-8747-31e25e677852/1/256
 frank （dg-1257）|RandomPest|usr_b1ae455d-e8e4-4142-ba17-03e805393e45|avtr_cfb28d74-5786-4042-a0d2-ffca7a078190|VRCDB|Unknown|https://api.vrchat.cloud/api/1/file/file_e6c613be-745c-4768-8883-a1fa284da755/1/file
-Frank （Halloween 2026）|tomtomz|usr_4b09ec9d-5c7e-480a-bdbd-3392838bd738|avtr_80467bd6-76d4-48b6-b187-77591fb02230|VRCNDb|PC+Android|
+frank （halloween 2026）|tomtomz|usr_4b09ec9d-5c7e-480a-bdbd-3392838bd738|avtr_80467bd6-76d4-48b6-b187-77591fb02230|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_b4b06fc4-2496-44ee-9ddd-4692e27c1b0e/2/256
 frank's deathwatch captain|BanditoTortino|usr_2769a569-c134-452e-8b61-37ee94bf35f5|avtr_a3f4a38b-6dda-48d9-a1c8-801acc763295|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ec725aa0-1eee-49ef-a3aa-f115a3d958ef/1/256
 franken equi|AcidicRabbits|usr_a22b5ef1-d5ad-4259-909c-fa3ff2537706|avtr_1e0f5395-d5d9-4592-8f9f-f96d42983dd7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d96e1e3e-44b6-4f92-a652-0ec9d4586924/1/256
 franken freddy fazbear|RetroTheRabbit|usr_9ffc810a-fd05-47b7-8711-2f10110c600e|avtr_1ac4dda1-806b-4d30-a1d8-6f4714774e50|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d7da11a3-1b51-4907-abe3-2ad4e0a3e775/1/256
