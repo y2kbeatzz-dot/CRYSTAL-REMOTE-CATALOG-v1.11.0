@@ -39304,7 +39304,7 @@ qwq|Misaka_Sakura|usr_2f468e68-de92-4053-9cf3-8cc8f7f61780|avtr_f79dd613-003f-4d
 qwu|Minaِto|usr_337d25d6-f5ce-4a37-b83a-d29fe54ce731|avtr_45d963ed-7247-4ee5-87ed-1550a95a52f8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bc3e9298-7ba3-4e60-82e8-4d9fb0bc2b53/1/256
 qwwqw|Monika 03d7|usr_6fa6ba33-9b40-42e7-98ed-384a05d103d7|avtr_34e091f0-40d6-4888-aeba-ba86e365691c|VRCDB|Unknown|
 qxetla-sample-|༒Įmÿã༒|usr_69ab9aa2-3615-421b-9553-078c9f6dc4f8|avtr_d6012e04-31f2-4d66-a4bb-71a99d8c3078|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4b6761ff-e384-4aa7-a851-48c0bf5182dc/2/256
-qxq|MaiXi|usr_e9f77ea5-c8c1-4452-bd3c-f807f57ca3ca|avtr_7e2c3808-0c51-4402-a78e-bdda6cc6ca8b|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_89acb75b-5b32-48f4-be98-906b87fb930e/1/256
+QxQ|MaiXi|usr_e9f77ea5-c8c1-4452-bd3c-f807f57ca3ca|avtr_7e2c3808-0c51-4402-a78e-bdda6cc6ca8b|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_89acb75b-5b32-48f4-be98-906b87fb930e/1/256
 r-055 gestures|Midnight Hands|usr_5b118729-ef32-4c6f-bc68-6175026eafc2|avtr_ac7a40d3-879c-45c1-8cf0-760816c81f5c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d8de351b-97bc-4e75-9515-c3e087746201/1/256
 r-055 melee psychopath|Midnight Hands|usr_5b118729-ef32-4c6f-bc68-6175026eafc2|avtr_0ebb4e40-d3f2-4992-a0a7-e8053533218a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_84e78d75-a9ea-404f-8d20-e3f1db747d62/1/256
 r-055 ranged arsenal|Midnight Hands|usr_5b118729-ef32-4c6f-bc68-6175026eafc2|avtr_85ee9eb5-0e2e-44e4-95a3-39c646bb7fb5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_749f7350-b170-4b03-93c8-64f535d4967d/1/256
