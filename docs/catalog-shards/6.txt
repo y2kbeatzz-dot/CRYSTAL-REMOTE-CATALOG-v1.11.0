@@ -124,7 +124,7 @@
 612th official base|Dravaros|usr_a529d04f-4f2a-45a7-bf96-d87e90cf8b69|avtr_dd9ad899-c05e-480e-89c3-db6798f20066|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a1be761f-e047-4027-a3cc-e0d18a1f128e/1/256
 612th phase 2|Viscerator-09|usr_cb2fc7c2-91f3-4a2c-8601-41c4eaa99e12|avtr_bf3f927e-9d13-4b40-81b2-f4f52c8f482b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_122cf197-0f45-4792-b8dd-51ee1b336fef/1/256
 612th pilot|Major Beaver|usr_d3f1cdd8-0788-4d3b-8de5-0d41c3327442|avtr_bb8d0241-57fa-4499-83d4-0181ac06c408|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_29e2e9be-be11-44ea-9a3b-93da622aedbe/1/256
-612th rc struggles|Doomgazer|usr_749c5963-fc95-4e73-993b-45f01416a250|avtr_669274d5-6e37-45fd-87a8-e3cec970c0af|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_20c17274-3317-4ce3-86b3-98fef88f71d5/1/256
+612th RC Struggles|Doomgazer|usr_749c5963-fc95-4e73-993b-45f01416a250|avtr_669274d5-6e37-45fd-87a8-e3cec970c0af|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_20c17274-3317-4ce3-86b3-98fef88f71d5/1/256
 612th saphy medic|_BlossomVR_|usr_ebecbc1d-5f25-45ed-8771-f8b9f89e438a|avtr_6a634580-1ce0-46b9-8a76-feea1bb44749|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c242dc11-0e8b-4453-af6a-74bfd70f73b4/1/256
 612th sgt-silver|MisterHarper|usr_1e92fb34-3099-461c-b688-57cd3011889e|avtr_86af8901-fbd1-459e-bc76-8885fba4fbce|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_dbd348fc-f053-4d13-ac9d-3f9762bda1b4/2/256
 612th sniper|_BlossomVR_|usr_ebecbc1d-5f25-45ed-8771-f8b9f89e438a|avtr_ede9f436-e6a9-4d2c-bb42-13dae304a5fe|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_88a7a681-75c5-418a-8663-f4c6a2594790/1/256

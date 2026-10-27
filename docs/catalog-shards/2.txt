@@ -272,7 +272,7 @@
 2009 honda foreman 500|2FAST2DRXFT|usr_64e71c92-3511-4e4c-a221-524e10eaae32|avtr_fd7fb90d-6e53-45e2-917c-61a4caef8a97|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2d562e96-ea41-48f2-88b8-5143b8db5a51/1/256
 2009 justin bieber|Craigthepc|usr_a42f55d3-cd10-42ce-b54c-2560b1fab750|avtr_ba322226-ae24-4200-830e-e325cde83a78|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_436038ed-b8d0-4836-bd85-2a085a5f2d62/1/256
 2009 program|Apollo_Argyle|usr_24967440-980f-4ef1-a534-1e0d8b52818c|avtr_3704bc70-6639-4823-9b0a-54f938dc2485|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6d15e125-302d-4350-8f02-87c633569c4e/1/256
-2009 rc-09 f1 car|2fast2kart|usr_64e71c92-3511-4e4c-a221-524e10eaae32|avtr_9df08d28-f6c8-407f-8c3d-e4c52be5795a|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_48d43b97-4072-41ba-942f-bf340cf61471/1/256
+2009 RC-09 F1 Car|2FAST2DRXFT|usr_64e71c92-3511-4e4c-a221-524e10eaae32|avtr_9df08d28-f6c8-407f-8c3d-e4c52be5795a|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_48d43b97-4072-41ba-942f-bf340cf61471/1/256
 2010 bmw e60 m5 5․0l v10|2fast2kart|usr_64e71c92-3511-4e4c-a221-524e10eaae32|avtr_f5b3b3a4-2e58-43ea-9cbf-cc2346cc7a66|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4194be8c-b403-416b-871e-dc391555cd6d/1/256
 2010 bmw m5 f10 gtr|2fast2kart|usr_64e71c92-3511-4e4c-a221-524e10eaae32|avtr_ac65ad75-e168-44e4-85cb-44ab4c197011|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_70a08ba1-3188-4a01-a18b-63ed38abea44/1/256
 2010 ford f-150 svt raptor|2FAST2DRXFT|usr_64e71c92-3511-4e4c-a221-524e10eaae32|avtr_0b9e83fd-4d4e-496d-83b5-30b5f8249c02|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0d839014-c6fa-4fca-b5b4-ec565c998ec7/1/256

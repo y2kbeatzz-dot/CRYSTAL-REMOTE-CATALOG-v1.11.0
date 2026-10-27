@@ -365,8 +365,8 @@
 327th phase-1 captain|jimminy|usr_aaaa6aed-6516-44d5-bd70-4aa8ed391ff0|avtr_bc09855a-f728-4eea-9477-795adf844ced|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_f7019479-c1a2-4063-bbd6-2e2ab56e4ab9/1/256
 327th pilot f|ari ɞ|usr_aba58b92-a05d-4847-a08d-2feb9d860634|avtr_7c6ab326-48eb-4a68-a2c6-68732ddf24ee|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_25a572dd-d781-49f3-bf6f-19dedac0a975/1/256
 327th public dirt|Stay Unholy|usr_f08d2744-b9f4-46bc-9282-c2b829ff11cb|avtr_7e86c20e-398f-4fbd-b8ab-a3653420c09e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7e2b4afb-14d0-4011-b3c3-9a6cd18a0011/1/256
-327th rc joker|Doomgazer|usr_749c5963-fc95-4e73-993b-45f01416a250|avtr_869d6e51-ff01-4400-b578-6ada2e1af508|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9b716421-4dd9-465c-a2cc-b9cca5479fa1/1/256
-327th rc type f|丂几乇尺卩|usr_d2c09998-b817-4066-9aeb-65614b37dbf1|avtr_eba9474f-7fd2-4067-95fd-5b0ed42ec5ef|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6a5e40e8-236c-44b9-98cc-220a5c8751e6/1/256
+327th RC Joker|Doomgazer|usr_749c5963-fc95-4e73-993b-45f01416a250|avtr_869d6e51-ff01-4400-b578-6ada2e1af508|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_9b716421-4dd9-465c-a2cc-b9cca5479fa1/1/256
+327TH RC TYPE F|丂几乇尺卩|usr_d2c09998-b817-4066-9aeb-65614b37dbf1|avtr_eba9474f-7fd2-4067-95fd-5b0ed42ec5ef|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_6a5e40e8-236c-44b9-98cc-220a5c8751e6/1/256
 327th red|SUNDOWN․․|usr_cdeac2f2-68b1-490c-b08d-998dd608ea92|avtr_69fd9fd9-6514-4bf0-8749-9a75013ee827|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_53f6fafc-37f7-4aa5-97f3-5ae10f92169b/1/256
 327th rescue team|IOGamer 9438|usr_0638ac6c-a614-4e77-8f64-3530ed848f05|avtr_971b1474-842a-41ad-a663-a1ef6d694bc8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7af4a0ea-c590-43fd-a033-a4408230c110/1/256
 327th scout|Partyboy1688|usr_db02dc09-b4e7-45c0-b2a1-84840c74107b|avtr_7add0e87-6ee9-4a54-a806-6140f01508d8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bbec1671-e313-43f6-b013-928e2d6e6ef0/2/256
