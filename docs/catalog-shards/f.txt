@@ -1801,6 +1801,7 @@ CD|fijiwater|usr_1c709edb-540d-4fcc-841f-0f3c0608d24d|avtr_7b400be6-3300-4107-86
 CD stylized|FreekySteve|usr_df8f85b8-7e33-4c9c-8a44-5b28f88944c4|avtr_e4b6cfd9-f6b1-419e-914b-50b90a762ec4|VRCNDb|PC+Android|
 CDL Male˸ LA Geurrillas|Fuzzy Lop|usr_87db8110-28b8-45d7-b2ea-6bf08edce640|avtr_95e16ac5-e57c-4d86-8087-0d4b5d7eaafd|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_9ddee7a8-22fe-448a-b509-db8dc43b1173/1/256
 CDL Male˸ LA Thieves|Fuzzy Lop|usr_87db8110-28b8-45d7-b2ea-6bf08edce640|avtr_51cc71aa-0a8c-4184-bdca-9d3c24eddd5f|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_d5b568dd-faa5-4bb0-b349-27cef17725c1/1/256
+CDL Male˸ OpTic Texas （RE-COMM）|Fuzzy Lop|usr_87db8110-28b8-45d7-b2ea-6bf08edce640|avtr_177c86f0-5132-4709-9c8f-c1317c59e0c9|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_f298ed83-fcd6-4d1f-a0a9-e9d9e3332edf/1/256
 cdl male˸ toronto ultra|FЕМBOY|usr_87db8110-28b8-45d7-b2ea-6bf08edce640|avtr_eb6d6d7d-a486-4f12-8538-f935e4cb48bc|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6348c8fb-9566-4ab5-93eb-c71913df9201/1/256
 cdrm hellachoper|falcon master 1|usr_0d5253ea-480a-4c36-a858-b012c258a662|avtr_7ecf870f-fd26-40c6-a1dc-ec7d4aa9d65f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_17b146d5-f687-434e-b8d8-05e300ff7231/1/256
 cebz|♥Freya♥|usr_713361e0-7339-4ed6-b3d6-e0a613c1b405|avtr_ce71fb43-6523-4de7-a87d-4b2882344e2a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4883a616-baeb-4e19-80e3-522a31e7c049/2/256
@@ -10875,7 +10876,7 @@ forest guardian|Freeze Ferrum|usr_3ba35ad9-b1c3-4be0-9493-55b4c7d953a2|avtr_86aa
 forest mayu|Dave longman|usr_0c310e7b-0aca-4a81-ad1a-d87e1241d242|avtr_acaddc74-f2c5-4b34-b4f0-beaa0c925c59|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9ae030d2-8693-4a22-a29e-08099cbca94a/1/256
 forest nardo|MaxwellFolf|usr_14bfc80d-0848-4d46-a7d2-2ef47b38e05d|avtr_6758cd6b-8695-4e2e-9ebc-c096fe56111c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_881168d8-e4a7-47eb-bef1-ee55af816fe8/2/256
 forest nymph moon|PeachyStarlight|usr_74fd0b3d-86fd-4dbc-8c92-4f553745536c|avtr_f6445a9a-a913-4553-94c7-a17a6f0204eb|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_dcab7778-1175-4116-89fa-52c07d022dcd/3/256
-Forest Rex|Pharaoh Fox|usr_0a96c9e0-c8f6-49a5-aeb6-aafc477e7891|avtr_06617346-aa63-4318-a1e5-8c54d5b223a3|VRCNDb|PC+Android|
+forest rex|Captain Jesus|usr_0a96c9e0-c8f6-49a5-aeb6-aafc477e7891|avtr_06617346-aa63-4318-a1e5-8c54d5b223a3|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_e9aba10d-95b9-4d3a-af22-0612d8b1f6f3/1/256
 forest sun|Eclipsed Star|usr_2ef1840c-b016-43a8-966e-7690bf541829|avtr_9e7b5147-758f-4cff-a4eb-3f66a0b8818e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b8b60243-e7a4-46b3-8cf0-ab1688ada998/1/256
 ForestCarbuncle1․11_2|Yuridayo|usr_8bc2e071-3555-4efa-9fc8-ef01d54fd430|avtr_d082024d-2be4-446b-963e-57109b3d6b8e|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_4a49d956-8834-4dc7-a5e4-9f3e12b78087/1/256
 forestv2|Dubmism|usr_ef8c3f67-f3f9-4369-862a-6aab26d8682c|avtr_9d15fc1d-9bba-4f93-9305-a8ee99638ba6|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b31175e6-6a0e-41a6-bc14-6c92cd9f0103/3/256
@@ -17404,7 +17405,6 @@ HAHAA AH|Funeral 秋|usr_e6b285e7-dfed-493f-a209-fa87970c7133|avtr_11de5f7d-4a5b
 hahahaha|fuck 12|usr_230424dd-e4cd-4a3a-a753-68331da78dc5|avtr_276407a2-8df2-4914-ba87-541e2869b419|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ea81a0c4-e6de-4699-9afa-3fe81212bc15/2/256
 hai hai joe desu|FluffyWolfy|usr_11c54b66-45ef-4c34-9553-f8dbab6021fd|avtr_61c2ddaa-8393-4b82-86be-f8b80400a404|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_15918c1e-3db8-48de-86c9-9d868ff653f9/1/256
 haides|FishStickMystic|usr_109e5d4b-23c8-4fde-a854-84154dd8de59|avtr_0fbc551c-383b-4267-8d36-740f54c5e8dd|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_fb818d71-3887-4ac5-88f2-f99d460edf0f/1/256
-hairu ihei - tokyo ghoul re|Floofybirb|usr_0ed4075c-8607-48d9-9ebf-e820d518ec2e|avtr_689eeaa8-cc11-4d4c-a55a-6d7d892bd5a0|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_14d64fe5-cebc-49f1-928b-14c1fa7fb06d/1/256
 hakkadefaulttest1|Falsely|usr_0ffcba0e-dc92-43a0-8f8e-aaf73d1bf41f|avtr_46a019f3-32af-4ec8-812a-1b1c62cae3ca|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e5675d33-52d0-45ef-97fc-a0f9d0694ee0/1/256
 haku|Feyniverse ❤|usr_08139d8f-c917-406a-b0e3-af7ab917dd57|avtr_3b24c324-0fd6-4a54-ab37-16c306c40a71|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d9e2130b-50a5-49cc-9eea-69954128e6a0/1/256
 haku chibi|Fishypwn|usr_dfe8085c-a053-4c11-820c-33bb3314dc68|avtr_793b2c81-ad45-4910-9f45-9f434f77de3a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8de5582b-34aa-461b-b4cf-f93d356392d2/1/256
@@ -24414,7 +24414,6 @@ zzzxxxtestcustomophie|FreyaAvaTem|usr_e77ff292-2d60-4d28-b550-eb8c0601953e|avtr_
 ⁄｜ frutiger aero spamton ＼｜|RêvesParfumés|usr_0ecbb4ee-af07-4e0a-841c-1a72ac5d3369|avtr_be34dd25-fbd7-471d-8e76-205fbb849890|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ce3875a5-426c-444e-b965-a115869db8bd/2/256
 ⁄｜｜ fnaf sb ｜｜＼ dca|~MR NIGHT~|usr_368bca0d-f068-4b70-ab6e-923956225db8|avtr_35179337-2506-4d4e-b75a-7b69d00f7258|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_19e01f43-a14e-45b0-822c-2790618a24b6/1/256
 ₴Ø₱HłɆ v․14․1|亞Fonku Uzumaki亞|usr_e1e24fae-82d9-4203-9da2-18c3274263a5|avtr_5cec79b7-57dc-47c7-bc5c-259f1a906d81|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_cbc63b78-af5e-4629-b897-70cd9ce7ee37/1/256
-∗Hot Boy∗ （Re-Edit）|Forreal_Tarxan|usr_26ddc78c-0012-427b-a168-ae45bfcf34ce|avtr_e0fecd85-16ad-48e4-83f3-2282344fd8a3|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_c2721f22-9a65-42c8-9243-f735073f0bd5/1/256
 ∗․freak?|༒ ʑαყνσ ༒|usr_5a51f72d-7f80-4af7-8891-2153fec7fb88|avtr_52e8046f-823b-42d7-ac07-154e16f12f33|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_53c3f3cc-2d87-4509-8a96-82f89de7f2b9/1/256
 ∗∗fallout∗∗|ĐɆ₳ϯｻx̸z̸|usr_163db27d-6d26-410f-ba74-6d6dec772347|avtr_3590bd20-1758-4d26-bcfb-66aa1034c624|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1cd9cbc3-b0c2-415f-b7f2-c64276d2a5c2/6/256
 ∗＋- femǃ n -＋∗|Bootyshaker9001|usr_7c553be9-64a2-4ea7-b2e4-6c55c8229a41|avtr_0cb0b84c-7350-4114-8c6a-b4d7b69d5d01|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_64a8059e-3aa3-4641-a6b9-35bc52263165/2/256
