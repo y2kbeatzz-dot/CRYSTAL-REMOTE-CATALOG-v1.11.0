@@ -5355,7 +5355,7 @@ hollowfied ichigo with sword|KillerKitsune|usr_664c1720-e612-4ef1-9470-2ad1c3c59
 hollowknight|kiiper|usr_c0442bfc-f27f-4f63-850f-6900f20ee1ff|avtr_ef47f01e-1b78-4a64-aabb-787c3cc4b1ef|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_5dc89b68-cde4-417d-99aa-51de8a24f976/1/256
 hollyberry cookie|King Rey|usr_b1233173-65c3-4782-b3ca-01ed667e5ced|avtr_148bb4e6-28b0-4f49-9888-624627b9d153|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_44968bbd-c8c5-45d4-a6fb-3e99f1c52470/1/256
 holo|Kooriaisu|usr_3aca2a69-b2ce-4842-8ecd-ef057fcce1f9|avtr_b762d16b-a0a0-4da3-a10b-81c1455278d5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1410cdad-b083-4506-9609-4c61a3118dc4/1/256
-Holo v3 Barber Oculus|kombarus|usr_dca0d1bd-1ecf-4bb7-8100-68f35a3c62fe|avtr_6d0d2ed3-38e9-413d-ac0a-b8b3addae3dd|VRCNDb|PC|
+holo v3 barber oculus|kombarus|usr_dca0d1bd-1ecf-4bb7-8100-68f35a3c62fe|avtr_6d0d2ed3-38e9-413d-ac0a-b8b3addae3dd|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_3689a0d7-4fd0-4627-b624-f8ce3a1376be/1/256
 holo v4 oculus|kombarus|usr_dca0d1bd-1ecf-4bb7-8100-68f35a3c62fe|avtr_92719fd7-4376-4f32-8649-54af546a7018|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_73a2955a-b81a-4ad6-a22a-11566054c5b9/1/256
 holoja|Kami Aono|usr_783dc08d-9fd3-4adf-9cc4-be92768f7264|avtr_71ddf59d-046b-4100-ac20-c3fd32905d4e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f4df04e1-f7e9-4d5a-9968-2daefc87e4a6/1/256
 homelander|Krazy on quack|usr_0227790e-2472-4d26-82b5-24ce6c1e4543|avtr_49c6f208-b5e0-49ff-a46f-66cf164f0ce3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9bbf4206-df55-463c-afe1-fe2c5111cede/1/256
@@ -27892,7 +27892,7 @@ yangchibi|Kyubi00|usr_fc35c0fc-669c-46b7-bd8e-1e3ed5a056e9|avtr_a0df373a-dcb6-46
 yangxiao|Knater333|usr_1c6cdae0-9a88-4a1e-ab29-46942ce6ad93|avtr_513979f1-332e-498c-8a46-bb1fd7a96c97|VRCDB|Unknown|https://files.vrchat.cloud/thumbnails/2755635297.thumbnail-500.png
 yankee jesey-kun|Kerorong66|usr_992f5d29-224e-478b-957d-e119576c5e2a|avtr_95f934e4-c387-4f88-86ee-346d964852f7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_cfcfaa19-78df-4cb5-b5fd-856d280dd5d1/1/256
 yanqing sunday|killscore|usr_0896116d-e8a7-42d2-81d6-eb124754b760|avtr_966420b7-40e0-4aff-9960-a36e8ef54d1c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_cd0ff7c2-0f8f-4900-ac28-f72023aa6b72/1/256
-yaoki-rb （old）|《~Kuro~》|usr_966e8dbc-aae4-4668-be17-db4e572054db|avtr_0b568189-640d-4504-ba29-1821e1df7866|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7ebae04c-56bf-49f1-ad7f-2ba9a700fee2/1/256
+Yaoki-RB （Old）|《~Kuro~》|usr_966e8dbc-aae4-4668-be17-db4e572054db|avtr_0b568189-640d-4504-ba29-1821e1df7866|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_7ebae04c-56bf-49f1-ad7f-2ba9a700fee2/1/256
 yaruo|KiretaKnife|usr_050e97db-0106-48d5-a414-ec5b01c419bb|avtr_e9ff6ec1-7463-4036-a9f3-6842a748c5aa|VRCDB|Unknown|https://files.vrchat.cloud/thumbnails/3203043988.thumbnail-500.png
 yashiro nene （tbhk）|KookywilliamYT|usr_4c3321ee-c19a-4bbd-bae1-785b97e4d73d|avtr_cfb67a59-3d93-49c4-a892-ee6cff347138|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e9ffa43c-7f0f-40d1-8b5f-6c656d16e5b5/1/256
 yatagarasueffecttest30|kususu|usr_6ead55a4-109b-45de-b6ce-c9e62304002d|avtr_af76d673-5087-4754-b4ca-52e13676e1e4|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6024512d-1209-41bc-baf8-d18e06d187d6/1/256

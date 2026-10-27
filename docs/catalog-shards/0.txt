@@ -299,7 +299,7 @@
 01g01|SongokuHun|usr_29f389d8-8f32-4453-b88f-2d25294b8286|avtr_83ff90a0-d0e2-49ea-a518-0a609fdce362|VRCDB|Unknown|https://files.vrchat.cloud/thumbnails/1486595522.thumbnail-500.png
 01․ lamont|henloǃ|usr_2c4b3175-753b-461d-b37b-6f39f7043c51|avtr_483afcb4-5fc6-48b2-8320-004fb76dc761|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_586f1f7a-5773-4050-be05-964a8a983a73/1/256
 01․ Loli Miku|Eugeny103|usr_2c403bdb-b7e2-452f-bdef-a89ba7e43d67|avtr_8b8bca30-f6ac-48bb-9b37-7566841d1277|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_f3d36444-519c-4f8b-87c1-2252b987ab45/1/256
-01․ The Guy|PayTay|usr_40fdee50-733e-44a6-a2cb-14e1e06d9c84|avtr_36adb1f3-2032-432a-979a-1bdd98477fc1|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_4931ee0b-f2d8-4c8d-bf58-fa629aa81263/2/256
+01․ the guy|PayTay|usr_40fdee50-733e-44a6-a2cb-14e1e06d9c84|avtr_36adb1f3-2032-432a-979a-1bdd98477fc1|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4931ee0b-f2d8-4c8d-bf58-fa629aa81263/2/256
 01․HANA_Sample|B_kc|usr_ca7882a6-10e7-4327-88ce-ddb67cc966df|avtr_565bddc4-4810-42d5-ba40-43c6ad5fc536|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_a51c8d97-8d7c-40cd-a5a2-a04b1d5f3d2e/1/256
 02|lrzhd|usr_f0b97312-1e1a-44c5-bb56-b0f99bcacf3a|avtr_02bf0cc6-c9c6-41b7-baf6-6050c5a79723|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_3194fdbe-68bb-4644-a7e0-3b1ee384a18b/1/256
 02|YodaGamingHrmm|usr_8d6d3d1b-ddfe-41dd-a97e-5136d03d49c9|avtr_02fd8235-657f-4421-896f-67229ede25f4|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_80b9e644-9f62-4ed7-8625-ea969e87b9b8/1/256

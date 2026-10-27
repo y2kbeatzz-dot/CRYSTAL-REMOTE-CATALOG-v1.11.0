@@ -1399,7 +1399,7 @@ bi-color tabby mayu ｜ rgb|NiftyZoneA|usr_e7ee17bc-fcbd-4407-b43e-c32cde04832a|
 bibble d phonk|Nιɠԋƚɱαɾҽ|usr_ed644647-012a-4601-88c4-3c2c08ab6043|avtr_d4094985-dd1d-4884-83aa-5b0d659da71e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_edd6bc49-af37-4f7c-beba-c1db9ba98c7a/1/256
 bichito raro|N I N I К|usr_bfce6b83-b8b3-49e8-8446-73356df5aec7|avtr_f4a3a90c-8c38-48ab-80fe-b296a58a27fb|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1e9b35fb-01d1-41f1-be14-ef04fd3087f5/3/256
 big ankha|No-pE|usr_b2b4cece-5b24-4223-a9b9-c8b075ced7ff|avtr_b32d14b8-d134-4404-90ae-397b8dfdeeaa|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b21e3846-71ec-4cef-baa1-f28cd77c66d9/1/256
-Big birb|☆notpootie★|usr_b27c2d59-0f33-474e-8aea-1e44a5cec650|avtr_aff3ad5e-351e-49bc-a9c6-74974ff50858|VRCNDb|PC|
+big birb|☆notpootie★|usr_b27c2d59-0f33-474e-8aea-1e44a5cec650|avtr_aff3ad5e-351e-49bc-a9c6-74974ff50858|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_b9bb8ff4-2dd0-4821-9c2b-6b397bc54a10/1/256
 big bird|Nyx_0mega|usr_4559f03b-bc88-4de6-9331-5a9fff197cac|avtr_acc335aa-3efd-455e-8bdb-4df3606b2709|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_5cfb8a2f-f88d-44bc-8034-8bfccb90c62e/1/256
 Big Boss|nuttmaster420|usr_13ae4652-88b0-4cbf-8291-e2f1ced32020|avtr_1a6dc72b-5c4b-4cb1-8004-a35bec895029|VRCNDb|PC+Android|
 big boy tm|nettsam|usr_a66fc6e8-91ec-45a4-8e3d-a388dafe8889|avtr_8b5cd0ea-57e6-4a77-a5a6-487f09bab977|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_3d9a3318-4b1d-4fa6-8fb9-3d352bd90dbc/1/256
@@ -13563,7 +13563,7 @@ nightmare pupet|The Real Devil|usr_9d436588-fd7c-4525-bb74-1f09c15d2abf|avtr_46a
 nightmare puppet gm|Zock808|usr_26703263-b387-4fa7-b3b5-117f43abe554|avtr_ac3aa319-dd75-471d-9c79-b991ba67994d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d69120f1-25a3-4aec-a2bd-f3adec0b3146/1/256
 nightmare rat|PeakCryptic|usr_bdd5bf17-3437-4759-ba43-d6c4d4d11bfd|avtr_18ddff83-64a3-4404-be19-c448aed9256d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_fd86febc-f8aa-4c55-9ae9-ab99751f85e4/2/256
 nightmare rat|FREDDY~CHASEY|usr_8ac07576-f236-47da-bb33-83fd93d2915d|avtr_a321a2e0-1447-4b7b-96b2-cdc00a780005|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a0a06fa8-fa02-4654-aa34-c7f646d86579/2/256
-nightmare rb gm|Zock808|usr_26703263-b387-4fa7-b3b5-117f43abe554|avtr_e9bb9188-d63c-467f-92ec-02e8912d7774|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_993ec39d-8d5f-4034-a550-ea25b0eae6cf/1/256
+NIGHTMARE RB GM|Zock808|usr_26703263-b387-4fa7-b3b5-117f43abe554|avtr_e9bb9188-d63c-467f-92ec-02e8912d7774|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_993ec39d-8d5f-4034-a550-ea25b0eae6cf/1/256
 Nightmare Robot Sun|- Cupie -|usr_2337b1d0-04c5-4f00-ad8e-c5ec667b8ad0|avtr_c2e4341a-50d1-4f24-b924-d495bce6dd79|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_9e206f77-8b51-439f-b927-17a6343e0964/2/256
 nightmare sandy （brawl stars）|Craigthepc|usr_a42f55d3-cd10-42ce-b54c-2560b1fab750|avtr_0ba174bb-55de-467c-aef1-e10d3352ee5d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3221052f-def2-44b1-9804-d480a7350a45/1/256
 nightmare sans|NECROPTOSIS|usr_79eda6ee-0a26-4bad-b75a-1637377a4bd5|avtr_5ceb0a0e-1890-41a3-9df5-18a8248d83ce|VRCDB|Unknown|https://api.vrchat.cloud/api/1/file/file_7c0f68f8-c467-4350-85ea-d32c08adbe89/1/file
