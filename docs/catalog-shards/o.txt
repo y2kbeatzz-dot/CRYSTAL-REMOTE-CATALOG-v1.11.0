@@ -3822,7 +3822,7 @@ odd|A_creative_user|usr_6d43f4ca-9e42-4922-9582-739a4e7368b2|avtr_f8ce5601-d1e5-
 odd brother private|_E R I C_|usr_56ae0fdd-f028-4eed-b6ac-f7245e6339d1|avtr_e6fd3244-de46-45d7-b0ac-62283cd1d7d6|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_206f8fb7-6df5-47f3-a973-02daf848aba5/2/256
 odd future possum|PicklesJars|usr_ab49b5ed-6ba7-4908-902a-c41d134638ec|avtr_76f6e2ce-7b40-4c02-abdf-20a9f01e4c57|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_85ef3294-268d-46d4-b52e-9c2774b17378/3/256
 odd hajme|Skulluna|usr_4cd28bdc-f4f1-43d6-ac38-3f4f827aaeff|avtr_35b559b2-ffb2-4e71-8272-dda938161083|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_18a18626-7197-4b81-a332-8e2909c72d01/1/256
-OddCard|Dr_Ryland_Grace|usr_e352baaa-be3d-4677-aca0-5ecd24933878|avtr_69684ebb-5b3c-4416-8da3-721bebcc04f0|VRCNDb|PC+Android|
+oddcard|Dr_Ryland_Grace|usr_e352baaa-be3d-4677-aca0-5ecd24933878|avtr_69684ebb-5b3c-4416-8da3-721bebcc04f0|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_7b99a872-2e6b-42ed-88ec-0899f1ba6489/1/256
 Oddcard - BFDI|sṭupid|usr_52a85118-ded4-4c36-97a5-84c3e1d0c170|avtr_b76f1d1e-aea8-4697-a159-2d225fafa558|VRCNDb|PC+Android|
 oddi|Zuzu`|usr_90450904-ee90-41f8-a65b-494e2505936d|avtr_e9168524-c104-466e-8fe3-30ce9c9cedd1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ef93e67b-be12-4107-a540-d1f9a5acedb2/1/256
 oddity|Darkgoddess|usr_cd1bb2d4-d77c-4945-b4b9-eb9f719c28f4|avtr_4a40f7e8-4ba9-4d7b-b1ea-725eb2f0851c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_62bb9003-9ffa-41ca-8189-9d4c9abb49ba/1/256

@@ -28998,7 +28998,7 @@ RC-1262 ＂Scorch＂|BritSplinter|usr_b9e5cf64-2bdc-46f4-bcd8-7073655b7af9|avtr_
 RC-1343 ＂Brantics＂|Brantics|usr_9eec54a5-5d14-4115-b7a9-7bf02172f639|avtr_732985b6-560a-4268-9aeb-042d82bd12e2|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_4199ef7d-6bf1-452a-ab82-19e9455a2c28/1/256
 RC-1809|BreezyLikesCats|usr_aa84811a-2fef-437d-81db-25929ee3d972|avtr_b90c5f23-258c-463c-ae81-374221b6133b|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_abfe913c-8d9a-4a64-94c8-006a65fee8e0/1/256
 RD|boku no pico|usr_09c95d49-c3f6-4b8b-820d-21fb4da21b26|avtr_0cc5796a-f005-487e-a4e5-a80a9322493e|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_6af48fa6-c164-430e-9f26-2308ae937034/1/256
-RD CS|Bluebrealk|usr_83a531e8-75e9-4a32-ac23-5fad65a37341|avtr_8d0b8abb-4783-4200-bf0a-19c9e2da1ff3|VRCNDb|PC+Android|
+RD CS|Bluebrealk|usr_83a531e8-75e9-4a32-ac23-5fad65a37341|avtr_8d0b8abb-4783-4200-bf0a-19c9e2da1ff3|PAW+VRCNDb|PC+Android|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_8c7f21b7-4985-48ff-afb5-6217d135144f/1/256
 RE|Be1aya|usr_4483dc74-79c6-45ef-82eb-86a562e342dd|avtr_7183584e-9a16-4ba9-82cb-13df49f670e2|PAW|Unknown|
 RE 4 - Leon|Brigins|usr_3cc2cdbf-5c96-4f24-bb81-7f1338d30170|avtr_7a9b1185-694b-4516-a524-3f80c35e01f8|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_4f35bcc8-3d44-4353-bd2f-bb73ecceb860/1/256
 Re Destro|Black0ut․|usr_f0a15d91-9e61-4455-b1b9-14eb131b157b|avtr_7d7e47bf-d9ae-40c8-8b52-55b795553c59|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_61768b10-ceeb-44da-ab34-c95cafa65efe/1/256

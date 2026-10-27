@@ -5632,7 +5632,7 @@ fnatkk patrick|TinyTTits|usr_84a77713-bbc6-4526-9887-7b74860a9ecd|avtr_dec7544e-
 fnatkk spongebob|TinyTTits|usr_84a77713-bbc6-4526-9887-7b74860a9ecd|avtr_d665e6be-4cd0-4422-bbb6-0791d46935fd|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_331ac33e-cc6e-4ce5-bd06-1f5421631a4a/1/256
 fnc hopu blk|TERRANASINN_|usr_cd60aad1-487d-4d43-a28e-82bab5ee01a0|avtr_586a5896-0559-44b2-b973-35a51cc50341|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_53207530-ff9c-400b-8374-69516b74ed1d/2/256
 fnc hopu prpl|TERRANASINN_|usr_cd60aad1-487d-4d43-a28e-82bab5ee01a0|avtr_d8463a42-972e-44a1-aef8-39fe4482b850|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9d6e1861-a8ae-4418-99da-0a697e837278/4/256
-fnc hopu rd|TERRANASINN_|usr_cd60aad1-487d-4d43-a28e-82bab5ee01a0|avtr_2ae244dd-99f2-4d8d-a7df-6aded050b31e|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_925b9c76-5ae4-4b03-81ca-685aa5e698c7/1/256
+fnc hopu rd|TERRANASINN_|usr_cd60aad1-487d-4d43-a28e-82bab5ee01a0|avtr_2ae244dd-99f2-4d8d-a7df-6aded050b31e|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_925b9c76-5ae4-4b03-81ca-685aa5e698c7/2/256
 fnf bf imposterǃ|ToutubeVR|usr_f78c9f85-ac85-48c2-9bee-a8cf0594bd9c|avtr_f5a1d4f4-6cb3-4062-a26b-4ceaa89489f4|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_cb48a609-a37f-4862-afff-73d4d7ea2783/1/256
 fnf mom|Telephone23|usr_3d28dab2-f4ce-4168-85c6-a1e6138a8b1a|avtr_db47c5c6-d2ef-4f8e-9c82-75d4405be256|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_27d4cac0-d90d-4894-8862-d6f56dafd866/2/256
 FNF RERUN OST BF DANI EDIT|TameBeeZ|usr_8b5cfad5-6052-4352-a792-ce737244644f|avtr_8f875bd8-ef32-464d-be56-35c0dfedb1be|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_58161075-311c-45ca-8f48-a82a3512bdb4/1/256
@@ -25560,7 +25560,6 @@ Tim VC|BigShpoode|usr_749a85f0-b3b5-4bb8-844c-64cfdcd5dbd6|avtr_0fd7abf3-dfc2-4e
 tim wright|༒PEARCE_VłSλƦł༒|usr_15d71086-5cfa-4ebd-a9a9-9224e319b47a|avtr_90444ebf-5889-48f7-8982-8c2b3e4db95f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0bdc1fd1-e5bd-44ee-ad8f-31d4db3b4198/1/256
 tim （brainpop）|FЯED F1GGLEHORN|usr_49672ea3-813c-4bb2-ae45-c5f0906d2768|avtr_84759786-5645-45c9-b1e3-b0add02c3543|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7b991135-10f8-4eda-a093-35c207fc9f59/1/256
 tima_hank_07|Vladislavb|usr_66e0f693-7fb4-4264-a818-b3b09dbdafac|avtr_7f895746-e13d-42e3-9c57-39b193383658|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_71754003-03a2-45e4-89c2-8de42366b0e6/1/256
-timaeusTestified|necr0wolfe|usr_4a685c07-156a-4541-8976-0f9e976852e5|avtr_c3917b56-b3da-4a15-8576-1fbca8a207a1|VRCNDb|PC+Android+iOS|
 timber|6ixCrafty|usr_f8e313cf-35aa-4b00-80c9-7fb9bf0a967a|avtr_089dc661-1325-4789-9e6d-2ac92f8f4b1c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d1234b76-7398-4f0b-b123-3bfaf1675651/1/256
 timber miles|-ItzKole-|usr_37846d71-112d-4eea-ac21-e67d65efefeb|avtr_5705a330-90c8-4eb8-a7a8-c0179f3c69b8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1fa40e25-37ee-4d04-8068-2f1896df989e/1/256
 timber mydog|BlastingSnep|usr_370e1d42-3a3a-48bc-9747-f953bb2cc570|avtr_48cd5c58-e8b7-4a3d-8075-539e4b76d641|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8e65e567-27f3-49c6-b47f-960a1b59962f/1/256

@@ -6333,7 +6333,7 @@ V0․3 MJ - edit by Rygark|Rygark|usr_8d9e6bcb-0f04-4573-b844-87e0fd35013c|avtr_
 v1|BlurryAF|usr_2f10d205-3310-4b5f-b6a7-ef880a90dd66|avtr_7537cc5f-e76f-4c02-a992-fee716908016|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c4729fe1-691f-4c94-90fe-246e5a584380/1/256
 V1 3․0 HD|~Kabuki~|usr_ec47595e-f2bb-4be8-bf16-e333793c6092|avtr_d094e038-3945-4da1-883b-821fc27b70d3|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_7432d032-edb9-4f0f-b1e0-df8f6a1d65d0/2/256
 V1 BP|Sashalicious|usr_3b8b89d7-bf74-4c25-b067-8977f689cefa|avtr_40cbf47a-f56a-4a53-9d5b-77861950e7ba|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_42210ac7-4cf4-4d94-9411-394d3488f851/1/256
-V1 but on a skateboard|Some Dude'|usr_14bc168c-7925-40c4-9142-5f067d49a951|avtr_a023aab9-656d-434d-b331-c80e871aabb9|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_ef7e1033-a9c1-43c4-97a1-826e7df776a6/1/256
+v1 but on a skateboard|Some Dude'|usr_14bc168c-7925-40c4-9142-5f067d49a951|avtr_a023aab9-656d-434d-b331-c80e871aabb9|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ef7e1033-a9c1-43c4-97a1-826e7df776a6/1/256
 V1 cloneboober|Vanix_f|usr_26c9e3b3-3a93-4357-8621-6294ee358a02|avtr_ac0d1947-822b-448f-a51d-a36db608e533|VRCNDb|PC+Android|
 v1 dfac edition|cole19YT|usr_ccd91e8d-d9f4-42f4-beb8-399b70d7fe9f|avtr_9b465ca7-a276-4117-981a-eee9a4404d66|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3feebdc6-b033-4666-b76e-da33eb9aa5c5/1/256
 v1 earth cozyǃ|TheUploader|usr_5af2a0a5-4041-4392-8826-c24712426152|avtr_67a9c56e-f54a-4eda-b0ee-8bd202e3182f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_09f9886c-01a6-4c6d-8542-9295bcac2764/1/256
