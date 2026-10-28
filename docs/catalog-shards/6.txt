@@ -499,7 +499,7 @@
 67 tycho|【CoinKing】|usr_2d3d3883-72c9-4b62-8e20-7ac1f1309437|avtr_009dc3a2-e275-46e8-854f-7647034e5edc|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4598898b-43d1-401a-811d-cfb4b025d34c/1/256
 67 waffles|Richard Moult|usr_58d763e6-4da5-4cbd-a1de-b22ea0190f33|avtr_50d734e8-e194-4ecf-aad4-64cde701a2c8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/file/file_589be62d-ca33-4068-85c5-c0ad8e8e202c/1/file
 67 ww3guyman|Isaiah_1010|usr_c8693b6f-d3f4-46ef-976a-3630e9d9e027|avtr_8e87445e-6f27-4679-804e-d53b958bf0df|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e6de2d46-1d49-4f3d-bb15-ccd30934abfa/1/256
-67' Dodge|djhoo98|usr_406f2599-7869-488d-b452-477d8d10fad1|avtr_1bb4b217-ac88-4adc-abac-1e72752d0ca4|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_376b28dd-99ae-49f1-ba96-d142b8275efc/1/256
+67' dodge|djhoo98|usr_406f2599-7869-488d-b452-477d8d10fad1|avtr_1bb4b217-ac88-4adc-abac-1e72752d0ca4|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_376b28dd-99ae-49f1-ba96-d142b8275efc/1/256
 672680|༒Ugly Grudge༒|usr_c6a998db-8b92-4ba3-8ba2-9ee67a49fd05|avtr_35e27972-645f-40dc-8924-bae76a9c6fda|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_45c166be-b187-4761-b850-80830a00b373/1/256
 67366243068720760932|television6988|usr_5c91dae8-1c8b-426a-8622-5ab5210a37cf|avtr_271a5334-8998-477f-8fca-d3cdc3ce5a1a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b2c8e9a2-43dd-42a1-bfb2-dc3ddfbc46c3/1/256
 6746767|obsessіon|usr_a1763a66-b709-49af-81f7-a0156c330b94|avtr_43a23fa5-4d8d-4848-967e-3691f1ee4691|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b07397b3-a700-4723-8153-dc6dea971f18/1/256
