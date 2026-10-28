@@ -1660,7 +1660,7 @@
 2bvestido|AlmaNegra|usr_fac842fc-ebc8-4426-9215-5fa86fbfdc61|avtr_a985749e-512b-4cfd-949d-7db981a3f53b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f071f6a6-adc8-4339-bcba-9bc2ac9c8c96/1/256
 2bwinter|Mayrui|usr_bffa2f06-963a-43d9-a082-33e524f30a10|avtr_284494ba-11cd-4fb6-a631-e28871d6c1a3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_eba1ef3e-4951-4cad-b4c2-db6b1c723b6f/3/256
 2B˸ YoRHa No․ 2 Type B|Onlooker Alice|usr_a80b7c00-0b8b-46ad-84eb-a67b199ec235|avtr_2b130163-23d9-40d2-af2d-3340ddcf7b1e|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_7bf66f25-79b1-4b39-9078-1fccab87d5f7/2/256
-2B˸ YoRHa No․ 2 Type B （Revealing Outfit）|Onlooker Alice|usr_a80b7c00-0b8b-46ad-84eb-a67b199ec235|avtr_4ab1ab9d-552f-4b45-a69f-5f39109b15d6|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_a479d27d-1c4f-4edc-8d0c-0e47a4a3dfb9/2/256
+2b˸ yorha no․ 2 type b （revealing outfit）|Onlooker Alice|usr_a80b7c00-0b8b-46ad-84eb-a67b199ec235|avtr_4ab1ab9d-552f-4b45-a69f-5f39109b15d6|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a479d27d-1c4f-4edc-8d0c-0e47a4a3dfb9/2/256
 2C Beest|Lutea|usr_dea79b5b-6146-4fb0-bc30-5c9079a555f9|avtr_bd90982a-be5a-4e14-b6dc-4f0e5c8877fe|VRCNDb|PC+Android+iOS|
 2cups|guccigimp|usr_582026bc-28b0-4634-997e-ca6a9a548039|avtr_1e7836a0-8933-4746-93e0-6527220594eb|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6ea85ac2-fb93-4e3e-acfa-d87eff41f207/1/256
 2d - isitevil|Macyy|usr_90c8f146-743b-496c-85b7-692da31b20b6|avtr_de3babab-1b3c-4e40-b3f0-222884dedb46|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e34164d2-2d35-4843-b5e6-200bb34e4d46/1/256
