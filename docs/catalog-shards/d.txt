@@ -31112,7 +31112,7 @@ tohka|DeltaII|usr_3b3d343c-e972-455c-9655-ee45f4a0e324|avtr_a5dfc0d8-61d8-451f-9
 tohka|devilishtony|usr_041f49e1-00c2-4277-be47-8d66823eef5b|avtr_d9573cc6-aa70-490e-9641-52d5a4a84b52|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bd5927bc-3de9-4473-b3fa-c5f880b5bef7/1/256
 tohkna|demondeye|usr_7975ea1e-8bcc-4405-80c6-b2716e0ccb3b|avtr_d0462321-5f25-43a4-b7b2-9834513e6654|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0a886ada-07d6-42a6-8364-af8d94bebef4/1/256
 Tohru|dpadchad|usr_ef0d8a82-ba8f-4a8e-a82a-961ab97f2a35|avtr_424a1cc3-92c3-42e9-ab5a-5c9ab59ad45e|VRCNDb|PC|
-Tohru Adachi|deaddov3s|usr_772cbe8f-a8b3-4a34-947b-063464874ad5|avtr_be99ae0f-394c-46e8-9985-490083cd35e1|VRCNDb|PC+Android+iOS|
+tohru adachi|deaddov3s|usr_772cbe8f-a8b3-4a34-947b-063464874ad5|avtr_be99ae0f-394c-46e8-9985-490083cd35e1|VRCDB+VRCNDb|PC+Android+iOS|https://api.vrchat.cloud/api/1/image/file_e4a99d55-ff24-4e58-a46a-d2844c475e26/1/256
 tohru denji sp|Denji愛|usr_9892678c-e75a-4de4-969b-87cdd3f01735|avtr_9ae7308f-70e3-4661-bc97-1703523a4164|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_cb20c21a-324e-463a-b0ec-8aa6166b1a48/2/256
 toiletjames|DominatorK5|usr_ead971af-dc79-4559-a1b7-fbba34c4029c|avtr_54176067-1ea3-42ff-abf1-56a671c0ceb2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b4ca7417-b9d3-4bed-93ef-12787a202048/1/256
 tojhsirjthsitrhjsitr|Dark Heart|usr_e96d47d2-02a7-4bab-958b-622f168e4f17|avtr_81f072f1-2c1d-4c77-80f7-7b5f43dff47f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_09c1b56d-f422-46c7-b680-c73ddcb604ce/2/256
