@@ -8341,7 +8341,7 @@ nanachilulu_basic|LuMettaton|usr_d5d96945-321a-4830-a87f-68330b21993e|avtr_ab72b
 NanachiMod|dxoid|usr_8c1d1a78-450f-4b71-9908-6c246de9e814|avtr_96b115bf-02f3-47a6-b330-7d286b97a28c|VRCNDb|PC|
 nanachiyeewmmdshader|fwestoz|usr_10b0b5a6-6b09-47d3-9d9a-ab48a2da0bb7|avtr_dc630e15-9eac-405d-8ec5-b285258674ae|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8d5135c8-0ce3-4a46-ad15-879a1f77650a/1/256
 nanachiǃ|Dragonisser|usr_b846a34c-85d4-4db7-9c66-163ab4624131|avtr_f7aa3352-4ec5-4e80-9f03-ee086f5985de|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7c31ec70-3237-4dde-b708-a760ae99b2d4/1/256
-Nanachi˸ Made In Abyss BSFID|Nekonii|usr_9e4b24a9-2d20-41db-b445-d49aac24c067|avtr_fbfd1ab3-7267-4c12-92f9-2ff6a922281b|VRCNDb|PC+Android|
+nanachi˸ made in abyss bsfid|Nekonii|usr_9e4b24a9-2d20-41db-b445-d49aac24c067|avtr_fbfd1ab3-7267-4c12-92f9-2ff6a922281b|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_35b4a97d-8470-49c8-9c2a-1a533561180c/1/256
 nanachi⁄ratachi|Sebblix|usr_d2f9388a-1c46-4c38-805a-023d72b7b9f7|avtr_d4950dc8-e2cf-40a3-9e6c-158753bc7e43|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9c482fed-682c-4898-a133-22c7dc5c0782/2/256
 Nanacho El Grande|Snarbaloo|usr_42f7ee41-38c3-491c-ad73-de3f7e7e2a7c|avtr_d724276f-8a9b-432c-9a35-5cf7b0546548|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_bea0ab78-bb14-4005-86a6-3a0fe2d607f6/1/256
 nanacvhio|CRTT|usr_03b353d4-758a-4066-98b4-4b16367a7a33|avtr_ec2ee8d8-03aa-4329-ac5e-3522e6f7a687|VRCDB|Unknown|
