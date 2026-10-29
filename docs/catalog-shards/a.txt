@@ -8787,7 +8787,7 @@ amaneko|ruko-|usr_2ab02e1d-9fb2-4a46-bb06-c3898a3604c0|avtr_de29fdb1-adcf-44da-b
 amaneko_sample_vket|止丸-TOMARU-|usr_1c85d732-5b46-4321-8009-207408a19fbc|avtr_f3a8665b-8129-4a56-8d6d-33a576076fdf|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_545bced3-f364-4b1a-b7b3-31efd586d8be/3/256
 amane≺333|°Pretty~vixen°|usr_08edd797-5731-42b2-a041-8b6c290716d6|avtr_7c3e882f-5748-4337-90af-a22998ec5d91|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_33ab712d-5e24-4ec5-971d-f6014f09e502/1/256
 amani|PRAY 4 MY OPPS|usr_0a6bc07c-6ed4-4f70-a35b-453840af7723|avtr_32170eda-d241-409f-8094-d27a235e6514|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9bf2ad00-f9ec-4d56-8830-2f21b42d2e25/1/256
-Amanita|pleybonnie|usr_791d3f98-7a0f-4fdc-a2dc-603c6c88af0b|avtr_10cbdfce-b871-4103-89ca-abba5186171e|VRCNDb|PC+Android|
+amanita|pleybonnie|usr_791d3f98-7a0f-4fdc-a2dc-603c6c88af0b|avtr_10cbdfce-b871-4103-89ca-abba5186171e|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_3ca3af97-da8f-4981-9933-0577961f7b58/2/256
 amanita ocreata|Tyson_X|usr_326f4869-b39e-4537-8137-d0dad17a3021|avtr_066f2449-d041-4e4a-ade5-a1bb34a1b6a1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bfd7ebb5-fe93-4ac0-bd61-d1d35d9793cd/3/256
 Amani（RK）|RK-_-|usr_aa51d849-ca01-4b54-85a2-c336fbc210ce|avtr_cbc23e2a-409b-40a9-b9d7-98439a24eab4|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_be5fab29-b11b-4bd3-b469-66cf94446afd/1/256
 amantsu|Zukia24|usr_62a67958-82ca-4c2a-8e56-4c59af3f646f|avtr_f287e49b-5757-4ea5-a325-8b13b197a30f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e0210f62-a6c7-4442-8b39-8c201ce05d69/1/256
