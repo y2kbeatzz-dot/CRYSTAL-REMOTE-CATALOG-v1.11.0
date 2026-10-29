@@ -15828,7 +15828,7 @@ ash public|X͓̽O͓̽|usr_a3e4a5aa-436d-4bdf-9820-28664a9d61ee|avtr_89298aa4-cf6
 ash public dps|Garret․exe|usr_4be212f5-feea-4c71-8c8e-945ad2e9824c|avtr_cd2463bd-7449-470c-9748-50550ab1b8bd|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a818d1f9-9c26-4952-b445-0aeb120623da/1/256
 ash quest 2․0|Ashley_UK|usr_e354c8a5-09d3-41af-9f88-83321f210674|avtr_eaea985d-a5fb-4ad1-859c-89a8dda546d7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6fc2e5d8-eee0-4ec4-988d-fe02eb09c04f/2/256
 ash regulus|DevTheIdiot|usr_2b63cb75-bf24-4eb3-96fb-5e758711c9ec|avtr_2510af0e-f3b2-4867-a6a4-a34d77f825e5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_157ac404-eda6-4d62-8119-c66683385263/1/256
-Ash Sceptile|Flyfastr|usr_32ad4593-966b-47cf-938d-d1327b08e003|avtr_261e6c16-7f1e-43cf-ae48-129a51ac0da4|VRCNDb|PC+Android|
+ash sceptile|Flyfastr|usr_32ad4593-966b-47cf-938d-d1327b08e003|avtr_261e6c16-7f1e-43cf-ae48-129a51ac0da4|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_9a7ff5fb-013a-45cb-b6e6-24b09470e310/1/256
 ash sfw|Mimi The Silly|usr_ab66204e-2829-46d5-a62b-9cb0a61072d8|avtr_4049fbb9-ddd5-44ea-b6db-8b8e59dd6a32|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f11b6009-9a5d-4e7f-aa04-a1cd16d26961/1/256
 ash spartan - ps1|ScooterRF|usr_1600d479-3d62-4464-961c-93c9a87d180e|avtr_46970cb2-ff39-428e-a583-1923ed3318c3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_af00165b-87d7-4962-bd4b-cf8a9e82cbd1/1/256
 ash the wolfspider|ᴅᴇᴀʀᴠᴀʟᴇɴ|usr_03e68f93-d139-41d1-8d31-0fc119dc17c9|avtr_3dc0e92c-5a16-43d0-8b3f-a3bc1072d5b7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8cba784e-b8d8-41de-a048-228e584c6b7a/3/256

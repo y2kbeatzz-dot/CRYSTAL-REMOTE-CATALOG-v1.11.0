@@ -8960,7 +8960,7 @@ charmander particle|Flyingcat|usr_33cd4fd6-587c-4878-a6d1-15362b8ee9ee|avtr_ba60
 Charmander SV|Umbporeon|usr_c5bbcfc3-446c-423a-ae46-61d877378dec|avtr_3f417e41-bf85-4011-82c3-9ed36bf648d6|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_a233f0f6-8cfc-444e-9595-14579151dc0c/1/256
 Charmander Trilline|EspañolEQ|usr_929e0052-9931-4517-b896-85288116855d|avtr_35cedd15-1362-43e0-ac65-e7b9592f9ad4|VRCNDb|PC|
 Charmander （with moves）|mornbird|usr_d18d93f5-c4a8-4cad-ae0d-c47950e9c9da|avtr_0c3cc1e3-afeb-431a-8ecd-7030b487171f|VRCNDb|PC+Android|
-Charmander （ZA）|-MetalMischief-|usr_c45c8089-8b4e-4279-9fbd-ece05ac5d490|avtr_2aaf516e-9374-48cb-a8dc-87b5119565f0|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_2b6c425f-2a82-4f63-9bff-9f82a1d93f3a/2/256
+charmander （za）|-MetalMischief-|usr_c45c8089-8b4e-4279-9fbd-ece05ac5d490|avtr_2aaf516e-9374-48cb-a8dc-87b5119565f0|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2b6c425f-2a82-4f63-9bff-9f82a1d93f3a/2/256
 charmander4|luhxy|usr_f7906746-6005-4c43-b6ff-a7d6ef3f8c70|avtr_28d48d1a-0105-488a-bb72-5d4a1f4d3266|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3194af9c-3845-4814-98bc-ecc904a7844e/1/256
 charmanderknuckles|Defalt.|usr_65159de8-1200-42d3-b54c-5592e515fe52|avtr_3ba254a7-0c26-42a1-ae4b-e66699f91650|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_47b4dc44-5acb-49d4-b480-9e8ab6a46a3d/1/256
 charme v3․0 sample|willplus|usr_4fbca529-be69-4631-ad51-a35cf3198d09|avtr_1f6d06a5-e829-456a-a6e8-b5dfb9f848d3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a41c9d7c-e7d0-48c3-b92c-eaca03a7fd63/1/256
