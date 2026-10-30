@@ -639,7 +639,7 @@ aiya （ft）|náví|usr_29fdb1df-9d80-4a4a-928f-023f79080830|avtr_a2e64593-2a43
 aizenmame|NoxuArc|usr_f6d4954f-930c-4df5-bcc3-1c0025d92351|avtr_78590637-05a2-4efc-9629-ef434f96bae5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a7e03d13-224a-406b-9cf8-e643a4f910ee/1/256
 aj|neihey|usr_8565186e-ac50-477a-85be-501a4bfbba7d|avtr_0c0ed23b-e96c-4ef8-8d2b-3b64cb979ff2|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_33ee4107-50bc-4bcf-93b9-e9b851ad42cd/1/256
 AJ|n3gative vibes|usr_e4f9a2b9-5d56-4d40-a4d8-d589dab9eea7|avtr_58f547eb-a2e3-4799-aa16-2fa68e41f013|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_fb06bd0f-b147-4cc1-a635-b975724a6501/1/256
-Ajar Dova|_neffertity_|usr_3a6a7f9c-b8e8-41ba-875a-da6d8260cf15|avtr_d8fc5692-b370-4641-81f9-89d235f9f311|VRCNDb|PC+Android|
+ajar dova|_neffertity_|usr_3a6a7f9c-b8e8-41ba-875a-da6d8260cf15|avtr_d8fc5692-b370-4641-81f9-89d235f9f311|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_cb286c73-1f6c-4a6a-bd81-ba3c33d9eeb7/2/256
 ajde kurvo|Neshaa|usr_b52647e6-4730-419d-8ef3-064ea1f64383|avtr_44d3b70c-2e56-4383-a644-b02e3c655923|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_13023d1c-2001-4371-8e9d-7c748bf625eb/1/256
 ajrad|NameBrandSalt|usr_db52076a-a6b9-4c56-b265-362715a2e7d7|avtr_9f3c3aa9-e9b4-431d-8ed9-f491e74b7736|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d6bd2b11-3d78-4d0c-a8aa-92e534cef8b9/1/256
 AK|Nimi|usr_e4cd74cc-301d-45ff-8208-5b4eb7af1baa|avtr_28cef719-4406-4b7a-bd77-b7d7a4a8ef87|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_ce5414c7-7136-439f-84e4-0e988df9654b/1/256

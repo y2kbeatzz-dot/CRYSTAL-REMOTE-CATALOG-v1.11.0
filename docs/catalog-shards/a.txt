@@ -5186,7 +5186,7 @@ aja|Fanbro|usr_ff70f367-ed1d-4545-b7a9-a43219cc2efa|avtr_90df055c-50ed-4caa-a72e
 aja tarron|LittleHumanBits|usr_37480fad-9630-4d89-9bf1-5a273c922007|avtr_88079de8-3915-4d81-ab80-df84d295f9ae|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_0690701a-2545-4999-b468-02c4cd84d77a/1/256
 Ajacenus|whycyborg|usr_19e270e5-92bf-4f85-9508-36a1f6285039|avtr_97dde3f9-320a-4407-9ef4-d723aa429729|VRCNDb|PC+Android|
 ajajasaurus|SSolevoy|usr_594cc399-681e-4ed0-a2fe-15297110b71d|avtr_42cfff26-c98b-45bb-892e-b2ed23ab112a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7b9981b9-d02b-4909-a938-9baf953487a9/2/256
-Ajar Dova|_neffertity_|usr_3a6a7f9c-b8e8-41ba-875a-da6d8260cf15|avtr_d8fc5692-b370-4641-81f9-89d235f9f311|VRCNDb|PC+Android|
+ajar dova|_neffertity_|usr_3a6a7f9c-b8e8-41ba-875a-da6d8260cf15|avtr_d8fc5692-b370-4641-81f9-89d235f9f311|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_cb286c73-1f6c-4a6a-bd81-ba3c33d9eeb7/2/256
 ajarbythedoor|Mac-Ros|usr_e5a25489-84be-463b-9cfe-4d8bf4448756|avtr_858ae498-ad73-42e5-a4e8-5a80010c25aa|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7b1dd33f-e178-40d9-9aae-da6d905e5a15/1/256
 ajaus verrer|Xx Winzor xX|usr_eca07f71-1033-40f8-a442-9c690b9320c7|avtr_89d172aa-d011-46ac-a7cc-96873c2eacaa|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_69711966-d5a3-4dde-8bcc-2b44f252b7ce/1/256
 ajavex|whycyborg|usr_19e270e5-92bf-4f85-9508-36a1f6285039|avtr_2d9368d2-fcb0-4de5-8130-e61fbd86019f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c6c2fc2f-25cd-4c3b-b485-ad49543bb2c1/2/256
@@ -24196,7 +24196,7 @@ Furry Boat|ArcyThePuppet|usr_6d611248-842e-4270-886f-b9d9b4b10812|avtr_6772f651-
 furry bricks|alikehree4|usr_865a1d23-eb0f-47ff-8d15-531c4788739d|avtr_e0b9948b-efe1-470f-9baa-b1f5373f3143|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_5129a973-da59-4daf-b571-30aff4728d9c/1/256
 furry control|alikehree4|usr_865a1d23-eb0f-47ff-8d15-531c4788739d|avtr_9aaf1569-a16c-41f1-a042-254a96acab44|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_e9df8572-c003-424d-8c4c-1f02fd1e3c0f/1/256
 Furry Dave After Doordash|Awbluefy|usr_b6c647e0-9aa3-4e07-8af3-88617b863e26|avtr_f627541a-aa3c-49f2-8798-27f420ff2006|VRCNDb|PC+Android|
-furry femboy co- kill me rn|arceus413|usr_cecc0610-a72a-4e34-8433-7baf0a3c5751|avtr_608594ea-5c0f-4701-8e18-71efaf276f85|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c1b3abc8-6317-4002-87b4-d2a82151348f/1/256
+Furry Femboy Co- KILL ME RN|arceus413|usr_cecc0610-a72a-4e34-8433-7baf0a3c5751|avtr_608594ea-5c0f-4701-8e18-71efaf276f85|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_c1b3abc8-6317-4002-87b4-d2a82151348f/1/256
 furry guy|Armani Adams|usr_ae2be4c3-6e02-40c6-985d-38fd744e7df0|avtr_068710b1-6ccb-499f-91c1-dbce1e18ba5a|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0756628a-9b84-4a2e-9534-6c637587a756/1/256
 Furry Markiplier？？|AlexanderFox15|usr_830135b8-fa22-4880-a174-4c64fca292db|avtr_5589bcd5-bb18-4f4f-8b07-8797118f997f|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_cdccabf5-0c1e-448f-bad8-cdd8512664e4/1/256
 Furry Postal 4 Dude|AlexTheDoggo|usr_b511de70-bf54-4034-96d2-3af91cf2f652|avtr_9da9463f-0117-4e9e-9d27-893564337619|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_cd68c747-e3c0-47bf-af7a-4c210918d262/1/256
