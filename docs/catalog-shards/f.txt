@@ -22396,7 +22396,7 @@ starfire adoptable waggan （horse ig） - femnem （furry）|Femnem|usr_6b9b205
 starlit luna|FyreFlii|usr_ac02c8a3-3c26-49f9-9fd6-5a14099d2bc1|avtr_fdbed1bf-6de3-4817-82f4-99b37e4be4f9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3d48389f-9aa9-456a-b845-6f1615309cab/2/256
 starry adoptable regulus face tracking vrcft - femnem （furry）|Femnem|usr_6b9b205f-3e03-485a-9de4-7225f9ccc63a|avtr_c6adf254-3e8e-4ca7-9dc8-42c7ffb90aad|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_88b5932f-6a75-4288-a0a0-bb7646a52afb/1/256
 starry adoptable regulus w⁄ weapons - femnem|Femnem|usr_6b9b205f-3e03-485a-9de4-7225f9ccc63a|avtr_b195d9da-2b0d-4b03-a289-f62ed279043f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4ed678b7-71d9-4a87-a837-eb18d8b03a8e/2/256
-Starry Lucario|Flyfastr|usr_32ad4593-966b-47cf-938d-d1327b08e003|avtr_a3a00193-eceb-4522-9a2d-1bb20200ba90|VRCNDb|PC+Android|
+starry lucario|Flyfastr|usr_32ad4593-966b-47cf-938d-d1327b08e003|avtr_a3a00193-eceb-4522-9a2d-1bb20200ba90|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_b2cb87d5-2694-42a3-89d8-afc423b62a1e/1/256
 stars adoptable nardo dragon - femnem （furry）|Femnem|usr_6b9b205f-3e03-485a-9de4-7225f9ccc63a|avtr_fccb50e3-2a11-4839-abce-f94a58731d9e|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a5284f15-4d7b-4f2f-9697-e7451df6e9a2/1/256
 starscream|FrostyFiend|usr_5d2b33fb-052c-4905-b96d-a41fecf712c1|avtr_52eb9a39-b480-49e5-85b8-744955921828|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_781dba45-0fff-4b9e-acf6-956bfb822a45/1/256
 Starved Loonby|Fan-The-Can|usr_3622f042-3d7a-4b9e-ac87-28864814ce10|avtr_8606a808-854d-4c36-bf5d-055f515bda36|VRCNDb|PC+Android|

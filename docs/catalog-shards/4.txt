@@ -1012,7 +1012,7 @@ mcvio-chan|40|usr_d7ace895-9595-427e-8173-31392ed32c4c|avtr_e53de9ec-27ba-40d7-b
 medium - cnt|4ft6|usr_1e1afda5-6c32-401e-93c5-ab0e81603e25|avtr_8d84360a-629d-4223-a919-f8be75381345|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b7888e7b-ac2f-4685-ba2d-5298fdd421cc/1/256
 medium＋ cnt|4ft6|usr_1e1afda5-6c32-401e-93c5-ab0e81603e25|avtr_1772ff3f-a8a5-4e79-8b86-c60c334d367c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ec5e60fc-5391-4577-94a2-0233d4d52e33/1/256
 melbubu|4hri_|usr_ad341095-1698-46a5-8ce6-b6923b132296|avtr_95dbad0a-4e4b-4069-a35a-50177e1b966e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_878659e5-246f-4711-8f01-d79d55167316/1/256
-Mettaton EX|4Bakers|usr_006963ac-7584-4640-80fd-fc15fbe008be|avtr_9227db1d-0746-4a4c-bae4-6f321bd7e09e|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_2befd86f-31a4-4395-85e9-901e8882ab2e/2/256
+mettaton ex|4Bakers|usr_006963ac-7584-4640-80fd-fc15fbe008be|avtr_9227db1d-0746-4a4c-bae4-6f321bd7e09e|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2befd86f-31a4-4395-85e9-901e8882ab2e/2/256
 mi mi mi|☭_4ί℘ί_☭ db07|usr_98ab8127-43a2-4572-95da-c0069f2fdb07|avtr_9ec5b0be-12a1-4c4b-85c8-c35d4f74803f|PAW|Unknown|
 miko halloween|4ng4rp3|usr_28241689-f960-4bbe-a97b-d6c1633d2c56|avtr_42199482-7c63-4053-bec8-902468103e85|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7220265a-4819-48ce-bdbc-8b876c1a08de/1/256
 miko witch|4ng4rp3|usr_28241689-f960-4bbe-a97b-d6c1633d2c56|avtr_5146bdca-04d3-41d2-8c13-f10110a5339b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6a0bd086-8711-4ea0-b0d4-99343ede1088/1/256

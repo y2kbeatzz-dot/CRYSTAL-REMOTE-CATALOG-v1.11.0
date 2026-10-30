@@ -6904,7 +6904,7 @@ zhenradiant|Zhen_|usr_7ec7922d-5371-4cb8-9690-df310f2da785|avtr_52626c98-b937-40
 zhenv|路过的vrchat旅行者|usr_03278ecb-2fe9-4a76-abc0-41ce17c137b0|avtr_1a5de604-336b-46a9-be35-eadbb28606e6|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3c370c0a-98eb-4aa3-9f71-e9c665de6b75/1/256
 zhenv2|路过的vrchat旅行者|usr_03278ecb-2fe9-4a76-abc0-41ce17c137b0|avtr_335ffa1d-08d5-4cae-a306-bc5761f2f42f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bbcab1ab-7a5f-4d84-9e50-4c070487b7fd/1/256
 zherinsboyfriend|Zherin|usr_eb7420eb-bbca-42be-9f4d-9ff4bed1fcac|avtr_4137976a-11f0-439c-b900-af1776645f9a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_84b27a96-1c4a-46e0-91e6-2ac7f34640a4/4/256
-zherlthsh (ro mobile)|ayaldev|usr_14e3ff8d-0a01-4b58-a987-1aac95e9e8ad|avtr_4cca76a7-4d6e-4579-9345-0c63aef2f208|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e63c3359-c893-4af7-b3ff-41278794a79c/1/256
+Zherlthsh (RO Mobile)|ayaldev|usr_14e3ff8d-0a01-4b58-a987-1aac95e9e8ad|avtr_4cca76a7-4d6e-4579-9345-0c63aef2f208|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_e63c3359-c893-4af7-b3ff-41278794a79c/1/256
 zhezhi|zhe_zhi|usr_5a44d3bd-f20b-4245-946e-f6f3581fe39c|avtr_daa79453-b423-4d5c-b423-d46b7ae3cb4c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_04837e14-576a-4ab0-9b0d-fe69d68c2cd9/1/256
 zhezhi|sʜᴜᴍᴀɪ|usr_c21ebba4-c4c7-41b6-a2b8-bbc24ad916d2|avtr_fd235bbd-57c2-44c0-982e-7946b158bad0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_55656e05-35c5-4d23-9b97-0396975ce6bf/1/256
 zhezhi ｜｜ wuthering waves|ɴᴇʀᴏ|usr_1a9fb0d2-dac6-4b0a-b20e-29e274e6a6af|avtr_e9f568fa-3383-4adb-ac3b-b3d3bbea4b2e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3986fbe2-1670-4332-a324-8d704a4630bf/1/256
