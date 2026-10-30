@@ -6901,7 +6901,7 @@ valstrax redux|slash0x|usr_59f4f94f-047c-4da6-8c55-df0fc0f5eeff|avtr_4dc28544-07
 valstrax vesper|Vesper-291|usr_77ff7769-09e6-4fea-a2fa-3afd7f657aa6|avtr_006d5a78-f60c-4942-a0d4-41b91e324193|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6b1ad1f8-0a6a-4aab-ae98-b90e0e589f2c/1/256
 valt aoi ｜ demon slayer|Luck Voltia 雷|usr_eb1af352-f3bc-4761-b670-130576c61cd0|avtr_30bf6387-d46c-4378-8e70-3e70c4faa0dd|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d3b40926-8454-4d60-bf1d-f364ff09cc0d/1/256
 valtarian oxfoxx|Kharnel|usr_2eeda454-6af3-46d6-9ab1-84680cd899c8|avtr_4bdde0f8-3632-46b5-9beb-e94e1e437eb9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_64234960-831d-4d4a-9abb-1e29527a40aa/1/256
-valten （sigmar's heirs） （rp）|Arechron|usr_b171b5d4-c1e3-435a-90de-9b22e1b5b246|avtr_ab52f363-e88a-48ae-a454-e34475828048|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_86dcf864-12ae-4ab2-b232-5f8134bbfd50/1/256
+Valten （Sigmar's Heirs） （RP）|Arechron|usr_b171b5d4-c1e3-435a-90de-9b22e1b5b246|avtr_ab52f363-e88a-48ae-a454-e34475828048|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_86dcf864-12ae-4ab2-b232-5f8134bbfd50/1/256
 valtiel 2 public|TiMeLy404|usr_0861db72-b7fc-4d08-9e8b-009404de504a|avtr_1fc40ae3-43ba-48b6-a3cf-21de9171a4b0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9f00d248-ab0d-4109-ac03-76549065ef14/1/256
 valtiel public|TiMeLy404|usr_0861db72-b7fc-4d08-9e8b-009404de504a|avtr_6c9266f2-ceaf-48bd-89a3-f52edbd8d9e0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_dc94653e-4c5f-4377-a294-416834bcb33c/1/256
 valtiel public|timelypaχil|usr_47643efe-9a3f-42e0-93b3-49dcd903b060|avtr_ed7128c6-78c0-42af-8a90-19f2d85ac8e2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_19c51064-1f04-43a4-93c9-171be67e4be7/2/256
@@ -7543,7 +7543,6 @@ vbb|dat asssucker|usr_65693cf5-e01c-4160-8220-6ec728904a42|avtr_fc9b0eaa-0246-43
 vbbbbbbbbbbb|PoTaToCoM|usr_5d36cde3-bbcd-4bae-8ef9-7defd0030e20|avtr_27dfed9e-278e-449e-b576-7a39a0f54779|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a733ceed-1ce8-4638-90c7-b431bcd99544/1/256
 vbbhbhj|Vondih|usr_6a7b5ed6-4418-4995-8bb5-dc3a5028b908|avtr_d783dad4-c715-4ec2-9ee7-8393aec94d6d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c6c32cd4-4700-44be-aed6-f2a950cf1712/1/256
 vbcc|criptex b2b6|usr_471be698-c3a8-4d7c-94b2-80354cfcb2b6|avtr_915438e0-6740-41dc-8f2d-94ddccb9fabe|VRCDB|Unknown|
-vbci2 scp|- Shiro -|usr_ba0575a0-f51d-409f-9720-16c5bb96aad6|avtr_b6e74f04-3540-4aca-b59c-b7690110c659|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9bf86b95-43ef-4a37-9d7f-ccc6bef8915a/1/256
 vbg|Череп|usr_8d1971df-cbab-451e-9d6f-8137d5a655cb|avtr_d3f4b5ad-2bdc-4a99-95c8-19567fbb8ae1|VRCDB|Unknown|
 vbhoodieman|IJ_인적자원|usr_7e7448dc-838e-4f7a-8b66-a0ca98ef905f|avtr_12f97cbb-06b3-4d49-b90d-e3db6789fae5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7e395801-f080-4df7-b1f3-1fd7ad9792df/1/256
 vbi|THE9GAMER4KING9|usr_57542b62-da65-4069-8a62-49f415026edf|avtr_b41d7124-a24e-49ea-abf9-419d9f9b3208|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_53505be1-8512-469f-ab3f-e4ae3989eaf3/1/256
