@@ -4141,7 +4141,7 @@ viktor （arcane connected）|~Xe~|usr_4c989d99-36c9-4057-9b28-650b3b161899|avtr
 vile|§å†åñÇðåx|usr_17e24dc6-5420-4226-b4d6-f93763cace31|avtr_43a203c7-1e8f-4f5c-badd-e0c6e8fd8e55|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_97774bbe-eab8-4cd8-a29d-068ed31e2710/4/256
 viper moe|Xysticion|usr_23d6ccc1-d0ec-43cd-92da-0429149d9faa|avtr_8f94749d-48ef-4b11-bdf3-3534019b3411|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_89a98bc5-e4d4-4e5b-97b3-27501d42a801/1/256
 viperp_hkjs_v3|逻辑XR|usr_35ea3f3d-d61d-42d9-9577-1d3597e3fe85|avtr_2b9b4467-b498-49e1-9d0a-d6536db102aa|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_661f7d7c-2932-47d2-8261-f922c32a55a8/2/256
-Vipers Punk Deer Azalea|X-CapReXx-X|usr_91b761ca-9a76-4551-b785-c2bf75c7f28c|avtr_a7aa33bf-133a-4436-b532-b265604a4c3b|VRCNDb|PC+Android|
+vipers punk deer azalea|X-CapReXx-X|usr_91b761ca-9a76-4551-b785-c2bf75c7f28c|avtr_a7aa33bf-133a-4436-b532-b265604a4c3b|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_22f27f47-7d3d-40fa-a2ce-c53eb1fd41ae/1/256
 Virus 3‚01|x__Virus__x|usr_1a8d0958-9754-43e8-844e-f7257a32422f|avtr_952f5ea1-4d7b-42e7-9461-52023a2d3dc3|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_07749341-01c7-470d-b0ab-862af011fcef/5/256
 vishka|xXSTAR-LIGHTXx|usr_4b9f06a9-095b-42b5-804e-6bf6361c7916|avtr_caa3969b-9351-4570-90ab-d94f610b8976|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e8d2e15c-499f-4188-b9be-28b9a4bc9871/1/256
 vishka22|XM77|usr_32e450f8-3d4f-4508-80e2-d2eb1c716270|avtr_66d0bb5d-f6d8-443d-bfeb-71b82312987b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bff9e9fc-5252-4500-be6d-ea077aa294d6/1/256

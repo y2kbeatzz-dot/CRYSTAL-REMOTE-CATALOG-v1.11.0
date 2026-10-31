@@ -10274,6 +10274,7 @@ rrnzkzig2|るるな|usr_71dfec6b-e432-4d61-8309-262ada3f65ba|avtr_b3f68cb7-49f9-
 rrnzla2|るるな|usr_71dfec6b-e432-4d61-8309-262ada3f65ba|avtr_735a8820-0368-472c-9e93-a9fc2d99ad9d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_dabc2802-68e1-412c-a397-db80f968464a/1/256
 rrr90g|ヴラド オル-ヤール|usr_8919cb18-70d8-496b-8a05-961373a64dbf|avtr_fc454938-f139-404f-8253-f8444f53f373|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c6cb47d4-ec85-483a-ae97-6a7d575f0ac7/1/256
 RS|ǃ＠＃＄|usr_f8866eb3-b6a3-4036-a3af-e9afc06117d3|avtr_d54968f5-5f0f-4e6a-82cb-8be6f2eae4e2|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_fa3d6f28-4377-437d-8bae-7bc03a05a9f4/1/256
+RS|ᴊᴏʜɴ ᴍɪᴄʜᴀᴇʟ|usr_47fcdc85-2c7f-4d8e-b07c-0602c0e1bd7c|avtr_f3b3d3b2-23d7-44e5-8dcc-f35dce101852|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_385bf55b-b41b-4152-826c-e7a7cc6a16d6/1/256
 RS F|ǃ＠＃＄|usr_f8866eb3-b6a3-4036-a3af-e9afc06117d3|avtr_d0463f6b-1995-4bc9-ba2e-6a94c4802dff|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_df2f90ed-96b2-4907-b62c-cb9e804a160c/1/256
 rtx|ɱıɖŋıɠɧɬ|usr_1905102b-420e-472b-ab5a-5c8067b582e4|avtr_ae86b75a-5ae2-45cc-9b4b-ee6bdde59bdd|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_84062f8c-d99f-4fc7-802b-17e9c3fc0444/3/256
 rtx 2080ti|り|usr_59b71e97-1a51-42fe-b125-16dfa14bcf28|avtr_6ef2baad-77e7-42ba-8dff-94dafdf2472f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_de9b4022-c5ab-4f82-add6-6ea247a79fe9/1/256
@@ -11836,7 +11837,7 @@ tanuki|匚ㄚ卩卄乇尺|usr_f073ecdd-ec02-4552-941a-95f27cadc222|avtr_baccc2aa
 tanuki-ぺちゃたぬ-|ベベル。|usr_5be32303-e051-4ef4-94af-10c4507b3bdf|avtr_299aef05-6896-48c9-a644-f4fadd832ff0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_98f31b7e-7200-4946-bff7-66a4f8c82e61/1/256
 tao yuifa|ᴘɪɴᴇᴀᴘᴘʟᴇ|usr_7e09ca5d-4b6a-4ffe-a6db-c2bb1c6f1dde|avtr_abd53725-8e8c-4f50-8de3-57d52099e37f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8bcba65d-1f7f-4bd4-b7ca-76fd29587bde/1/256
 taohawk|ᴢʜɪɴɪɴᴢ|usr_f0a8629d-9f76-4428-b7cd-6d27a22baacf|avtr_db865e19-1cd6-44b1-9ff9-a05046b1ac26|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a20f5d87-a9f3-4ea5-b9d9-ed6e4ef728be/1/256
-Tapout Cat （∗）（essesstars）|ＣａｌｌＭｅＳｔａｒ|usr_a6dc3122-dcb0-4176-8cc7-0fff14efaef5|avtr_2fb24e41-5cb0-40f3-8f21-08b1af132ad1|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_e79ed3d0-23a7-4827-b36c-bd1147622578/1/256
+tapout cat （∗）（essesstars）|ＣａｌｌＭｅＳｔａｒ|usr_a6dc3122-dcb0-4176-8cc7-0fff14efaef5|avtr_2fb24e41-5cb0-40f3-8f21-08b1af132ad1|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e79ed3d0-23a7-4827-b36c-bd1147622578/1/256
 tardis|Веселый Багетик|usr_9ae54b17-a861-44df-a5c8-f6dc34987cf0|avtr_f8b71113-74a0-4cfd-8e19-d5a15528b29d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_5acec501-bbea-4345-850c-325ea60433b5/1/256
 tarot|ᴄʀʏᴘᴛ ᴄᴀɴᴅʏ|usr_556ebaef-5e95-46ff-a3fe-6baeff55dea9|avtr_879fe260-72fe-4f4b-8465-1f5c8327f435|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_cb7288b0-2fee-47db-a7a9-b2c83399b17f/3/256
 taskmanager|ᴅʀᴀɢᴏɴʜᴇᴀʀᴛ|usr_f641b107-ffde-43d1-9cec-ce6f3f05728f|avtr_5f4c500c-0b9f-480a-ad9e-71a3ea6d3b80|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bb773d3d-4471-4d27-8661-32c6bce7fbd8/1/256
