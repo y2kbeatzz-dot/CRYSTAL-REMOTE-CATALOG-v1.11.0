@@ -1,13 +1,13 @@
 {
   "version": "1.11.0",
-  "index": 462,
+  "index": 463,
   "total": 787,
-  "last_seed": "rt",
+  "last_seed": "ru",
   "rows": 350000,
   "added_this_run": 0,
   "processed_this_run": 1,
   "blocked_providers": [
     "AvtrDB"
   ],
-  "updated_unix": 1793471827
+  "updated_unix": 1793489216
 }

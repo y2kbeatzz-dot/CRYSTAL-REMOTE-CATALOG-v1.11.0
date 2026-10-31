@@ -17250,7 +17250,7 @@ Yukari （Want to be Close）|EmperorZero|usr_b91eb53f-447a-4d2d-9223-cd3e477597
 yukina avatar|Elegant Elysee|usr_f08cc178-ef02-4222-b421-0ae4966897c0|avtr_11c3eb60-3dcd-4903-9eec-1efdb348cbb3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a6e32858-3ff8-4584-8533-c45097cebf82/2/256
 yukki cross|Emi Roseberry|usr_2e6a4e30-93c1-43d1-b2c1-a341c93ef97d|avtr_5a5f5da7-edcc-497c-9fd3-c0e7ee277908|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_19c3f17c-074d-47d3-aac2-3f1f48a57115/1/256
 yukko aioi|EkGoon|usr_00020b91-10a8-4910-882f-49621e3fce4f|avtr_dfdfa7e7-f595-45e0-a1fd-d34928f2029b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0ce99b3f-90c2-41a8-8369-cf4c6af910f7/3/256
-Yumeko|Elevna|usr_3b4606eb-9b26-4119-9814-c55150dcb2a6|avtr_210d67e1-b9a1-4e7f-99ff-b2abda8aa067|VRCNDb|PC|
+yumeko|Elevna|usr_3b4606eb-9b26-4119-9814-c55150dcb2a6|avtr_210d67e1-b9a1-4e7f-99ff-b2abda8aa067|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_9dc5f958-7831-4938-8872-b51cd6668f9d/1/256
 yumi|__Egg___|usr_16a46bd2-c5b3-4985-a93c-44fcade8614e|avtr_6837bf7b-0c2f-456a-9c54-cfb8f8f49e87|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_97d65d3f-fe2b-4930-b172-31e43fbd6564/1/256
 yumi alter dress|Emi❀|usr_c6f32cb0-5b1d-4270-b3f0-eb9ac409f3bf|avtr_c6e605f9-933e-48e9-b586-a31bdbdf2042|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_05fe3367-7dc7-4f63-bd49-62d20c8c829b/1/256
 yumi bunny|Emi❀|usr_c6f32cb0-5b1d-4270-b3f0-eb9ac409f3bf|avtr_09dc4927-fd56-4fcc-82ca-c0b227f454a8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d379ee25-5f0e-4e84-8392-a8ac7e834d53/1/256
