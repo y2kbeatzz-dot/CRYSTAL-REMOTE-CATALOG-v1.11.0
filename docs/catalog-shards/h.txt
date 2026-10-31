@@ -4931,7 +4931,7 @@ hank v2|ST4TKORE|usr_30efa512-6c55-4587-90e8-9db15e2b1af9|avtr_65bade19-f695-497
 hank.jpg|Bloxi|usr_e93a6ce1-d6c5-413a-b764-18baa6342cad|avtr_2d40fea7-56fb-435d-8992-6425847419ca|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d2a2872d-f6fd-4a6e-91fc-95c9c648b41c/2/256
 Hanka|EbiSloth|usr_5f784f3a-aceb-4e29-aefd-5f577dea8dad|avtr_3ac4d63a-9cf5-4f61-a4d3-d76ea40ccda6|VRCNDb|PC|
 hanka 0․4|Raziell|usr_b83d0f46-3f03-414b-96f9-988b96230130|avtr_2aa4ca7b-b0ef-4f77-b4c0-9f1265e3b363|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c9df02bd-6674-4bd3-908a-2d1d2a68815c/1/256
-hanka ft rt 2|ღᴍɪɴᴛღ|usr_8a3737f6-adcf-4041-b738-cce1a8721867|avtr_c10b8d5b-56a8-4e45-9136-bdc91c76b50b|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b0288250-662b-49a2-ae76-934d9899a341/1/256
+Hanka FT RT 2|ღᴍɪɴᴛღ|usr_8a3737f6-adcf-4041-b738-cce1a8721867|avtr_c10b8d5b-56a8-4e45-9136-bdc91c76b50b|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_b0288250-662b-49a2-ae76-934d9899a341/1/256
 hanka secret agent|ThornsMary|usr_d14a42ab-e364-472c-a0ec-ede25bb6b943|avtr_fdb005e9-a1f2-498f-90e5-ab736cb6635f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d930ecf9-b13a-41f8-8fea-6c9d786b38d3/1/256
 hanka sfw v1․0|olliestd|usr_3625e006-cd2f-4429-b8e0-13faec52af46|avtr_dc5446a0-1c81-415a-889c-ac9000e7e42c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c166d022-eb17-4879-88dc-d914c60b18b3/1/256
 hanka trial|NirvanaExist|usr_b769efaa-93fe-4c80-bab7-9ba755c5b401|avtr_e10edda3-27ff-4d99-a4e7-65ce591e1b83|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_127611e9-348d-4fb3-9f14-81f98943d06c/1/256
