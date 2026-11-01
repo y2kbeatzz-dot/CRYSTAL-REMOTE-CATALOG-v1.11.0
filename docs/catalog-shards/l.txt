@@ -2454,7 +2454,7 @@ crazy jr|LeviatTV|usr_5f5e2bc8-9050-4a64-bc6e-79a93774cc52|avtr_d280aae6-0d21-4d
 crazy／master hands|--LonelyFox--|usr_82b93b8d-eddf-4dea-af64-d36c1d9fa908|avtr_019b9b7e-602d-48e0-af9e-7bfc1e111f6d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9e690399-68aa-4643-8d0c-22a095becf69/1/256
 crc 221 wolf|~Levy Vizsla~|usr_f82ef6c8-3b65-47ca-8310-150c4d1181ba|avtr_9eebc55e-194a-4998-93f2-bee1a7ac3a35|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2662d292-a29a-4366-9e9d-472f62e9babd/1/256
 cream soda cookie|LavAriz|usr_4e82757a-eecd-4d4f-ad92-e0c499dda226|avtr_5c2880d2-eb2b-4fa3-ac29-2d6b4370978a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_13e7ba76-d55a-4ec2-a806-5102012476cd/1/256
-Creeper|Luigі|usr_ee83443e-afbe-4523-9326-c1e96373e21a|avtr_02210ce2-50d6-4c50-a3a4-576541d53169|VRCNDb|PC+Android|
+creeper|Luigі|usr_ee83443e-afbe-4523-9326-c1e96373e21a|avtr_02210ce2-50d6-4c50-a3a4-576541d53169|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_6d32f5c3-659b-46ee-9589-dd345274527f/1/256
 creeperdude445|LifeSecrets|usr_5a3c4707-041d-4827-8b17-a8daabb9d00b|avtr_f0d40ad2-5c46-4dfe-803b-bf47c8688b19|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9664b88c-f8db-4096-856d-fb220aa3ab1f/1/256
 crewmate|Little Nya|usr_e6141cb3-aedf-43c8-81c4-456921a46f07|avtr_60303bb8-bda2-4ba7-a2da-9d88333f9518|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3a05d2ef-b286-4b45-8e8e-662c19ee4eff/1/256
 crewmateǃdanksigner|LowPolyBunny|usr_36ed6438-14af-49b7-9787-637dd7b2d48e|avtr_abb8670a-96db-4d59-ae2a-facdc696f85b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2a7dc5ee-7271-4b1b-a262-227fe01aa1a2/1/256

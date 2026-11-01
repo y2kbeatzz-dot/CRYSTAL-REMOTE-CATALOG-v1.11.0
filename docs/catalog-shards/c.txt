@@ -5071,7 +5071,7 @@ carl “cj“ johnson|Kinchee|usr_e8920b7f-626a-4a8c-a6b6-f390865c1ff3|avtr_308e
 carl “cj“ johnson|Kinchee|usr_e8920b7f-626a-4a8c-a6b6-f390865c1ff3|avtr_99e03294-5a88-4f12-a35f-11986dfa08e2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a0b39dd2-b7d6-47ce-a99d-864b9c8244f7/3/256
 carl ＂aiden＂ beckett （spirit hunter）|WujuDancerXP|usr_a45409c0-94c0-4a17-8e4d-1a6eaf826684|avtr_ed84f1b3-78a1-4213-908d-ec9683c51960|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7775f290-31a3-4c40-9296-55fc9ee7e593/1/256
 carl ＂aiden＂ beckett（problem solver）|WujuDancerXP|usr_a45409c0-94c0-4a17-8e4d-1a6eaf826684|avtr_3eab3c0f-2949-400e-b299-6ce51898a235|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_287e24c9-0663-42d6-a629-bd72489df449/1/256
-Carl ＂CJ＂ Johnson （Grand Theft Auto˸ San Andreas）|Ａｎｄｓｔｅｒ|usr_96872a54-628b-4ee3-a4db-efd3df0431ba|avtr_31a9c813-e798-4bdc-af8c-717115e108ee|VRCNDb|PC+Android+iOS|
+carl ＂cj＂ johnson （grand theft auto˸ san andreas）|Ａｎｄｓｔｅｒ|usr_96872a54-628b-4ee3-a4db-efd3df0431ba|avtr_31a9c813-e798-4bdc-af8c-717115e108ee|VRCDB+VRCNDb|PC+Android+iOS|https://api.vrchat.cloud/api/1/image/file_04b077bb-01be-40ce-9e14-659204c13be2/2/256
 carl （pretty blood）|~HoneybearVA~|usr_1cc650e4-53d8-4765-a435-682d09b0b0ae|avtr_5cc8f02b-6303-4b50-9c71-44d120f07f67|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_237bc237-e005-4c44-a9d6-61263ce3519a/1/256
 Carl ［ Welcome to Happyvilleǃ ］|『BinaryCødex』|usr_20cbe266-fe85-49ef-94b7-2f5d70ea871b|avtr_0a536368-d79e-450b-974a-a46ac0caa8c7|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_d2386f21-b313-4b27-8d7d-a5a3fceb897d/2/256
 carl ［kindquest］|SlimJim9000|usr_d258322a-3775-4199-8c9c-ee5f1902b357|avtr_0a021579-c372-48a1-bd19-a59f18845697|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e7d3513f-a84c-4d61-9b9f-4334a8798902/1/256
@@ -19147,7 +19147,7 @@ creep|mаnagarmr|usr_1a0cf485-4c3b-4a0e-b9a1-8fdb1f1c2720|avtr_41551771-c630-428
 creep|Krdzex|usr_5d48abbe-d208-4f65-9634-1e51b5d85ffa|avtr_fed31644-5c23-4f50-a70b-6f3b806342e6|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6a5b4a5c-d8ab-4bc7-8056-d8062603e968/1/256
 creep-p monstah indigo|-Siren-|usr_ce5a524c-4273-4ce9-959f-763b8c5a6cf9|avtr_73c2a5fc-f4c5-4c8c-97a3-22d4d3aa7857|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b821f900-7d01-4fed-9daa-95aee0211197/2/256
 creep_final|The Creep|usr_421b0302-44d9-4ff3-9d4d-d19363e184f6|avtr_21254cd8-9658-40ee-825f-827aa567b581|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_906e318b-d6ed-4770-83de-6d078e993bef/1/256
-Creeper|Luigі|usr_ee83443e-afbe-4523-9326-c1e96373e21a|avtr_02210ce2-50d6-4c50-a3a4-576541d53169|VRCNDb|PC+Android|
+creeper|Luigі|usr_ee83443e-afbe-4523-9326-c1e96373e21a|avtr_02210ce2-50d6-4c50-a3a4-576541d53169|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_6d32f5c3-659b-46ee-9589-dd345274527f/1/256
 creeper|bryan665|usr_33e1dbd7-afa7-4767-b798-c489a011b999|avtr_ba04dd13-6e42-44c7-91cb-3a430432b40f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0a8af53c-4ce3-4f50-9890-f0e60ce7a4d1/1/256
 creeper|Turret09|usr_919f10cc-6854-4f50-80ef-24b0c66478b1|avtr_ed5d4a5e-3cb3-4921-a682-d15cc878ba60|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d3e710dd-1d02-4867-99f5-2c4304ce161a/1/256
 Creeper AW man|AcidVR|usr_e37fc224-400c-43b1-b289-6e735cd546b7|avtr_004f2a56-50d0-4a48-ad80-6c1e079abc1f|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_8c71b679-f564-4511-9416-c38f81e173fa/2/256
