@@ -3235,7 +3235,7 @@ dusk （kh）|Leon Fireball|usr_2a5f82c7-2984-48db-98a0-5c5314d5262a|avtr_b97da6
 dust tale sans|littlestjeff1|usr_3d28dab2-f4ce-4168-85c6-a1e6138a8b1a|avtr_76e1f17a-9ebb-4255-ab97-aa2eb40f7ea0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b88e5ac6-9abc-4eab-821a-1a0741111036/1/256
 dutch van der linde|LemonadeCan|usr_b8caa565-8b6a-492c-a33c-ec191521ad7f|avtr_1c44a06e-73f7-4862-bd7e-0bc31faf71e2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_be0e1813-b073-465c-9378-39da82da3c0a/3/256
 DVA Mark II|Lacrox|usr_70f553df-4f59-43d5-9994-12c251c604a1|avtr_accb75d3-4f10-4c70-9b53-7aa3f8ff2f73|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://s3-us-west-2.amazonaws.com/vrc-uploads/images/image_1200x900_2017-12-25_21-23-21.png
-dva overwatch|Lunar_flare|usr_0d637c26-8827-4470-9540-87922cb10a9d|avtr_bb5c9955-7c09-4780-ae82-5aeb93fedcad|VRCNDb|PC+Android|
+dva overwatch|Lunar_flare|usr_0d637c26-8827-4470-9540-87922cb10a9d|avtr_bb5c9955-7c09-4780-ae82-5aeb93fedcad|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_7a24c4da-1e03-4df8-b83a-ac55b04d165b/1/256
 dvdv|LyaSenpaiMMD|usr_6c5f0631-8d4f-4b5a-8e21-5f99ceb2fd0e|avtr_9b024e98-38a0-431f-8eea-183183b44acd|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_416bb3fb-8b42-47d6-8cac-ab5147595b13/1/256
 dvlmikufix|lesriant|usr_e4d5c2cc-759d-472e-879a-dca2f81ee5f4|avtr_98668aaa-d71a-4bc6-9dfa-41353d5223ae|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6a4f58df-8415-4113-bf24-8909b4e467db/1/256
 dvs|Llamalicker|usr_a2cb91ec-b0d5-4341-9d6b-c96aaa686571|avtr_61d1d8c5-ecee-48f0-84fd-f67f3a4e1af0|VRCNDb|PC|
@@ -4050,7 +4050,7 @@ foxs loli with a sword|lordfoxworthy|usr_d9d46f59-b490-4bd5-b464-7604128db0c0|av
 foxs monster|lordfoxworthy|usr_d9d46f59-b490-4bd5-b464-7604128db0c0|avtr_b5431fb0-df92-4239-b26c-9bdbaa47a0b5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8b11e62f-a973-49a5-bc27-82e96708864b/1/256
 foxs warrior nanachi|lordfoxworthy|usr_d9d46f59-b490-4bd5-b464-7604128db0c0|avtr_2e075e63-5f29-44aa-8532-5885999a94c7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_5b21334e-9292-4b7c-93f4-4c78f047b85d/2/256
 foxs wolf boy|lordfoxworthy|usr_d9d46f59-b490-4bd5-b464-7604128db0c0|avtr_75442b72-582a-4281-a78d-6db4fad754c7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7c2e74c2-9454-4e66-82e1-01a133e8b202/1/256
-foxv1.4 rw|LANORIA|usr_65b262cb-17b8-4316-865d-d8a207bb12fb|avtr_ad312079-d36d-49f5-a2ff-321538f39499|PAW+VRCDB|Unknown|https://files.vrchat.cloud/thumbnails/3327994018.thumbnail-500.png
+FoxV1.4 RW|LANORIA|usr_65b262cb-17b8-4316-865d-d8a207bb12fb|avtr_ad312079-d36d-49f5-a2ff-321538f39499|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://s3-us-west-2.amazonaws.com/vrc-uploads/images/image_1200x900_2017-11-19_02-29-03.png
 foxv2|Lundyy|usr_8f8b51ef-c321-45d7-87f0-d7173f49549c|avtr_2e03ab3d-2979-4967-a34f-09910d0296ef|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_81b10c67-b0a4-49b8-8bc2-b5ae5f0cc5d6/1/256
 foxworthy|lordfoxworthy|usr_d9d46f59-b490-4bd5-b464-7604128db0c0|avtr_7761cbee-ad55-4e75-81f8-f0c1d3e20b39|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_052f4b64-66f8-41fe-9464-baaa615a91f4/3/256
 foxworthy plush|Lᴏʀᴅғᴏxᴡᴏʀᴛʜʏ|usr_d9d46f59-b490-4bd5-b464-7604128db0c0|avtr_0fb6aa93-4bc8-4476-a13b-5e1e082f52f1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1f74cecb-89ac-4f49-840c-77e289f3b01e/1/256
