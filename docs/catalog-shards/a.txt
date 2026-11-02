@@ -15642,7 +15642,7 @@ asd|ToppyTopsit|usr_8834b278-208b-48ed-baa2-a8c91e2ed6ef|avtr_73c81bdf-9605-4757
 asd|bsklld|usr_4a0f015b-a432-4d54-b4d0-c3a03a1d24be|avtr_7bfc4700-8eb8-458c-90ba-ab5668676302|VRCNDb|PC|
 asd|BPlcaz|usr_2fb96237-f6be-4091-969c-17dc58c68be9|avtr_bc73f019-048f-4f22-8fcd-811c8e6dcdf2|VRCNDb|PC|
 asd|salad202|usr_5fde4c12-4d84-4982-ade9-5b73f7e006cd|avtr_e0207aca-f5d4-4830-bca6-39176a63dbc0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6d3249ee-524c-4a13-b45d-afa6e795a3ea/1/256
-asd sa tyhsergzlkg;s|WOLFIE_OG|usr_560474e9-fb27-47ec-9efc-2a441232d277|avtr_e3eac902-be18-475f-b579-df7bd70af455|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8163a590-e462-4feb-a6e5-a551c6b17e6d/1/256
+asd sa tyhsergzlkg;s|WOLFIE_OG|usr_560474e9-fb27-47ec-9efc-2a441232d277|avtr_e3eac902-be18-475f-b579-df7bd70af455|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_8163a590-e462-4feb-a6e5-a551c6b17e6d/1/256
 asd123qwad123|GrimLord|usr_887cf01d-febd-4465-983c-e8cfb50d22c2|avtr_28f85cdf-0e92-49f6-b812-109d413b124d|VRCDB|Unknown|
 asd47|Øtȧkaƶẹ|usr_7145ba34-957e-4a6c-92e5-bf393cc04c05|avtr_2b241e79-4f4e-4337-906c-f8a0e4a967a1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c417dcf2-bb83-4daf-b12c-c9ada309f418/1/256
 asdaaaaaaaaaaaaaaaaaaaaaaaaaaaa33223232323|zluni|usr_a121bea7-c189-4710-9d07-6c22b2d1a616|avtr_cd2ab60f-c283-43c6-bdf8-d0eff3d12a18|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_85562940-8ac8-4d23-a79a-c342e39a97de/1/256
@@ -32605,7 +32605,7 @@ SASHA VR|ACQINU|usr_363cd3d4-c81b-484c-8044-ba062aa51438|avtr_c68ccb64-1cd5-4c04
 saster mod bfǃ （vs saster）|ArcyThePuppet|usr_6d611248-842e-4270-886f-b9d9b4b10812|avtr_a9d4339f-785b-4e9c-b344-756126728124|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1aa9401d-cfcd-4660-b6f4-45631afe9ac0/1/256
 Sasterǃ （YOOO IS THAT SASTER???ǃ）|ArcyThePuppet|usr_6d611248-842e-4270-886f-b9d9b4b10812|avtr_2c23a8d5-8b9a-48ff-ba8c-f2656e6667b8|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_9d26db3e-aba1-4334-8b2d-97e594f6de77/1/256
 sasuke uchiha|AlzOfficial|usr_7818a05e-23ea-4f13-9875-435f08815721|avtr_59b99378-cd6f-47c3-944c-6bb5a8842a36|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d83211f6-3c5a-4455-816e-29db6e0386c3/1/256
-Sasuke˸ Final War|AquaTheShark|usr_d95c5e90-3a9f-491e-8f65-fe24b6fce4fe|avtr_7e9ff7f1-eaa5-4158-8d59-f71ea81b07a1|VRCNDb|PC+Android|
+sasuke˸ final war|AquaTheShark|usr_d95c5e90-3a9f-491e-8f65-fe24b6fce4fe|avtr_7e9ff7f1-eaa5-4158-8d59-f71ea81b07a1|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_5edca751-3948-4c94-bb4e-2c7cf240d5c3/1/256
 satania|Anime is real|usr_4b643430-496e-49eb-b030-b244e56b3904|avtr_64f7d637-c85c-4c6f-a129-e10c3aee2dce|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_75764693-1a6f-458e-acf3-e6fd7226b7dc/1/256
 satanic grinlin|AndGoodbye|usr_ef006710-8f55-42a3-8e1a-840912e81233|avtr_629f55a8-7919-4471-b421-8548c1104e4b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6f8f99b6-dc82-4ddc-b79e-f03b9b581e5c/8/256
 satanichia kurumizawa mcdowell|AquaWolfGuy|usr_d6076165-26d9-4bbd-ab8e-6062f8487b5b|avtr_0624715f-43b2-442c-bb2d-be5195013930|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7042e376-5966-437f-9153-838a52f9cf3a/1/256

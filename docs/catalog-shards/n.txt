@@ -2718,7 +2718,7 @@ dbfzbasevegito|none|usr_89ca2742-ae8b-4e20-bf40-b0a49174bc89|avtr_b34ec679-8c2b-
 dboy|N̶Z̶L̶|usr_6f2ed791-0104-477b-9ec7-5de4a24091b7|avtr_275227e2-d9f1-41f4-89d7-f5825d3f29b7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4e24e344-6643-4f33-95b3-9b763421f1f0/1/256
 dbs vegeta|NotAKnitter|usr_ae92045c-0f8b-4207-85d9-b1cbf8b0dd90|avtr_9bdeb9db-2779-43dd-acd9-e4449cdcabbe|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8389e400-0271-4922-8bca-ada97df201a9/1/256
 dbz bardock|Niliouz_Caghe|usr_73814993-d911-402a-9947-3e6336dfc47b|avtr_1835c731-77de-409b-89a2-2f2bd570284d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e0673f77-d165-44e7-96d9-8180c341b0f2/1/256
-DBZ˸ Buu Saga Vegeta|NewEras|usr_ceb9d1ad-7121-4e40-82b2-7881591fadf2|avtr_e048f007-e7a0-4948-bff9-3fb1d737156d|VRCNDb|PC+Android|
+dbz˸ buu saga vegeta|NewEras|usr_ceb9d1ad-7121-4e40-82b2-7881591fadf2|avtr_e048f007-e7a0-4948-bff9-3fb1d737156d|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_bffec846-db69-45f5-a6e0-9188b6990a0b/1/256
 dc comics godzilla v2|Night_shade16|usr_adf9c061-df05-4113-bfcb-309895bae07e|avtr_a6113003-21d3-4a4c-8718-77e3c3046b24|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_24ae4e6e-1521-4a9b-a8d1-9eb812febf39/1/256
 dd|Nyakoh|usr_84afbda7-d9d4-4a8a-bbf6-4105af3b3b23|avtr_6cee6a2f-34e4-440e-bc69-1d26f0f68ba6|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_470e894f-6ad6-4d48-be09-3fad0615d5f7/1/256
 DD Neck Snap|nikm8|usr_21eea5dd-285b-4cc3-b26d-1e2d21664362|avtr_72ee41c9-1f4a-4d89-b6de-252732b90d8a|PAW|Unknown|
@@ -5612,6 +5612,7 @@ kda ahri|NeonRaptor|usr_dbc64be4-7438-4a3c-a605-ac1b26021530|avtr_99381267-2692-
 kda ahri|nekles|usr_efa25543-e9c8-48f2-891c-ac98fb13ca93|avtr_f83c659e-b10c-449a-b63e-b834e9c264da|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4a3f9803-9d82-4333-9da2-bc87f38e7224/2/256
 kda angel|NoOneCold|usr_401683d4-c3f8-40c7-981a-9a911d3216f0|avtr_c8c66a51-4ec6-4f9f-9e8e-95b011a44003|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_30b0d507-f573-434b-ba7b-0ce8fb9fe766/2/256
 kda evelynn|nars290|usr_893d6064-e8fb-457d-b55e-45d7fd765f46|avtr_fa8fe3e6-90d6-4054-81fe-51e2ddd4948c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_31f94947-c462-4cbe-aac4-ba20ee27c0aa/1/256
+KDA Kai'sa|~N0N0~|usr_15943fb2-2bc9-4ae7-9113-48f4544fe85d|avtr_757b176f-e437-4174-a37b-eb3732709d4a|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_f9f16940-1c81-4391-88de-8247f26692b2/1/256
 kda miko|Neo_A|usr_1b7e464a-c197-4a7a-aa6d-331251d00559|avtr_96778c82-b750-454e-ad9b-fb93481f317b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e16ca5b4-96da-4337-be33-cd157e5d944a/3/256
 kda prestigious kaisa|nekles|usr_efa25543-e9c8-48f2-891c-ac98fb13ca93|avtr_d73d6ba1-b398-4cba-a015-91e2ec2c6f61|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_67f9b6a8-9ace-421c-8546-9700de3e25fa/1/256
 kdatest|nars290|usr_893d6064-e8fb-457d-b55e-45d7fd765f46|avtr_aca6b7fa-6e1c-4291-b3f2-a391051ba124|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b69ffe2d-f127-4bf1-8c00-4ee9ecf59545/1/256
@@ -21154,6 +21155,7 @@ super tall remnants armor|nsx|usr_99dcaa1a-bc76-4722-8a0d-ca0d9480eb5e|avtr_d669
 superman - dc|nxlann|usr_c0188ce9-3dd5-4979-9de3-21332d6d9713|avtr_509cd0b7-9fdb-4407-8ad0-621c62151527|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0c45df98-8dbe-42b5-87fa-c07fdfea368c/1/256
 supreme noxx92|Noxx92|usr_52b0afce-cc93-4d85-8e56-6809a7424cfb|avtr_4dbc228f-ad62-4c41-befc-3d8822b36d9d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9246d6b5-0ea0-4aa2-814f-0d06a8a83f2d/2/256
 supreme noxx92 big|Noxx92|usr_52b0afce-cc93-4d85-8e56-6809a7424cfb|avtr_98c9bbb7-6a0b-489b-a199-4c14ae4f0019|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_68c27276-25ba-454a-a622-1c7234a0d5d8/1/256
+susan woodings v2|ʚ Ɛnzø ɞ|usr_31c7b382-9b3d-42f7-9deb-eddc08f5b2ae|avtr_8334cf58-7564-4dd6-8a69-53f1ace87ce2|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_0eeb43b6-7b2f-4bc7-a804-859622167c2e/1/256
 susrex naberius|NaberiusGoetia|usr_6bc71120-237e-4ffa-876c-4478f130aba5|avtr_2ae3e305-23cf-4416-8256-2f5b897f0a1b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8f06ec31-c583-4adf-93bb-d70b6ba43c46/7/256
 susx|Nilynx|usr_1d17e2c4-b35e-4b26-b423-9e15ac16bb91|avtr_a59469ef-490b-4a4a-a7ad-27dc3ce85f17|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_50c968bc-bfc0-4f0e-9592-6662dd450c20/1/256
 suu|🔪₳nya🔪|usr_71bbb39c-a8ba-4793-b167-8cf46710e24a|avtr_6352fd52-2577-45db-adda-37f6f390fee1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c61c5809-226d-452f-b993-45a409555b88/1/256

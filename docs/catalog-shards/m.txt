@@ -40505,7 +40505,7 @@ sakura（sfv）|MissingNo․000|usr_31f9210b-8d8f-4e23-a0ac-37a4b13a7a92|avtr_33
 sakyu|MilchZocker|usr_43f22c8e-1ec8-408c-9b5c-393975e189f4|avtr_f8334323-2bb6-4839-980f-e3097cd2c7f2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_def48e8d-48ab-4ad9-992f-1e436f882346/1/256
 sal|MrTakeThatRisk1|usr_f30c67b9-4392-499f-99a0-c5fc0d8e07a5|avtr_63c2d2fe-76dd-4f6c-aa7c-199b75a5e7d8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_89c185ab-9860-4c24-8d76-fcb3e3e17f3d/1/256
 sal fisher|Monospace|usr_ba93fdd7-c102-4d9e-a931-4df3c3d87371|avtr_baac1d5e-98d3-4656-ad58-ca4faf1e5f44|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_cdaeccea-3dda-4c73-acd2-b46aab03687e/1/256
-Sal fisher （sally face）|Maxineplayz11|usr_08a10878-5702-48d3-acf1-19dfe2e1a4d3|avtr_b51edb58-6541-40ca-afcc-56e440e6d97b|VRCNDb|PC+Android|
+sal fisher （sally face）|Meloplayz11|usr_08a10878-5702-48d3-acf1-19dfe2e1a4d3|avtr_b51edb58-6541-40ca-afcc-56e440e6d97b|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_54274b43-f69f-4c4d-a17d-723955b75430/1/256
 salamander librarian|Mr Malchow|usr_14b0927e-4917-4fbc-b06f-441e6dff5137|avtr_4670fcf7-8cce-426e-bcb2-af6dfd86f39b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f69dc338-17d4-4560-b8c9-efa0de203c91/1/256
 salamander redemptor dreadnought|-Moon Runes-|usr_12366fc2-bbbc-41cd-807a-afc2f9f13ad2|avtr_0ca26ac6-492c-41dd-b8cd-1407b5909bbe|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_076771de-7b44-4829-91a1-189deb167672/1/256
 salamanders assault|Mr Malchow|usr_14b0927e-4917-4fbc-b06f-441e6dff5137|avtr_acf21063-1dbc-41b1-a20f-d6c3a347ca85|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1d73f3c9-a447-44d1-afb3-805e009dc7da/2/256

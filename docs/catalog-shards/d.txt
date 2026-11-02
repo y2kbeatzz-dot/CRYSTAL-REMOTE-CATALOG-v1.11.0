@@ -7381,7 +7381,7 @@ dbzgod2|Sayato|usr_e4763edc-fca9-4e30-b139-957bca39db5e|avtr_53ddb91c-c928-4f57-
 dbzknuckles|DarkIQ|usr_68541b23-d6e5-4d85-8c64-c1099e3ee30f|avtr_f0900457-fc76-48fb-9c36-416bac9296ae|VRCDB|Unknown|
 dbzmonster|QueenOfMurlocs|usr_2e3159fe-41f6-4339-8737-8ea6b8f0065f|avtr_cb387d65-ccd2-4d07-99a6-12c9fe46c87f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4cd99977-8199-43f9-b679-7ceec833f613/1/256
 dbzz|depressed dog|usr_fc78b41f-6d1d-4e76-9f98-e46152e3beeb|avtr_c3b17c18-7fc6-4584-9809-e37e42530164|VRCDB|Unknown|
-DBZ˸ Buu Saga Vegeta|NewEras|usr_ceb9d1ad-7121-4e40-82b2-7881591fadf2|avtr_e048f007-e7a0-4948-bff9-3fb1d737156d|VRCNDb|PC+Android|
+dbz˸ buu saga vegeta|NewEras|usr_ceb9d1ad-7121-4e40-82b2-7881591fadf2|avtr_e048f007-e7a0-4948-bff9-3fb1d737156d|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_bffec846-db69-45f5-a6e0-9188b6990a0b/1/256
 dbz⁄dbs shadow|Mephelis_Fleet|usr_5b5bc311-cc4d-4426-aa19-7d2611b5fa67|avtr_1dd3b502-ed98-4a53-ac51-a821b80c20a4|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_51074622-5b28-4501-9523-6bab17b6582d/1/256
 DBZ⁄DBS SONIC （OLD VERSION）|~AzarFlameQA~|usr_7a7c4966-5332-4206-82b1-dba9b8cc3138|avtr_ece3be25-1cca-407f-b6e3-70a33b9f6b59|VRCNDb|PC+Android|
 DB˸GV - Gohanic - Meme Edition|MarioBlade64|usr_113da642-a89f-4797-a3d1-fca6561e33ea|avtr_8ea9368f-2a13-4411-b397-dea4f22681c5|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_19241667-6502-44ad-a05e-b31e40fa9f1b/1/256
@@ -9293,7 +9293,7 @@ Del ny|FemboyDeltaVT|usr_06cedd1a-e8a1-4b93-ad70-47b9d88897c9|avtr_e76f12d1-79d3
 del'fi|rushlightremedy|usr_ddcae2e6-3e75-47f5-9524-25dc1ac78085|avtr_447021bd-75b4-4fc0-b5c1-966f352a7e78|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b4a41e8b-977a-43d3-9547-7ea95148e7a4/1/256
 dela cruz|DustieB|usr_69c65ae5-f7a1-4da2-bbc0-fd3d9ce53164|avtr_85fec10c-e68d-42f9-a209-b3909745ad97|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_aa98ff0c-836d-493a-ab66-21fbd414a9c0/1/256
 delayne ; by dumsavvy|DumSavvy|usr_a82b3109-800f-435b-b95b-a97e7c987936|avtr_1baeba0e-2e75-44a6-9a51-bcb0e84cb883|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_76f5e674-f7e9-425f-8882-cbde32571903/1/256
-Delayne ; By DumSavvy|DumSavvy|usr_a82b3109-800f-435b-b95b-a97e7c987936|avtr_a7da23d2-a913-4c4c-b1ba-9a156689cd46|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_5feef81e-d4e2-4ee0-86d1-abe3a97893d6/1/256
+delayne ; by dumsavvy|DumSavvy|usr_a82b3109-800f-435b-b95b-a97e7c987936|avtr_a7da23d2-a913-4c4c-b1ba-9a156689cd46|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_5feef81e-d4e2-4ee0-86d1-abe3a97893d6/1/256
 delbert|Fanbro|usr_ff70f367-ed1d-4545-b7a9-a43219cc2efa|avtr_d4edb9a2-8e95-4318-82ab-9848b8d1be97|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f102962e-89be-49d4-8fbc-f6201f044165/1/256
 DELBIN 1․0 FBT PC|Sobek175|usr_3045743e-ac21-4937-9127-b04aedc1db23|avtr_5d1778a4-0019-40ee-aa9b-2148dec4a425|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_d9d06f3a-2131-4fb1-8405-5e4e87e9ef25/1/256
 delbytest|-Savage-|usr_841b6a89-d6c7-41aa-81d7-fe941d79671d|avtr_64b1f032-1e07-4a94-b544-6b4bfe49c760|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e655ac75-2d6b-47e0-ab48-e969c0ad41b1/2/256

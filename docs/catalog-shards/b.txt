@@ -25419,7 +25419,7 @@ kcalb|Buraido|usr_eee1c180-b298-4204-b386-86363b36e346|avtr_c3dc92d8-8625-4926-b
 kda ahri|BlueHydraz|usr_a4547be6-7ba1-43fe-905f-e0afeae995db|avtr_682a7e2f-44dd-4f71-ac3f-f43f21bce471|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f7a2ffbc-2699-40e1-bf5b-f39182a29d7a/1/256
 kda ahri|Brakus|usr_6c91361f-b5cb-407e-9035-3ecb5c78dd96|avtr_b9bf7c14-58ec-430a-a2a6-08e81d482311|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c99cd9bd-1e07-42cb-8909-ea40e6fb1eb8/5/256
 kda ahri|BlueHydra|usr_c46525da-2bf0-4270-bf17-1cee0e79170d|avtr_c1fbdab4-119f-4129-be9e-2efeff965c0f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_075d9760-d40d-466d-ac26-a8d499d68a43/1/256
-kda kai'sa|BlueHydraz|usr_a4547be6-7ba1-43fe-905f-e0afeae995db|avtr_baa0e145-e9c4-46ec-9e35-4ccea7c2fc9a|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_159ebdaa-28d5-4de2-a801-371bfb67820d/1/256
+KDA Kai'sa|BlueHydraz|usr_a4547be6-7ba1-43fe-905f-e0afeae995db|avtr_baa0e145-e9c4-46ec-9e35-4ccea7c2fc9a|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_159ebdaa-28d5-4de2-a801-371bfb67820d/1/256
 kda prestige akali|BlueHydraz|usr_a4547be6-7ba1-43fe-905f-e0afeae995db|avtr_ffd14d48-202e-43d9-8c5d-228d5c98cf26|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7738fe32-b22e-4c01-ada6-15f0cad9e935/1/256
 kda steve|BallisticSparta|usr_eb4d4681-bc6b-45d1-8e09-93685ec41986|avtr_7e1913f5-1887-4009-bd5f-aea57ca84814|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b7df428d-9d7b-4d52-8b39-277853d08547/1/256
 kdel player|BrandonNlewemYT|usr_1fba30e2-d46d-4ceb-bbcf-073bcc5e8209|avtr_251d40a4-e25e-4ecf-b42c-9d6c410346d8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d5c6c4ed-1e21-42a8-8a34-76e935848615/3/256
