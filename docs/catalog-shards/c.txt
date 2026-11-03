@@ -11236,7 +11236,7 @@ chocolate cookies|-Nep Nep-|usr_4d1ceeef-6902-4431-aa85-6aba6e2fd65c|avtr_405af6
 chocolate covered strawberry|Papa Realiest|usr_57e55114-dbdd-4818-ac46-a4948c3fe753|avtr_cfd0050f-7c9c-418e-9507-ae252494366e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d49c4353-b882-410c-899e-5253617182cf/1/256
 chocolate destroyer|ᴺᴵᴷᴼ|usr_b3b6e468-7ac5-4288-abb0-919f6fb88221|avtr_5695482c-eb5b-45c7-a5af-11e07654775f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_eca8cb47-3032-45fd-8756-f2ce87db83fe/1/256
 chocolate hyena bgb|rainbowmushr00m|usr_612db77b-a96b-4274-9341-38883a43f058|avtr_30645d8b-a3c2-45ce-94c0-12a9a7cba340|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d942bec7-6d09-4f1c-95a1-c600114323b9/2/256
-Chocolate ko|Honksie-|usr_57ba1eed-be17-4fc2-a0af-2bfe7fcbb0bf|avtr_4fef6f87-b8d2-4170-8741-051a18f680b6|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_9c38690e-ee67-4e97-b39e-74179da3dfcd/1/256
+chocolate ko|Honksie-|usr_57ba1eed-be17-4fc2-a0af-2bfe7fcbb0bf|avtr_4fef6f87-b8d2-4170-8741-051a18f680b6|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9c38690e-ee67-4e97-b39e-74179da3dfcd/1/256
 chocolate ko v2|Honksie-|usr_57ba1eed-be17-4fc2-a0af-2bfe7fcbb0bf|avtr_f9d6c40d-7694-4fab-86d1-6ea145e8e625|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8f4effaa-9fae-4879-a915-bdfc667bdbe6/2/256
 chocolate milk|Jack Wagon|usr_a535eb0b-82ca-413e-8ee3-dda5424f8fac|avtr_496000ac-5e14-49f7-9e0c-53ec63409f61|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b886cfb1-5cc2-4253-9429-811f63436e31/1/256
 chocolate milk|SteadySniper|usr_e84adfe4-0bff-4569-9a8a-02089d448569|avtr_adf3cb68-55bc-4d04-86b8-03e34531fa86|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ae09909e-3bd9-4ed0-afc1-046a334963a2/1/256
@@ -39455,7 +39455,7 @@ zager love hq|Camooo|usr_76592790-2c85-493e-902d-6fd0021fa62e|avtr_6289eebf-3932
 zager love humongous|Camooo|usr_76592790-2c85-493e-902d-6fd0021fa62e|avtr_158ff2e2-5b55-4839-b072-668c18e720fd|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c7ff7f78-e357-4519-b78c-420018156c1a/1/256
 zagreus|CD912|usr_dc0da4e9-d602-40cd-a020-2cc2394d2569|avtr_e3ed2714-825b-4eef-ab87-924cde418a97|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2f79dc71-545b-4340-8e2e-33f1cdd58ea9/1/256
 zaiga vc|C3PO|usr_4f1466cb-8f73-4a53-bdd6-8ea3874fcd5b|avtr_6b73fb76-de61-460b-b4b2-7457a91e3e1d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3ad977b6-e48c-4afd-95cd-a73027842673/1/256
-Zak_Lm⁄Chrisbusters Art|ChrisbusterV6|usr_f30df095-4f63-4e2b-84dc-4bf5b4967986|avtr_df567699-b166-4300-a18b-f4b2866e20eb|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_1a991974-953f-431d-8157-cecb34947843/2/256
+zak_lm⁄chrisbusters art|ChrisbusterV6|usr_f30df095-4f63-4e2b-84dc-4bf5b4967986|avtr_df567699-b166-4300-a18b-f4b2866e20eb|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1a991974-953f-431d-8157-cecb34947843/2/256
 ZAKU ll|CWHalo|usr_70966dec-479e-4fad-ad1c-76dc0537cc31|avtr_e58d4ac8-5815-47dc-9789-8415bff0caea|VRCNDb|PC|
 zakv2|Cherubas|usr_afeac206-8a7b-41bc-9860-a805df35ecc7|avtr_a20d3c10-4ab4-4e11-9215-b00c271f855d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8661f8b3-a6ff-493e-8f70-0a6616900b5a/1/256
 zalgo777|¿~Cassidy~?|usr_30b7808a-7f5d-4e1e-86eb-cd7cb9d3e84c|avtr_9b7320ef-b02b-4190-a674-75becdd2aa6a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2b17fabc-6e6a-4757-9767-8b45b21a7f93/1/256
@@ -39709,7 +39709,6 @@ zǃ co-pilots ［ photogrammetry ］|CortexSphere|usr_a6f17e56-227f-4e6f-94bc-1a
 ~ ǃ ǃ crossǃsj ǃ ǃ ~|R1CE17|usr_dacb2184-1578-4174-a2f7-08d3e8a41ef2|avtr_7f09e51f-454e-4f19-a125-f3f6a4a2553a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7216848c-e28d-41d4-9a98-c0b00fcea11e/1/256
 ~ 문베리＆ 태양과일 ~|ʚ CoffeeJelly ɞ|usr_b181d11b-157b-45b0-921f-e7f8afdde7ae|avtr_f86294a4-633a-4891-bbea-2cf9c7d29061|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_71ed95ab-56fd-42cc-a1b6-ebdcede2dafd/1/256
 ~ ｛ cobalt ｝ ~|Floofybeanboi|usr_2ac0591b-1a1b-4c27-8dc7-9a4bab389fad|avtr_c4c3d7c7-e4dd-4376-8002-792134d2bec2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d28b838d-a87a-41ad-befa-c44d7dac453c/1/256
-~ ｜ fnaf sb ｜ daycare attendent ｜ ~|༺CosmicVA༻|usr_e262e987-ab93-4f14-8ca5-4e98483b7008|avtr_5c094888-b9af-4b7e-9968-17c67b15c63b|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_32d8fe21-21dc-49ba-8791-b6f4aa5c8b93/4/256
 ~?catnap?~|~_DOGPRESSED_~|usr_ee152faa-27fc-4de0-8e29-d1faf1355686|avtr_f545a4f3-9919-4d8a-be5e-3a629bc41e24|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f63e939a-e2c5-4c0e-bc27-055b5b6aef4e/1/256
 ~?cozzy lucifer?~|Claawie|usr_ca3257ee-6f90-4b54-b6f1-037027a381d7|avtr_a08d5ebe-8ea5-4e12-9c60-d0a89856d609|VRCDB|Unknown|https://api.vrchat.cloud/api/1/file/file_d7956f99-2bde-46b5-b96f-81c91434a3d7/2/file
 ~?fallen devvil~?|Claawie|usr_ca3257ee-6f90-4b54-b6f1-037027a381d7|avtr_b779c7de-bc42-4ea9-9ec5-0b6c459be280|VRCDB|Unknown|https://api.vrchat.cloud/api/1/file/file_fd7e16dd-ba69-44d9-89a9-aa4236ffe8bc/2/file
