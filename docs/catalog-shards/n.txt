@@ -17098,7 +17098,7 @@ No․18 Onyx|Violet_Wishes|usr_c7106d9b-17a0-4077-a7f6-877f992162a5|avtr_e1d7f62
 NO․2|PA316|usr_f98acc28-4c5d-4f7f-96e6-f0bc92a7340a|avtr_209850cd-01af-4624-bceb-6cebab20fe78|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_d11e6290-cfdb-4042-8be2-715f27e6c5c4/1/256
 No․21|Rаvenlich|usr_9dd8e927-fdc3-45a7-a120-298768f55d96|avtr_4d04e38c-ad24-4d03-8722-961243795a33|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_65f05d30-de7a-4cd4-b369-ca707f83b8a3/3/256
 No․21 - XXI|yoki0201|usr_931a0f58-127a-46ac-bf7d-4a87ea1de336|avtr_2da73438-004d-4c42-89d4-8b0de7a1de00|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_0bf2286f-7212-4d06-aa78-097a157c96ef/3/256
-No․21˸ Feral Scent|Ayinη|usr_2d99c511-3921-474d-b1c8-e29965bac5d5|avtr_03aa44d1-e741-4aeb-b389-46531f62cd5a|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_ed507fd6-0baa-4a1a-aa43-1ebfd153fce9/1/256
+no․21˸ feral scent|Ayinη|usr_2d99c511-3921-474d-b1c8-e29965bac5d5|avtr_03aa44d1-e741-4aeb-b389-46531f62cd5a|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ed507fd6-0baa-4a1a-aa43-1ebfd153fce9/1/256
 no․29 skull am4|tkmon044|usr_f36113d2-a72a-4391-ad05-c9987e4fb7d3|avtr_7a62c5ec-50e4-44b2-8fee-2856dc78b0c2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f801db8d-d0b4-46ad-b8b8-fb2a1b6aa7cd/2/256
 No․3|Lottie Heart|usr_f70ec9eb-6017-4491-83c7-30a773a0c2eb|avtr_01a94c85-cf51-4d14-9a2f-7fe2379cf93c|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_b57dc4b2-142c-4e0b-9fa0-248bc8b72bef/2/256
 no․30|Akzz|usr_7aa656de-fee1-42d6-92e4-9124a246fd89|avtr_50f9c276-4d57-4da4-8aef-86a2a0fc0f06|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_245e8a52-9458-4620-8761-6becca4c1547/1/256
@@ -19387,7 +19387,7 @@ psychodelic|Nep_Nep123|usr_03128e71-e332-4414-836c-d84af6c550a0|avtr_57fa28c1-58
 psychodoomv3|__Nope__|usr_b091bf12-b3aa-42ee-9c57-2566f61516f1|avtr_e5bb0168-fb85-4dce-9f18-abc8f9d77cc8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e828d3b5-ee3d-4a04-b41f-205fe523dc6d/3/256
 psyga|Novelty VI|usr_a0c76d6c-70f8-4768-9129-76bba0ff9657|avtr_abc2f5c4-a1e9-43a7-bfe1-68fbade319d7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_97181e9e-2d81-4a06-8309-171642d73831/1/256
 PT Catlotl|Nep_Nep123|usr_03128e71-e332-4414-836c-d84af6c550a0|avtr_569bb2e7-9499-43c0-ad5a-de04dc6df50a|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_07a31b9a-dbdd-4ea0-a1be-d3edec9d606c/1/256
-PT Moon|мøønłɨŧ|usr_0d472463-0104-4258-a067-ac2f0c636cb7|avtr_6f39a7dc-7f97-471c-bf8c-cb32e7d081bb|VRCNDb|PC|
+pt moon|мøønłɨŧ|usr_0d472463-0104-4258-a067-ac2f0c636cb7|avtr_6f39a7dc-7f97-471c-bf8c-cb32e7d081bb|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_4bb14f28-8f73-4e54-9366-6f8adba355e7/1/256
 pu|neimu|usr_58be51a3-4443-4672-a32b-dce6c34ba6ad|avtr_6978886f-0761-4262-b96b-c0f8369e307c|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_2632ce96-8751-41ea-8fea-07f584611f61/1/256
 pub inq|No clan|usr_bef428f0-d1cf-4c96-a61f-a529af13005e|avtr_ee679347-6000-41a5-9695-81e827bba193|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e7247c9d-c3f5-40af-a404-e950d43e284a/1/256
 public ariena spetznaz|none|usr_1cf309f6-15f2-4b4e-bcda-a98743f7d5b9|avtr_56fd89e6-f334-4e3a-a4d9-cfe1a7ada09b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ead2c7f6-9761-4c05-9390-128c373f82c1/3/256
