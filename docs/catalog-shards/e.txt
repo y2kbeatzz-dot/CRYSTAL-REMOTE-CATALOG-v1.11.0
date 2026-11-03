@@ -9004,7 +9004,7 @@ Escondan v2․09|14anthony7095|usr_e4c0f8e7-e07f-437f-bdaf-f7ab7d34a752|avtr_425
 escuadron alacran（argentina）|［Mau］|usr_9b15bce4-8448-41f2-b67a-61a68f3fd940|avtr_8df0cc1e-ffd0-4f2c-a65c-e0902a91721f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0d0a09f5-53be-4437-b39a-8925fea97547/2/256
 ESCUTE NECRO EZ|Failures|usr_8571840e-ac71-4515-baa0-ed7bcfc532f8|avtr_b049794f-0b7e-4616-9576-96707ff6899b|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_d4a16b41-7bcc-4952-841e-ab37fc71c5b4/1/256
 esd-mommy?|RratedBurrito|usr_4596e083-3ff7-4904-9448-5d1d6f565e61|avtr_729f3dbe-147d-43b3-9899-dd5e2417802a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_298ef37b-c6dc-4f32-934f-8d68828f8a39/1/256
-Esdeath|ROBBERCHIEF|usr_6ab7fb8e-ed65-4934-9ab4-96802f87ea56|avtr_03d52ad3-4f42-4f59-a50d-7eba0075838c|VRCNDb|PC|
+esdeath|ROBBERCHIEF|usr_6ab7fb8e-ed65-4934-9ab4-96802f87ea56|avtr_03d52ad3-4f42-4f59-a50d-7eba0075838c|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_8e42dd10-c1d6-476f-bc51-5ae668961738/1/256
 esdeath|KatouOhashi|usr_24d97a7f-aac8-4938-be11-2429f2fd2ac6|avtr_2a71a42c-1032-4121-84f3-a893724c5faa|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_325a006b-82b8-4d4c-a997-ed32fdf58535/1/256
 esdeath|ᴠɪɴʏʟ|usr_d36084ce-26c3-4163-abe2-f348a01cb5a9|avtr_37f652ba-7e53-4033-8bf3-f8f3a8cbf4b6|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1cf84c12-15a3-4478-81db-08911db3fedb/1/256
 esdeath|Britt-Stina|usr_edc33839-17a4-4594-bb1d-5f2ec8f527fa|avtr_3ab2661c-5938-4f4f-9006-5b7fb654185e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0c150838-4a78-4c46-801a-65a59f9f2bdb/1/256
@@ -13573,7 +13573,7 @@ marry|Ene06|usr_9b6fdf62-cd0b-4a11-9228-fefca9a54dee|avtr_5b64cdd3-5eea-4c59-b18
 Maru|EmberPhoenixVT|usr_56fc243e-55ec-4799-b841-45b5fe6a9d71|avtr_44fcfd11-c8a0-4865-9062-717077a1859e|VRCNDb|PC|
 Maru|EmberPhoenixVT|usr_56fc243e-55ec-4799-b841-45b5fe6a9d71|avtr_d0938688-4f30-4ea7-aff7-28464c8a5cad|VRCNDb|PC|
 maru_kumalybrasiltest|Eminda|usr_ad0d87f7-4008-48f2-bdc7-d537a5089b89|avtr_c77a1917-5d7c-4fb4-b374-18d6413fc547|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_97184f19-a08f-4d82-851f-892fe864b303/5/256
-marumiku068 ［sd］|E_CHO|usr_250fe7dd-c23b-4190-9d4b-c81727f54cf3|avtr_559e0a6e-1b15-4dcf-93ad-812e778bb76a|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ab400135-3cfe-475d-9035-08a4edaa7a1e/1/256
+MaruMiku068 ［SD］|E_CHO|usr_250fe7dd-c23b-4190-9d4b-c81727f54cf3|avtr_559e0a6e-1b15-4dcf-93ad-812e778bb76a|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_ab400135-3cfe-475d-9035-08a4edaa7a1e/1/256
 marvin - titanfall|༒˚ E X X Y ˚༒|usr_fde9852c-a282-4675-8fab-b902218926bb|avtr_e727c7ad-2592-45c3-96c9-49fea67d1e11|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2ce3d727-7f2e-4718-8366-dfc9dced7f84/1/256
 marx|EnderStalfos|usr_3e86af3c-3520-4b46-8f83-5ea40cdfe82d|avtr_9aefaa6f-c176-441f-8213-18ef88553d2e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c8615231-294d-4621-9586-d44c67045cb3/1/256
 mary saotome|Elevna|usr_3b4606eb-9b26-4119-9814-c55150dcb2a6|avtr_219ebb52-6df2-42ce-b55d-7f2ccded6699|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_5c93c3e4-20af-47fd-8b23-c6a37ba75a3d/1/256
@@ -13751,7 +13751,7 @@ mikotinyf|ErenshorX|usr_93472921-ba61-42e1-a587-1c042a1fe321|avtr_9a0d3adb-1304-
 miku|Elijah|usr_7a45dc4e-64e1-435d-ad7a-b2fe2ad15b47|avtr_6da78605-f03b-481d-aee6-19acd4fc7ae7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8590e214-0cb8-461b-9429-6d089a6ab16e/4/256
 miku|eckoocom|usr_56a07778-0d47-47e8-84ab-8edb9209e02b|avtr_9bdcd374-3ae7-4211-bb48-55741ccefa11|VRCDB|Unknown|https://api.vrchat.cloud/api/1/file/file_81aa9a49-3550-42bb-a1a2-327170f2a509/1/file
 Miku 01|Eugeny103|usr_2c403bdb-b7e2-452f-bdef-a89ba7e43d67|avtr_2ffeeaa1-e5cf-469a-951c-f8eabfc49ac0|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_1ab65ba0-ea6d-4963-abc0-e32f6d4a9d7f/1/256
-miku 071 ［sd‚ wakamaru］test|E_CHO|usr_250fe7dd-c23b-4190-9d4b-c81727f54cf3|avtr_49e4073a-a0bf-4990-96bc-0af6732f09fe|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a33741fa-e8de-4df9-b9b7-2f1ff70b8b80/1/256
+Miku 071 ［SD‚ WAKAMARU］Test|E_CHO|usr_250fe7dd-c23b-4190-9d4b-c81727f54cf3|avtr_49e4073a-a0bf-4990-96bc-0af6732f09fe|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_a33741fa-e8de-4df9-b9b7-2f1ff70b8b80/1/256
 miku crazy 1|Eugeny103|usr_2c403bdb-b7e2-452f-bdef-a89ba7e43d67|avtr_d28c3b2e-bfcd-4fb2-a25e-984867c1451b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3500b259-9bb1-45ae-9878-e91c30d99646/1/256
 Miku Dr Pepper|Eugeny103|usr_2c403bdb-b7e2-452f-bdef-a89ba7e43d67|avtr_58f6a3da-7c33-4f61-a984-1dd5eb06e6ac|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_7e78a795-6cfb-49d0-9b13-72cb8e9b93ae/1/256
 Miku Electric Love 01|Eugeny103|usr_2c403bdb-b7e2-452f-bdef-a89ba7e43d67|avtr_44337443-6089-49cb-b1ab-be1a593a3b17|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_d67d65d2-392a-453d-8dba-1ece2647ff16/1/256
@@ -15346,7 +15346,9 @@ scythemangle （deadlyscythemaster onlyǃǃ）|ExBelt|usr_114e8298-0dfb-4b88-993
 scáthach|eN7ity|usr_f3fa5667-7048-479f-9ced-183763128307|avtr_a8d7b466-b5b7-4c62-a723-919f5670efd0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_558c4ac8-a5f7-4d30-8b05-a99a52f9c637/1/256
 sd|無法者 e845|usr_61c3a900-5277-4c9b-8072-cbea393ee845|avtr_bd2a7107-16b5-4331-bf2a-2b721272e676|PAW|Unknown|
 sd|EdinorogIlja|usr_f9dfb2c1-24dc-41dc-b6d2-1ac4b3c27978|avtr_ceff843b-6516-4c2c-bd59-22a074429ac6|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://s3-us-west-2.amazonaws.com/vrc-uploads/images/image_1200x900_2018-01-14_16-55-54.png
-sd-cyn|EmmaTrαթ|usr_e8266acf-0a6c-48aa-aadf-4934dc7f8ed6|avtr_ea65db76-adfa-441f-8edb-ac09b83edb5f|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_eee6013a-3014-4400-b941-c2c4f0aaae8d/1/256
+SD-Creeper|˗ˏˋ Ender ˎˊ˗|usr_53af07d2-cb13-4352-9f7b-034c8bf4e327|avtr_118fb8c3-3f72-43c8-abef-fdb239a4e94f|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_d4abff01-9743-4a09-8c5e-fd2dfa700dfa/1/256
+SD-Cyn|EmmaTrαթ|usr_e8266acf-0a6c-48aa-aadf-4934dc7f8ed6|avtr_ea65db76-adfa-441f-8edb-ac09b83edb5f|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_eee6013a-3014-4400-b941-c2c4f0aaae8d/1/256
+SD-Ender|˗ˏˋ Ender ˎˊ˗|usr_53af07d2-cb13-4352-9f7b-034c8bf4e327|avtr_cf367db3-1b6f-40ec-b4d0-90a4ebabb7d9|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_bb2f2fef-24b1-4c64-8928-425a341ec18d/1/256
 sd-j hoppou|Ex-0|usr_a989a1ba-f5d7-4953-8291-92ea922dcde9|avtr_feed7f25-45e3-41ff-a71d-699286bc0f24|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8728b757-7d2f-4a2f-ba9e-d4e7935d4f93/1/256
 sd-n|˗ˏˋ Ender ˎˊ˗|usr_53af07d2-cb13-4352-9f7b-034c8bf4e327|avtr_dced2edf-5ed0-41bd-a781-1bd9b6d70c8d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a92a6f00-23aa-4871-937b-4fd36b5c0218/1/256
 SD-V Hoppou|Ex-0|usr_a989a1ba-f5d7-4953-8291-92ea922dcde9|avtr_7d00de83-d7fb-47a8-8f2e-932ccc4a7da5|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_776d3257-83bb-496b-a094-870d914af87f/1/256
