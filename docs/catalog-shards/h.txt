@@ -1783,7 +1783,7 @@ CS Stripper black|HeyoRyo|usr_6d53aee5-8789-42c5-b363-4f194feade68|avtr_84b96765
 CS Stripper Goku〈SSJ〉|HeyoRyo|usr_6d53aee5-8789-42c5-b363-4f194feade68|avtr_467fe32b-9092-455b-93e1-ca72d7d31a0d|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_f423af12-8212-4038-8df4-7afdc52d5dfc/2/256
 CS Trunks 〈Transformable〉|HeyoRyo|usr_6d53aee5-8789-42c5-b363-4f194feade68|avtr_6052d26a-47e1-4afa-ae08-e68c7a3e7d5f|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_29acc631-0f1f-4d3f-b671-ed5b75f0a1e6/2/256
 csgo awp|HeyItsKairi|usr_4a0bb3ae-2a1a-4103-8963-7b70ef0fe18d|avtr_b93bc39c-4fe5-4132-b880-29bdc1a1103e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7a123ab9-74ca-4276-ae75-65a21ad8247d/1/256
-CSGO SAS|Hot_CoCo|usr_459152ea-c0a3-48fc-be92-c2cdf1a4a89a|avtr_d85aec45-775a-43fa-bf75-d0f30f6ea219|VRCNDb|PC|
+csgo sas|Hot_CoCo|usr_459152ea-c0a3-48fc-be92-c2cdf1a4a89a|avtr_d85aec45-775a-43fa-bf75-d0f30f6ea219|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_5d9105ca-490b-43e7-a158-a371db1be0e3/1/256
 CSPChiya|haydyn|usr_d642e28a-4ed9-4b1d-9f38-1b407aec855b|avtr_8e41144b-a5b0-4a3c-a2aa-64243ea99233|VRCNDb|PC|
 CS˸Han|Hantomi․rar|usr_88697bbf-e105-4f15-9176-4c383095953b|avtr_cedd3092-38aa-470a-9fcd-7d0a3e708a42|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_c961e8d2-fde5-4b2f-a8cf-2c9c5eac1ba4/1/256
 CT Seal|Hosid|usr_c846d830-cd23-4a75-9d87-b95e0669d921|avtr_056ffdd5-954e-4a4d-8912-be7d026b662f|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_d8f20989-6872-4454-85c2-9da1ae3d12b6/1/256
@@ -4484,7 +4484,7 @@ halo man|big sal|usr_001a2550-b866-4ab7-8ec9-bec14d7e67e9|avtr_66c9d93f-acd3-45f
 Halo Marine AR|Deathangle17|usr_3cfaeb06-c5df-41c2-b4ba-6ec99e71d79c|avtr_6ff8f7b8-f2bd-4662-abc4-24200fe7f08c|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_23f9d1c7-f084-43c6-9e87-ed4c65fef770/1/256
 Halo Marine BR|Deathangle17|usr_3cfaeb06-c5df-41c2-b4ba-6ec99e71d79c|avtr_2ef791d4-1324-41fe-a932-ef0e4dd2c3d6|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_07eee12c-73d3-4d1c-ba24-d39d43ee73d5/1/256
 halo marine remastered|Moon yt|usr_9e1578b5-cfca-4807-9558-18ce42ddd806|avtr_8c4cac2f-79d8-4315-b297-e0ef58a9dfe2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f2bd3690-844a-4076-a1cf-4abae5f233e0/2/256
-Halo Marine SG|Deathangle17|usr_3cfaeb06-c5df-41c2-b4ba-6ec99e71d79c|avtr_5c1c7f52-67bd-4003-951f-915324c42fef|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_96dfbe55-9976-43b2-89ef-ab2ad7ccf4e0/1/256
+halo marine sg|Deathangle17|usr_3cfaeb06-c5df-41c2-b4ba-6ec99e71d79c|avtr_5c1c7f52-67bd-4003-951f-915324c42fef|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_96dfbe55-9976-43b2-89ef-ab2ad7ccf4e0/1/256
 halo med|senpai-2740|usr_679cd879-f8e3-4077-b1f3-021e9d5668e2|avtr_5de88b35-a3c1-4049-b1df-872eb0eb67d4|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_af4eb61f-8fab-45f7-b812-35ac30e05216/1/256
 halo meta spartan|cwhalo|usr_70966dec-479e-4fad-ad1c-76dc0537cc31|avtr_993eea75-41ee-4409-ad90-af151f114b53|VRCDB|Unknown|https://files.vrchat.cloud/thumbnails/338386816.thumbnail-500.png
 halo minus infinity|Shovel Knight|usr_9dc7601f-c019-4973-a8a6-4a138364f78e|avtr_7d12c3c3-025e-4b6a-a5d3-406869a7ddf9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_cde64dd2-9263-442a-ba38-a9939b7d6a0f/1/256
