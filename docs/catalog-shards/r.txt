@@ -4222,7 +4222,7 @@ fedpol juggernaut a|Ratkill|usr_846aaaac-5f61-40a4-8776-2a927f199514|avtr_d77c96
 fedpol juggernaut b|Ratkill|usr_846aaaac-5f61-40a4-8776-2a927f199514|avtr_b5d433b8-1aeb-41f9-bf34-8c4d110d9c23|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_cf2f0ff1-7463-4e3f-8d0b-f0b93cc16209/3/256
 feferi peixes|Roxy DrunkLonde|usr_1d79652a-30ea-42a5-8adc-3d239beb5f50|avtr_06843ba7-3b5b-4844-8616-0c4d5c24aebc|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_db6ef07d-b1c0-469f-9859-949f48eda5b7/1/256
 feferi peixes|remediedSoul|usr_ba5ef118-3876-491b-a542-7426ffae8ac6|avtr_92082696-66c0-4fa6-aab9-db20469f9ebe|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b95bd477-78ef-4306-a3af-895280a32f7c/1/256
-fei se|Remalyth|usr_a1070787-7a51-4863-b11d-e9e39f7f9db7|avtr_13f516d8-942d-4a1a-b1b8-6969c555b96b|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6a91069c-be23-4946-abd1-938e741f741d/2/256
+Fei Se|Remalyth|usr_a1070787-7a51-4863-b11d-e9e39f7f9db7|avtr_13f516d8-942d-4a1a-b1b8-6969c555b96b|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_6a91069c-be23-4946-abd1-938e741f741d/2/256
 feilong （pc）|RandomPlayer717|usr_d78cd227-02dc-4bb2-b91c-b06a52135955|avtr_de22b42c-4c25-4a04-87db-9b3be4a59e1c|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_eb359104-c8b0-462e-8069-269949e2b656/1/256
 felis eques|R-E-U-S|usr_3cb43181-5986-452f-bbc0-0dd17dd20dcd|avtr_67f76822-587b-4cf2-9687-0f0dfb725e74|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_5a072f4f-bbfc-4afe-a47a-2011f9a0f4fe/1/256
 felix|Rarelove0304|usr_e0dc948a-8a9b-4956-b257-55ed17174d75|avtr_a1268e9a-2126-40f6-aa69-14bf6d46a8c9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_09ccda1c-714e-4c1e-8c1b-5a792d903a25/2/256

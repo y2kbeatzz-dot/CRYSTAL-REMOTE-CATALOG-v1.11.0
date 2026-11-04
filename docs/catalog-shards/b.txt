@@ -8039,7 +8039,7 @@ bfk|Tigerr|usr_f38cb95a-66ee-4f5d-8d4f-80d0a24b971c|avtr_8b738cb2-bdf8-499e-afe1
 bfk|․Cam|usr_684766b9-c8a8-490b-94cb-85d7b55c29b9|avtr_9c147449-475e-4373-8b10-a4d97bbfc3aa|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_993d988e-c72f-4f2d-a674-399650a7508f/1/256
 bfly|Ŵĩñťẽřžツ|usr_78453f4a-cf0a-45c2-8ecb-1c431963e01d|avtr_abfee95a-1acd-4f88-8b3c-24d71c738009|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_96f013ab-fa10-4435-80f3-fe1203e6beae/1/256
 bfm|MinionTrooper|usr_8fea7a55-ddaf-45e3-86a7-9491ca2f819b|avtr_ce8daa07-6c16-47e7-a6a7-8a2ced1838a8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e7629e5d-fd78-4f8a-888a-03243eebb1c3/1/256
-BFM-77 Reformer|-Sketchy|usr_d819909a-b318-41a4-a1ec-5c15d3ebc3d6|avtr_ddc1830c-986f-493f-89ba-89aac2e5d729|VRCNDb|PC|
+bfm-77 reformer|-Sketchy|usr_d819909a-b318-41a4-a1ec-5c15d3ebc3d6|avtr_ddc1830c-986f-493f-89ba-89aac2e5d729|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_10566890-5ea7-4e9e-90be-d65567f459d5/1/256
 BFNGCG2023|Juniorrrrrrrrrr|usr_2290c9ca-b8e3-4dbc-893d-ca40d7ead577|avtr_2e101821-5930-48d3-9c82-c2458d66c550|VRCNDb|PC|
 bfp_rusfor_assault|I Skully I|usr_225d6752-3ebf-4193-ac4f-92a4e12a3046|avtr_11914a0c-dcf0-4e9a-85aa-a8dcd677fe7f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_70fa461a-4f01-4768-997c-c65114894918/2/256
 bfsergalv6|Yachenko|usr_f32eebd3-986d-43d8-b2b2-d8afc428f4b5|avtr_4151140d-103f-4443-a741-28c7517328b0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_5bafcb58-e7fd-4c68-bf53-b4cb0d766a34/1/256
