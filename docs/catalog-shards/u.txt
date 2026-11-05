@@ -2850,7 +2850,7 @@ ts-underswap papyrus 2d|UnoriginalNamme|usr_df85e4c4-3852-4f2b-bff5-c7799e736546
 tsge emperor palpatine|~user|usr_23de58a2-0201-4986-9132-c6d21c26fb11|avtr_efe8abe1-6df7-404d-9dfa-4a18a4d24e9d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_be3f3b1b-02cb-47b4-9d0b-bb510e751cfc/1/256
 tsǃundertale papyrus 2d|UnoriginalNamme|usr_df85e4c4-3852-4f2b-bff5-c7799e736546|avtr_63bac539-e8e3-4541-9deb-fd87d39d3471|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bdfcc934-9f27-4059-b0ed-a9981cf1915f/3/256
 tuff boy⁄girl|༒Ｇｈｏｓｔ༒-Upload|usr_7189d7d0-9809-4063-9bcc-1a0a87971d5b|avtr_61ae7522-3326-41f4-a166-1ef66b257dbd|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_da52701d-963e-4f06-aa2a-a979f361667a/1/256
-Turret V4 - Humanoid （Remodel）|USER_'SOAR'|usr_2c418755-3012-4636-8813-4c37f03b9d66|avtr_434c3847-a3ab-43b8-9a1c-4bfcf27e0d67|VRCNDb|PC+Android|
+turret v4 - humanoid （remodel）|USER_'SOAR'|usr_2c418755-3012-4636-8813-4c37f03b9d66|avtr_434c3847-a3ab-43b8-9a1c-4bfcf27e0d67|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_8ad688c7-e00b-4bb0-9d2c-e742a61cb2dd/1/256
 turtleneck ferret custom texs （fur shader）|Umpelkarumpel|usr_aa5bc594-7f98-4bb7-8731-f3c47917b469|avtr_a16b9360-8d2b-4c04-ac07-56352f60cef2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ca778efb-d259-4e2d-b51c-1c7a1bebdc40/1/256
 Tuxedo Garrus|Umbreeunix|usr_c5c9d90d-e19d-43a4-8947-d1b1e9973cf6|avtr_f9104089-2ec8-4dcc-a1d6-3b6695d212fb|VRCNDb|PC|
 tuzki|Uni ウサギ|usr_47767163-9674-41c1-992c-534d1078ed1c|avtr_f505fa9a-0208-4f2f-843f-e0cabdf4d2c1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7fd90936-6c5b-41c4-a803-daa2a4fe05cd/1/256
@@ -5245,11 +5245,11 @@ under da sea|Retrøzwørld|usr_bd8e233e-ccef-4c9c-83a7-e301d4532d92|avtr_80e05c1
 under da sea v2|Retrøzwørld|usr_bd8e233e-ccef-4c9c-83a7-e301d4532d92|avtr_8f7798ef-a27b-4b40-bd9b-981b1e58ca60|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_df61ec6d-d3a4-4332-b37a-1dd961a6ee21/4/256
 Under Water GF|Ronald McSlide|usr_b3f3c345-833f-42e5-ba7e-9fe6145547f1|avtr_1337c970-0947-4c31-9752-5733a1a32ba3|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_e43a3897-7124-4203-9955-1e848c571ab1/1/256
 underboobgang - public|Sound Crunch|usr_0f86fe97-da5c-4def-9d8d-e258f507c1d2|avtr_e5d0b4e1-6dfa-462c-95ca-598c0ae6d284|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3072e120-2e83-4b8c-b069-b22962c8dd16/2/256
-Undercover|PFC Soldier|usr_74c1b6a2-ac9c-4e38-97d7-c297b9112891|avtr_9ff98234-a9e2-419d-bb03-5e44d02a608e|VRCNDb|PC+Android+iOS|
 undercover azzy xddd|Azzy_PL|usr_af99c0c6-eeeb-40af-a080-e54914712868|avtr_abbd94d7-7d9f-4900-a94b-5f8c0a65f642|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d85da41d-33cc-4804-a2b0-10ad6646031f/1/256
 undercover chevy|Juliana'|usr_6a9285ab-9787-46e8-a5cf-e992e5d42a78|avtr_f5bcb81d-7c64-4391-8789-33b97c73a04b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c2712543-c6a0-4a7a-b8be-1ca10898c106/2/256
 undercover floof|PurpleOverdrive|usr_c1d0f577-8f2c-4300-93aa-ac8498e54e21|avtr_20f9296f-f240-4faa-a8ab-255d658234d0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ff56b547-a598-440f-b068-4248a4fa97c3/2/256
 undercover （female）|PFC Soldier|usr_74c1b6a2-ac9c-4e38-97d7-c297b9112891|avtr_8ba832c5-9395-4b4f-96d2-090fd0cbe256|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0086b2aa-16b9-4577-83f3-abbfd755574e/1/256
+undercover （male）|PFC Soldier|usr_74c1b6a2-ac9c-4e38-97d7-c297b9112891|avtr_9ff98234-a9e2-419d-bb03-5e44d02a608e|VRCDB+VRCNDb|PC+Android+iOS|https://api.vrchat.cloud/api/1/image/file_f11a638b-5461-47a8-aa0d-4c55b190bc9b/1/256
 underevil chara|DriscollGamer|usr_cb8f8f7c-7825-4e86-82ac-d8e02c6f24c8|avtr_1117f3ad-158f-495d-b5ba-4675c1989f05|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_66fed9cb-8d2f-4cc6-92d4-428e2610ff73/1/256
 underfall sans|ECHIDNA-DONO|usr_b47834bb-037d-4c9d-afe8-5432d578be63|avtr_76f44901-eb49-4eca-9989-c05878468dc5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_845c485f-b510-483f-86df-55bd1fecc275/1/256
 underfell frisk （claws take）|clawsguy_|usr_3516be96-5519-4d17-8751-9cef83644e31|avtr_28dfcd25-5941-4cc3-9e62-861dca4c62b5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_72a95a21-1c4c-4549-b9de-ced7d312c831/1/256
