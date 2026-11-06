@@ -97,7 +97,7 @@
 007+008|しろ|usr_c2e09de2-b117-461d-9c28-949e1155763d|avtr_eff84c25-c08a-4bac-a1b2-74be8328dee2|VRCDB|Unknown|https://files.vrchat.cloud/thumbnails/1353656200.thumbnail-500.png
 007-02|しろ|usr_c2e09de2-b117-461d-9c28-949e1155763d|avtr_ff1acf41-b0de-4684-a82a-6aa03a7a8d30|VRCDB|Unknown|https://files.vrchat.cloud/thumbnails/1190191150.thumbnail-500.png
 007n7 v1|Ｋｏｏｋｕｕｃｒａｚｉｅｅ|usr_cba21fcd-c8b7-4f62-99ee-d4f6440d7d35|avtr_47f4c373-e1b8-4ace-9416-237812d01e1a|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_eaaeab4f-9826-462c-903b-00516be4e9f5/1/256
-007nv_sl|しろ|usr_c2e09de2-b117-461d-9c28-949e1155763d|avtr_5ee05565-6b29-456a-a80f-553c26613dc7|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://s3-us-west-2.amazonaws.com/vrc-uploads/images/image_1200x900_2017-12-17_22-10-13.png
+007nv_sl|しろ|usr_c2e09de2-b117-461d-9c28-949e1155763d|avtr_5ee05565-6b29-456a-a80f-553c26613dc7|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://s3-us-west-2.amazonaws.com/vrc-uploads/images/image_1200x900_2017-12-17_22-10-13.png
 01|сявка|usr_10a4592f-5610-418f-b479-c1fb6c9fd5b5|avtr_11bb456b-ff0e-45ee-aac1-88d5bb94ee74|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_2da1c752-70e4-4976-a4b5-f786f2acb9d1/1/256
 01|紫晨千葵|usr_d2236f4b-6c44-4306-b6fc-058f43e31028|avtr_16cdb51b-4d1e-41bd-9185-d77c097b19fa|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_3c6c26e5-61d9-4239-9b3c-c596ab8c1747/1/256
 01|ハチワレ小八|usr_fd6ac39e-f60e-4fa0-9818-65b6a438b96e|avtr_2500ebcd-7c82-49fd-a9e4-5a8710c9fd71|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_c15077fc-532d-4cbd-aa8a-fa4dda10ff7f/2/256

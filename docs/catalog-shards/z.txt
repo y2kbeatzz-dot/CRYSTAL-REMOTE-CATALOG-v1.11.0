@@ -3701,7 +3701,7 @@ raccoon mayu （made by zivfoxz）|ZivFoxz|usr_613b80d5-3322-4829-b08e-b73ed533f
 raccoon-r|Zab|usr_d004e916-888d-4bb3-8187-74ee536c4af0|avtr_ba2dde40-e969-497f-849d-1e7446e4e954|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_63e89bfd-a96b-4d0f-a1a4-422e2f6fbcb5/2/256
 racingdoggo rex|zThundy|usr_8f2d6a1c-5317-4673-9a68-70ed29e5842a|avtr_9b420e3e-8797-478b-8ca0-b8753de140b9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ec947cf2-13fa-499a-a304-9e3ed1e90e9d/2/256
 Raiden Ky|Zeeba5|usr_5422c1b9-c0b4-43cd-b43c-50c30c063688|avtr_9254b81f-d46c-41aa-99ec-7730b8980eb5|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_2350a1ed-85c0-4eb8-a10a-4ceb1149ca5b/2/256
-Rain World - Accurate Slugcat|Zack_v1107|usr_1c15c6cb-7112-4c3f-b047-5764a5deedfc|avtr_ab2f7d30-f225-457c-9886-0a340f633aea|VRCNDb|PC+Android|
+rain world - accurate slugcat|Zack_v1107|usr_1c15c6cb-7112-4c3f-b047-5764a5deedfc|avtr_ab2f7d30-f225-457c-9886-0a340f633aea|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_501353a2-0ce4-45e7-8764-b89de0a09e53/1/256
 rainbow addison|ZANETHEMAKER|usr_ec1cd014-3a95-4eca-a926-d5a6b07b0fc7|avtr_36400f0b-57df-4214-91b0-04ea691a65f9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_114d49e2-3ab5-4e33-820d-81304f5ba5bf/1/256
 rainbow boie|Zepwlert|usr_0da62d2b-27ec-4877-a9be-65fb9d19be9f|avtr_843d5bed-7fad-45b3-ab13-e59f8500eabf|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e55b3169-25a2-4d1c-b1f5-1d61c071ebb8/3/256
 rainbow dash - public|Ōzen_VRC|usr_c3640847-4312-449c-9ab2-1ba00a7db08a|avtr_659176db-6d46-4665-aa14-568ce88eb2c8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_36bf3fee-fe4d-49ef-811e-5bf40453443e/2/256

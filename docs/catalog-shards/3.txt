@@ -1484,7 +1484,7 @@ zprlh|387801240|usr_7bfdd80a-3c6c-4753-acbe-7d5741b34a12|avtr_219bd136-1a9b-44f4
 ≺3 rabie ǃ ˚˖|kurruchii|usr_6838af28-9d9b-4e05-98e7-5753888df515|avtr_cc7943e9-4e15-4e25-ab3e-de4598a29a5a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_573d52fd-0577-42c0-98f6-f1c3d803af61/1/256
 ≺3 rawr ≺3|puppish|usr_e0b3db16-43d6-48d2-aaa0-babaec4b9a7e|avtr_b1dfb4b3-842c-441f-acbf-35589850156b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c8dc0a0f-1831-42da-ae34-8a095c69d1f9/1/256
 ≺3 ronnie|ღ Heartless ღ|usr_8de4899c-b02d-4ab9-8418-50baeb97db7f|avtr_4d48ab83-68bb-4af4-b7d7-93d6fb4eb9f1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_41822193-3c62-4193-9064-eb0fcfffffea/2/256
-≺3 sl|Kaparelli|usr_8e630023-47ec-4343-930d-9b1dc2d87754|avtr_876d4ea9-ea4f-4203-bcfb-764e0ffd3c57|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_28c21e6e-5d9c-4909-b433-8d634f20a6e9/1/256
+≺3 sl|Kaparelli|usr_8e630023-47ec-4343-930d-9b1dc2d87754|avtr_876d4ea9-ea4f-4203-bcfb-764e0ffd3c57|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_28c21e6e-5d9c-4909-b433-8d634f20a6e9/1/256
 ≺3 zen|Laestarraid|usr_f7afebac-47eb-4d3f-a3f7-51889b3ee7d4|avtr_4d2f29d9-3aa0-441d-b5a9-704a40f672db|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bf140555-fe45-4320-9e6a-1bcd4a3221c4/4/256
 ≺33|сayse|usr_0c9114fc-2727-4977-9d23-1052fa960731|avtr_2e56e737-0dc3-4b90-bf71-c9fd38e75a75|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e90f7dfc-5bf1-4508-8424-1e4c2243f3f4/2/256
 ≺33|UngaBungao|usr_c223c3c4-b360-48d8-9d66-b6224cec14b4|avtr_3e22423a-512c-4dab-aa2e-66ca3c0754ff|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_875fbb4e-7a55-458c-adfc-748e8915e14f/1/256
