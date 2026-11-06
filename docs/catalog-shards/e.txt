@@ -15586,7 +15586,7 @@ slugcat plushie|EcritureMutt|usr_d378fab7-5a30-434d-98d8-0c15b217140c|avtr_852e3
 slugg slugg two tim|EvilYuri|usr_8a8955c8-4db8-4281-9a1a-a6c7465f4b3c|avtr_524eedd0-51bf-46cb-9616-34bdfc828780|VRCDB|Unknown|https://api.vrchat.cloud/api/1/file/file_db442aff-9737-4248-834c-fd9c17c2c980/2/file
 slxt4eli|Eli ․|usr_6e6fa7d1-89c0-412a-89f2-3db959391852|avtr_8b0d331a-fcc7-4192-8020-d726f384caeb|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1a7b3aee-3148-4a66-b92e-f930dbabf79e/1/256
 slyde 4․0|Ṿenerabela|usr_03d696de-2d9b-4366-b741-f95c2c5e381e|avtr_668ee922-af69-4524-b883-fcce9e7c2873|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c30a017e-63a5-4bcf-aa32-7c76aa12aa1a/2/256
-sm-shima|ET-Shima|usr_81ed403f-de5b-4c81-8376-182f0c244e6e|avtr_3faf4a50-a88c-47c8-a0d6-1d35e76c0336|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d05890be-3b38-4c76-a2e6-1f725aa158a2/1/256
+SM-ShiMa|ET-Shima|usr_81ed403f-de5b-4c81-8376-182f0c244e6e|avtr_3faf4a50-a88c-47c8-a0d6-1d35e76c0336|PAW+VRCDB|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_d05890be-3b38-4c76-a2e6-1f725aa158a2/1/256
 sm1l3я public demo|EMBEЯ|usr_60d0dc4c-addf-4a3e-9477-85708fbc693a|avtr_e001625f-c85d-4ce6-9b5e-e43c407c4450|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4b81127d-cc0d-4c30-adc4-35a45a7e79ca/1/256
 sm64 luigi|Engineer Gamin|usr_863fe19a-5d6b-4639-83ae-6d9b8068bf80|avtr_7ee1b813-3d23-4757-9eb0-e42d92049d67|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ee8ecabc-7a04-4f6d-ac02-cc8baac31e8c/1/256
 sm64 mario|Engineer Gamin|usr_863fe19a-5d6b-4639-83ae-6d9b8068bf80|avtr_a5ac8648-fea3-4b1a-bd47-7816dfcea42b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_107c067b-9c7c-4393-ba55-b1cf0baea723/2/256
