@@ -427,7 +427,7 @@
 2017 x （public）|- P I R A C Y -|usr_6d82e700-c41c-448a-b552-ed7c2ec3d04b|avtr_652c6ee3-c668-490d-b2ad-6db4cf4164a0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d3951944-1462-4028-bc43-1fd41ead1c55/1/256
 2017 x （subterminal）|GogetaZ|usr_e59cd80b-79a1-4ce0-af15-260b6cfbc1ac|avtr_d4314235-d8a8-45c8-a195-3b43f4087d6b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9f51c4e2-26b5-4359-82a4-9175f2232a4b/2/256
 2017-retry|͘Toazty|usr_e6e52c47-29a9-410f-b9d6-0ac7304dbef7|avtr_57dddaa9-1860-43b7-915e-576eb3a7fe28|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ad10567c-5cad-4d7f-a55e-f8bc4fd4423d/1/256
-2017428 so-ki|Lorica|usr_142c09ad-1db1-49f7-9a9e-701ce2f21eb8|avtr_4c0ab851-c622-4615-b50c-1ddabaf8166b|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_be70c703-2c06-4575-9e3c-771e23ca5353/1/256
+2017428 so-ki|Lorica|usr_142c09ad-1db1-49f7-9a9e-701ce2f21eb8|avtr_4c0ab851-c622-4615-b50c-1ddabaf8166b|PAW+VRCDB|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_be70c703-2c06-4575-9e3c-771e23ca5353/1/256
 2017x|Dingle meat|usr_c3a81d6c-4869-410b-af0b-898312aeb674|avtr_2457b6fa-8e48-4d61-91a3-e4b1bf3d5646|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a222c1ab-cd70-40c6-b17e-8e5f0363b69b/1/256
 2017x|-BIO-MECH-|usr_6a6841d7-71fa-4063-9a52-8031e3df0af7|avtr_73ed45f6-37ad-4fad-a802-3d015d1e55b5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d86522b6-e500-4f94-b562-0a21f2aa09ab/2/256
 2017x|ReersTheEpic|usr_21d721bb-dbd7-49e6-8be9-5b37fd8f1b7e|avtr_84faf298-fe80-4a95-b683-465921917f2e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9800bb4d-9bd4-472f-98fe-ab842169a98f/2/256
@@ -695,7 +695,7 @@
 20D Taidum VR Seethru|20nik|usr_a81295ed-6ece-4358-89f9-df7a26055570|avtr_eb6f1276-7bba-4100-ad74-9d35a61d19f7|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_b456f64c-040d-4ee1-814e-2244f4b68266/2/256
 20dan heartglow edit|Mauro_VS|usr_ee79e595-5660-4446-91b9-59ade1dbd954|avtr_cac91802-7716-4ad9-a2ed-2e353c71fe38|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bcd21952-6cbc-432e-8315-07dbc939cc4f/1/256
 20ksg|Lu Ping|usr_58db6552-6a75-4e36-b4e5-964d00207e69|avtr_e9885d59-fb46-4b61-9166-928fbf3dbbe2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d0ab1ebb-b38f-4d0a-9a2d-0689d9043bcc/1/256
-20m of why are you so small|C W I S P Y|usr_fad9a3b7-a9be-49c7-a042-051fb0e30e4c|avtr_38175f39-ee32-468c-b2db-e4946949a1c9|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_03e942f9-eaaa-4ad7-8fcc-d0dbab710f74/1/256
+20m of why are you so small|C W I S P Y|usr_fad9a3b7-a9be-49c7-a042-051fb0e30e4c|avtr_38175f39-ee32-468c-b2db-e4946949a1c9|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_03e942f9-eaaa-4ad7-8fcc-d0dbab710f74/1/256
 20Nik Dia de Los Muertos Regi|TheFoodMan52|usr_efc37116-e5af-46fd-b843-dc32737e0163|avtr_db64074b-cba6-44a2-8ddd-9d4baa8dd899|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_3b2fd9f9-6c9d-46a2-bf2d-b2d8a85cd1ab/1/256
 20th anniversary|NobleTitan8897|usr_63c4e3c3-b130-4361-a294-9b16aff08292|avtr_bf7b7d09-9909-46c9-ad7a-52ea8053dcf7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_04b9cf06-f785-4436-8e8e-108ff87e4781/2/256
 20th Century Fox|Eight9600|usr_8a137063-5f7b-4c4b-a0ab-2f063451026e|avtr_71375500-fcf2-47c2-81bd-bd721e32058b|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_172f8643-1e9c-4cda-8ab7-6f8ce5f642f0/1/256
@@ -2268,7 +2268,7 @@ sniper|ƛƤƠƧƬԼЄƔ2|usr_9a0eab09-dd1b-49e2-ba40-3b32bdc09026|avtr_1b29a3ce-
 snoop dawg|_2D_|usr_b347ce0a-6b40-4b4a-a403-75a2686ae1ac|avtr_d10479a6-7fbf-4bd1-bdf2-e291191d780a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_99e91056-fc2f-4acb-868a-0b5fd76ec01d/1/256
 snsn|2komi|usr_b5d61863-aac2-4d7b-96ab-32e443053009|avtr_1be9ffae-c665-4248-a6b3-b4d8a0a9e4c8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0cec031e-7b12-4db9-9e9e-b4bd9d5da1c1/2/256
 sombra|25fishman25|usr_927eacca-c311-4322-be06-9f4b7f657fc2|avtr_22143c6c-7fbb-4e38-a3c1-9e80e63f61e2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c79870af-f103-4530-8af9-c3fc8445a106/1/256
-SO�����|ИсиПиписи 2c20|usr_04a89a7d-8ee5-4f7a-be80-304e9f882c20|avtr_83f61556-ac6b-4267-a714-51c0ac5ca2e4|PAW|Unknown|
+SO�����|-скилл; -мораль 2c20|usr_04a89a7d-8ee5-4f7a-be80-304e9f882c20|avtr_83f61556-ac6b-4267-a714-51c0ac5ca2e4|PAW|Unknown|
 ssn-941 akula|2TAKE1|usr_9f187e78-e690-4efb-84d9-3a143addc3d0|avtr_9679e752-a2a1-4510-8d18-d842176f406d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_33292f57-97c9-408d-b1a9-e6325d920b0c/1/256
 starr|《2XSpider5》|usr_b812f070-8331-4296-a44e-14c544ff6212|avtr_a41cf949-0aed-4e47-a1d2-64f8db9247b8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6991f9f0-8af0-4137-b74c-de20cfcdd0d3/1/256
 Sucuba DJ （TEST）|․․2B․․|usr_a0af2e7c-1d92-4784-baf2-6af7cfd81c60|avtr_36dbe108-5624-4278-b0b9-57598b7606ee|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_b0a677b4-f1cc-4ef4-b363-3a8c0b550e1f/1/256
