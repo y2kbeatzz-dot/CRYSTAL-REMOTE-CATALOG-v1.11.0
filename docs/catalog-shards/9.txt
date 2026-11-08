@@ -104,7 +104,7 @@
 90％|P҉S҉Y҉C҉H҉O҉|usr_04ff3810-c808-49b1-9ebb-25967d4b4d83|avtr_e67068b6-40ba-42bf-aea1-e8ba5841df1e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_80fcba4c-e4b3-429d-81db-fa46b0e3243b/1/256
 91|Feroni|usr_ff9bb248-29ee-4568-b815-57a3aaad3e41|avtr_3a51cd75-f255-41b3-b1d0-2ec7606a9f06|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_a09b46ca-e3d4-421b-a79d-1df108fd7fb0/1/256
 91|MustKeepUp|usr_6c0d39a2-60c5-4712-b71b-3ec6d0ca236d|avtr_9fd56d4c-714c-4acc-aec7-06ce4c3f8be8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2010f45b-6fa6-4e8b-b376-e53026061e8e/1/256
-91'st Som|Salty Peanut|usr_6ecd1e13-a7ff-4808-a403-2413c8d979e3|avtr_9f4eb234-5d57-4446-ae5a-9aea52a28d68|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_3c743ca1-5f7d-468f-b4fb-d88589fc1ad0/2/256
+91'st Som|Salty Peanut|usr_6ecd1e13-a7ff-4808-a403-2413c8d979e3|avtr_9f4eb234-5d57-4446-ae5a-9aea52a28d68|PAW+VRCDB|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_3c743ca1-5f7d-468f-b4fb-d88589fc1ad0/2/256
 911|Soyl|usr_e6a6f368-682c-4b68-ac4d-6e477c74dfe1|avtr_0ba0907d-ba3a-41d7-83fb-333351c57b0e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8d9de426-47c6-4f29-99db-f1e5a0f73136/2/256
 911|Lolicona|usr_66e3c304-8dc7-42aa-91bb-054067e4b1bb|avtr_3ce10738-57d5-4f2c-8e25-80d435f444be|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_de75c53b-40c8-4e99-a777-363398f1c8be/1/256
 911|WO-5|usr_f9cd4792-8fef-42c6-8636-d4a79dcc1e60|avtr_4402f777-b115-4095-8e99-f94ae961db2c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a13caad9-219f-4d91-8f8b-2acf23d8c602/1/256
