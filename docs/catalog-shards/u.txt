@@ -4825,7 +4825,7 @@ umbrella|Cowboy Bobby|usr_c8a801c8-d45a-40a8-8d80-6d3d6643d27d|avtr_7dce6941-4c8
 umbrella|8bitdark|usr_1763d1ba-8a63-4816-9dd6-9cd65b6f8589|avtr_b9b3e8a0-93aa-4888-b5aa-437d04aa0cb9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_05bb80db-2016-4770-9696-ef4d2f73d283/1/256
 umbrella agent anika by shyzuki|Shyzuki|usr_711b9baf-0b99-43f6-b111-8b833266f6f5|avtr_a58d245c-ab9c-42c4-80e0-ff660d174a23|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_47dbce08-906e-4e30-a61e-6a6d66f1f4a9/1/256
 umbrella agent shyzuki|Shyzuki|usr_711b9baf-0b99-43f6-b111-8b833266f6f5|avtr_95c3e9e1-5a6b-4a7e-abc5-ccc04c816137|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f1d66827-4a67-423d-a340-0ea86a790abb/3/256
-umbrella corps su|VADER AKAI|usr_880717c5-5732-4f91-b56c-740fb3017910|avtr_ec6ffe7c-e48b-4b6d-8f26-dc7f58c12236|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_fd541d7f-b9da-471a-ad57-01cc0f34ab23/1/256
+Umbrella Corps SU|Dаddy Vader|usr_880717c5-5732-4f91-b56c-740fb3017910|avtr_ec6ffe7c-e48b-4b6d-8f26-dc7f58c12236|PAW+VRCDB|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_fd541d7f-b9da-471a-ad57-01cc0f34ab23/1/256
 umbrella girl|Unpwned|usr_8a6c67d3-255a-4e25-9d09-7521d4c093cc|avtr_2fe2b5d5-257e-4c38-968e-ca5a27d21156|VRCDB|Unknown|
 umbrella miku|Lee_The_W@y|usr_c83f6a39-a2ff-41c4-b0dc-b2f8ce9c9940|avtr_4b9c082d-a4b3-4654-ac2a-d2e3c419c0c6|VRCDB|Unknown|
 umbrella noctis crew|sᴜᴘᴀʟᴜx|usr_3c70a88a-6149-4527-a850-56fb81c325ac|avtr_c2fc8050-0933-42d0-a293-6c500b7d397b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/file/file_602aa33a-8832-47a5-bdc8-74815cc097d3/4/file
