@@ -15498,7 +15498,7 @@ bonnie - into the pit|Igne Rugiens|usr_715d700f-6f96-44f6-baeb-725888be4146|avtr
 BONNIE - TSE|Jackyln Burger|usr_8bf963db-ed3c-48ff-a261-02887c859812|avtr_74a3adfb-12e4-4170-97dd-bfa2304be759|VRCNDb|PC+Android|
 BONNIE AWǃ|C͎Y͎B͎E͎R͎_F͎OX|usr_5b0ec553-8220-4bbe-a3dd-07b02a651ef2|avtr_93976b1f-7a41-41bd-933c-c7e002517664|VRCNDb|PC+Android|
 bonnie blazed|aro~|usr_706e8594-04e8-412a-aeb4-690d880abf06|avtr_5d80f83b-a486-4edd-a1c2-9f213d0cead3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d8045ab9-f54c-41c8-b902-048ab89997cc/1/256
-Bonnie Blue|cebrus২|usr_d16d5254-3a97-4c10-bf57-07453d8c0185|avtr_0749d9f6-921b-4906-a90d-5b086f08eb0c|VRCNDb|PC+Android|
+bonnie blue|cebrus২|usr_d16d5254-3a97-4c10-bf57-07453d8c0185|avtr_0749d9f6-921b-4906-a90d-5b086f08eb0c|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_a04e0d19-1d87-4c4c-beaa-f1f7b514dcc3/1/256
 bonnie blue|౨ৎ kokoheartsu|usr_71576585-e73d-48ec-b6bb-9e6800186aa3|avtr_25465626-95e2-433b-a039-709390aa7723|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b0bfe246-23fc-4854-bd35-5963b87bf143/1/256
 bonnie blue|Hasannnn|usr_c1a61bf1-a661-401e-850d-274fc060f7ca|avtr_93131ef3-b5d4-4591-bd6b-2bbf76a1fe85|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c2b02ac9-a48f-4b38-93b0-7a877d91ca97/1/256
 bonnie bunny - ｛blockbears˸ returns｝|Batsu Miku|usr_b619c49b-5d30-4b7a-862e-fdb244e76934|avtr_e50fce7b-b016-4895-88f9-6b079e565638|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_39a3ea07-fbf5-4328-9053-a33f72c0009d/2/256
@@ -15863,7 +15863,7 @@ boothzilla|ɐllᴉzpnW|usr_5d8b98da-ec3d-47cf-8055-f6512e01cb2b|avtr_104b8c46-a4
 bootkick|supdudesgamer12|usr_2b28cb67-91d7-4f7e-9ce5-646b53ed04fb|avtr_cfd23a54-56aa-454f-afb0-486d73e67880|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f12c6780-4800-4dc4-8435-2463fb1fb24f/2/256
 bootkick basic meat house official port|peashooterman3|usr_2b14047a-b0ef-43fd-ad51-7ba955942417|avtr_9d83bc01-fb0d-4f50-9f65-77696c7e79ec|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_80b1b8b3-1f80-47d7-babc-ded29d1515f5/3/256
 bootkick ǃǃ|Dave Class|usr_42b5c958-8842-4523-aee1-ecccd499a907|avtr_aa814c24-4c73-45ec-a6ee-9f836f346290|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d62c6f54-57b3-4791-944d-432e35f6779a/1/256
-bootleg cuphead plush that i ported from sketchfab when i was learning how to make avatars|shimeji cole|usr_ccd91e8d-d9f4-42f4-beb8-399b70d7fe9f|avtr_5fe15868-422f-4ac0-8683-f528fffa34a0|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_65176e77-bd4f-4c49-aa8c-f979cbbe0e62/1/256
+bootleg cuphead plush|cole19YT|usr_ccd91e8d-d9f4-42f4-beb8-399b70d7fe9f|avtr_5fe15868-422f-4ac0-8683-f528fffa34a0|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_65176e77-bd4f-4c49-aa8c-f979cbbe0e62/1/256
 bootleg dumped spongebob|DgCV3|usr_ce36a47c-c794-4fba-9396-91d18caf3c25|avtr_d76a14c3-da09-4c9a-b7d9-ad9ea8c6945a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_44b402e1-8e08-481b-8474-eff6183eaae0/1/256
 bootleg glamrock freddy plush|cole19YT|usr_ccd91e8d-d9f4-42f4-beb8-399b70d7fe9f|avtr_751466c9-2a32-437f-ab96-77a80d213b4b|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0a7d3e15-6ee5-4f2b-a0ad-8feda8e5445d/1/256
 bootleg pathfinder|Wergle|usr_eda3bd05-0f6f-49c7-a476-18058cca0a21|avtr_8f17864e-0371-479f-9440-b3a2b24e89ee|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_baf1f391-a29e-4c8b-81c4-3afaa6628544/2/256
@@ -26265,6 +26265,7 @@ lucy summer skin|Benden|usr_99fef80a-4303-4a1e-8267-d1fba5ffe311|avtr_22eafff2-8
 lucye miko kitsune|Briɑr|usr_528ae332-20e9-447e-80ee-161bda2f93f0|avtr_e25ad3ff-12d9-4c0d-982d-fdfb6cd434c8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f7ee2596-26e3-45af-b097-6a5a7d1e8c28/1/256
 luffy|Bepo?|usr_1f0aa8d4-b19b-430c-8121-bb90d83b17ab|avtr_c0ed29f3-2926-4ab9-8ad0-997333f104f9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e00d5601-a4e1-4850-a702-56b71129c864/1/256
 lugia （pokemon rumble world）|Berriiiii|usr_ee51d116-01b3-4405-b126-392a5cb7a67d|avtr_b95c74fe-9e48-4ab9-9f5b-d16e0ca653f5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0989ed6a-22f7-4fa4-9b72-522a26a4091b/1/256
+luigi （ssx on tour）|BokyYT|usr_0d8b2d03-ea02-4711-847e-2fc58c82c22d|avtr_0016fbdd-3c65-4444-b7cc-6040703e9acc|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_89ff0dc8-ce4d-4256-b4b7-aea3842fe17b/2/256
 luka|Bombalurina|usr_66ab413b-371a-440a-bf30-7ed1ed8a2baa|avtr_1db0c622-552b-4d62-a528-fd2597778b4f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8fdebb5d-6d5e-4ed5-acf1-839e2763b2c5/1/256
 luka blackjack|Burgah Buns|usr_5da7e274-f297-4a90-bc6e-a63cdbe56f78|avtr_9d369ccd-4ef4-400c-9230-e519e85e8f10|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ac5e9585-9667-4a23-83ad-ec4e0cbbde29/1/256
 luka edit|BEAT0P1A|usr_d9b5327b-1b72-4846-8aeb-c574f1bfbe1d|avtr_afd42189-4783-4317-9e31-b83080850b09|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0ce2ebb0-d5b7-4f7f-b4bf-7003f5aaae75/3/256
