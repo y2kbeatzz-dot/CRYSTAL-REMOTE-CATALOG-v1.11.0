@@ -14600,7 +14600,7 @@ mama mia|~kio~|usr_fc652079-4ce6-49a7-9c41-ba5dbed73a3d|avtr_fbec13a1-32ad-49c5-
 mama mia 3|Hanzier|usr_a6ef43b0-c6a3-4443-b3b6-d70b0453625f|avtr_a1488a1c-c04f-46ae-bc4a-bf6f3e472df8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f6fbf623-ed09-4ed3-baca-3629dbf9bde1/1/256
 mama mia 3 soldato|Hanzier|usr_a6ef43b0-c6a3-4443-b3b6-d70b0453625f|avtr_2f002570-d562-4726-ba08-16d7d8f07e81|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c81cdc4c-fb18-4b86-bc0f-8eccc057a842/1/256
 mama rouge the bat v3|8bitdark|usr_1763d1ba-8a63-4816-9dd6-9cd65b6f8589|avtr_a32a05d7-6f4b-4345-a3ff-9316819719d3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ab54c4d6-5da2-4de8-8349-4218b106205b/1/256
-Mama Sy|TheAdorableSy|usr_e5d4ed81-8439-4fba-9739-a1d693ebf3da|avtr_d558273d-49d1-45ef-bc66-41b4d55ca7ed|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_6840c4c1-ad0f-454d-ac63-b43cfc9bd311/5/256
+Mama Sy|TheAdorableSy|usr_e5d4ed81-8439-4fba-9739-a1d693ebf3da|avtr_d558273d-49d1-45ef-bc66-41b4d55ca7ed|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_6840c4c1-ad0f-454d-ac63-b43cfc9bd311/5/256
 mama tails|Tails|usr_ce00ad74-46e2-4def-9bef-85f00cea9f0d|avtr_24f29b58-4bb3-4cfc-94c1-9f0f368d0195|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_be72b511-f28d-4a54-ae5d-72c0fd77afdc/1/256
 mama tattletail|ZDWhisky|usr_ee6ea798-0a46-41a0-b749-df2c0f622e22|avtr_368a9b75-bd03-433d-8013-916923d06ed9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_60d4cfd4-d0fc-4149-b8f6-e382dfe64dd3/1/256
 mama terzo|JinxyPie|usr_231afcdd-9d5d-46dd-9698-500d6a215468|avtr_8271769f-3341-4b0a-b7f8-20808499fc8d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_be09af4a-87e7-4a46-9c40-e533a51fc48a/1/256
@@ -24401,7 +24401,7 @@ miko spas|bruh mild|usr_43a70505-650f-4180-858e-892243804901|avtr_00264506-a52c-
 miko specops|ImoutoSama|usr_7fc0b5fe-597b-47ad-a0af-e6ee9b19f15b|avtr_2c6323bc-b582-4767-8611-dc80f0ceed26|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a28a68c2-9ac9-4027-90ad-55bc8850a2e4/1/256
 Miko Ss|Light 可可爱|usr_52120e25-89f2-4c39-a84f-280f24ef4bc5|avtr_aea7afac-afa8-443c-9a35-95c4db5da41c|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_118398ef-c6f6-46b6-8665-548d692724b8/1/256
 Miko ST|Aquarel|usr_205d1f2d-5267-484b-94fa-748c9cb18f19|avtr_6c1724f0-8770-4358-bb45-7d0d4f0b4b5c|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_502a19b5-6e9e-48de-957d-4b3f6208bb06/1/256
-Miko Sy|Light 可可爱|usr_52120e25-89f2-4c39-a84f-280f24ef4bc5|avtr_4fa48ec4-797d-4d21-9ebf-d9d774b1e581|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_50e5b0f5-20ad-4669-98ec-e348fd21852c/1/256
+Miko Sy|Light 可可爱|usr_52120e25-89f2-4c39-a84f-280f24ef4bc5|avtr_4fa48ec4-797d-4d21-9ebf-d9d774b1e581|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_50e5b0f5-20ad-4669-98ec-e348fd21852c/1/256
 miko tank|xxx_red_xxx|usr_2a66baa3-804d-4432-8915-a51a00c46b5f|avtr_354c172d-5145-48f3-acf8-075dc57f9e2c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_74f6aa3c-acb2-47eb-8092-30ec9f1f8f51/1/256
 miko tank crewman|_Citadel|usr_25eb3a66-a8a2-40f6-840a-c87c8f1f189c|avtr_6343011e-ec21-4690-b1cc-9b84746dfa5b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_629ef1f9-52a8-4e3e-9fe9-61213e3bec4e/1/256
 miko test|sSsDoOm|usr_fa486593-aaf0-4257-9e77-4aef45e97efb|avtr_b2e0b579-407f-4cac-9d75-b6bf9e73d1f2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9c685469-8711-463c-b213-c0c9eb02d1d6/1/256
@@ -31964,7 +31964,7 @@ morris （max ＆ ruby）|MrDuster|usr_41a32c61-57af-482a-a641-23370380ff7f|avtr
 morro⁄ghost beelzebub|RosieBroady|usr_344e3a83-ef76-43c9-81d1-557058caa348|avtr_38e1f56a-00ca-452c-a64c-8fcaca55f5df|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2f971a41-52e8-462e-b908-240bf6d682cd/1/256
 mors|Shuwu50|usr_571adf57-684e-41be-aecc-962c3e84b64d|avtr_a4128348-e78d-4e4f-924a-e83b49e3a4b2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0d56fc41-42fa-4551-b07d-7e10f7d15e6d/2/256
 morshu|TheBlueBlur1710|usr_479ef3a2-3bad-426d-80a8-d1ff0d55340d|avtr_3bee05eb-97ba-4492-9bee-ce2bf2433e62|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d538dac4-1900-4843-a2ad-d756cb4d1f20/1/256
-Morshu|TheRealBossBB|usr_38dfee59-db17-4d40-b58c-9f18069cd55e|avtr_428486f5-a16f-4dab-908c-bae99112f06a|VRCNDb|PC|
+morshu|TheRealBossBB|usr_38dfee59-db17-4d40-b58c-9f18069cd55e|avtr_428486f5-a16f-4dab-908c-bae99112f06a|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_8a253fb1-1c4b-48e2-ab0d-c173ed89ea71/1/256
 morshu|Cardboard Cat|usr_6be7e905-99d0-4624-98a5-61e09472203b|avtr_e21f0adb-c33a-4174-ba78-18c41138554c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_147acaa7-3a8e-4ddd-8898-b903393f9f0f/1/256
 morshu - fixed2|TheBlueBlur1710|usr_479ef3a2-3bad-426d-80a8-d1ff0d55340d|avtr_d05bcda8-47d9-4685-aee0-1b1d271837cd|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_cd159a1a-0cbf-4dae-a990-45f2ae0d813e/1/256
 morshu ssj|Prima|usr_df8e52ba-24e9-417a-a4e1-2b115eb530a1|avtr_aad4a927-3293-4db3-b9ed-168dac2bee9b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e47d57df-e473-4c62-9fb3-7eda7f24d30f/1/256
