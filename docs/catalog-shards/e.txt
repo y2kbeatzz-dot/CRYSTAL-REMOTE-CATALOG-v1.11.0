@@ -1949,7 +1949,7 @@ darko 3001|ღ Elo ღ|usr_d37e5252-825a-4aef-98fb-ee3068d6e211|avtr_245b552c-73
 darkpit|Eightdeym|usr_67c06637-002d-45c3-ad6e-1018b7a17127|avtr_b34b9a7f-359f-4299-a64f-38a07f5cf459|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_5223bf79-b3c5-4953-b817-72b356b0f2e8/1/256
 darkseid|EdBar561|usr_cf845561-cedd-4fac-8032-7374136163c0|avtr_27f7487d-8d19-4cce-85d6-11c1bffe799a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_18d3eb66-e4ee-4c1d-8dac-ffcb0c304d72/1/256
 darkwraith|Eternus|usr_866000bf-6f6c-426c-9968-57172634f4b3|avtr_1563c687-9d2a-4ca2-bbe1-23a9411e6124|VRCDB|Unknown|https://files.vrchat.cloud/thumbnails/1881253475.thumbnail-500.png
-Darth Malgus （SW˸TOR）|Eliphas_TI|usr_2ed17cb9-a6bf-49b4-bd7e-748429671008|avtr_9c6bf448-9cd2-476d-b85c-2bdfdfcb4dd9|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_fc027129-2090-4d79-81c3-5f5e0be140b6/1/256
+Darth Malgus （SW˸TOR）|Eliphas_TI|usr_2ed17cb9-a6bf-49b4-bd7e-748429671008|avtr_9c6bf448-9cd2-476d-b85c-2bdfdfcb4dd9|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_fc027129-2090-4d79-81c3-5f5e0be140b6/1/256
 darth maul|El Chupacabra|usr_e90d8907-b623-4401-b064-bc11b11336b8|avtr_72401d68-a7c2-47cf-b6dc-85b3c46c6c1c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_28be86c7-b204-44e2-a964-fc0ed1ed4ecc/1/256
 Darth Vadet (TM)|Eliese|usr_a0a867e2-6cd8-4b11-a49e-c7116e5f70a3|avtr_9c1b5456-84cd-47ba-bd0a-5216fcfe41db|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_e4361861-4618-4947-b179-a576c642890c/1/256
 Dartling Gunner Bloons|Eνerest|usr_30ce774b-4d1d-4f86-95b2-7ef0b8cad024|avtr_ce05b36c-6beb-4163-a741-2c54e2509bed|VRCNDb|PC+Android|
@@ -13660,7 +13660,7 @@ meowmeowprincess|eepykat|usr_78b01428-58f2-4a5f-b2ef-22e89477899e|avtr_3ccdf0dc-
 meowskulls ［roblox］|Eggxternal|usr_5423209c-0891-4867-80f2-772ce6aaa7a8|avtr_efb773f5-18be-427b-868f-7be256f24753|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_987a6058-8a0a-4842-adec-30f8632de270/1/256
 meowtwo （sfw）|EliRoo-2004|usr_70c088e0-f9b7-4bb6-8f21-5274fbb74272|avtr_6033e11d-efab-429c-875e-42fd9786394b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_65bd9183-831d-4086-a0b0-2834d444aeea/1/256
 merc crossbow 2|epic scout|usr_10c793ab-9972-49de-84a5-ba1ff1780783|avtr_e3c592e3-3c77-4851-baa1-7270dc498000|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a3555028-b52c-4f92-a6a2-b9eedd11f888/1/256
-Merc Swordsman|epic scout|usr_10c793ab-9972-49de-84a5-ba1ff1780783|avtr_b1ae7a97-7fab-4f99-802b-73ee2a188987|VRCNDb|PC|
+merc swordsman|epic scout|usr_10c793ab-9972-49de-84a5-ba1ff1780783|avtr_b1ae7a97-7fab-4f99-802b-73ee2a188987|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_936a058f-fa2a-49f1-95eb-1ed134e47785/1/256
 mercedes slr|EXTracXz|usr_5aa929da-b15b-4688-9a8e-6058b20e7936|avtr_fbee6260-db75-4002-a530-15917813a0b0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_613be852-139c-4ed3-8320-3e5eaccded94/1/256
 mercury black （rwby）|Enverex|usr_2a7d7d7e-2b1b-40a7-b3ab-7caa1d964760|avtr_a2f38f26-3b2b-467d-bc7f-b050fc300c55|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bb9bb72a-bbd4-4c96-85a0-6d062847484b/1/256
 merge ur meshes ely|Elysion|usr_d5ccbfd7-0baa-4a40-acdc-47ed317eb2e2|avtr_2ed321b9-3b23-42ae-8190-71134c952bd7|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_2b071ac2-b50a-4023-83ad-f6f04e03dfb4/1/256
@@ -16011,7 +16011,7 @@ suujobbig|｜e-Rein｜|usr_e1152c46-db58-4da4-98fc-b0a99291f693|avtr_75ca9073-16
 suzu0ka|EROSˑ|usr_ad1ab6b6-fd75-4772-b1b8-a7aaf3a52746|avtr_04645035-9e41-4a2d-a8d6-ce477e782e6e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4b478dca-9ee3-424a-86d9-e2be69dc7b51/1/256
 sveta|ロールモデル ecad|usr_b8ac756f-e65f-49d7-825d-c1f1525cecad|avtr_f87f092a-6835-45d0-9ce9-31a9c480a4c8|VRCDB|Unknown|
 svvrcam_v3|eagles06|usr_16af7a1f-e1ec-45de-b5a1-68a26927e5f6|avtr_12a858d3-9ffa-42a4-b3e1-1cb70221446c|VRCDB|Unknown|https://s3-us-west-2.amazonaws.com/vrc-managed-files/thumbnails/3450535984.thumbnail-500.png
-sw - 5th brother|Đeadlock|usr_544198ae-f346-449a-95f8-4deff64e1967|avtr_1605bbf1-833a-464d-93d6-ccc71945c125|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_5f956631-5f90-44d2-9851-8762d53d7c74/1/256
+SW - 5th Brother|Đeadlock|usr_544198ae-f346-449a-95f8-4deff64e1967|avtr_1605bbf1-833a-464d-93d6-ccc71945c125|PAW+VRCDB|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_5f956631-5f90-44d2-9851-8762d53d7c74/1/256
 swaggersouls|EmbeddedVase|usr_88b37272-5ee8-4f30-9a02-7bd52febfb73|avtr_107c1399-e7de-4832-803e-ba175e539b9a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_29e67f0e-07ce-4d13-822d-8de0ea0fb039/1/256
 swampert|Electro39|usr_2f5f5980-e6a6-4f45-982a-c4ea04748910|avtr_c14d2954-c003-4237-9751-1c10115c772b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7e8f1904-d5f8-49b6-9f64-cf8cd7d134af/1/256
 swap azure|Elli_BuilderTRC|usr_d7fd3568-edac-4963-ac59-8ad378bcc96d|avtr_a1db9ffc-d7c7-4525-b2b3-3031092a7418|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b5e2686d-52ac-4380-be14-2445ff9600b7/1/256
