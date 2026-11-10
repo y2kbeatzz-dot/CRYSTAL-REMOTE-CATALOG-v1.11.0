@@ -1808,7 +1808,7 @@
 179|Feroni|usr_ff9bb248-29ee-4568-b815-57a3aaad3e41|avtr_75ed3582-1638-48db-8b86-01c383e79a22|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_056f9c6d-21f8-43b7-a2ba-28a421f100af/1/256
 17990|(Rus) 5652|usr_468762d2-8ae9-430d-b0a3-eee70fd25652|avtr_0d7c2405-bd00-4853-baca-12eb754f5c42|VRCDB|Unknown|
 17_arnold|とろろ亭やまいも|usr_92ae1207-5d21-4a70-ad1f-b70f6573feb7|avtr_4f710deb-9431-41fd-a3dd-5b96621d111c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3a521288-4dbd-4335-bcec-f536287a121c/2/256
-17_Ta_P|2ndCat|usr_b0754969-7aae-46a8-a06e-da583c0b6bf1|avtr_69d41858-d873-467e-8329-639770ec31bf|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_3acdf6e1-ac41-4128-9918-db898cb0e478/1/256
+17_Ta_P|2ndCat|usr_b0754969-7aae-46a8-a06e-da583c0b6bf1|avtr_69d41858-d873-467e-8329-639770ec31bf|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_3acdf6e1-ac41-4128-9918-db898cb0e478/1/256
 17_Yucchi_Xmas|Gura_1048|usr_95370c7b-9f88-46dd-b709-ee6e01d3f667|avtr_e76437bf-aba5-4f7c-b566-a359155d8615|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_90f0cba8-0009-447d-928a-53e0517093af/1/256
 17buck reroy|Slushy_Anime|usr_0e09b0e5-4147-44c9-9a4d-fa5eecc6080f|avtr_0b3e4828-33b7-4b53-bfbe-68023b8bc80c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_01d1ac2f-1e3c-4969-8643-daa5003523c5/1/256
 17BUCKS BF|HALL0W33N-ADICT|usr_3d37ac13-974c-4b33-86e0-3834354fcbef|avtr_1c1fef24-beb7-4250-8bfe-ba49df620e6a|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_ed061206-09dc-406f-8f8f-6b2acdda3b41/1/256
