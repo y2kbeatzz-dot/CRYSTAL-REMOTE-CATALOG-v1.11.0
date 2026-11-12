@@ -2462,7 +2462,7 @@ zis-101|2fast2kart|usr_64e71c92-3511-4e4c-a221-524e10eaae32|avtr_f0232086-933a-4
 ＃ 22|cеlo ﮎ|usr_acab5777-5713-4e32-8e04-eb64be436e27|avtr_664f4565-83f4-4fd3-a5c8-9d84362c01c9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2c62e991-50c3-4e51-9ebd-7060ad5e41eb/1/256
 ＃ 23s|Jah ®|usr_79283dbb-b74d-4d37-869f-60323c00c20e|avtr_dc40abb7-a30b-4490-b5d3-71b2336593bf|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_40b5ae41-ab92-46dc-b683-e4720cdf5940/1/256
 ＃2 sexy tumblr man|TheK1tsune|usr_3fe2d0f2-0b69-4d28-bf8e-163e4cb7498f|avtr_8f4e8821-d125-4a0f-b940-24e920db7a34|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_55261894-7aa5-4b80-9568-ba7289f20700/1/256
-＃2 TH|Sugoukari|usr_e3b7ae55-19d2-4adf-89f3-c9a9e3d58ae1|avtr_f780a86e-2c75-487b-9cea-7490a4ba68ae|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_df260bf9-f608-4236-a265-b92fb3c54160/1/256
+＃2 TH|Sugoukari|usr_e3b7ae55-19d2-4adf-89f3-c9a9e3d58ae1|avtr_f780a86e-2c75-487b-9cea-7490a4ba68ae|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_df260bf9-f608-4236-a265-b92fb3c54160/1/256
 ＃24k unwanted|kkypr|usr_dc29f58a-79dd-4317-af10-1a08c6fb3569|avtr_bb278606-ee4d-4f43-9dd0-dfc4f1d2fd1b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_684b1c0f-cd1a-40b7-bcba-ba9a07c90140/1/256
 ＃256fes onikko|kapibara19|usr_2bf0ab36-7c5a-4e90-a6b7-25282e9e8181|avtr_29a8fb6c-a5ad-4ca0-858d-8f97c642a708|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9f928f22-76bc-4c3c-9802-d3a19db4db4a/1/256
 ＃282 gardevoir|CrazyCollinator|usr_ce7d1748-6449-4917-bbdb-b905160a3757|avtr_84782698-df31-462a-9a97-d5c8a8bf263f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_63fc75c9-9b34-4b24-b4a8-299e26486c97/2/256
