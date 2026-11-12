@@ -1094,7 +1094,7 @@ beatrice oversphere|ElizTriad|usr_d4e8dd39-7a8d-49f3-bf56-48113dcf9c6f|avtr_7f55
 beau|Estefanoida|usr_d325e73d-47b6-4190-b26f-d0a266d75179|avtr_7ae6a6af-2ddf-40c3-bb36-b1b3c5dcc5d1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_73e95e92-cedc-4bd5-a2db-4bad9eea81f4/1/256
 beavbirb|Enderrrr|usr_c70362be-7d88-4fa8-bf1e-918e83157f91|avtr_be9a6f64-2b9d-459b-8665-4803287b3439|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a54691ba-76d6-4475-996c-5bcb0268fc69/1/256
 beebaboo|Рenguin|usr_f5956ba5-d7aa-4fe7-92b9-f4b2374ab2e2|avtr_3ebb20ff-a3a8-498c-b4d6-e3de36f5256d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_082b376b-7e0b-4756-8e0a-bffcbe1ea04f/1/256
-Beeg TG|eeeg|usr_deabd26c-71df-49b6-81c9-0ca606c206c8|avtr_b7afc467-e910-45b2-8a4b-c9658f8f5403|VRCNDb|PC|
+beeg tg|eeeg|usr_deabd26c-71df-49b6-81c9-0ca606c206c8|avtr_b7afc467-e910-45b2-8a4b-c9658f8f5403|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_4e130fb3-8b2b-4660-8dc5-307e5d77c445/2/256
 beelzebufo|EspinasSqueaks|usr_cc82d99c-6b17-4e54-92db-3391a83b3292|avtr_2dd29756-63c5-498b-a979-fb5f21b38f9e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1807155f-d4d8-4c02-a363-21f885700cdd/2/256
 beep boop weeeooo weeeeoo bah waaaa pop beep beep|EclipsedCandle|usr_18dc7547-466f-43d2-90d8-28593ed9d0dc|avtr_da982604-3a41-4b6b-90ae-f0ed7bd62a07|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c36a25e5-2875-4c2b-8544-024c32d3afa0/1/256
 beetlejuice|Eugene H․ Krabs|usr_d1b22863-75ac-4a4d-b3fc-5616b80de644|avtr_da3f2668-6cb2-479a-a076-a7807d69f877|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_75f9ef99-faae-4d55-b77b-15c78c704f4b/1/256
@@ -2065,6 +2065,7 @@ destiny 2 - vex hobgoblin|Đeadlock|usr_544198ae-f346-449a-95f8-4deff64e1967|avt
 destiny 2 - warlock male|Đeadlock|usr_544198ae-f346-449a-95f8-4deff64e1967|avtr_a1dc0bec-80ec-4979-9f8f-6ec4e2a73b94|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7a042803-153e-45aa-a71a-f12dfb201daa/1/256
 destiny by velvet＃0888|ｖelvet|usr_640e57b4-6a41-486e-8d39-b4ba5ebe6cb5|avtr_61f20b98-02eb-4d48-a0be-1131fa668e10|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_84758de6-427e-4eb6-b6d8-1e05a539ae9b/1/256
 destruction pcq|Eɳȥy|usr_9c990441-87dd-4f23-82f2-54000d6ef8a6|avtr_36f1e3fb-5a77-49f1-847d-63caf27e2f65|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_af50d671-4438-4156-968c-513e70d55598/1/256
+detg but like he is roblox|Eggxternal|usr_5423209c-0891-4867-80f2-772ce6aaa7a8|avtr_ae9d931a-88f2-49a8-9450-4fc77f734f12|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f9013ebf-601c-45bd-8d82-512475407dfa/2/256
 deus vult pub|Exozze|usr_6c4965d9-53ba-4b3a-8e88-abe6689bfc0b|avtr_f41e4c49-d82c-40ee-9b6d-d000f89aa1d8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e3514a8b-8c63-4a26-bc0b-2f1accd1629f/1/256
 DEUSA LO-FI|embananado|usr_be8f5dce-60ce-4faa-b283-167152cc490a|avtr_97651ec1-dc84-4fcb-b51b-26778bf66ccd|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_d24b3cf1-85fb-4fb7-8e7d-136c94d1cfcc/1/256
 devastator|EspinasSqueaks|usr_cc82d99c-6b17-4e54-92db-3391a83b3292|avtr_ad1703bb-8f02-4013-bffb-3bc457895f75|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1d9a94bd-a8a9-4616-9748-a79a0b568083/2/256
@@ -7038,7 +7039,7 @@ emo c-walk|Eternal-Pain|usr_30ff4e3f-5042-4a6d-8990-d1ca9d1b7eea|avtr_0bda786b-3
 emo caelus|charliesfilming|usr_100d10be-48c1-4490-bbda-155aab66e839|avtr_66d8a381-a0a1-412b-82b9-420414fc6353|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0f2b4ee4-a2b8-4af0-b7ab-3b037ace94f7/2/256
 emo cat|N̶Z̶L̶|usr_6f2ed791-0104-477b-9ec7-5de4a24091b7|avtr_cfe4de45-544a-4f90-885f-5f616ec20ce2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a3036afb-327e-49b8-a925-f96d788b65d3/1/256
 emo catboy zhongli|overdzed|usr_2957c7d9-7386-4899-b56d-6989b07890e7|avtr_c92240cc-f53e-4e32-b154-65213292de20|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_872f11e5-095b-4b91-9255-9cfdfd79fe89/3/256
-Emo Catgirl Guoba uwu XD X3|Ｋｏｉ Ｆｉｓｈ|usr_78dce4d5-c4eb-46e8-b6a3-971968507386|avtr_42ef3370-ebb9-46f9-8877-7fa313322c98|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_68e122fb-2452-483d-a090-366c0f98ad0e/1/256
+emo catgirl guoba uwu xd x3|Ｋｏｉ Ｆｉｓｈ|usr_78dce4d5-c4eb-46e8-b6a3-971968507386|avtr_42ef3370-ebb9-46f9-8877-7fa313322c98|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_68e122fb-2452-483d-a090-366c0f98ad0e/1/256
 emo chbi girl 3․0_|isuki_400|usr_6a62ab59-811b-49fd-beb9-0206adb3df45|avtr_cbc4765f-d746-4cd6-bede-61ac2c39434e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e058f63b-8547-4d96-a964-fe008d406f4e/1/256
 emo chibi|Harmful Comboss|usr_bcb42d6c-a182-4b1b-a368-23b6320ca60f|avtr_20e95cbf-d780-46af-8a2d-2da2753e5ae0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d3135ccc-5ab1-4dc8-b0c7-bac596bdd147/1/256
 emo chibi|73d5b15ae3d448b|usr_bcb42d6c-a182-4b1b-a368-23b6320ca60f|avtr_7d147ce9-b2e5-47f3-ba22-fea68b565dbc|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e7b30420-c04c-4869-8aad-a9163b62b2e4/1/256
@@ -16143,8 +16144,8 @@ tfo wheeljack|ender_osinite|usr_4f6258f5-a60f-45d9-b884-29ce00a37179|avtr_6b5631
 tfo wheeljack|ender_osinite|usr_4f6258f5-a60f-45d9-b884-29ce00a37179|avtr_a35d093c-b3f6-40c9-9101-16746056875a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ffb540a7-7221-4fb5-9430-0d9015fbd015/1/256
 TFSkull BH|EmadVRC|usr_b1e1e408-74da-4010-9d8c-24397cdb499f|avtr_72d638c5-b57e-45a3-8279-9c911cbfd3b8|VRCNDb|PC|
 tfu optimus|ender_osinite|usr_4f6258f5-a60f-45d9-b884-29ce00a37179|avtr_048b109c-6377-416f-b8f5-d55f5789588f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_85382dd0-1ce7-43e6-9516-2f34b7c53f3e/1/256
-TG|e-mail0000|usr_101fd44d-cd13-433f-badd-957699cf2b77|avtr_41ced83d-1166-4c73-83a7-ee9b24247999|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_744833a5-42ad-45dc-a30b-c1867096c5d3/2/256
-TG|Erosales1|usr_b9568d90-33c6-4bba-8414-7cdbb56a35fc|avtr_6b3508fd-4341-45a1-a479-2118e7f248aa|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_da8431ca-89e2-4fe7-ab5f-11b25cfa766f/1/256
+tg|e-mail0000|usr_101fd44d-cd13-433f-badd-957699cf2b77|avtr_41ced83d-1166-4c73-83a7-ee9b24247999|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_744833a5-42ad-45dc-a30b-c1867096c5d3/2/256
+TG|Erosales1|usr_b9568d90-33c6-4bba-8414-7cdbb56a35fc|avtr_6b3508fd-4341-45a1-a479-2118e7f248aa|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_da8431ca-89e2-4fe7-ab5f-11b25cfa766f/1/256
 tg xs （reupload）|メeni|usr_649758e8-be90-4999-8731-3b8ebda76a4c|avtr_ad9d07c6-4fb8-4b23-aca9-2402aecec745|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0b8df253-1167-48bd-b5b5-28ef6c2ca604/1/256
 tg's wife （reupload）|メeni|usr_649758e8-be90-4999-8731-3b8ebda76a4c|avtr_eaafb022-9aea-4bad-a50c-16e961c17d1c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b9835212-01fd-484a-8ddb-280256ccf947/1/256
 TH|EDOMoon|usr_91ac397e-bb48-4ade-870d-1c9fac035640|avtr_b34ac617-bfee-4ad6-ab91-712a03906df6|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_2f1d8251-36e3-4350-ab32-1b0b6b413da8/1/256
