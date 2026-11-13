@@ -2459,7 +2459,7 @@ cachi|denverintwitch|usr_51bbe270-1ddc-4edf-aa6d-a72ddda7bb51|avtr_ba548260-5c46
 cactaroo （by darkmodzcx）|DarkModzCX|usr_f1aedb0c-3459-401d-a397-ecadb42521fd|avtr_4e5f3295-1fb3-4820-bbc6-529ab4686060|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2a42ba4d-535d-4bef-807a-8294ce4ffbbe/1/256
 cadk|- Dᴋ|usr_a2091031-c846-43a2-b232-157e8535ed04|avtr_e3d21d31-03a1-49d6-992c-949f7c8e19f6|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b35b6b03-0431-4ac8-99fc-b6e14e3aac3b/2/256
 caeser zeppeli （diamond records）|DWERKY_majin|usr_85d6f960-9edb-4cf3-b2cd-baf0206c53bb|avtr_6912860d-51e5-42fe-95c5-17f45bde816b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ea4c2bd8-b825-4082-acbf-56d48ef82931/1/256
-Caged Dream|Dοllie|usr_43dc9d6a-805d-4823-8328-78a9de3efc04|avtr_c9b2339e-5674-4e4e-b983-c66750300908|VRCNDb|PC+Android|
+caged dream|Dοllie|usr_43dc9d6a-805d-4823-8328-78a9de3efc04|avtr_c9b2339e-5674-4e4e-b983-c66750300908|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_da425d61-3077-4f69-b283-40f2c9a17348/1/256
 caged fire|Dοllie|usr_43dc9d6a-805d-4823-8328-78a9de3efc04|avtr_9c07a99e-fa13-488b-a648-f23e786548f5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d8cca0c3-5790-40d3-9f59-ca154d312a93/1/256
 caine - tadc - public|Dαʀκ_Fιʀε|usr_68c41403-2e9f-41a3-98bf-7c1597fce197|avtr_40a1474c-96b6-4b15-9d7e-0b9d07da4a6d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c588bcd8-c0fd-42c2-9ba0-be57106ceea4/1/256
 caine tadcǃ|dracqonequus|usr_0a05104d-6219-4469-9297-4bb4bcac1e35|avtr_b555e795-9833-4fff-b70a-c8a784dcd3b2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9002206d-64e7-43cf-804f-bed1310b3be1/1/256
@@ -31071,7 +31071,7 @@ TK Goose|χDELTAχ|usr_08efa29a-b19c-4721-a6f4-2b35e0f3b470|avtr_ab183051-ba10-4
 TK （UPD）|Doonie VR|usr_4419652f-ea74-41e6-8956-c171df7b46ec|avtr_676858dd-993c-4399-86eb-9a1ecb13c401|PAW+VRCDB|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_24edaf70-81e8-4046-b7c8-53ac94f35107/4/256
 TK-1021|-David|usr_194d5f89-5839-4cc4-9742-2e01fa22d14e|avtr_78a81f5b-f235-4be3-beaa-91a56789aefd|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_418f77e1-a6a2-40ee-975d-4532f75d138b/1/256
 tk-bt|Dazel|usr_d025d8aa-ad2a-4a0d-b3c8-2d71701f00bc|avtr_f04a895b-1c1e-4abd-a570-b45978f94cbe|PAW+VRCDB|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_1e528606-7d41-4eca-94cd-a1eaa9437834/1/256
-TL|Deesilsnarf|usr_e7de57c1-acff-4c3f-ab9d-715565034a36|avtr_1da30077-96a0-4385-9b40-8c8651fb644a|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_cb497118-954b-4167-ab65-9d0460d7ae26/1/256
+TL|Deesilsnarf|usr_e7de57c1-acff-4c3f-ab9d-715565034a36|avtr_1da30077-96a0-4385-9b40-8c8651fb644a|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_cb497118-954b-4167-ab65-9d0460d7ae26/1/256
 tloz：mm raccoon|DaMemeBoi777|usr_d1dda39f-a105-40f3-a783-7170a67a2d9c|avtr_7c480051-f281-454c-b5d5-344bae6a58c6|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_63a438bd-2af8-4235-b310-99e814fef80b/1/256
 tmbs 1|Daedolon|usr_93c56e41-3f3f-48a3-8843-92a89271e917|avtr_5b9b7245-b679-470b-a60b-3b7676616933|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_143bf2e2-a5bd-4937-9dfd-1a3632fd6b07/1/256
 tmbts|Daedolon|usr_93c56e41-3f3f-48a3-8843-92a89271e917|avtr_c8f76b60-91c8-43fb-85f8-83ab607ec809|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3f4569e2-6d37-4cfd-8b69-93848c0e326d/1/256

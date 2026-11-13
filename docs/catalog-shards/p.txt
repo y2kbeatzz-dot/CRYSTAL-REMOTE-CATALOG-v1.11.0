@@ -6824,7 +6824,7 @@ maria|PepsiColaSprite|usr_79dde621-eae2-426d-a20d-eb10c31593ac|avtr_cfa1212e-4cf
 mariachi|PabloMcSpunkles|usr_fbd10079-3f7d-4b70-a0b2-0ac98d961690|avtr_93d66a8e-85a5-472b-a6d7-86f9f4351a85|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_01b46276-5c9a-4794-89fa-98f169379962/1/256
 mariachi por jeremí|PabloMcSpunkles|usr_fbd10079-3f7d-4b70-a0b2-0ac98d961690|avtr_c2425596-0362-49a4-b0e6-623e8a93f112|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b6d1cf73-0580-4e83-852a-7315924dacd9/1/256
 marianne war|PyrotechnicCake|usr_e43f12aa-dc71-41e8-aaff-59f6008d09e8|avtr_3fb8ac63-e13f-4abc-84cc-6dda9885c7f3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a872b936-62f9-4390-b224-403632df573b/1/256
-Marie Cuttlefish|pinkyretro|usr_2f30ee04-712c-4d6d-b2b4-bc29cd9aae19|avtr_0fed4747-8ed8-479f-b7cd-7912bc983cd2|VRCNDb|PC+Android|
+marie cuttlefish|pinkyretro|usr_2f30ee04-712c-4d6d-b2b4-bc29cd9aae19|avtr_0fed4747-8ed8-479f-b7cd-7912bc983cd2|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_86071134-81ee-4437-9e32-242ab75a65a5/1/256
 marina cow dress|Princess_Moo|usr_d2b2da5a-0f72-4c05-b864-3bc9b1af34d1|avtr_ecf6ed16-e13e-455e-9a08-e71c2a37da16|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_cb5c58ea-df73-47c3-9a14-57a8415af086/2/256
 Marine MP|Pearce_Cypress|usr_15d71086-5cfa-4ebd-a9a9-9224e319b47a|avtr_aa59c4c4-d1f5-4759-94b8-cccda7d96b76|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_b6baa28c-d9a0-40f2-8947-926f3c08db2a/1/256
 Mario 64|pigo|usr_38c978d7-bb54-42b8-a527-a29e33b91b92|avtr_4ad7b663-ea58-45cc-9e2a-298679cc1cb6|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://s3-us-west-2.amazonaws.com/vrc-uploads/images/image_1200x900_2018-01-08_12-31-49.png
