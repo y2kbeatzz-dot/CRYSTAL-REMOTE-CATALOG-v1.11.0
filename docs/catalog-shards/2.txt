@@ -859,7 +859,7 @@
 212th spemotrint phase 1|Mooose|usr_94521d0f-6afe-46b1-b6ce-2ce44ea0d704|avtr_d8945685-4813-4919-ae6b-58a0dcbfde11|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c5153c27-8b60-40d3-9be1-894087dca1f3/1/256
 212th standard phase 2|Mooose|usr_94521d0f-6afe-46b1-b6ce-2ce44ea0d704|avtr_8370d90e-69af-431f-9bbe-baa174376d3e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7c6f23b8-b8c3-45c5-851a-50b212d0936d/1/256
 212th tgre trooper|OLDSIP|usr_c875e18d-3ef8-4fe3-88b7-2591783b0e3b|avtr_72df3bc2-1cf3-402f-a591-483b502363d0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b6cccec8-8361-40a4-b643-8149ea45686d/1/256
-212th TK|_DillPickle_|usr_948eda27-7e41-4420-bda6-c9a8528d923a|avtr_03549840-c630-4b78-8e68-9e719daf278a|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_4adb61d0-8b06-4c2b-951d-0731a4391702/1/256
+212th TK|_DillPickle_|usr_948eda27-7e41-4420-bda6-c9a8528d923a|avtr_03549840-c630-4b78-8e68-9e719daf278a|PAW+VRCDB|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_4adb61d0-8b06-4c2b-951d-0731a4391702/1/256
 212th trooper|Watashi․02|usr_de015759-17f3-4754-82f0-f1329b9121f8|avtr_133ab4d5-426c-432e-a942-9ebb2819e5a5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2b0e0785-855a-4d63-90e2-3ccf37db2fab/1/256
 212th trooper|~Darth Vader~|usr_622b07e8-5181-448e-a9c5-d572346e5e11|avtr_6931f802-739a-4227-b13c-4d33d6fcc911|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3b8cfdd6-86c5-4d8a-bf21-4d583882518c/1/256
 212th trooper|TH3_N1GHTSHAD0W|usr_3cba7e7c-1cd9-4c4c-a114-a430b727054f|avtr_945903ce-967f-46f7-9982-b8c9b9841bab|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_350563a4-f8ec-4eb1-b06e-e021c8ba91cf/1/256
