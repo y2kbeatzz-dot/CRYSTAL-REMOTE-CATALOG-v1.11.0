@@ -10624,7 +10624,7 @@ deuxieme_soeur|Predarno|usr_f28e695e-96ca-4f05-b990-a9f01d994459|avtr_76b34910-6
 DEUZAR PUBLIC BY DJ M․S․N|DJ M․S․N|usr_c5f892ea-17b0-4d84-9fd0-3600e631b7f3|avtr_9eb9ba75-f7ba-49d4-985d-9c06c787bf56|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_c2fba552-3e93-442b-a67f-9bf2ebed245c/3/256
 deuzear|FullyRedacted|usr_b4d86383-8a08-4ce4-b5ee-e7c9d1e644eb|avtr_544c32ed-0326-4c5f-bf5c-73530235b59d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2b465f9f-5ac6-41d4-93fa-f2ffda171675/1/256
 deuzear|Morghus|usr_a190e2f8-203c-4e6e-b1c9-3c23ef3c3028|avtr_aac77dc3-17a6-4472-b322-516a81b87576|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_64891da5-6144-4bf1-84d4-52d0d401089b/1/256
-Deuzear - DragonServer Edition|QTheÐragon|usr_81415a82-8d02-45d2-b001-b6ccdb57b0f7|avtr_bb473d9f-ef7b-41a3-8e13-289e42bc4a25|VRCNDb|PC|
+deuzear - dragonserver edition|QTheÐragon|usr_81415a82-8d02-45d2-b001-b6ccdb57b0f7|avtr_bb473d9f-ef7b-41a3-8e13-289e42bc4a25|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_f4e96b19-6078-4df7-b931-09f48e83eba7/1/256
 Deuzear Custom|Weveonix|usr_3ecc31de-b83d-4ba0-866a-2f0eb77fe3dd|avtr_215a32ff-1f8f-4605-b5f5-1b28f75f38f0|VRCNDb|PC+Android|
 deuzear fire （base model） gimini|Gimini White|usr_c3b6ae9b-e20e-4e03-a7c8-37c4d37599b7|avtr_164d30f2-a32b-4021-9cab-f2fee43a1412|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ca3d5183-ee56-437a-9000-d05f59f07b0d/2/256
 deuzear sfw|Dodid|usr_6cf9e3d7-e82b-4dd2-8e04-3ab74d53a84b|avtr_a0f48a12-0493-4bad-90ea-8887d9625a92|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2b4ecf6e-4cee-45b4-b1db-691862f79243/1/256
