@@ -1071,7 +1071,7 @@ dj m․m man|oddstone|usr_481b9412-e309-4280-a633-2dbed6b28b61|avtr_37150ae5-894
 dj no knife|O A K I E|usr_43e58bd5-b62e-49e0-881b-7d1dfd630408|avtr_1db7aa39-b87e-4392-a648-05a5bc5f187f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9a588fa6-3e42-4dd9-a0bb-8386532ad229/1/256
 Dj Pig|OWT_wales|usr_991cc93a-5501-4a5b-a73a-9a3253faa9ee|avtr_71b8ea12-5759-4148-9cee-8b4cba7b2ebe|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_42c6e17d-e60e-49dd-b71a-1dcc588eda19/1/256
 DJ Transcendental|Ocublox|usr_24a69e82-835e-4963-998a-f70cfa61b27a|avtr_6580b6db-e8cd-4839-a9eb-82fe7f1ade1d|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_d13dcd62-2d21-4f51-ac1d-3daf8d3a4474/1/256
-DJ YONDER FORTNITE|octodawg22|usr_2ef7cec3-62e2-43af-ba9c-ee04b2fc1986|avtr_465f37aa-0119-447d-84c4-1a69de560606|VRCNDb|Android|
+dj yonder fortnite|octodawg22|usr_2ef7cec3-62e2-43af-ba9c-ee04b2fc1986|avtr_465f37aa-0119-447d-84c4-1a69de560606|VRCDB+VRCNDb|Android|https://api.vrchat.cloud/api/1/image/file_dfdd7294-d5af-4901-8a06-35575538d4d2/1/256
 DJ ≺Kon 3․0≻ Oguretz|OXOOO|usr_d7bdfc0d-8785-4606-8128-f2e83bfb0a2c|avtr_a8d48394-ca69-4f2d-9d30-997dc6529c0a|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_cff48fda-b5c0-4e5e-bff1-2c02bf2f1730/6/256
 djbooth|Oniku_kurumi|usr_6093d3f8-a68c-4716-a9a1-5e83244ca816|avtr_544fdb3d-2f55-4fd4-8e96-2b634ac47717|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a780923e-f039-45c6-9e6a-85333499fed7/1/256
 djekill|Os․Wałtz|usr_db62dc16-b105-4cc2-8142-a77d210d51a0|avtr_440c9919-cf62-4112-bb62-5159e68e7739|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bf2436be-7e70-413f-907f-972768fd8770/3/256
