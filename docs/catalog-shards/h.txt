@@ -4096,7 +4096,7 @@ halfheightbpmiku|Murph_n|usr_8da33f68-554f-409f-8543-9021b3b98d1f|avtr_ce88495c-
 halfkorean|Lulu°sea|usr_3db1c06d-fa02-415a-ac3c-f663ca17b9d4|avtr_b2b37ad8-e083-494f-a169-d5fdb103cf08|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e7717b3b-7674-46ec-b8b2-93648ad4c17e/1/256
 halfskull no mask 1|NeomiFloof|usr_bbd0af28-5c4f-4d71-9b7f-8e318e3a27ae|avtr_b78ff601-1716-4fb2-9cfe-3215dcfd9f67|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ec717cc6-8447-4ef0-8ae7-3d01160ac6e2/1/256
 halfsmollcj|Spych|usr_8c47f3fa-1324-4318-afbb-197ec71f6779|avtr_519ef3fe-1a7a-4a09-aa1e-4767bf6d729f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_cad2023c-ae22-489b-81df-2195d65cc0e9/2/256
-Halfswording It|The Lamenter|usr_3c9a1c4c-839e-481c-a830-05d02ff970c9|avtr_e1cb5017-48e8-48f0-8a2a-c3bb6f22c364|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_bceb4874-ba65-4f1d-8d96-926f0664bd36/1/256
+halfswording it|The Lamenter|usr_3c9a1c4c-839e-481c-a830-05d02ff970c9|avtr_e1cb5017-48e8-48f0-8a2a-c3bb6f22c364|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bceb4874-ba65-4f1d-8d96-926f0664bd36/1/256
 halftone girl|Graelyth|usr_b130c4c8-fbd2-4d81-b1ab-a752cfff599a|avtr_5b88f51b-976a-484a-83e6-7cf098f7010b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_afedf73d-e96a-4d38-9523-f402746441da/1/256
 halftrack|LockTheViking|usr_757bda14-03ba-4eb1-9cd6-f79f8b75f1ed|avtr_d93b6ff2-e4c9-44cb-80b0-e9be2d1de35e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_17073c65-48ea-4f6a-9489-52aea562a9c4/1/256
 halfv2|__River__|usr_62175019-7412-4d50-ac4c-c81281d9dae4|avtr_cab1e34c-636f-422a-859f-c627786e4623|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_41e4ca35-aec6-4c5e-88d3-3b0bdc7aa0e3/2/256
@@ -16402,7 +16402,7 @@ Melony （Pokemon Masters EX）|Hedgiebeast|usr_1e3d5a04-1821-4da9-97e9-0ed4727a
 melvin wifu|Halligeno|usr_8ffa0a0a-4c31-4902-9022-0120267c1bb0|avtr_38da9369-fd52-4994-ad34-bbd8201adf54|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_fd7a3d97-59cf-4532-a7f1-a9047559f0b9/1/256
 meme-173|halenriser|usr_e029ffe0-57e5-4d7f-ba0e-2275b5421fcb|avtr_b506f41c-0693-448d-bbe3-d8dccfcc9c0f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_5719f684-2adf-4a88-b385-415957f56d33/1/256
 memio boyo|henryspace|usr_13b4c5a1-331c-4789-a1ac-0cd01201853e|avtr_f2b1d277-65fa-405c-85f5-ad12cfdcb637|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_136481b8-c5e2-4fb6-8ca5-dc7913b7618f/1/256
-MEMORIES （LEVEL 18）|Hi_I'm_Oni|usr_a3838e5c-aa81-4ae9-9e2f-8d0598339602|avtr_3a69d27b-16fa-4b33-b93a-592a5cdefce0|VRCNDb|PC+Android|
+memories （level 18）|Hi_I'm_Oni|usr_a3838e5c-aa81-4ae9-9e2f-8d0598339602|avtr_3a69d27b-16fa-4b33-b93a-592a5cdefce0|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_6c7af336-84e7-4b10-8794-49d8d9ac2438/1/256
 menininha|HeitorzinXD|usr_0f553ec3-6335-44a1-9718-e04ab38e925b|avtr_f4e237bf-93d9-411f-af88-e1242b2f951b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8d0480d1-85d0-4288-af32-a0b8eeacde88/1/256
 menw_i|High_Priestess|usr_cb4dcb62-a07e-48dd-b371-5b4481cd5bc1|avtr_319f42f6-65ee-4fee-92b8-9d260297d885|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_10600bac-a4dd-46c2-9a41-bb4dff777b43/1/256
 meow|HY_Mia|usr_8b0e62ea-d2d7-48f0-8118-e7ff938b1772|avtr_5379b6eb-6694-4aa6-93ab-ba3fc4888e56|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_27de2180-c6f1-4c40-8f89-12b431b07694/1/256
