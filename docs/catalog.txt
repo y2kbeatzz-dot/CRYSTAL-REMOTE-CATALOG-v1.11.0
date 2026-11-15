@@ -1721,7 +1721,7 @@ c h a i n e d vt|JazmineVT|usr_2e1d049e-6946-4bde-963d-0149dd03db3d|avtr_be3bcc3
 c-1000|Revs333|usr_2d3d1597-c711-409e-8ddd-11443d07b9a6|avtr_39ecb494-8a71-448f-ad60-df5b2e1a87e8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_be0ea29d-e843-40d7-947a-814ef3837422/1/256
 C-Qs FD3S（前期）|ミスターAW|usr_eb10c24f-3125-403b-96ee-577bfec6d0d8|avtr_c56c2765-9a02-4a61-bcbc-7af6aa91a085|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_2606e6a5-dfbe-427a-a325-89a19362b546/3/256
 c00lkatt|~ᴅᴏɢᴇ~|usr_9643f84f-78bc-4bdb-9ceb-3c14a265edbd|avtr_9693b28a-5180-40fc-984a-bd2083c76713|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_53455e1e-70d8-45a6-9922-880a04fbb48c/1/256
-c00lkidd （tr）|fɛrn§|usr_e64ea650-f79c-43c6-9b3c-b76de0a481e2|avtr_108527bc-aaf6-44b3-a71f-0dc89a5efbec|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_87372a01-7554-4984-982c-1e59f24042f7/1/256
+C00LKIDD （TR）|f3rnzz|usr_e64ea650-f79c-43c6-9b3c-b76de0a481e2|avtr_108527bc-aaf6-44b3-a71f-0dc89a5efbec|PAW+VRCDB|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_87372a01-7554-4984-982c-1e59f24042f7/1/256
 c254|silentsnowfox|usr_152e841d-d1fd-460e-8109-84b72fc313d8|avtr_4d80e7b7-c48a-427e-a30b-66672436b5d9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ebbbd1a5-974b-43ce-917c-2fbeb610bd88/1/256
 c628 smol|Mikadolad|usr_bdfdd3bc-675f-41b1-9278-b3ea7b9e7fc1|avtr_cd68611a-4b9b-4bd9-b448-452c8f23d138|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a52c1251-f39c-430f-9ace-6c2c10c8e5f7/1/256
 CA KURURA|trAcerZ|usr_b5c72d09-c4f1-4843-85fb-ec4f55d24f47|avtr_b313d778-4e95-44f9-91bd-7edc173b3651|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_d96f4116-af27-4f29-93d3-594e58482f14/1/256
@@ -10393,7 +10393,7 @@ toyota corolla apex ae86 trueno|Parkourteen01|usr_fa937c34-a76b-450e-8260-470799
 Tozik|armament0|usr_f74a9bd8-1893-4950-965d-088a072abc25|avtr_fbe6dc55-def7-4c84-b266-444ddbab5847|VRCNDb|PC+Android|
 tpg96|CPG96|usr_fff319ee-f23f-4647-8ce9-94a7bf51ba0e|avtr_7dc97f08-c847-423b-8168-b617ffd483c4|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_be999e6d-f984-4536-84a7-16ee155b4e06/4/256
 tqr ＂p-2 base＂|~8155~BLUR~|usr_8f529f30-a20e-41f8-b204-aa05abda66b4|avtr_aeb1bc93-e8e1-44a4-9652-298a1b204654|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a97647cf-aa82-49c1-a4ab-24a5fbac316b/2/256
-TR Engineer|Bray192|usr_4a1fbfd7-e645-41e6-815c-83d9d14122d8|avtr_bda07259-d839-439b-bed4-1fc9bee9da8c|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_ca0ba003-7f95-4670-af1c-762e08e4f67a/1/256
+TR Engineer|Bray192|usr_4a1fbfd7-e645-41e6-815c-83d9d14122d8|avtr_bda07259-d839-439b-bed4-1fc9bee9da8c|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_ca0ba003-7f95-4670-af1c-762e08e4f67a/1/256
 tr pvt infiltrator|_Turbo|usr_dc9adcaa-3ab7-47e4-846a-30e9daa0f438|avtr_a56fda01-4134-4fa3-a07e-dfd74e57c959|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_cd586285-d11f-456d-9d47-e5a4611c3d6b/7/256
 trace （ jedi knight ）|iiPhase|usr_9ec20e33-a6d1-4db9-8e43-d39e9464b051|avtr_daf17b1e-35d0-4af0-8491-62d782318cc1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_67f1704c-e519-452e-858f-80140de59950/1/256
 tracer65|weso111111111111111111111111|usr_62546c4f-5f9f-4cec-8e0b-4081e9e69d35|avtr_5064622b-870d-4196-b845-0848d21742bb|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_35b8b9be-f4f3-4997-b53f-78ec71da3fba/1/256

@@ -2481,7 +2481,7 @@ lyza the annihilator|Omonox|usr_ee451cb6-4200-405d-847e-72bc3e3ad57b|avtr_a0aea6
 Ma wae|o fodido|usr_23645e5f-f110-468d-9d42-980258c1aa56|avtr_19f79ff3-bc2d-4400-83d0-4b93fee1fdcb|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_9e3349d9-66b4-48fa-b4ac-738e964728fb/1/256
 ma-bo-|omuraisu|usr_d4813f54-15ad-4471-a516-0751ba80abe3|avtr_137db436-8144-4f28-b976-a5dd443453c3|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_a6cdb1b7-e5b0-49ab-a6da-5df7611be9e2/1/256
 mac's avatar thing|Odzertex|usr_e38fd227-18ef-4594-bc22-d32cc1f0656c|avtr_32ea6097-449c-4ebd-bb73-db824e3681d7|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_52bc9d8f-f1c5-4235-abf7-a0fb8b184018/1/256
-macabre springtrap|~-Olena-~|usr_3feada56-130c-40ec-9aad-2548d997df12|avtr_1b12cc28-3bad-4502-aa7b-b1a31bf372de|VRCNDb|PC+Android|
+macabre springtrap|~-Olena-~|usr_3feada56-130c-40ec-9aad-2548d997df12|avtr_1b12cc28-3bad-4502-aa7b-b1a31bf372de|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_bfa46740-61d5-4076-907e-3150402b17fb/1/256
 macchi|omuraisu|usr_d4813f54-15ad-4471-a516-0751ba80abe3|avtr_be4beacc-5596-4f42-87b6-9dad0b8f53ec|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6d90608e-a206-4ebf-87a4-22ddfeb15995/1/256
 machamp|octodawg22|usr_2ef7cec3-62e2-43af-ba9c-ee04b2fc1986|avtr_0e7625f7-0a5d-4db9-b8af-0fb361cb17eb|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b7f3088a-ae8f-41ac-b8e6-87327dc3dc06/1/256
 madara uchiha （summer）|Okay_yyo|usr_6186ac4e-8742-4f9d-ad0d-e0ee7e2271fd|avtr_9ee68a92-ff85-4063-bce4-41859de1e732|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f1190680-13da-41ca-b27e-83d9fa1eda80/2/256
