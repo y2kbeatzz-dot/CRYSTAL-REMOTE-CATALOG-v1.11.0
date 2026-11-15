@@ -2169,7 +2169,7 @@ firegodtesselfc|V⧵⧵|usr_a8ed4207-99e3-4b2d-9be1-38155c611b5d|avtr_8e8f5caa-0
 first avatar|Verraa|usr_e6de8267-4126-4e9d-8247-3036ec078d59|avtr_9d5dd4b7-3906-4532-93e4-bceec8cdc2dd|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_10fef766-d7fc-470f-afe6-f4315e775da5/1/256
 First Blender Avatar Viski|Viski ˸3|usr_01d25379-6103-4480-9c54-5db5a232a0bb|avtr_8e8be6f7-184d-44aa-af15-8ba6739d9ace|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_0f829bdf-f031-4cdc-a47c-4b2cbbfe1411/1/256
 first blinker (besides the OC)|ver0na|usr_6ea54d5b-21f5-433d-94e2-9045c994e52a|avtr_d6b08b6b-94dd-41d3-9d53-e1842d8228c8|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://s3-us-west-2.amazonaws.com/vrc-uploads/images/image_1200x900_2017-12-27_13-53-26.png
-First Order TK|VonTried|usr_a3c74e85-2350-4834-beba-b2ec8ecc414a|avtr_d63f0065-e952-4cef-9833-969238164691|PAW+VRCDB|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_ddbf302d-ea8a-47e6-8916-ba0690f307fc/1/256
+first order tk|VonTried|usr_a3c74e85-2350-4834-beba-b2ec8ecc414a|avtr_d63f0065-e952-4cef-9833-969238164691|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ddbf302d-ea8a-47e6-8916-ba0690f307fc/1/256
 first order trooper commander|ValerieTheKitty|usr_1ad23a24-ddcd-488f-bcf1-e2d91f89d308|avtr_0904deea-535e-4d13-a50c-b8d22ee5ea03|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_07d5bd6c-b1c5-44b6-86b1-9c4984b6292c/1/256
 firstavatarfoxfixed|Vision|usr_08f6c131-e959-4136-934d-1515c99990f8|avtr_c51278eb-dc7d-403f-b562-a3406d66be88|VRCDB|Unknown|https://files.vrchat.cloud/thumbnails/3181335065.thumbnail-500.png
 fishmonkey|vvxrthy|usr_cee7d579-406b-4c6f-96d7-41bf610dfc82|avtr_e229dd37-2814-46c0-a195-982dc52797f5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6b6fd12f-579a-4dda-b940-bdbbbef92305/1/256
@@ -6066,7 +6066,7 @@ toyota ae86|Vkimmortal|usr_5d9a06eb-a03d-4d95-ac77-75e9c0ec54b8|avtr_927ec97d-4a
 toyota ae86|VoidRat|usr_7032135c-ddc3-450b-9c10-5c49c0f7f7da|avtr_b70b751d-6a5d-4f53-baa6-443d0bad30b3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_44ed7129-d1cd-409b-9740-e113438ff5a5/1/256
 toyota ae86|Von Of The Dawn|usr_44a522e2-6448-481d-9e4f-1094734764ee|avtr_c4183ced-53de-45a4-9a5d-605631d1c87c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_71b70c45-9be6-4884-8fff-5403a4f709a8/1/256
 toyota corolla ae86 trueno|VeloxusGaming|usr_7928895e-4d78-4631-86bf-8d52e4646b80|avtr_32533d20-cb52-447d-b177-b2e9a064ca8f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_76eb82b2-167a-441a-acc4-b00cb0ee020b/1/256
-TQ|Viral2Real|usr_af90c703-29bb-4694-96ca-d91d1b447afc|avtr_2b1e7797-2d15-4f16-a933-d8aa3cb361ad|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_b78aeb66-8d1c-4198-a3a5-b87eefecd5b1/2/256
+TQ|Viral2Real|usr_af90c703-29bb-4694-96ca-d91d1b447afc|avtr_2b1e7797-2d15-4f16-a933-d8aa3cb361ad|PAW+VRCDB|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_b78aeb66-8d1c-4198-a3a5-b87eefecd5b1/2/256
 tr|volfson07 aec7|usr_325818f9-6628-410f-82e4-d983b2c1aec7|avtr_276eba5f-5971-4d4c-873c-10f46df5fbb6|PAW|Unknown|
 tr|volfson07 aec7|usr_325818f9-6628-410f-82e4-d983b2c1aec7|avtr_da430ab0-b37e-49f1-8d3f-cdc0919f652e|PAW|Unknown|
 TR-4-CE Model-M|Valvora|usr_2c498d63-3515-488c-adcd-2bbec53ba1e3|avtr_1e7fd352-b090-49af-acbd-6b735abd681d|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_a45fe6df-6ba6-4ea8-8ae2-51ec055371a5/1/256
