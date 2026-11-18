@@ -2432,7 +2432,7 @@ ququneko|_Az|usr_2769e529-2053-4fec-b5ab-3ed69ea8f366|avtr_354c8c69-fdc0-4f0f-b9
 ququpacker|sono_jp|usr_126cb9c1-91e4-4013-8713-95d0528c61c8|avtr_a362923f-86f0-4bf4-a521-50f01e3c44e2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bf7e4d22-359c-47f0-8ed5-5a524a0acfdf/1/256
 ququsample|sono_jp|usr_126cb9c1-91e4-4013-8713-95d0528c61c8|avtr_e5de7ee3-1800-4ce3-aa77-015f400a3997|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_feb96539-8729-445a-801c-9c6168a02657/5/256
 ququ喵喵＆卷卷|Miodioes|usr_024c3b49-5789-44d2-a127-e2ff6fceddb2|avtr_66252511-5240-4059-9b73-e2f6d0abdb0c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_86b51894-710a-4cfd-9f9a-e60cf16d94fa/2/256
-Quri ty|Zman_|usr_fa80195b-d79f-49e5-8453-2b11feecd83b|avtr_f5082939-a4ca-49b8-87dd-84dc85e9d3b8|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_a155aee6-0410-4a9c-8e8d-1f8f72061a84/1/256
+Quri ty|Zman_|usr_fa80195b-d79f-49e5-8453-2b11feecd83b|avtr_f5082939-a4ca-49b8-87dd-84dc85e9d3b8|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_a155aee6-0410-4a9c-8e8d-1f8f72061a84/1/256
 qurql （2024）|parkourman|usr_9355a49a-4aa8-4e89-adfe-afacc631d841|avtr_2dbb5740-aef4-4f34-97eb-9259059167e1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e3c7fb95-247b-44f4-9528-68e54e2ec8a1/1/256
 qurupeco|KingPilot|usr_5b0c31f0-3dc3-47e0-b1fa-aed2267dbf2f|avtr_f2636384-959d-4d83-af70-ba19c095934d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d844bba7-f04b-4bea-af9d-d01c0c1c8493/1/256
 qusetwolfgirl|Xzona|usr_707ed259-fe73-4d39-909f-4ef1a82fc97a|avtr_404967b7-ebaa-4ea0-8129-3a609678dfd8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7cdc36b8-86bb-4911-ac7e-acb5db91eee5/1/256

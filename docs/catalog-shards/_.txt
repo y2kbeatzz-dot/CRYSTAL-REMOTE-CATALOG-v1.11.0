@@ -12408,9 +12408,9 @@ twotime （niko edit）wipǃ|Ɍανεɴ|usr_816c9d05-ae5e-41a6-beb6-3b28a3972dd3
 txddy|ᴊᴀʏツ|usr_f87eab72-1d77-4e9a-8fd8-b326184728ab|avtr_8207c595-e67e-4838-a02d-730ebc3b3dab|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_296fd0a1-22df-4b5e-b487-c457f9e50015/1/256
 txmper by zmke|ᴍɪʀᴀɢᴇ_|usr_5e8c1fad-09c4-4e60-942c-35584aa82323|avtr_04bbd9d8-b110-4a6a-b010-4e9da8cdd7d1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_934bc934-ca66-4a18-ba60-a3d7bdcb9029/1/256
 txt_soobin|ＨＥＲＯ|usr_a9e7d27f-d082-4d2a-9d6e-39c66e93b0d0|avtr_0bc68d6d-91f4-4986-af69-3b0fd9f1dbae|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0d5fb13c-b4a6-4a98-aae8-d6f9545b88ce/1/256
-TY|鱼哥|usr_daa5b0a5-a4eb-48c0-888f-d5ac91170e0c|avtr_2403a934-fef4-4ac1-ad42-e25a56cec18d|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_36766596-6125-4f32-baf8-16bdd5ae88c3/1/256
-ty|火海|usr_fe9b7e76-427a-41c0-9aa5-7c131704ce9e|avtr_5d1911ad-c0ee-44ac-bc87-9b53b08fdd33|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_cb42b7a6-ca83-4f7c-b671-2e08c8ec6f15/1/256
-ty|クミコちゃん|usr_7b273205-5b05-4923-afb8-a5ee1d1565e0|avtr_6fc06f70-e1b5-4f52-9efd-18db5abf12f5|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_fba57846-714d-429f-b937-ab86f38ace14/1/256
+TY|鱼哥|usr_daa5b0a5-a4eb-48c0-888f-d5ac91170e0c|avtr_2403a934-fef4-4ac1-ad42-e25a56cec18d|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_36766596-6125-4f32-baf8-16bdd5ae88c3/1/256
+ty|火海|usr_fe9b7e76-427a-41c0-9aa5-7c131704ce9e|avtr_5d1911ad-c0ee-44ac-bc87-9b53b08fdd33|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_cb42b7a6-ca83-4f7c-b671-2e08c8ec6f15/1/256
+ty|クミコちゃん|usr_7b273205-5b05-4923-afb8-a5ee1d1565e0|avtr_6fc06f70-e1b5-4f52-9efd-18db5abf12f5|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_fba57846-714d-429f-b937-ab86f38ace14/1/256
 tyan knaklz|ЗабавныйЛис|usr_42c4af32-5259-46f6-8be0-d49f0c403d43|avtr_e34a6111-0cf1-45a4-a3a5-45af0448af75|VRCDB|Unknown|
 type ange vket4exhibit|＠あっと＠|usr_914256e8-2574-4549-b8bf-57b05791a7fb|avtr_694c0704-ec94-40a9-a481-f0145311131d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_220f614e-97ab-4bd0-bec0-1fda719812cc/1/256
 type gyoto|ず Ｚｅｅ ず|usr_e633ba86-f33c-4ad6-8502-a445fda96896|avtr_5122d3a9-42f7-4c47-b489-0e31b51454fb|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9f3c02f4-ce0e-4fbe-8e8b-52beea568c6f/1/256

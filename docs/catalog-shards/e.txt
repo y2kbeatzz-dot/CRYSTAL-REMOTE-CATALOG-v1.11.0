@@ -7905,7 +7905,7 @@ enlisted-1323rd|Boywithfur|usr_d1a418e5-892b-4e3c-96eb-c82b63e02ebb|avtr_78ff3e0
 enma|Prez|usr_13036399-14be-47d1-a1f0-a0cc54e093c7|avtr_1165405a-b317-45fa-9a29-7e0f9b2731e3|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2485ced1-b2ba-45b8-8ed8-c907be1a0c7f/1/256
 Enma Ai Magic 1․0|KeepInMagic|usr_b32c323b-067b-4b91-a563-9d5a7dfe8fc7|avtr_ffa78399-b532-4e13-bb74-9a0b40deed4e|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_fd7a32e1-854e-4b77-8935-55370677152a/2/256
 enma awoken|Tegura|usr_336979fc-8706-45c4-9d9e-457ba8d20ff1|avtr_6ccfa643-8e0c-438a-9693-6ba00e770282|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4d7cc01d-2a3e-40f7-8dfc-9d01447fd8f2/1/256
-enmty|Rino the Fox|usr_8a089939-1979-4076-9fe3-b8eccb7350e9|avtr_5ae5d45b-1678-4f12-9f1b-3575d3b0188d|VRCNDb|PC|
+enmty|Rino the Fox|usr_8a089939-1979-4076-9fe3-b8eccb7350e9|avtr_5ae5d45b-1678-4f12-9f1b-3575d3b0188d|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_35d82d27-d7cc-49ce-a292-b85eef407097/1/256
 enmu|Vampire Loli|usr_73040b2a-2570-4224-a43f-673a06eb04e4|avtr_00eb79b4-b7af-4c89-a77a-6cfb133b83bf|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b98fe215-ec0c-4673-8347-ecadb6a9c614/1/256
 enmu|「ᴍᴜᴢᴀɴ」|usr_368ac6bd-808e-47f1-a269-91f096f72d07|avtr_7c6ec29c-73b2-4543-a9b4-e8c89b55a58c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_390261fb-ffb6-4153-bd1c-841a7046ecf2/1/256
 enmu|ZEeno ツ|usr_8b93a57e-5546-4e8c-9c5a-fe735dcf6ca2|avtr_b67352f1-27cf-4743-bed3-4ef0a4ad9b5e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_009369ff-a81a-4deb-872c-8ab3b56a7fd9/1/256
@@ -11883,7 +11883,7 @@ gilgamesh zero|eN7ity|usr_f3fa5667-7048-479f-9ced-183763128307|avtr_bfcb283f-fd1
 gilgamesh（nebuchadnezzar ii․5） （arcade）|EtheriaVRC|usr_a79d7aa3-d51f-458d-81c4-79f34c35d8ad|avtr_f9c6bd84-9e2c-4b14-851f-97f08a072c1b|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e62c1061-565c-480b-9aae-bcc4cb4eb657/1/256
 gimme|emplified|usr_b6035765-b252-4705-9702-72055f5d1dfb|avtr_a292b865-d9aa-4b8d-b97f-91bc2d38d95c|VRCNDb|PC|
 GimoZard V1․03 ［［Black］］|『Easter』|usr_d9bc74b7-4875-4be2-b9b3-680aa3acdccb|avtr_ab1e1c2e-2947-4c76-94c8-a378a347e285|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_dc2b6142-cad6-4a29-92e0-9318f2562cff/2/256
-Ginger Clownfish|Ender the cobra|usr_4f6258f5-a60f-45d9-b884-29ce00a37179|avtr_b44871dd-17c2-480d-8e43-d99dad824086|VRCNDb|PC+Android|
+ginger coravyn|Ender the cobra|usr_4f6258f5-a60f-45d9-b884-29ce00a37179|avtr_b44871dd-17c2-480d-8e43-d99dad824086|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_8425b6eb-7663-4a5c-80eb-6ace8419d264/2/256
 giniǃ omnipha plush|~Errørvęrse~|usr_3db3df66-9be9-4fa3-b892-5e0e09d73e87|avtr_50eab697-ee7e-43ef-b1ce-ad273dd97ac2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a60dced2-a1f9-4311-b2d5-e37f95c237f0/1/256
 giorno|EternalTipper|usr_77ecce15-a3c1-4ddf-81ee-8026e619a7eb|avtr_0cb9d76e-04b5-4cbb-83cb-c8ad90b6c7ce|VRCDB|Unknown|https://files.vrchat.cloud/thumbnails/790456329.thumbnail-500.png
 girafga|exe dee|usr_afcc9a45-277c-4638-b3b1-3af39b375af2|avtr_ff906968-d22f-421f-adc2-1002c7eaa1af|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bad43e39-4e3a-4ab0-ae94-d35c87b0e30f/1/256
@@ -16388,7 +16388,7 @@ Twrk4kirk|ea24cd66445c421bafa2d07bf65429d7|usr_cc866f54-6671-4124-b176-fb4c497a4
 txs paris kiss|EnderRogue|usr_5b1e868b-5447-4db4-a9e2-5c9e6c8a7ec4|avtr_01831486-c790-4bce-85fe-ca123b63c3f8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9f38792f-373e-4db7-88d5-ce4425ab4897/1/256
 txxd|Erуx|usr_40541295-35a6-4a91-81b9-df3fcf36ccab|avtr_11609fa0-83a0-4cac-87f1-4ee11518b3f7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b7fd3eae-c388-4c98-9c1a-f8c8980e1587/1/256
 TY|𝐄𝐓𝐇𝐄𝐑𝐄𝐀𝐋 e81b|usr_56a683a5-2ebd-490d-a7fc-61342842e81b|avtr_0d02a503-12ea-410d-9d7d-55194b50cdcf|PAW|Unknown|
-ty-rux|EspinasSqueaks|usr_cc82d99c-6b17-4e54-92db-3391a83b3292|avtr_e5ed56c9-d1a3-4ec2-ace9-8a4cc34e0be2|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f8b85c9e-a4b7-4496-8096-80e5bccc57ad/3/256
+Ty-Rux|EspinasSqueaks|usr_cc82d99c-6b17-4e54-92db-3391a83b3292|avtr_e5ed56c9-d1a3-4ec2-ace9-8a4cc34e0be2|PAW+VRCDB|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_f8b85c9e-a4b7-4496-8096-80e5bccc57ad/3/256
 tyke is a avi slave|Exorcisms|usr_ae24e38c-dad6-45e8-93ab-a9296b78b4dd|avtr_727162f2-c5ad-492b-ba35-5c71b390e530|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_095a5685-2bb8-4903-82cd-53ca01c5ef9b/1/256
 tyler|Elton_Bear|usr_5bb61529-5bcc-4bb9-b829-ef8f6a9b2602|avtr_798a027c-5baf-45d3-b86e-5129012601bb|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f6197b58-a1b7-46b7-9306-b94c0c64a77c/1/256
 tyler the creator?|ej2fad3d|usr_98693921-ecdd-45c7-862f-649445518f0e|avtr_946d5fc2-2e0c-4a36-8916-b9cdc3d13e34|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4eefa68a-f54f-4cde-a9e5-8ce7dbe97702/1/256
