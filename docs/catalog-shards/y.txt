@@ -1,7 +1,7 @@
 # Crystal full search shard
 # Avatar Name|Creator Name|Creator ID|Avatar ID|Source|Platform|Image
 'yue' aletia galdea vesperitio avatarl|ǃRaidenǃ|usr_f05a32af-3b2a-4b8c-8ecb-2ba97e8822ce|avtr_dc0bb246-475b-4416-b150-2108fa9986ef|VRCDB|Unknown|https://api.vrchat.cloud/api/1/file/file_77101f03-67f9-4b92-9039-3905e5ed9744/2/file
-- CK ⁄ COOLKIDD|YUMESHIPPING|usr_71e0b681-70c6-4f8e-801a-931e6c8f9bf7|avtr_7e217818-fb12-4809-a97d-c962fe0d6cdb|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_dc60b526-2170-4489-bcc9-8cd89228bc0c/1/256
+- ck ⁄ coolkidd|YUMESHIPPING|usr_71e0b681-70c6-4f8e-801a-931e6c8f9bf7|avtr_7e217818-fb12-4809-a97d-c962fe0d6cdb|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_dc60b526-2170-4489-bcc9-8cd89228bc0c/1/256
 - yumi -|freznough1332|usr_41a163ce-17fb-4125-b2c9-33a213cf94c4|avtr_14fbe83a-58c5-4af5-8c99-521ba449e8bf|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f569c88b-1baf-42ab-915a-3f6f6997197b/1/256
 --furina ˸ hi3 sparkle outfit--|Yuki Miyabi|usr_3597c930-36cf-4a30-9365-6e0b2f28851b|avtr_bef504ed-f5c7-4780-9859-a0d9e31bf926|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8fda9630-92ee-41e8-975a-23dbf9b9d2ee/2/256
 -yakuza x vam monster energy jit boy|«vǎm»|usr_a4b806e7-e520-45c4-9af2-ee332256b373|avtr_23f4d83b-576a-45f7-9880-2d21be50d216|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_35e8f4b4-a93b-49d1-b136-a369467da009/2/256

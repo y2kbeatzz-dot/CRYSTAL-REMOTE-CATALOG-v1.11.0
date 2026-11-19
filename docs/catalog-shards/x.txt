@@ -837,7 +837,7 @@ cs|XNHakuYa|usr_60971e92-13ad-4f89-8496-b98cd088987c|avtr_0747114f-c076-42ab-b37
 ct|XF小锋|usr_8d316f7b-0ee7-43cf-911f-49de07799e55|avtr_17733a3e-cf1b-4685-9755-466ae9195740|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_296e1930-fdfe-4809-8dc7-587f41e500dc/2/256
 CT|Xoako490|usr_5851c696-dd90-4451-b5b9-6f6bfb9e61fd|avtr_62bd19c5-aa3f-4b43-b2d1-42c7a59ab6dc|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_91db2a78-2de2-4c7f-8d39-30c881bae347/1/256
 CT_Meggy_V4|⠀XBOX⠀|usr_e6e9839b-b139-48cd-9c0d-7986ebf8172e|avtr_8787f77a-2ad8-4b95-939b-be457f5fad9e|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_d4686265-6c5f-446e-b174-8d3301d942dc/2/256
-Cubchoo|xaubun|usr_4dcdfd1e-38b7-4f55-aa9a-9142bb3d21d2|avtr_016e9869-5aba-45a7-9920-e51bc6276801|VRCNDb|PC|
+cubchoo|xaubun|usr_4dcdfd1e-38b7-4f55-aa9a-9142bb3d21d2|avtr_016e9869-5aba-45a7-9920-e51bc6276801|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_4f520d8d-ddc3-4a52-9482-e2d2ffedb53c/1/256
 cubchoo 2․0|Xathonn|usr_6b3b446d-9cb3-485e-9956-8cf7a9754c55|avtr_94e8834e-c24a-4039-b6f0-a7934870f900|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_522b8881-33b3-42bd-83a2-6f3c3d5cf13c/1/256
 Cuddle Team Raven_V1․10|⠀XBOX⠀|usr_e6e9839b-b139-48cd-9c0d-7986ebf8172e|avtr_7b234cd5-6c07-4300-9dd3-922ced798db2|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_657f7457-d957-4eda-8b6d-13e3a908435c/1/256
 culpiabilty expunged elele|ᴇxᴘᴜɴɢᴇᴅ|usr_7c175f04-0cd6-4c51-a554-37a906ac8dd1|avtr_033db417-fc4a-44b2-80fe-30cba5a56cfc|VRCDB|Unknown|https://api.vrchat.cloud/api/1/file/file_9081fdc1-d43a-4c8f-b591-9175d82a81ae/1/file

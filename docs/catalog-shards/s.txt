@@ -4516,7 +4516,7 @@ Breb Freakhound|slicedbread_|usr_d1e44194-aec6-4377-8a62-8a142759c256|avtr_65aae
 breb jex|slicedbread_|usr_d1e44194-aec6-4377-8a62-8a142759c256|avtr_42fe88e0-1c31-48db-b7bf-35ffaf948a50|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ba31fcfb-c79e-4fc6-9c22-3659043abe36/2/256
 Breb KhnFuCat|slicedbread_|usr_d1e44194-aec6-4377-8a62-8a142759c256|avtr_b964ab9e-3591-4dca-8f04-0154829b3fd9|VRCNDb|PC|
 Breb Nardo|slicedbread_|usr_d1e44194-aec6-4377-8a62-8a142759c256|avtr_a08764cd-afa6-4ada-898b-d29c7b8d5617|VRCNDb|PC|
-Breb Regulus|slicedbread_|usr_d1e44194-aec6-4377-8a62-8a142759c256|avtr_91a21146-eae5-491f-906c-1ace23a92e88|VRCNDb|PC+Android|
+breb regulus|slicedbread_|usr_d1e44194-aec6-4377-8a62-8a142759c256|avtr_91a21146-eae5-491f-906c-1ace23a92e88|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_0cf2434a-3867-4bd6-a5d1-e2d435d2c709/2/256
 breb synth|slicedbread_|usr_d1e44194-aec6-4377-8a62-8a142759c256|avtr_853ac58d-a760-4be7-9363-953f4714533e|VRCNDb|PC+Android|
 breb wpf|slicedbread_|usr_d1e44194-aec6-4377-8a62-8a142759c256|avtr_45897d24-1738-4aea-8e26-f9c957b18b18|VRCNDb|PC+Android|
 Breb's Naali|slicedbread_|usr_d1e44194-aec6-4377-8a62-8a142759c256|avtr_eb7ce5a5-14f5-4b9c-b68f-e0375a039bec|VRCNDb|PC+Android|
@@ -22127,7 +22127,7 @@ PA-san|samhippie|usr_84909156-816e-4a8b-b4bc-37b304ea8d30|avtr_77996789-81bc-4c7
 pablo simon bolivar （edtg）|SexySands|usr_03448cb3-a4b0-4b00-bd93-9e78da120aa4|avtr_e6939c40-eb16-4ac0-a4fa-4a4ff6c36377|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_86d6d512-03c3-4ae5-9715-2e1fa11ba345/1/256
 pac-man （sfxt - no mech）|Super Mario PS4|usr_ffb903c7-d6e1-4a95-b212-ef2ce22ed036|avtr_f6b97b4f-f174-4e1b-be7b-0a70635b3089|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8833024b-173c-4cea-9182-09d94187d843/1/256
 pac-man （sfxt）|Super Mario PS4|usr_ffb903c7-d6e1-4a95-b212-ef2ce22ed036|avtr_8e0db74f-4266-49e4-acdf-4f1a195d6ce8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b1eae1e6-0d43-4222-9c95-4f77dc1acf4a/1/256
-Pace （TD MODEL ＋ PUBLIC）|SonicFan 2020|usr_224c61f7-9b2b-4001-a172-2d779b1db418|avtr_ad6ccafc-5ca2-4049-bfaf-9b3a0da30b43|PAW+VRCDB|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_a811d9c3-1423-41be-96e9-92d0dfe24304/1/256
+pace （td model ＋ public）|SonicFan 2020|usr_224c61f7-9b2b-4001-a172-2d779b1db418|avtr_ad6ccafc-5ca2-4049-bfaf-9b3a0da30b43|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a811d9c3-1423-41be-96e9-92d0dfe24304/1/256
 pacifist fell sj|Seragoblox|usr_6ad97baf-e3c9-4569-b06a-8caa8326163f|avtr_ef75adfe-cc17-481a-a5ee-f68281b222f0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7774060c-85a2-4515-acfc-325e40e15661/1/256
 packer_01|sono_jp|usr_126cb9c1-91e4-4013-8713-95d0528c61c8|avtr_aa4007a8-a23a-4411-bfbb-95e555d3b039|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d6295f28-d330-46ca-b49f-23dd18be4778/1/256
 packer_02|sono_jp|usr_126cb9c1-91e4-4013-8713-95d0528c61c8|avtr_0f2c1b60-81de-440b-8e28-4f734d0e4a52|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_61ea6f97-99ff-4f05-8171-a334f2d86c63/1/256
@@ -60857,7 +60857,7 @@ u511|shinkai|usr_ce34fe56-e95e-4590-85c7-b68cd0672c74|avtr_c3d3fa8b-355f-4197-9a
 uA|sаnchos|usr_708b1906-f460-4e6b-9f73-905d5c2b0edb|avtr_a6b27c4e-f070-4e84-8861-dbee1377d51d|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_9c8c5470-8060-4fb1-9ea7-78cc940dae72/4/256
 UA 2 Texture Fix|ShionIsSean|usr_9ff99559-2e8f-4fb6-aa10-adae24d9fe56|avtr_c7180867-daae-42a4-befd-17b212d7c643|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_f59ed690-661a-48d0-9c41-2a7a6bb267be/1/256
 UA Fix Sleep Emote|ShionIsSean|usr_9ff99559-2e8f-4fb6-aa10-adae24d9fe56|avtr_13be10e3-dac1-4954-8a74-aa205c0a4e0a|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_a2ad01de-b113-4af4-bb06-730704ef5a8e/1/256
-UB Expeditionary Force Soldier|Sam The SAMwich|usr_e3bf9c9c-1fb1-4eda-b558-1ad2999867ed|avtr_762a7971-70a9-4664-83fe-d4a717eaa964|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_31e120d2-4cd5-4224-b2fb-936da850502c/1/256
+UB Expeditionary Force Soldier|Sam The SAMwich|usr_e3bf9c9c-1fb1-4eda-b558-1ad2999867ed|avtr_762a7971-70a9-4664-83fe-d4a717eaa964|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_31e120d2-4cd5-4224-b2fb-936da850502c/1/256
 uber-soldat ［1946］|Sock Uuno|usr_e0638e73-efc1-4e41-9f37-9f4afecdf82b|avtr_6afb0195-a4a4-46ee-bda2-b75a940d8659|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_82dfb926-cff2-4ead-827e-616f91ef2f50/2/256
 uchida v․2|Sugoukari|usr_e3b7ae55-19d2-4adf-89f3-c9a9e3d58ae1|avtr_fdcd1cd5-8fbb-4867-ae56-2cff163cff38|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_23846219-7e35-420f-8edc-fde419c99884/1/256
 uchiha|sᴛᴏɴᴇᴅ ᴀɴɢᴇʟ|usr_c33e9493-6dd3-46ff-ab32-488e887a9385|avtr_9dc9b473-a5f9-4da2-ab4b-453d7fdc2793|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_149f4a55-f02e-47f9-a8b3-26f0194c8512/1/256

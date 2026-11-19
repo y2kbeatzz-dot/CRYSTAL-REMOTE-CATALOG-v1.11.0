@@ -12659,7 +12659,7 @@ anu4|deadcoffee|usr_b2a9b371-3976-475f-ae2c-25130bccaf02|avtr_7bca52c2-de30-4325
 anub'rekhan|Ragnaros_|usr_822d32aa-89d5-445e-843e-3cd2aff14b57|avtr_3465e500-b5c0-4617-a820-bc0f098fb03b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d0932bb1-44d9-4cbb-8218-071981907c7c/1/256
 Anub-ie|Craz-ie Biscuit|usr_c1da36b8-9526-47f7-824a-9c0c843bafba|avtr_52b9d9a7-91b2-40e9-a163-ff8defaaa18c|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_cace8c42-e33c-4e64-8254-e0a35b979c41/2/256
 anubis|TAYERR 69|usr_d7eddb31-fb3c-4e32-81fe-fc59a2d9fa8c|avtr_2fe8947b-fe84-4dae-88d6-fb2037062c26|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bb3f99dd-1f29-4ad9-b7fc-ed02b2b85faf/1/256
-Anubis|Dark Egyptian|usr_381b87d0-7dd7-4bfb-8d9c-9dddf2ccd345|avtr_5f2f3051-04ca-45c6-ba5a-54746f1cbcad|VRCNDb|PC+Android|
+anubis|Dark Egyptian|usr_381b87d0-7dd7-4bfb-8d9c-9dddf2ccd345|avtr_5f2f3051-04ca-45c6-ba5a-54746f1cbcad|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_80e7d597-7d4d-4d4e-a6d8-92b5d69415f7/1/256
 anubis|Tru®|usr_b262ea03-ed3e-4f69-a840-feb126f66f16|avtr_68996eda-c992-4127-b216-85532d6aa923|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d985136b-88a1-4d13-960d-f7213fd809f1/2/256
 anubis|Nutelex|usr_4ae2a2ea-dd56-45b9-900d-0e13504ba397|avtr_a4c5676a-e8fa-4561-a737-7e7672541f13|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_691767a8-3a54-42d2-b660-3893dbe936ae/2/256
 anubis|PeanutBuddha|usr_08a2766d-95f3-4e4e-99c2-4c583c56daf6|avtr_ae990f74-e6d0-4176-bb33-dadb45894e9d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4d93b778-6642-4d4d-b9cf-fdc93d10e9ec/2/256
