@@ -7418,7 +7418,7 @@ maid albedo|~Ｉ ｖ ｙ~|usr_33273f4d-d1ab-4d77-99f5-035a7aa39ca3|avtr_bc57727b
 maid heizou|~Ｉ ｖ ｙ~|usr_33273f4d-d1ab-4d77-99f5-035a7aa39ca3|avtr_297bad1a-b51b-4e24-ac83-0cad07d04dd7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_016486de-2ea4-40e2-8fb4-9eefe566f538/1/256
 maid miko|마끼아또|usr_e0c49cff-8c91-4eda-9833-01b3e3ef0c95|avtr_d437065d-e820-44db-8a61-f1fb4bd6b302|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4a08e6aa-5b32-4c04-acdd-7d30a5e239c5/4/256
 maid scara|~Ｉ ｖ ｙ~|usr_33273f4d-d1ab-4d77-99f5-035a7aa39ca3|avtr_74d5428f-f271-4c70-bfe9-6a00625df02b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a723117f-98a1-4cef-8952-05f7babcb269/1/256
-Maid UC|ᴅᴇᴠʟ|usr_3cda06d0-9ee6-45f3-b56e-5a8b8c50da8f|avtr_08941438-e4fc-408f-90ac-ed7f7039c80f|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_7b03b826-02fd-4733-a616-9c79a77deb6c/1/256
+Maid UC|ᴅᴇᴠʟ|usr_3cda06d0-9ee6-45f3-b56e-5a8b8c50da8f|avtr_08941438-e4fc-408f-90ac-ed7f7039c80f|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_7b03b826-02fd-4733-a616-9c79a77deb6c/1/256
 maio ft|ɴᴇᴘʜᴛᴜɴɪᴇ|usr_79a51c45-ad90-458c-8c35-fd08a1c9584b|avtr_d023b8d7-4bee-4afb-a35e-a9642b918333|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1be66f60-a365-4642-a232-188085a85e32/1/256
 majin duu|ᴛʜᴜɢʜᴜɴᴛᴇʀ|usr_091f5d62-a354-4d6a-b4ec-fbdc10ba55e9|avtr_289dca40-0464-4ac6-abd7-60d776fad33e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b96c79d9-6a9c-42da-8107-a6c9afd78376/1/256
 majin sonic （bolt edit）|༒Уυмιяσ༒|usr_8fe82d2f-43f0-4f6f-8421-2ffab1829522|avtr_bd8405fd-9e81-422e-916c-97a8fea0def2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e86ed2c7-2ace-4ed0-a95f-53589ab01589/2/256
@@ -15215,7 +15215,7 @@ zǃ＾∗＄' （vp）|͂ͩ͗ͬͧ̓͐ͣ|usr_b52cb2ba-c80f-4596-ab3f-4f7b323aeac3
 フレイア|フ レ イ ア|usr_7e0a3bf7-2d04-4f32-97c8-bb0f20b53744|avtr_6eafc727-8f47-4447-9272-016291141402|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1bbf620d-1a1c-43b7-83aa-4fe51e510e7b/7/256
 フレイア v2․0|フ レ イ ア|usr_7e0a3bf7-2d04-4f32-97c8-bb0f20b53744|avtr_398900ed-f4fc-4a89-91bd-c35c9e38f690|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f242e522-46d0-4df2-b6ff-07e189417eb7/2/256
 フーキ|naeris|usr_331a9df7-cb09-4399-adfc-fc4867f23e62|avtr_88add470-be69-42e5-9b70-849bfcf205bb|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_5c92b9ef-a5bf-4518-9460-86416ce8b681/2/256
-ブライト UC|にわか。。。|usr_d07b2f06-75e3-44ae-ad01-6435ab165797|avtr_c428596d-ff95-41f8-9f22-9d0882e20744|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_dc1c1d7e-ae9a-49a7-a9ea-00a401ad0d6a/1/256
+ブライト UC|にわか。。。|usr_d07b2f06-75e3-44ae-ad01-6435ab165797|avtr_c428596d-ff95-41f8-9f22-9d0882e20744|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_dc1c1d7e-ae9a-49a7-a9ea-00a401ad0d6a/1/256
 ブルーシャークkj|ֆʏռօȶɦȶɨƈ|usr_2c8f3697-9da3-4cb1-8742-bf219fff055a|avtr_578c7750-ab9d-454e-a864-3ddccd3a77dd|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7469b6a1-daa1-4111-8d92-4566fc280716/1/256
 ブレイガーsample|屑星リクリ|usr_5caedebe-a26b-4367-81c8-f43d2ce0444a|avtr_930da356-e1f2-45f0-8cad-6ff72c33f277|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_988a3524-11a2-4916-b8a3-8a4089bc4e2b/1/256
 プリエ⁄plie（sample）|九十九喜常|usr_46bc55f9-121f-403e-b768-a0937c8fe418|avtr_04dbdb29-71f6-4c7c-a0a6-7f6ef04e6778|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_99ead945-2440-4005-a48e-8bad00ddff3c/2/256

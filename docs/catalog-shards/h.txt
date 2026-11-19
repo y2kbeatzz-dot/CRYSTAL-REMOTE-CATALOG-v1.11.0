@@ -18646,7 +18646,7 @@ smiler|hershelcat|usr_d62346fc-aedf-4864-8236-930a1401e33a|avtr_bd0fc4a4-66d3-43
 smiler v3|HonkIGuessIdk|usr_d490fec0-f2a6-4d48-9977-46e992e92ff2|avtr_7c4c1934-347f-43f2-9c2b-1595d943c906|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bd7e1038-d31d-4857-a584-5769972f7da6/1/256
 smileǃ changeǃ cicada|HonaminC|usr_6a719346-e3fd-4a7d-8bef-edfd8f8d81cd|avtr_fe829a0f-87f4-4a22-b27e-b995a45cdc1e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_93af2433-a08d-4f09-9e72-39d44b6f91cb/3/256
 smiling critters lowpoly （test‚ block）|HamBlah|usr_d98672ed-0e11-4ac4-a553-59e207b3021a|avtr_1a7172ff-d1f5-4f9d-9ff6-f0713f62663e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e47a5995-134e-4c0f-8138-d76b07fa4908/1/256
-SML Brooklyn T Guy|Halo_MOV|usr_c1933697-1c5b-4682-96cb-eb4e27c846ea|avtr_82fd20da-ff37-4def-9e5b-82af9437aaff|VRCNDb|PC+Android|
+sml brooklyn t guy|Halo_MOV|usr_c1933697-1c5b-4682-96cb-eb4e27c846ea|avtr_82fd20da-ff37-4def-9e5b-82af9437aaff|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_e066f361-48e3-44f1-9ccd-c13e6d0cd6ea/1/256
 SMOL|Handlessragdoll|usr_41e86fc6-40d1-47c1-93e3-9ee4ae43e384|avtr_7322bcee-dc31-4d78-b385-45e1b57ed2a3|VRCNDb|PC|
 smol|Hpebble|usr_b813f1af-4b16-4c6f-bed2-a02756c9d655|avtr_8aec5851-2d2f-4696-9ecd-38347e392f95|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b0ff21a5-6dff-4a53-bd5d-a63d59669eff/1/256
 smol dva|Highwire|usr_cce58fc2-3e2d-4ffa-9cf1-4444e06e6a65|avtr_9fe563d4-6108-4457-80d2-2d02174283b0|VRCNDb|PC|
@@ -19559,7 +19559,9 @@ u511 - submarine 2.0|Hizzy|usr_e6e77e14-8333-495e-8765-0535e26a96e3|avtr_695525e
 u511-sub small|Hizzy|usr_e6e77e14-8333-495e-8765-0535e26a96e3|avtr_ba05ab85-8180-4c0b-ab18-27df766fa78c|VRCDB|Unknown|https://files.vrchat.cloud/thumbnails/4275313008.thumbnail-500.png
 UA DANCING PIG|Havocツ|usr_f02036b6-7654-40a2-b261-fc5d9cc0397d|avtr_21615c0b-129b-45f8-9d22-c66115769788|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_fda2b5aa-965e-4472-9012-d7bf39439a59/1/256
 ualf raider|Hoxton`|usr_3cfbb638-e0c6-488c-89e5-0c5c95c12e97|avtr_61cb218d-2bf8-4a9f-b150-438d257e1483|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4e746808-4e8e-4c49-a27c-1382b998564e/1/256
-UC BOT V2|Hᴏsᴛᴀɢᴇ|usr_88780b86-2a93-4fe0-88e7-4cd9172d81e7|avtr_0eb6e3a6-73fa-4261-ac33-15ce1e8c7155|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_621a6796-0438-41b2-b608-81ba7cc26ed9/1/256
+UC BOT V2|Hᴏsᴛᴀɢᴇ|usr_88780b86-2a93-4fe0-88e7-4cd9172d81e7|avtr_0eb6e3a6-73fa-4261-ac33-15ce1e8c7155|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_621a6796-0438-41b2-b608-81ba7cc26ed9/1/256
+UC C0rruption|Hᴏsᴛᴀɢᴇ|usr_88780b86-2a93-4fe0-88e7-4cd9172d81e7|avtr_e80f1b7c-9ae4-464c-b46a-86521c5c7152|PAW+VRCDB|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_a64e4498-ee92-41dd-81fb-c604b40e8b2d/1/256
+UC Knight|Hᴏsᴛᴀɢᴇ|usr_88780b86-2a93-4fe0-88e7-4cd9172d81e7|avtr_f28a4fa4-376c-445d-8e07-05a4210be13b|PAW+VRCDB|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_0bb76d7b-8dd0-4672-9a3f-200297174759/1/256
 ucbp 1․2|HoneyRusted|usr_a2ab8818-deb4-4b2d-b8c7-02c392a86b59|avtr_2744e238-bb4f-4628-8a32-973efcfc21d1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d37b25c0-af53-4a94-b7a4-414774bb1625/1/256
 ucieǃǃǃ|Hearts4Uploads|usr_076f9434-79cc-4942-9d07-fffef17e5629|avtr_19ae4184-f6e3-423b-b93d-d444f556bbcf|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9c72f261-e2e9-410c-8f37-1772def265f7/1/256
 uestgamer7720|H҉a҉r҉d҉N҉u҉t҉|usr_354dceb6-9911-4f0a-98c7-9de20d59fba5|avtr_c0df5218-4af4-404e-a30c-c2998eb5a625|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2d3c6672-f0e4-4ce6-969d-214fc6195463/1/256
