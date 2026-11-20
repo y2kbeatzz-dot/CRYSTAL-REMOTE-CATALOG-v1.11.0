@@ -3729,7 +3729,7 @@ eku asmrft|白及时雨|usr_56d46142-d424-4d56-8da9-085fb27fbfe1|avtr_b488133f-d
 eku_三端版本|堇翳不爱说话|usr_bd0c091b-6dcd-42f0-b88c-24277df4815a|avtr_95f41465-6f79-45cc-9946-984f8d9e949b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d138d730-3841-4e0b-b186-70b497890660/3/256
 eku_堇|堇翳不爱说话|usr_bd0c091b-6dcd-42f0-b88c-24277df4815a|avtr_73e51451-2e9e-438b-b9d3-5a23c1b6f4cb|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0550ccc4-5c63-4b25-b745-e468ad9e7bba/2/256
 Eku_精简|琪亚娜-卡斯兰娜|usr_a43736d7-869b-4e15-bacc-1e9221e3f58d|avtr_ed66f909-6074-4008-81e4-24aa266b8b27|VRCNDb|PC|
-EkuFT|小小胡桃|usr_4b86cdf1-7742-4c22-8637-2b183dce3a05|avtr_bff5e596-40f0-423c-b2b3-e8bf317ccb7c|VRCNDb|PC|
+ekuft|小小胡桃|usr_4b86cdf1-7742-4c22-8637-2b183dce3a05|avtr_bff5e596-40f0-423c-b2b3-e8bf317ccb7c|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_66267fe4-4d57-4d67-8a56-1b8559e5430c/1/256
 EkuPromo|ʏᴀᴍɪ · ᴋᴀʏʟ|usr_0faf4847-0139-4608-8650-dc2afe546a51|avtr_742287a3-fde6-49de-95c0-80b138aa7745|VRCNDb|PC|
 ekuuuu|永雏小菲|usr_845b12bc-c492-49ea-ac2f-f00938781b10|avtr_89f56ad2-4043-4aff-bf99-2a88a2def1b5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_063722f8-19b6-40ff-9a1e-495916774cef/1/256
 eku․眠奈|鸭鸭睡不醒|usr_43844a3b-fd24-463c-9d91-4317ca4fdea1|avtr_80ec2828-afba-4b2c-a9cc-8fb80bc70925|VRCNDb|PC|

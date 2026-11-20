@@ -15037,7 +15037,7 @@ jusak|shatterjure|usr_93c9828f-bb69-4e0a-8327-bf1d0e992c3d|avtr_2c629683-7be0-47
 just a knuckle|Scruffy maguffin|usr_efcb5326-91e6-4d66-aa07-66e72e1f95df|avtr_c89a7e10-2d25-4aca-8598-df1045160f9f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ede33a97-236d-4626-9d61-72f747021ed9/1/256
 just an average spaceman thing|Skalbaggen|usr_d1fa9551-d6c8-4494-a956-a896c024dc41|avtr_544a57ca-797f-4bd0-a85b-9074dd42224d|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_0b9ce850-b883-4d82-97fa-b5f167649be2/2/256
 just another bun|Sea~Bunny|usr_70f383a5-1c54-4ee8-977f-1d3c740cd6c8|avtr_d0e7b5ad-82bb-4eaa-83f1-1a1aecd76f58|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b4535b20-0816-45d4-af15-e305e69725a6/1/256
-Just Business|_SongBird_|usr_72434448-3939-4efd-a0c3-1c51e7d15f83|avtr_afe9ae92-f7ef-43a4-bfd0-bc1d99a7a8f2|VRCNDb|PC|
+just business|_SongBird_|usr_72434448-3939-4efd-a0c3-1c51e7d15f83|avtr_afe9ae92-f7ef-43a4-bfd0-bc1d99a7a8f2|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_925b2415-34c4-474c-b087-6ddb2378ae0d/2/256
 just chimp|SpooksMcGibs|usr_1b8a69f5-8c7b-4ebf-a05d-5c5c60e7029b|avtr_d54f2534-b825-4414-82dc-ceb1614b5e33|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7a44057b-1d1a-44e8-a035-c6798af6fc3c/1/256
 just fives|Shapla|usr_20ea5054-fc0e-4584-957f-644637ab56ad|avtr_1160c70e-84b0-47ed-bdf1-8997d2b9f04d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e29ad99f-14c1-4d4a-a3d0-a75d5315eaa2/1/256
 just fives|Shapla|usr_20ea5054-fc0e-4584-957f-644637ab56ad|avtr_2968e423-1cb4-4706-9b9a-f3fd7791088f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_015ccd51-154f-432a-a60c-514be323725a/1/256
@@ -39075,7 +39075,7 @@ silly sonar|gayfellas|usr_79a57c88-7b18-4548-a20d-d8fe8d987c83|avtr_8dda1424-75f
 silly sonic|MarshREC|usr_10dac34c-3066-493f-9e79-0bac85cd9abb|avtr_dce7ccfd-5758-4233-b09c-0656d7692340|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8febf676-be0e-4415-981a-ed91db707dd9/1/256
 silly springtrap|MarshREC|usr_10dac34c-3066-493f-9e79-0bac85cd9abb|avtr_ab630bc3-d18c-4e7d-9592-c87b6d886f81|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_713d0a07-01ce-4f6c-b0b2-4c4cc6d8c223/1/256
 silly sprout - dandy's world|BnnuyBrainrot|usr_f20fe8df-03a7-4a95-b64f-71f5970fb06d|avtr_d9663891-b450-4e49-8440-a84a62a42b50|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_05c6a2b6-2ea5-4ad2-9f58-46b9f802f4bc/2/256
-silly stuff baldi bv2|匚hillhead1234|usr_36f82645-8c49-4c99-aae6-994b49843332|avtr_01e28692-0ae6-4f9f-9592-2e9f436ddaa5|VRCNDb|PC+Android|
+silly stuff baldi bv2|【匚hillhead1234】|usr_36f82645-8c49-4c99-aae6-994b49843332|avtr_01e28692-0ae6-4f9f-9592-2e9f436ddaa5|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_ebb80ff7-1e41-4ad9-9d43-6f33c5b7e9fa/1/256
 silly stuff prefab test|NewAccounts|usr_c732a21d-bab7-4a35-84c1-e6d4de99697b|avtr_93fc36aa-8f84-4a7d-816a-3b4cad570c61|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4aa1a162-4cbc-4c50-bed3-dd8a64d781f2/1/256
 silly the clown|3DGAMMER809|usr_d0943dd8-2c56-4611-be04-636beba1e762|avtr_f4c3103e-d843-4a2f-845d-efda7bf76001|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_47595737-82b6-48c1-a5c7-7c5db04c8798/2/256
 silly thelema outfit thing ˸33|ᴢᴇʀᴏᴅᴀɪɴ|usr_d8aedec0-19a5-46ca-8c8c-1c38c147fd97|avtr_27769c8e-6536-4360-a5f7-dc5ef6e71a06|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_20a1af19-e966-430f-bcc9-0b34fef3ee92/2/256

@@ -5038,7 +5038,7 @@ ekuc2|麦茶11|usr_b2d314e7-98f9-487d-a42b-823f9a9931ac|avtr_463b8fae-d17f-47fe-
 ekuc2|659431|usr_b2d314e7-98f9-487d-a42b-823f9a9931ac|avtr_f9948737-01d2-4b34-97ba-a2f94e493d78|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_a6e3ee92-d28e-4352-85a6-ef899ade66f9/1/256
 ekufd|麦茶11|usr_b2d314e7-98f9-487d-a42b-823f9a9931ac|avtr_38308036-9d29-450d-acb2-fe6d29c438d0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/file/file_6a3c0b71-05be-4de5-90ba-8367bdac22d4/1/file
 ekufd|659431|usr_b2d314e7-98f9-487d-a42b-823f9a9931ac|avtr_d411a2b0-1f28-451e-b1cc-f2ea3f96607f|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_fd8db6c1-5179-45f9-90b8-21220c7daf3a/1/256
-EkuFT|小小胡桃|usr_4b86cdf1-7742-4c22-8637-2b183dce3a05|avtr_bff5e596-40f0-423c-b2b3-e8bf317ccb7c|VRCNDb|PC|
+ekuft|小小胡桃|usr_4b86cdf1-7742-4c22-8637-2b183dce3a05|avtr_bff5e596-40f0-423c-b2b3-e8bf317ccb7c|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_66267fe4-4d57-4d67-8a56-1b8559e5430c/1/256
 ekuft|PTAgen|usr_745c8194-7419-4004-b95e-d0d7da75cd29|avtr_f865411d-351c-42f9-aee5-03db0dd0b934|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_dcf48be8-2678-411d-b3ef-52ff38c79dec/3/256
 ekum|659431|usr_b2d314e7-98f9-487d-a42b-823f9a9931ac|avtr_8ccf6954-7372-4dbf-9a5a-fd800f1104cb|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_8959fd97-bb34-4d04-b241-b79fcd7a4a9d/1/256
 EKUMMD Emotes Naooo|Naoooooooo|usr_2c24acec-c79e-45fb-ba9c-0899c15d8db2|avtr_e6702ca7-fa39-4caa-940a-414d791738ac|VRCNDb|PC|
