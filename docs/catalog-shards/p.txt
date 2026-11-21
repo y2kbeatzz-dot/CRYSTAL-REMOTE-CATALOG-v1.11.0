@@ -19264,7 +19264,7 @@ prettyyy|pƖed|usr_222f396c-c7e7-4d7e-8245-9cc76f5ef7e7|avtr_eae1c938-2184-4ae8-
 pretzel_sample|AVAKIN_3D|usr_f27b6a3f-9353-4eb9-a9ab-06a4dbcf3561|avtr_1d49590f-11a8-4ba1-9348-1f061aa28b4f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6d49335d-6eee-4762-b86d-453fe455b417/2/256
 pretzelbub|Coerl|usr_9fc1a088-da44-48cd-b2e9-19d2d34a46c7|avtr_a0e0bf2d-88dc-46b3-ab47-2a19a59af5e7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_cb1e7668-e538-44e5-92a5-d9eb263b1bcc/1/256
 pretzle cultist|Coerl|usr_9fc1a088-da44-48cd-b2e9-19d2d34a46c7|avtr_e0130fed-8950-46e2-8fbb-ccf1bd421594|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a6a0ba59-2136-4f25-bd05-b7678488ed26/2/256
-Pretztail|CKTheFrog|usr_da077a32-5614-4603-aa9e-5227135bc567|avtr_4ccdd6d8-3c6e-43cc-8b3e-1a9997984ec5|VRCNDb|PC+Android+iOS|
+pretztail|CKTheFrog|usr_da077a32-5614-4603-aa9e-5227135bc567|avtr_4ccdd6d8-3c6e-43cc-8b3e-1a9997984ec5|VRCDB+VRCNDb|PC+Android+iOS|https://api.vrchat.cloud/api/1/image/file_9e59c4f7-3e25-4852-8820-903fc812aacd/1/256
 pretztail wip|Thea-FX|usr_128c7c7d-ee2d-4890-a731-472bfd64bd02|avtr_f8275ffc-3f5c-4caa-89b5-27df35de5e8a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6e8401ad-74ed-42c9-a9d5-eb1bc6c980f7/2/256
 preunionquindecad|DonoWall|usr_4a020007-590b-43ca-8753-69d0de5a72d9|avtr_73bd6435-9011-4668-993f-4777502b031b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3e2bbc6a-ecff-4d7c-b69c-f0947dcc42a9/1/256
 preußen bundeswehr v1․2|SovietVodka901|usr_62adc861-d252-4e65-900b-ea7b5ab947b7|avtr_f3858638-58ef-4b27-852a-0f746be601b9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_63c44c30-eb7c-4065-9399-635a57fb6cc9/1/256
@@ -26489,7 +26489,7 @@ uchiha|Pum~Pumpkin|usr_a83b1acb-d7db-4c05-8514-b0acdcbcb0b1|avtr_0ea6c34c-5650-4
 Uchiha Homer （You VS Homer）|puzzleify|usr_8e974f32-7268-4807-9133-e6f610e1f7fd|avtr_0e623503-5be3-4d0e-af5f-4c90d0522ce4|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_27550bc3-b0e7-4eb9-9ca3-1360cfc01d0d/1/256
 UF Chara.|PedroLGG|usr_53c12e50-702a-45a9-b76f-ec81b657e02a|avtr_cb81e228-dc15-4c9d-a156-ec7611780b8e|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_25ff2ef2-f565-4454-9ed7-b2a4cec0d5d1/1/256
 ufmp fredbear 2․0|PyrusHeliosVR|usr_d71d7a93-3b43-4e14-8741-0a2d389353d5|avtr_baccd8e3-2375-4a1d-84a1-86bd79fd7585|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_934987cc-f37f-42a8-93e7-be6b663f5ba7/2/256
-ug|ProdigyInfinity|usr_36dc8c6d-4df8-483b-914f-cde8c626e3c1|avtr_1ead8750-da0a-41a4-88fa-5d3be4c8ca33|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_94d47ec1-ecde-4090-853c-1b96a65f6779/1/256
+ug|ProdigyInfinity|usr_36dc8c6d-4df8-483b-914f-cde8c626e3c1|avtr_1ead8750-da0a-41a4-88fa-5d3be4c8ca33|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_94d47ec1-ecde-4090-853c-1b96a65f6779/1/256
 uganda knuckles|Pepeu_3103|usr_a9bb9fd2-930e-49fe-88ff-ab27354fca13|avtr_a9500dbc-8ab4-41d0-85c4-9f1b94e59785|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_247057df-ef93-43c1-a575-7124b1d166e6/1/256
 uganda knuckles v2|PoHǃ|usr_4c3f59d4-ed8c-47c8-9ecb-17e9f2d02e6d|avtr_e647aadf-95af-47dc-b6c7-77c8d18bfa32|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e74726cd-8b38-48a0-bc61-cd5d2fbacce1/1/256
 Uganda Knucklez|Papa_DMan|usr_f10a9638-b6f8-4118-a730-213cd95fa542|avtr_c1d191a6-229f-4f85-bed1-c5aeb1de38ab|VRCNDb|PC|
