@@ -7073,7 +7073,7 @@ kaito riyo|PͥsͣyͫchoKenji|usr_f690a54f-75de-4880-9a8f-f96d645690c3|avtr_ba8aa
 kaito shion|InkSansIsLit|usr_bbb9b20c-73f3-4b35-b1c7-a195584c5700|avtr_8512598e-2a66-4955-8eb4-4527e82a819f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e735176a-b7d8-41df-8254-1889f92863dd/1/256
 kaito ssj v3|treewer12|usr_28529553-3e7b-4a80-adea-f3265edac332|avtr_d491d22a-263a-4426-8601-668fcd6dd09d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7494f817-9f51-40c7-a445-d660ad499126/2/256
 kaito swimwear v x|Кagamine Len|usr_742f8201-a3ee-4ded-955e-3f265b71ca2b|avtr_41e37707-2b4a-43b1-a13e-8cfddbb5f512|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b7240e7b-fc75-4b7e-8d99-d51ffc403986/2/256
-Kaito UL|tothegood|usr_2c2b9f22-8e3c-4312-836d-60ebb5e0e91c|avtr_839301be-bd01-47a4-8eae-acdb9007690b|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_cfe56714-601e-4210-8563-48080034895e/1/256
+Kaito UL|tothegood|usr_2c2b9f22-8e3c-4312-836d-60ebb5e0e91c|avtr_839301be-bd01-47a4-8eae-acdb9007690b|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_cfe56714-601e-4210-8563-48080034895e/1/256
 kaito upgraded|Death Mark|usr_3b2da2fc-761b-4a0c-b434-c90f155d7ace|avtr_e1215e7c-63ef-485f-97ae-f588f008b3d8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_fc6c5583-95c5-4f08-88f2-de36cedec045/1/256
 kaito v2.1|k014|usr_86e9a0c9-0628-44dc-987e-d382e89d6843|avtr_7130ae63-4a63-40aa-88bc-f1a8c70dfee4|VRCDB|Unknown|https://files.vrchat.cloud/thumbnails/1318025488.thumbnail-500.png
 kaito v3|ღΚΑITO|usr_a93719dd-1a6b-4648-a88c-39e1888a70f2|avtr_a2185684-ea77-4db0-97ed-6a2e67ba0710|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d5bb64e5-5e08-4ac8-98da-e09352f92448/3/256
@@ -10004,7 +10004,7 @@ kefka anims|Cin|usr_5b0f8c80-da2a-4de1-a896-a79ab83a40c5|avtr_920b3bdd-1566-4c3e
 kefka （ffvi）|Nemesis_SKiLzZ|usr_b41b7ae6-716f-4356-aebe-e4f7b6875860|avtr_4258668a-1410-4875-b08a-a8021df99793|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4cfee249-48e5-4753-ac70-531bc9385017/1/256
 kefkaǃ|Kefka․|usr_fe086de5-387d-4d7d-bbd2-f3fb90772410|avtr_a90da48d-bf04-4590-a7d0-e0799341c18a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_fdb4c41b-ff27-4b22-841a-a5a1bcee8cdc/2/256
 Kefla|DKjvader|usr_cda4b802-2e3d-40cc-aca8-865de082a122|avtr_775c0317-4d29-4a5d-975a-33335c1de089|VRCNDb|PC+Android|
-Kefla|ĦøłłøŵNïmbůš|usr_72a1b1c0-2cb7-42fe-ba90-80a66b18675b|avtr_7aa85633-4ab6-420b-927a-107d1d05b936|VRCNDb|PC+Android|
+kefla|ĦøłłøŵNïmbůš|usr_72a1b1c0-2cb7-42fe-ba90-80a66b18675b|avtr_7aa85633-4ab6-420b-927a-107d1d05b936|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_dc0f7481-fe2e-4150-91dc-f5bf06648263/2/256
 kefla|MergedMadness|usr_0a1fda99-5a5a-4bb8-ac04-866cc8012d32|avtr_fffbff2d-0478-4b59-8424-44aa19f1cb1f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2292a25e-a8bf-4159-9ba9-3c6016c8e24d/1/256
 kefla - anime|StarAurora|usr_584df4f8-a8f1-4f69-9f09-02acbb834a87|avtr_55438bff-cb25-4b18-9079-a261e3a606dc|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_96213345-f36c-438f-8e17-746f03cb42d4/1/256
 kefla black|DecayingGamer|usr_bed6ac6e-1242-40b3-bf3c-4e85f0beeae4|avtr_bd952f80-86d3-4cba-b01c-78d0957defb1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b6e1d9ff-2997-4f94-b07d-ae6d79dcaf00/1/256

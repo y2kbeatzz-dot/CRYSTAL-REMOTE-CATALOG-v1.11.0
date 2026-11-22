@@ -8009,7 +8009,7 @@ bf4gr flecktarn camo|Vat_Da|usr_61943bde-d796-4b76-9b60-e20e0de1e60a|avtr_d508a6
 bf6 igition|qt villa|usr_14188e64-8b86-49b9-b2a0-e45ff5b1bd95|avtr_3fc27393-07a4-4296-90ab-3f4da13d674d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9c6e2c73-4a6f-460a-91bb-5180ad7be8e5/1/256
 bf6 regiment skin|WidowMaker|usr_ccd8fd6e-a2a3-4ef9-bc4f-9aac71de8c2b|avtr_23d37e3f-739b-4e7a-93e7-d2c07de8f902|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f3355ad3-864f-4a65-8538-113d8ba58b9a/1/256
 bf6 seeker|qt villa|usr_14188e64-8b86-49b9-b2a0-e45ff5b1bd95|avtr_67b94e00-cb27-4b43-b9a1-17d16ab09397|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_76cb8ee8-d3fc-4f3f-b265-e4b848d4559e/1/256
-BF6 us assault|Ravenlord27|usr_68e6623e-43af-4797-a68e-f524e387fce7|avtr_638d2243-d05f-4073-abbf-3865965f5076|VRCNDb|PC|
+bf6 us assault|Ravenlord27|usr_68e6623e-43af-4797-a68e-f524e387fce7|avtr_638d2243-d05f-4073-abbf-3865965f5076|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_030fe759-35e2-49cb-b121-f60b17806963/1/256
 bf_termi|×͜×iron-nap×͜×|usr_32b4ee41-de3f-4d22-b666-7ba1de11b18e|avtr_949aed59-6d71-4ad8-99fe-f5d2b81ee610|VRCNDb|PC+Android|
 bfb|achivism|usr_d4f934fb-ff56-4ad5-b2a3-784e5b222f37|avtr_d7a0809f-978c-4b5a-8945-6053258ac88d|VRCNDb|PC+Android|
 bfb four|Critrix|usr_d7438250-bf80-4758-9620-ebc6d1d7fb28|avtr_f874a9db-9c03-4518-a3e6-e9dacea863a0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7af9c9ad-4a2f-4096-b8de-fb1ba953b2dc/1/256

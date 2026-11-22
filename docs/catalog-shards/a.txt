@@ -3737,7 +3737,7 @@ agent scale|MalwereWolf|usr_32993bd0-8c07-4b88-828b-e77668329604|avtr_19cb6377-3
 agent scale|MalwereWolf|usr_32993bd0-8c07-4b88-828b-e77668329604|avtr_f1bf9f84-d0bd-4139-a74e-b904624d2ab0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_27a0e6e9-ab86-4ddb-bc41-bc3c4e32afc1/2/256
 agent shinra|ThornsMary|usr_d14a42ab-e364-472c-a0ec-ede25bb6b943|avtr_04a28c96-3a20-42b6-9692-4fab24aa8bb7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_591a21a4-6a8e-4afb-a0a7-f9f737a03ee5/2/256
 agent smith|DarkGloomyReaper|usr_582d02aa-07c3-4e8f-925a-21a872dd414e|avtr_330eb94e-c883-4dd2-8eeb-eb4ff81b03a1|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_10bf9461-af19-4fd0-9a97-761e67a00ede/1/256
-Agent Smith|cat123|usr_d508c92f-1b41-4508-9d39-a3682def9155|avtr_6f48e33d-5964-4b63-9539-ab83f305be09|VRCNDb|PC+Android|
+agent smith|cat123|usr_d508c92f-1b41-4508-9d39-a3682def9155|avtr_6f48e33d-5964-4b63-9539-ab83f305be09|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_eb073ec2-2fa5-4ba4-9111-e8deb959bff5/1/256
 agent south dakota 1․0|Nanosyl|usr_2e08605c-b6aa-4609-9e7e-14ae7c862350|avtr_b569dbbd-9e43-4023-ba34-cc089d5c95ae|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_af0e8401-9636-4cf5-b0be-61fea4a76cf7/3/256
 agent spect hare|xGlamRockx|usr_55be60b4-170c-4253-a8fe-b40e9acdca96|avtr_d144c0a3-7824-48b7-b283-0259c8e455ef|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_dadc52b9-8bd6-42cb-b5eb-68af7b329406/2/256
 agent spect-hare|8bitdark|usr_1763d1ba-8a63-4816-9dd6-9cd65b6f8589|avtr_ed68bd56-0c24-4c11-9115-871d9dcf7543|VRCDB|Unknown|https://api.vrchat.cloud/api/1/file/file_b5aaf2ed-ff52-4d46-b7cf-e0d58ead5498/1/file

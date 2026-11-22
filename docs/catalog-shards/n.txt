@@ -5625,7 +5625,7 @@ KE|Nahni|usr_ac89cf60-1eb4-4d34-9da5-95b280c6d61a|avtr_be048fe4-35e2-483b-9d7d-a
 keeper|・Nelo Angelo・|usr_e7ed4af3-4827-4dca-9d21-8256da610ade|avtr_14359faa-cefd-4507-9478-961aaa4a80da|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3d2f1c4c-97a6-42a6-bb89-e3a4350f8156/2/256
 keezly|·Newbie|usr_854f6cbe-2e4f-4f70-a62f-41aa27c2a623|avtr_9f5f59cf-c3dc-4863-b4f9-e69b7f1af61d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3db5361a-155f-4f29-89f1-c96379c55e83/1/256
 kefka （ffvi）|Nemesis_SKiLzZ|usr_b41b7ae6-716f-4356-aebe-e4f7b6875860|avtr_4258668a-1410-4875-b08a-a8021df99793|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4cfee249-48e5-4753-ac70-531bc9385017/1/256
-Kefla|ĦøłłøŵNïmbůš|usr_72a1b1c0-2cb7-42fe-ba90-80a66b18675b|avtr_7aa85633-4ab6-420b-927a-107d1d05b936|VRCNDb|PC+Android|
+kefla|ĦøłłøŵNïmbůš|usr_72a1b1c0-2cb7-42fe-ba90-80a66b18675b|avtr_7aa85633-4ab6-420b-927a-107d1d05b936|VRCDB+VRCNDb|PC+Android|https://api.vrchat.cloud/api/1/image/file_dc0f7481-fe2e-4150-91dc-f5bf06648263/2/256
 Kei PC ＆ Quest|NoodleBoxDemon|usr_d08ada2c-f97a-4d9f-8e20-4f15b35ce079|avtr_2acea732-eaad-4acc-b596-e60729bd7619|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_b1d8a51d-5e7c-4775-a640-61bc95f6ea08/1/256
 keisuke baji|ØniX|usr_512a9656-8422-4d53-98c0-a263d725bab7|avtr_cecdb973-3445-41a9-9673-0d9403c0d12f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_42e464ff-50f2-4b05-aa65-76b441581074/2/256
 keki dressed|Nick_Furry|usr_7f750605-8448-4834-ae28-223af7bfeade|avtr_d98f49d1-a0ad-4ba6-8747-70e2b821a6e4|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a412e1f7-2f0a-4981-bb0b-f2d5821b5c08/1/256
