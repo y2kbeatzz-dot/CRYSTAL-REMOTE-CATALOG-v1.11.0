@@ -5303,7 +5303,7 @@ scxracugx pub v1|Vik Villince|usr_2bfa6f62-a62d-43fb-9023-46cf70dbfea1|avtr_465f
 scxrxcugx pub v2․2|Vik Villince|usr_2bfa6f62-a62d-43fb-9023-46cf70dbfea1|avtr_b0fc3e0e-0b36-48be-b422-67bba8a31a4b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b6e0e429-4934-42f1-a92d-8a51d63111c4/1/256
 scxrxcugx v3 pub|Vik Villince|usr_2bfa6f62-a62d-43fb-9023-46cf70dbfea1|avtr_2af8a3b8-0292-4fbf-b0d9-cc2842b39f2b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_77753df2-6db2-4638-bcb2-c7757955f094/1/256
 SD-J‚ THE CHUD MASTER|VampiricCaninez|usr_34264e6c-00dc-4a04-ae0a-2ed6b240a754|avtr_ca9e054a-4de1-4972-a83e-025ba78e8ac5|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_37890553-9715-4ab4-86ce-bf1b925a50ef/1/256
-SD-V|Vantage-winter|usr_306e1be3-f7da-4f81-a674-aa570f048598|avtr_8d4381e7-243a-443a-9193-764dd14715e5|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_ae8174e8-5278-4452-9d71-eb83514783df/2/256
+sd-v|Vantage-winter|usr_306e1be3-f7da-4f81-a674-aa570f048598|avtr_8d4381e7-243a-443a-9193-764dd14715e5|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ae8174e8-5278-4452-9d71-eb83514783df/2/256
 sdf5646|VORIKSMALL|usr_fac5748b-eb52-4218-a228-095ac54023c2|avtr_c8012e27-2546-42d0-bf7a-821598a7c717|VRCDB|Unknown|
 sdfg|Vmonk|usr_26c290d2-6d8f-4685-b706-d8651bb38bd5|avtr_ff0e84ad-bf0a-44d9-9412-23e330c48918|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_20e0a0fc-8bfd-4960-a7b5-4c1cc32cac6b/1/256
 sdfgfehrtjkyuliio;p|V¡car Amelia|usr_f1ffb744-0ef0-4897-a17f-ee2b23efff61|avtr_76f8b45d-4ae8-40a7-9098-42c7f1a47367|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4172475f-c50b-42a6-98ec-b11b2d532e19/1/256
