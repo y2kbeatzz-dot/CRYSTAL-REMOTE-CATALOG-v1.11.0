@@ -2922,7 +2922,7 @@ karkat vantas-leijon （private for alter）|1-800-MYTH|usr_dbf4eb90-d840-400f-a
 Karot DB18|デモンベイン18|usr_2f807368-7ea2-4def-af9f-1ee021d900e4|avtr_e7120b62-1cd0-44a1-a29b-cc559152f7ae|VRCNDb|PC|
 kei_kronos|11INUDOG|usr_677449c1-0d7f-47ed-be38-119128af30a3|avtr_1d50c367-b470-4c22-9e84-71f0c0e3ba71|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3a53fff9-c48a-428b-9af7-b799f206f59c/1/256
 khrave marauder hrud auxillia|1xenomorph1|usr_f84a8e93-72da-4799-a22a-f2719c8ce758|avtr_13807178-c03d-44c9-b18d-ae2c56e38263|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6ca9885d-89bb-4538-a795-3b2f4f95a90a/1/256
-Kim Jong Un|_1195a|usr_d386bb93-edac-4bbf-99a0-9a8207bf81c9|avtr_95802bb8-acee-4c75-8f10-d3ba9a262d93|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_a584b621-e97c-468c-803b-f7abaa0ebfde/1/256
+Kim Jong Un|_1195a|usr_d386bb93-edac-4bbf-99a0-9a8207bf81c9|avtr_95802bb8-acee-4c75-8f10-d3ba9a262d93|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_a584b621-e97c-468c-803b-f7abaa0ebfde/1/256
 king sisyphus․|???-123|usr_6523ee46-79f0-4c63-ad52-ff11651661ae|avtr_556f3cdd-f873-4e6a-9d4f-88e72a505426|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f20f021c-ebeb-415a-a193-62b6cac396f6/1/256
 kings dante|りﾑりりﾘﾌ乇丂ｲ乇尺1988|usr_c1d4a7b7-ba84-45e4-a49a-9db8436efb1a|avtr_f0345eee-3e34-4a53-b549-db117d1d975f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_377446b3-f6e0-4211-8d6f-c3ff88962de9/1/256
 kiwi the bard|1Sopa|usr_738d1e1c-9387-41be-99b7-1c8a1b89315a|avtr_08aa8f81-b0ea-4414-acd5-33ef5a6f8563|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_739714eb-0355-4907-9582-4e7ff0262f4b/1/256
