@@ -544,7 +544,7 @@
 44th battalion trooper|DJ-BEE|usr_c81f7bef-65fa-479b-855a-f253921a8ac0|avtr_86469e52-9359-4378-9727-c2d7516ec5b4|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0135220c-5159-44f7-b4f0-44356d0b1ea6/1/256
 44th bd-1|th3amaz1nm4tt|usr_a8431129-bcbb-4000-a922-a5defa01f4bb|avtr_9e692da9-7c6d-4ba7-a772-092995d8d67e|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_fbd20eae-426f-46b8-ab37-05ccf61fd424/1/256
 44th bd1|Banova|usr_2c4d7d4c-0907-4be6-a5a8-ab75b7be4e45|avtr_bf8db3ae-6d65-4277-918a-1f1da6c2b40a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_49e1feb1-c9ab-41c4-8860-ce75f7a832c1/1/256
-44th binocs up|Rexar|usr_ce7dabdb-a551-460a-8f3f-c30ba0c832a4|avtr_566c24fb-ee7f-4a6a-a266-c44aa881b51f|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_4b4faa22-03ff-4350-8aaf-b7a5dfcffb57/1/256
+44th binocs up|Rexar|usr_ce7dabdb-a551-460a-8f3f-c30ba0c832a4|avtr_566c24fb-ee7f-4a6a-a266-c44aa881b51f|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_4b4faa22-03ff-4350-8aaf-b7a5dfcffb57/1/256
 44th BX Base|Koaまた|usr_73f00c1b-fb7b-4c05-a0a6-a6ab7f68ff39|avtr_d946e409-22d8-48bb-9048-e4c956f1ebc7|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_4d1ce93c-6b7a-4f72-bc3c-d287cf69278e/1/256
 44th cold assault gear|Galahad™|usr_a85e0983-0b68-4b13-aa49-9dc579c455cf|avtr_8a6f4bc5-8e24-4236-b0de-c1b351793196|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c4089e36-d059-47e1-961d-e6f8751033b9/1/256
 44th cold infiltrator|Galahad™|usr_a85e0983-0b68-4b13-aa49-9dc579c455cf|avtr_e75d1e98-752b-4bc7-8d66-1e6325169321|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_fc6df372-5324-48e8-b740-2a979f57f816/1/256
