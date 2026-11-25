@@ -831,7 +831,7 @@ trxsh|8 9 3|usr_18a5fc52-ff79-4b2b-b03a-39bf0e62d88c|avtr_66eaa24d-ceac-40e0-8cd
 tyke dog v2|8bitdark|usr_1763d1ba-8a63-4816-9dd6-9cd65b6f8589|avtr_3ac3f522-fdef-472a-93e4-7452636bdb3f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_5d7c15b4-7b48-43eb-8f39-962f939d2cda/2/256
 ulquiorra number 4 showing|ʏ82ᴏ|usr_72939929-788e-47a3-8d64-e764bf989265|avtr_1ae9d78e-45f9-45aa-8dd0-65f0ae2f812d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_5cb4fbb9-495a-4d22-b655-0fdf3b79b450/2/256
 umbrella|8bitdark|usr_1763d1ba-8a63-4816-9dd6-9cd65b6f8589|avtr_b9b3e8a0-93aa-4888-b5aa-437d04aa0cb9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_05bb80db-2016-4770-9696-ef4d2f73d283/1/256
-UR Rifleman ＂Troy＂|8_Pin_Eren|usr_44a2f493-1f39-454c-b54d-91982de50ca0|avtr_cea83f0c-90b9-49c7-83f0-f0e9da6ff611|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_a36542b6-e6e4-47a4-8cf8-ecc3164706a3/1/256
+UR Rifleman ＂Troy＂|8_Pin_Eren|usr_44a2f493-1f39-454c-b54d-91982de50ca0|avtr_cea83f0c-90b9-49c7-83f0-f0e9da6ff611|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_a36542b6-e6e4-47a4-8cf8-ecc3164706a3/1/256
 vee_sampleavatar|8 0 8 猫|usr_09efdb1e-a705-400f-8890-65ef4c8b3b0f|avtr_734d64f6-5f3a-4efd-8a39-40939a1167f8|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_911578c7-119a-4b39-9b08-923f343ef03d/1/256
 velma dinkley v2|8bitdark|usr_1763d1ba-8a63-4816-9dd6-9cd65b6f8589|avtr_5f38567a-522a-40e7-b6be-445ecaa7508c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/file/file_7f78cc96-2f24-417f-97ac-886aa037271e/2/file
 vertawy|Нямка 8f12|usr_a3a930fb-8ee1-438a-966f-f1d3f2698f12|avtr_e98e5139-9ae4-4d2b-9a1f-dc0bb2e2076e|VRCDB|Unknown|
