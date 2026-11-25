@@ -585,7 +585,7 @@
 118o8 ǃǃ|00uter|usr_b1f238b5-c523-41a5-815a-a85d26cf2cae|avtr_2e4ceae8-233a-4db1-a583-363450d308e7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9c059ea0-0fb9-4c9c-ae70-be5532fe32b1/1/256
 11_sword|Oblaa|usr_e312e9e3-c972-45d3-bcf1-4319bf403dc6|avtr_ffb5af16-fd38-446c-a10c-70934c4ea4c7|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_476afea1-612d-41b6-a0d9-6ce400ab01bd/1/256
 11ama 0rigin41|Secret Eros|usr_5fe56d91-2509-437e-977c-fabf3cd357e1|avtr_bb8906b9-d96e-4a47-b4fd-11599d6bf0e0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8ff835ba-e501-4f56-a4fd-d529236af8c2/3/256
-11B us Shiba|Flak Jack|usr_50c70a36-ce8b-4ee5-86ec-909ee2b56f3d|avtr_8bbed6c3-40b8-41cf-bf07-4a0af58464c0|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_db028c1b-43d6-4d80-9318-05faa3625f07/1/256
+11B us Shiba|Flak Jack|usr_50c70a36-ce8b-4ee5-86ec-909ee2b56f3d|avtr_8bbed6c3-40b8-41cf-bf07-4a0af58464c0|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_db028c1b-43d6-4d80-9318-05faa3625f07/1/256
 11k|SleeplisKatVT|usr_374bdd05-6f02-4910-8d4b-39f79617ef9e|avtr_1ebc0e75-63a9-4b98-bee2-bdfc382b1e14|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f329ded0-9a95-46a3-87d7-b081ff300120/1/256
 11th Airborne Base avatar|Jester80|usr_541b7898-82f9-4768-bc31-03192c79d062|avtr_1959f79c-8cad-40c9-8aad-b576d9929d07|VRCNDb|PC+Android|
 11th doctor|puddigoja|usr_d83a941f-e834-4e9f-9d81-fbeede0b9484|avtr_a2e14eaf-782b-4994-b10e-9452dfc13ed6|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_298d67ec-8ef8-4563-8440-921df5f047cd/1/256
@@ -2254,7 +2254,7 @@
 1970 doge charger|cwhalo|usr_70966dec-479e-4fad-ad1c-76dc0537cc31|avtr_b7dcdf41-a64f-471d-92c8-7cc0b692153d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9714c43e-1bdf-47ae-bd5d-e9eff388a52a/1/256
 1970 ford truck|REAL FREDDY236|usr_3af93955-8f00-44c2-b0b3-f0d4037359ac|avtr_799f8805-5fdf-4294-b6f0-87cdb14863bf|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_64731f47-2c65-4fc5-8490-6a4746778a06/1/256
 1970 fsc żuk a-07|2FAST2DRXFT|usr_64e71c92-3511-4e4c-a221-524e10eaae32|avtr_4ef367e7-ba07-4f31-8ec9-e19255745f72|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0515cdb9-6060-41db-a798-45a72ca8c6f1/1/256
-1970 klee us|cryptis|usr_4cd6a29c-d4c1-4440-aa98-b51bf2d84c21|avtr_bef6020f-b80c-4e95-b2b7-ba9e7192d199|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_fb15a5b5-fa10-4542-aeac-2e496c99a02c/1/256
+1970 klee us|cryptis|usr_4cd6a29c-d4c1-4440-aa98-b51bf2d84c21|avtr_bef6020f-b80c-4e95-b2b7-ba9e7192d199|PAW+VRCDB|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_fb15a5b5-fa10-4542-aeac-2e496c99a02c/1/256
 1970 plymouth roadrunner superbird ［from cross customs］|Ilya_Cross39|usr_36db55d2-e521-40e3-9852-fd6ea4b8d19b|avtr_eba6d1ed-0b74-4c26-b154-f53f36be7a26|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6c74eafc-01f6-49da-a810-e083f9aad925/1/256
 1970 porsche 917k|2FAST2DRXFT|usr_64e71c92-3511-4e4c-a221-524e10eaae32|avtr_f0c3beac-8583-44ef-8440-683c7af996eb|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_55218e1a-5977-4e46-9deb-9894d9dcd5bb/1/256
 1970 volkswagen beetle fusca aerokit|2fast2kart|usr_64e71c92-3511-4e4c-a221-524e10eaae32|avtr_b5ef0ad4-4344-4183-9313-75060466523f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8a88e1a5-7318-40ee-a4d2-2826cac9f3eb/1/256
@@ -2354,7 +2354,7 @@
 1990 pierce arrow fire engine|squidiskool|usr_f0808986-73b2-4a9c-a110-989781d3da2e|avtr_26ba96ac-61c8-4f75-a22e-acf745222f99|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ee735cd6-3fcd-444f-bfc1-be04121d1d95/1/256
 1990s chevrolet caprice police cruiser|zealot2339|usr_9315c65b-ff80-4d4c-8216-674c03398c73|avtr_bb91a7ec-6cf5-4811-8851-5c59061316be|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7d06fc4f-60f9-40ef-a896-812268836169/1/256
 1990s Rangers|Just AJ|usr_8144a3e7-1e2b-438f-a5f7-9299765d585b|avtr_d5bc946a-b64a-4631-a287-5c499f19749c|VRCNDb|PC+Android|
-1990s us soldier|Unfunny_Jesse|usr_e608df4a-da5e-4957-baa6-5b1527401d23|avtr_f319d69e-7e78-4114-adf5-15a3cf35fa25|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_04fac61d-81bc-42df-af3f-e5869913efd5/1/256
+1990s us soldier|Unfunny_Jesse|usr_e608df4a-da5e-4957-baa6-5b1527401d23|avtr_f319d69e-7e78-4114-adf5-15a3cf35fa25|PAW+VRCDB|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_04fac61d-81bc-42df-af3f-e5869913efd5/1/256
 1991 daewoo tico|【 Zenon 】|usr_25b7c1f8-8f82-438a-a5ee-b1dd58d439ed|avtr_6d60687d-aba9-43a2-95c4-7bf5c1d8814c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_23d054bb-707e-4cab-8c29-e2d3fc34f16f/2/256
 1991 mazda 787b|2FAST2DRXFT|usr_64e71c92-3511-4e4c-a221-524e10eaae32|avtr_516afabc-2035-4e90-90bc-73dde4c3869d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6b865ff9-f874-497e-b2f5-0a3090ac51c6/1/256
 1991 nissan skyline gtr r32|【 Zenon 】|usr_25b7c1f8-8f82-438a-a5ee-b1dd58d439ed|avtr_999d4242-d4c2-4b49-8133-c892394db052|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_20b5c214-fcbc-4eb3-957a-09b961f282a2/1/256
@@ -3266,7 +3266,7 @@ zheng|+1s|usr_7ef32a9a-eb61-49f1-958a-ae0fc9423f59|avtr_0b32479c-c4e8-470d-8771-
 ~ǃ17bucks gfǃ~|Spectro-HDMI|usr_3d37ac13-974c-4b33-86e0-3834354fcbef|avtr_842f539b-119a-4de1-97a3-66971d94ba30|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_7f75448a-c01a-4ba0-9070-d5dd4a5d8ed3/1/256
 ~ǃcomfy luteǃ~|༒ʟ1ᴠɪɴɢ~ᴅ3ᴀᴅ༒|usr_16a4d7ce-a40a-4d4a-8954-2f7e792866d9|avtr_12261774-bf69-4434-81a8-43ad6f6d0eab|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d4fc5853-7de4-403f-beed-484dc08d0d00/1/256
 ~∗nyx∗~|~1uNa3ClI9s3~|usr_a7fe8461-bfba-4393-964e-dd7eeadca47b|avtr_b0a6ba94-6823-4251-8499-15d11a281afc|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_42c6a77c-eac9-4ea9-94a3-184676d64870/1/256
-~｛ customizable among us vs․ imposter ｝~|~»1x1x1x1«~|usr_12a7f36e-ee86-4710-8a2a-04cd4eb369f4|avtr_ca2ede8e-b8ba-43c9-ae9f-c8112b48becd|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6f967a63-9220-461c-ad5d-2acbb70f59c3/1/256
+~｛ Customizable Among Us VS․ Imposter ｝~|~»1x1x1x1«~|usr_12a7f36e-ee86-4710-8a2a-04cd4eb369f4|avtr_ca2ede8e-b8ba-43c9-ae9f-c8112b48becd|PAW+VRCDB|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_6f967a63-9220-461c-ad5d-2acbb70f59c3/1/256
 ~｛ modelrig1212 ｝~|~»1x1x1x1«~|usr_12a7f36e-ee86-4710-8a2a-04cd4eb369f4|avtr_b661af85-f7bb-4e84-9a31-da65d133d794|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_fd84d233-49df-4b68-a512-355dfe04e83a/2/256
 ǃ 18|ʀᴏᴅʀɪᴄᴋ 嗑药者|usr_ca853393-0f3e-4a8c-a515-187d7026d7a7|avtr_90709f08-36f5-44a2-8dcd-36f7b0477616|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_545c8925-c139-4056-bc6b-3451830333c2/3/256
 ǃ xmas bee ǃ|༒ʟ1ᴠɪɴɢ~ᴅ3ᴀᴅ༒|usr_16a4d7ce-a40a-4d4a-8954-2f7e792866d9|avtr_e3c14257-142d-41dd-adae-cc523e6fc69d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bd57591a-3fd8-4959-bb9c-dcbe5937bddc/1/256

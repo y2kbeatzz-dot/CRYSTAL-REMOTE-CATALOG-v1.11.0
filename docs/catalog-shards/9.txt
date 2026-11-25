@@ -78,7 +78,7 @@
 90hz ybot|90Hz|usr_346020bd-576d-44bd-8344-af001ae0f4cd|avtr_f9216f4b-9b6d-41c6-b9d3-3f558a155ba7|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_8f952c48-1481-4861-acd3-e93954a3056a/3/256
 90ju|WO-4|usr_1acc93a3-6f78-4d43-92a9-03d2e669edaa|avtr_87ac5e51-3ae8-41ff-b362-c600770dc6ec|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_235da46b-a5a4-42a6-b55e-1e88da29b4ae/1/256
 90s|Iranian Goldfish|usr_76e2ce61-e849-4ee8-a87e-d08d85b192e2|avtr_95a25895-37d4-43a3-b546-c2bad28bf246|VRCDB|Unknown|https://s3-us-west-2.amazonaws.com/vrc-managed-files/thumbnails/1535474459.thumbnail-500.png
-90s among us|Plague_vizla|usr_459b5224-7f32-4eec-93c7-b016d7c52c8e|avtr_c09320d2-d204-4655-9914-6937eeeba581|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_5ae66287-14d5-4b26-b04f-34d140c401ca/1/256
+90s among us|Cerdic Vizla|usr_459b5224-7f32-4eec-93c7-b016d7c52c8e|avtr_c09320d2-d204-4655-9914-6937eeeba581|PAW+VRCDB|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_5ae66287-14d5-4b26-b04f-34d140c401ca/1/256
 90s Anime Boi|Jeezuss|usr_e9f1756c-39c5-4451-b6c8-f5305bdef315|avtr_2454fea6-649e-407e-a2d4-3a78d0dcebea|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_367c467a-3c82-4ec0-b3e7-bd3fdfd09355/2/256
 90s bimbo ≺3|Veeniri|usr_edb64c03-80bd-41c1-ba7d-990b0d14290b|avtr_28ab18cf-aabe-4eff-acc6-ed4aa863c174|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bf040d80-c3f8-4c84-a828-390087cb8e6b/1/256
 90s experience|Mega G Wolf|usr_eb7036a8-37fe-44ec-9c7c-39ed3d2579c1|avtr_fae505ad-6019-4678-8527-28a736dc238a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_49b4f67e-06c6-414f-8a0d-fabd7d441743/1/256
