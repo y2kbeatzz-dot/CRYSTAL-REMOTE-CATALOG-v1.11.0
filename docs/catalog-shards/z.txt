@@ -4859,7 +4859,7 @@ ushabti （khemri）|Zaketh|usr_b171b5d4-c1e3-435a-90de-9b22e1b5b246|avtr_4f587b
 ushoran （jenosite）|Zaketh|usr_b171b5d4-c1e3-435a-90de-9b22e1b5b246|avtr_2e2c8c5d-2d3a-4fc5-af52-6bb5ae180593|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_1e9a8be6-ced7-44d4-9f98-0eacf7ed15bc/1/256
 usiersa92|zqq|usr_b6e62e82-abd4-4689-b140-73f90b774ece|avtr_b20f4a25-0875-4180-a1d1-079ea64b9459|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_5e5f04dc-e432-49b1-a45e-9565bafcc8a3/1/256
 uu|zahck|usr_dac2247c-7567-44d9-8424-fb78295c7e98|avtr_a8ddda08-cb4a-4c48-a630-ced1096efa73|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_41d393fd-5253-48f3-a213-2231daf61e39/1/256
-UW|zombiemantic|usr_ba2d3697-0326-4dbb-91aa-ba1767ef0699|avtr_887a11de-3b68-4361-b90f-f13e0c920d8a|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_e3a091ec-3b7c-4b33-9542-39ec65cd8fd7/1/256
+UW|zombiemantic|usr_ba2d3697-0326-4dbb-91aa-ba1767ef0699|avtr_887a11de-3b68-4361-b90f-f13e0c920d8a|PAW|Unknown|https://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_e3a091ec-3b7c-4b33-9542-39ec65cd8fd7/1/256
 uwu|Zeroo~|usr_90a5db06-1e7c-4039-8778-b537b3ebb6b2|avtr_37bd94ca-8a52-4550-ba54-334cc0a2b5b0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_800793dc-df07-42e1-85f6-00102dabc636/1/256
 uwu|'Zewwie_ɞ|usr_003c18e6-3abc-410e-9598-77b29cd43a95|avtr_cf756bd1-2637-4bf2-961e-a569ac529438|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_53a25421-5be4-4325-9f3a-76e1c52384f7/1/256
 uza|zSkulli|usr_fec224f2-f388-45e8-8aca-69aee557adf8|avtr_edb7d641-34d0-49da-b0b0-29e6bb30bfd4|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_728af6a7-6558-4a7c-bab7-1c666f40d812/2/256
