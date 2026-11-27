@@ -2723,6 +2723,7 @@ malice fpe˸s animated|ZIMMMMMM|usr_70b776a1-3d5a-48ed-860f-c322b6387537|avtr_61
 malnull|ZΣПKΛI|usr_4088d522-ed68-47f6-9008-04a56594f613|avtr_d80df84f-baf0-475d-bea9-776fdac54e0f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_2dbcf695-7b5a-4731-bcea-d1220d7c19ab/1/256
 mama tattletail|ZDWhisky|usr_ee6ea798-0a46-41a0-b749-df2c0f622e22|avtr_368a9b75-bd03-433d-8013-916923d06ed9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_60d4cfd4-d0fc-4149-b8f6-e382dfe64dd3/1/256
 man|Ōzen_VRC|usr_c3640847-4312-449c-9ab2-1ba00a7db08a|avtr_61a54694-b196-409a-9c2a-f01ec92fcc2b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d890b718-60e5-439d-b989-e326a2432402/1/256
+man at arms （bordeleaux errant）|Zaketh|usr_b171b5d4-c1e3-435a-90de-9b22e1b5b246|avtr_ae76de90-efab-415c-9b05-1ef436a25783|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a264c821-665e-4a09-96c3-19c5dc68e98d/2/256
 manbowzoku|zhoney666|usr_d403ed52-2687-4a07-855e-9e12fad7da9f|avtr_8b1a68f4-b941-4cce-a346-b0537ee204e5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a3c6e5d0-411e-41a4-b64c-bc0a003e2dd5/2/256
 mandale|---zulu---|usr_996e77b2-1842-4ab9-b8cb-9519ef53f68e|avtr_8b5d5b98-cda4-47f2-8950-4297f6505fa6|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c3c1ce05-bb4a-41e8-9676-fe9a4b4e6e6b/1/256
 mangle|Zee_7667|usr_2a5e240e-d2ff-401c-a1dd-ac3737f6e028|avtr_b6501f35-6b66-4205-9b05-f137e1629c74|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d85cbabb-5907-4f84-a4d7-441d373af39c/1/256
@@ -3893,7 +3894,7 @@ rotten strawberry au shrimpo|Z1m_|usr_295120d8-a205-4608-8621-874ff2db15d0|avtr_
 rouge the bat|Zhadox70|usr_5eebd3c3-b8ee-4ce3-8826-cb8e047e1d36|avtr_1f95a96d-f66e-4427-a660-268c19217e77|VRCDB|Unknown|https://api.vrchat.cloud/api/1/file/file_28ffbd49-43b0-43fd-a82e-2f280be6f59e/2/file
 rouge the bat|ZDWhisky|usr_ee6ea798-0a46-41a0-b749-df2c0f622e22|avtr_792c65bb-5290-4ecb-8075-a81fa37e8b4f|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_72bf8cc0-f593-4fcd-a779-c07b31cd6548/2/256
 rouge the bat|Zhadox70|usr_5eebd3c3-b8ee-4ce3-8826-cb8e047e1d36|avtr_868e9e32-ad59-430f-abcd-8b3dacb9b3ec|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_910797bd-2b3b-4f4f-be99-5711013d3744/1/256
-Rouxls Kaard （Duke of Puzzles）|Zero_Banzzz|usr_63572f99-bbce-42af-996b-b3230d09ceb3|avtr_55b6d6df-174c-494f-add8-8fdeb895f493|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_05c4b0f3-ebdf-4fa8-a7b3-74b403b0cbc0/1/256
+rouxls kaard - duke of puzzles|Zero_Banzzz|usr_63572f99-bbce-42af-996b-b3230d09ceb3|avtr_55b6d6df-174c-494f-add8-8fdeb895f493|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_05c4b0f3-ebdf-4fa8-a7b3-74b403b0cbc0/1/256
 roxanne perez '25|Zaeveongamer|usr_f9c1b21f-c919-4f00-bdfe-b1c47c23847f|avtr_8784bf35-8e83-4cd3-8033-54e9cb328bd9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0ab5a812-3e82-49af-98d8-dfdc4433b005/1/256
 roxanne wolf|Zhadox70|usr_5eebd3c3-b8ee-4ce3-8826-cb8e047e1d36|avtr_6c6ee861-60f0-4933-9940-073b4cfb9ec4|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6b263cde-5553-415c-996f-0b6029b186a8/1/256
 roxas|Zye|usr_130c5887-2c4e-4b15-bb78-f72ab5aa46af|avtr_e13cb9f9-8a63-496f-877b-aae8b2dbe2bf|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_688ea586-43ad-44f9-86c3-32f73b8288bc/1/256
