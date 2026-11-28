@@ -20096,7 +20096,7 @@ kuwu mk 35․5|Kuwu~|usr_35c76bf4-11c0-4a0d-8b08-87b94a0640bd|avtr_d4dc30bd-7a9f
 kuyapublicbeta|时隐Andsen|usr_913c393a-7be6-42ad-8b92-589edef54074|avtr_fdceaff2-d67a-4636-af5a-11d2721f8b2c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c02d439a-4461-4f94-a4f0-283f18ec76cd/3/256
 kuyjuy|High On Life|usr_dc05132a-82bd-429a-8b18-684c5d43997d|avtr_139214e8-21e8-4f2b-adac-236150a0871d|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_49e3236c-b346-42a5-bad1-cb03fc4992c8/1/256
 kuyomii-|Kuyomi-|usr_4a12f113-51e0-45eb-8942-cf4cced383b6|avtr_c9e2a5ab-4550-4240-9efc-ccf22b4f4d01|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_dbb32021-d0b4-4f3b-9fa3-0186cf8ce0af/1/256
-KUYUKO 0․75|A_SHENTE|usr_bee1ef6e-5f89-479c-ac88-5b7ccfdf3948|avtr_0f638f63-d927-48f3-8685-685183aba641|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_de3b76e4-75a9-4e5e-8075-8a8f16c62636/2/256
+kuyuko 0․75|A_SHENTE|usr_bee1ef6e-5f89-479c-ac88-5b7ccfdf3948|avtr_0f638f63-d927-48f3-8685-685183aba641|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_de3b76e4-75a9-4e5e-8075-8a8f16c62636/2/256
 kuyumark48|C․C․․|usr_44f308f9-aad4-4639-9989-3538c3dd54c6|avtr_27207b04-b51b-4db5-a76c-107b82e1e5c5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a8c94d88-6eef-43da-804b-b64105d8619a/1/256
 kuz uwu|Sprigy|usr_8e3ecd46-cbd0-40cf-b24e-41e85485e9e3|avtr_08158ec7-e510-4db6-9a91-61bd9f7f4593|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_6c76e5d9-3cb4-4b25-8544-059a4b308228/1/256
 kuzan|Kindly Miquella|usr_db27c1f5-a973-4996-aac1-af716f9d682c|avtr_7067b463-b2df-41a6-831e-3cfa7a5524d0|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_81a41ac4-77e4-4218-a54f-913e1ead0fbe/1/256
@@ -28655,7 +28655,7 @@ z․ ssgt ct-23-5487|Knox264|usr_e85ce08d-13a0-49db-8d1c-27b10dd852aa|avtr_f2a30
 害羞幽灵小小 rev|你亲爱的酒保K|usr_a7e021be-ff4e-4a7a-8dc6-e462a00505f4|avtr_0347b0ec-86e3-4b16-af29-f76a721f11d5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ba165428-2f1b-47f2-8a40-cd7299e11623/3/256
 导演系统 v3 ｜ v240824|你亲爱的酒保K|usr_a7e021be-ff4e-4a7a-8dc6-e462a00505f4|avtr_cbe3764f-4322-4b0a-9d6e-4de075fa8e68|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_a9efd095-6fc3-40fe-af94-28a3935ad1b6/1/256
 导演系统 ｜ v230515 - 1303｜ ~liii works|你亲爱的酒保K|usr_a7e021be-ff4e-4a7a-8dc6-e462a00505f4|avtr_6d3dda5b-acf7-458a-9722-e27781b60e34|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_778efc31-8003-42f3-af02-5236a6a25bbb/3/256
-小kaguya-FT|zhenikun|usr_ada77572-a8ea-4f6d-80d1-5dd80b1944ca|avtr_9711d9a3-c3a0-44a6-8f24-194a09e2c66e|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_75900753-0a12-4bc3-b519-dff8ffa1fd97/2/256
+小kaguya-ft|zhenikun|usr_ada77572-a8ea-4f6d-80d1-5dd80b1944ca|avtr_9711d9a3-c3a0-44a6-8f24-194a09e2c66e|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_75900753-0a12-4bc3-b519-dff8ffa1fd97/3/256
 小九konqwq|小九QWQ|usr_6970cf8f-9f25-4c9d-9493-78e18548b59b|avtr_254d8b0f-be65-4496-9c19-66c36039bc87|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_ca5a64a9-6361-4cfa-af7d-0033a5b67762/5/256
 小明寺悟|古明地_Koishi|usr_9d3f28c8-f002-4ce1-8279-1f1593a303b2|avtr_9e9e1615-62e0-4c8a-9f0c-6c380c033ebc|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_23fa20ab-20fe-45d0-94ac-eb7a4e0af43f/1/256
 小红猫kipfel|小叶子owo|usr_84fb3c9e-c3be-4371-92e2-7ae53689199e|avtr_690b9eee-42f4-483b-befc-6c912108a6b5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_74b40386-f97a-4bcd-8754-440343ef7535/1/256

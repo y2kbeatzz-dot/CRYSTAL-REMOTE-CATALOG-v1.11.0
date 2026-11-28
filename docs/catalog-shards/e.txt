@@ -9526,7 +9526,7 @@ eva|vrmaster35|usr_69a3f8fe-9ee0-4880-9a8b-902cfc511ac7|avtr_c5e58626-dc26-46b4-
 eva|_ʙʟᴜɴɴʏ_|usr_1505eaa7-75a1-4c55-a919-a6e5d33bebfb|avtr_e5403769-e0b3-47b6-acb6-9bf7b1190097|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3f7e5827-9b34-49b9-8236-c1a5d6466642/1/256
 eva - mg3|hanhann_|usr_415376d2-f1ea-4d22-876f-96aef05f3588|avtr_4573eaaf-8439-4e0a-afb8-61e31aa061ed|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_0b5d260a-4d4c-4661-a531-2f85cb34ccab/1/256
 eva - sonic originalsǃ|Mr2297|usr_1c00471e-f6d8-4de1-a09e-8bbe3a10e346|avtr_8c94dcd7-f58a-4826-8840-31ce1a22b60b|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9c829694-3bfb-4af5-9b71-52f74d925160/1/256
-Eva 00|Angelic Crone|usr_6edb10fb-c743-4c57-84eb-4d8bbfcc4971|avtr_004c762d-c4f2-4b8a-8324-41609f88c1b3|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_282f0dc3-438a-4a72-9c98-cee3586056f6/1/256
+eva 00|Angelic Crone|usr_6edb10fb-c743-4c57-84eb-4d8bbfcc4971|avtr_004c762d-c4f2-4b8a-8324-41609f88c1b3|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_282f0dc3-438a-4a72-9c98-cee3586056f6/1/256
 EVA 00|bioniclegf|usr_ab289b1c-0459-451c-a504-cde27db44024|avtr_03a48b57-7dc6-4dd5-abdd-8c72ec3481e0|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_6e72d318-3b99-4f11-b9e0-707f20f60ed6/1/256
 EVA 00|Deltaa32|usr_05cd6daa-bba1-445a-a9cd-9c5a6d7be2e8|avtr_0f087094-9822-4743-a9fe-a2c556cc41d2|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_53cd3c7c-d26f-4c3e-a5b6-35b62c562385/1/256
 EVA 00|TropicalDragon|usr_b85c9ab9-0d13-4d11-86d6-a728c1f5f976|avtr_435205cb-4df2-40be-a995-745d6a35f3c7|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://s3-us-west-2.amazonaws.com/vrc-uploads/images/image_1200x900_2018-01-05_02-05-49.png
@@ -14562,7 +14562,7 @@ pink crewmate - halo|Elliepop|usr_80308efd-5d45-46a9-b341-8cd73417ecb8|avtr_79c0
 Pink Flan|ElatedYokai|usr_a7ae772c-01d1-4ca2-9aad-d2569d4c91ab|avtr_549a094d-eb74-4cd9-aa51-0ee71aca47e4|VRCNDb|PC|
 pink geese|EclipsedCandle|usr_18dc7547-466f-43d2-90d8-28593ed9d0dc|avtr_eb84f9da-8752-40e3-bbe6-01a6bd05ae33|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_d3705ff3-206b-4c9a-9356-6aecfc938011/1/256
 pink girl|-Expo-|usr_f45d19af-8aa0-43ae-9ace-6f8bba45bb2c|avtr_32357aa1-2589-4401-b6fc-75f9d92b75e9|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f9e82036-6089-472f-9c16-41fe721d45fe/1/256
-pink guy|EJG-|usr_48d22b91-8a84-4e00-8c70-7e01c0094729|avtr_396df529-1e12-499b-b7ec-c059aad93a93|VRCNDb|PC|
+pink guy|EJG-|usr_48d22b91-8a84-4e00-8c70-7e01c0094729|avtr_396df529-1e12-499b-b7ec-c059aad93a93|VRCDB+VRCNDb|PC|https://api.vrchat.cloud/api/1/image/file_c4047780-0413-4d2e-972d-ec6ac4ce4b66/1/256
 pink heart boy|ej2fad3d|usr_98693921-ecdd-45c7-862f-649445518f0e|avtr_6c74ea5a-0be6-477f-8ecf-13095744801c|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_3af2de36-15de-4b1d-90b8-6b42becf9112/1/256
 pink heart girl|ej_2paranoid|usr_98693921-ecdd-45c7-862f-649445518f0e|avtr_06b81d29-cacb-4ea9-9d3d-8a0fcf098d16|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_c8789eec-f0ab-4441-801a-80f267357330/2/256
 pink rose lisa|Emi Roseberry|usr_2e6a4e30-93c1-43d1-b2c1-a341c93ef97d|avtr_86a01a28-4f4c-49b7-bf4f-c6ae866630f4|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4f8415ed-62b7-4c3d-ba69-7c2039ff3ca9/3/256
