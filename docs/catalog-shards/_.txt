@@ -4516,7 +4516,7 @@ fuwaripopondetta_sample|高木恭介|usr_0f1ece82-bec3-4886-b3ed-bd1bd65cecbe|av
 fuxk nigxa|? ᴀ ʀ ɪ ᴀ ɴ ᴀ ?|usr_9405a342-e2f5-4ccd-b8cd-e9e87f62912e|avtr_04f38f2f-5d3f-4587-b605-d37fde9ebb7a|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_51569603-6d91-4237-9785-f2eadc28e11f/1/256
 fuyuuchan_sample2․2․0|-トノダ-|usr_50136d13-1a9e-4293-b13f-e6d6851502b0|avtr_c21b791b-5178-4361-ae55-c00b8e665710|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_73b5272f-c781-413d-8efc-77388c27592d/2/256
 fuzzy|•ПАКЕТИК⁄＼|usr_8e9a86aa-adbf-43cf-82db-61416a360923|avtr_f406be2f-511f-4e46-9223-219df3bfb326|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_f95f7d02-117f-4c1d-afc6-c38e05b673eb/2/256
-Fuzzy 54|ℱℱℱℱ|usr_20b732c2-d4c8-41b0-8f9e-198f2645cc6d|avtr_534d1900-be4a-4140-9ee6-0c55053d322d|PAW|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_840c1817-c257-404d-8832-da3b89cdd117/2/256
+fuzzy 54|ℱℱℱℱ|usr_20b732c2-d4c8-41b0-8f9e-198f2645cc6d|avtr_534d1900-be4a-4140-9ee6-0c55053d322d|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_840c1817-c257-404d-8832-da3b89cdd117/2/256
 Fuzzy 63|ℱℱℱℱ|usr_20b732c2-d4c8-41b0-8f9e-198f2645cc6d|avtr_0ab05a10-64f6-423f-9534-17149c399a7b|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_8f4278fb-3a65-4b17-a455-98d5cc4fc8a2/1/256
 fuzzy huzzy duzzy kluzzy izzyvandem nikkivandenveen|小 ｎｏｋｉａ|usr_d1971d2d-f0d0-427b-a6b4-3ebbde3f0287|avtr_60d49c88-e43a-41bb-84f2-564a9753a8dd|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_12bf71ff-6905-4a42-a900-7376760d001f/1/256
 fuzzyǃ|ʏʀᴇʟᴏᴀᴅᴇᴅ|usr_da47d7a6-5805-4ce5-94b7-00af40b30719|avtr_b91e797d-5034-4b89-a5d0-f106d342d0a5|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b33bb209-c517-4c48-b345-b1d4d3717fcd/1/256
@@ -8828,7 +8828,7 @@ null the hollow|Ｊｕｓｔ_Ｓａｉ|usr_4342c1d0-8a6f-4c1b-b0af-9c05771a6e6a|
 nun|ᴋɪᴢᴜɴᴀ|usr_9358a43c-7586-4794-b0c1-31b16f51869e|avtr_d428eb2d-54bf-4f2b-8653-78e8432a9a52|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_9634d7d0-bcb0-44c6-8b28-c7fe0318accf/1/256
 nuppe-hofu|タカアシガニ|usr_b6fc8fa1-cd77-453d-8040-8cb4f94b2903|avtr_8f9d808d-d3ad-40e9-b87e-d3d8093c37b2|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_bd97bcc2-f2c2-4c57-ab86-8abd5acd70e6/1/256
 nutachisan-kmart|ᴘᴇɴᴛᴀ|usr_6a24238b-015f-4c7e-8b6d-ea16184a7a74|avtr_9caf4e65-e396-4596-9aa4-901edb2be3cb|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_113b1ed0-b7f1-4d99-bbda-a7ac7bcdb6bb/1/256
-Nuzen Frame MK-I|ナズニャー|usr_bc09dd4f-06e2-4605-b435-887d5ab45722|avtr_4afce8ef-4a3d-4f37-b58a-db486ac474c9|PAW+VRCDB|Unknown|http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_e1f1704a-a50a-4478-98b7-8869bbf2ff6f/1/256
+nuzen frame mk-i|ナズニャー|usr_bc09dd4f-06e2-4605-b435-887d5ab45722|avtr_4afce8ef-4a3d-4f37-b58a-db486ac474c9|PAW+VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_e1f1704a-a50a-4478-98b7-8869bbf2ff6f/1/256
 nvhsen|千丝不梅花|usr_ada412e3-a8c9-4704-90fe-f0ac1450138e|avtr_63f47537-8f9f-4b9f-accd-360211d9b241|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_4bd8622c-8229-4183-ade0-77759b4f1a2b/1/256
 nvm cat|Страдать Кай|usr_fc6fd54b-364b-486d-b8cb-9b67d228648c|avtr_290892b6-c9f2-4df1-9c6e-e1c33dd26497|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_cded6e37-4784-4b58-b014-f25e82751329/1/256
 nwn kana-san|ᴋᴀɴᴀ火|usr_292233ad-06a3-4ad9-8a8d-5d7a7ddbb9b2|avtr_fea615e9-95d0-453f-8211-a8981b9b2535|VRCDB|Unknown|https://api.vrchat.cloud/api/1/image/file_b72db218-6343-4c0f-937a-50f624d52764/1/256
